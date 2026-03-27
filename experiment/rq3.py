@@ -24,10 +24,6 @@ with open(ANALYSIS_TIME_PATH, newline="") as f:
         bugid = row["bugid"].strip()
         analysis_time[bugid] = float(row["total"])
 
-# ==== Load reversed ap_id mapping ====
-with open("rawdata/mapping_reversed.json", "r") as f:
-    mapping_reversed = {int(k): v for k, v in json.load(f).items()}
-
 # ==== Collect results ====
 summary_rows = []
 
