@@ -1,0 +1,11 @@
+--- Cli_2/src/java/org/apache/commons/cli/PosixParser.java
++++ Cli_2/src/java/org/apache/commons/cli/PosixParser.java
+@@ -302,7 +302,7 @@
+             }
+             else
+             {
+-                tokens.add("-" + ch);
++                process("-" + ch);
+             }
+         }
+     }

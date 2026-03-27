@@ -1,0 +1,11 @@
+--- Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java
++++ Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java
+@@ -123,6 +123,8 @@
+             for (Attribute attribute : source.attributes()) {
+                 // valid xml attribute names are: ^[a-zA-Z_:][-a-zA-Z0-9_:.]
+                 String key = attribute.getKey().replaceAll("[^-a-zA-Z0-9_:.]", "");
++if (attribute.getValue().length() > 0)
++
+                     el.setAttribute(key, attribute.getValue());
+             }
+         }

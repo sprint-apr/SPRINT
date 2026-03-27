@@ -1,0 +1,11 @@
+--- Cli_34/src/main/java/org/apache/commons/cli/OptionBuilder.java
++++ Cli_34/src/main/java/org/apache/commons/cli/OptionBuilder.java
+@@ -81,7 +81,7 @@
+         description = null;
+         argName = null;
+         longopt = null;
+-        type = null;
++        type = java.lang.String.class;
+         required = false;
+         numberOfArgs = Option.UNINITIALIZED;
+         optionalArg = false;

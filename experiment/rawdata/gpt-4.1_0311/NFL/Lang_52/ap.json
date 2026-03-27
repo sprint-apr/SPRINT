@@ -1,0 +1,2562 @@
+[
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911108,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911114,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911116,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911117,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911115,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911113,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911112,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911111,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911110,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911109,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 122,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911120,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911121,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911122,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911123,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911124,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911125,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911126,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911127,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911128,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911129,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911130,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911119,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911118,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911131,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911141,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911139,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911138,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911135,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911133,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911132,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911134,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911136,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911137,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911140,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 224,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 924763,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 235,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 924764,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 235,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 924765,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 235,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 924766,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 235,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 924767,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 235,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 924768,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 235,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 924762,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 235,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911148,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911142,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911143,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911144,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911145,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911146,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911147,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911149,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 150,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911152,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911153,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911154,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911155,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911156,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911157,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911158,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911150,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911151,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911159,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 173,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911162,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911164,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911165,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911168,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911160,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911161,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911163,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911166,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911167,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911169,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911170,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 229,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911182,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911181,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911173,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911176,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911177,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911180,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911172,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911171,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911174,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911175,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911178,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911179,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911183,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911184,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911185,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911186,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911189,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911187,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911188,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911195,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 223,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911194,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 223,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911196,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 223,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911193,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 223,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911192,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 223,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911191,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 223,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911190,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 223,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911201,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911199,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911203,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911204,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911206,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911207,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911200,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911198,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911197,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911205,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911202,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 226,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911208,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 227,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911209,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 227,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911210,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 227,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911211,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 227,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911214,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 227,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911213,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 227,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911212,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 227,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911215,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911216,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911217,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911220,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911218,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911219,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911221,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911222,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911223,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911224,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911225,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911226,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911231,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911232,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911227,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911228,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911229,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911230,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911233,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911234,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911235,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911236,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911237,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911238,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911239,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911240,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911243,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911244,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911246,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911241,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911242,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911245,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911255,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911247,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911248,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911249,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911250,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911253,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911254,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911251,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911252,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911258,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911259,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911260,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911256,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911257,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911261,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911262,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911263,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 172,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911267,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911268,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911271,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911264,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911265,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911266,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911269,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911270,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 175,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911276,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911277,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911280,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911281,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911272,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911273,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911274,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911275,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911278,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911279,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911290,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911292,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911282,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911283,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911284,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911285,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911286,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911287,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911288,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911289,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911291,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911293,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 180,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911299,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911300,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911303,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911304,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911294,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911295,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911296,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911297,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911298,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911301,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911302,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911305,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911310,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 184,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911311,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 184,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911306,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 184,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911307,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 184,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911308,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 184,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911309,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 184,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911312,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 184,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911317,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911318,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911313,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911314,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911315,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911316,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911319,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911324,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911325,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911320,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911321,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911322,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911323,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911326,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911331,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911332,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911327,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911328,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911329,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911330,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911333,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911338,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 221,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911334,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 221,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911335,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 221,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911336,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 221,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911337,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 221,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911339,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 221,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911345,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911346,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911349,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911340,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911341,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911342,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911343,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911344,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911347,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911348,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911351,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911350,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 237,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911352,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 242,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911353,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 242,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911354,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 242,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911355,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 242,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_52",
+    "ap_id": 911356,
+    "file": "src/java/org/apache/commons/lang/StringEscapeUtils.java",
+    "line": 242,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

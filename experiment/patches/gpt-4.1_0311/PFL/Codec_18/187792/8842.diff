@@ -1,0 +1,11 @@
+--- Codec_18/src/main/java/org/apache/commons/codec/binary/StringUtils.java
++++ Codec_18/src/main/java/org/apache/commons/codec/binary/StringUtils.java
+@@ -78,7 +78,7 @@
+         if (cs1 instanceof String && cs2 instanceof String) {
+             return cs1.equals(cs2);
+         }
+-        return CharSequenceUtils.regionMatches(cs1, false, 0, cs2, 0, Math.max(cs1.length(), cs2.length()));
++        return CharSequenceUtils.regionMatches(cs1, false, 0, cs2, cs2.length() == cs1.length() ? 0 : Math.abs(cs2.length() - cs1.length()), Math.max(cs1.length(), cs2.length()));
+     }
+ 
+     /**

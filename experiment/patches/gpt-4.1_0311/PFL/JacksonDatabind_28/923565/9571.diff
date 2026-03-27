@@ -1,0 +1,11 @@
+--- JacksonDatabind_28/src/main/java/com/fasterxml/jackson/databind/deser/std/JsonNodeDeserializer.java
++++ JacksonDatabind_28/src/main/java/com/fasterxml/jackson/databind/deser/std/JsonNodeDeserializer.java
+@@ -100,7 +100,7 @@
+             }
+             // 23-Sep-2015, tatu: Ugh. We may also be given END_OBJECT (similar to FIELD_NAME),
+             //    if caller has advanced to the first token of Object, but for empty Object
+-            if (p.getCurrentToken() == JsonToken.FIELD_NAME) {
++if (p.getCurrentToken() != JsonToken.START_OBJECT) {
+                 return deserializeObject(p, ctxt, ctxt.getNodeFactory());
+             }
+             throw ctxt.mappingException(ObjectNode.class);

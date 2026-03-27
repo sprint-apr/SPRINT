@@ -1,0 +1,10 @@
+--- Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java
++++ Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java
+@@ -170,6 +170,7 @@
+             doc.outputSettings().charset(charset);
+                 // some charsets can read but not encode; switch to an encodable charset and update the meta el
+         }
++if (!doc.outputSettings().charset().canEncode()) { doc.outputSettings().charset(Charset.forName("UTF-8")); doc.select("meta[charset]").attr("charset", "UTF-8"); }
+         input.close();
+         return doc;
+     }

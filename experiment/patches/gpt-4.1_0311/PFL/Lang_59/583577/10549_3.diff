@@ -1,0 +1,11 @@
+--- Lang_59/src/java/org/apache/commons/lang/text/StrBuilder.java
++++ Lang_59/src/java/org/apache/commons/lang/text/StrBuilder.java
+@@ -881,7 +881,7 @@
+             String str = (obj == null ? getNullText() : obj.toString());
+             int strLen = str.length();
+             if (strLen >= width) {
+-                str.getChars(0, strLen, buffer, size);
++for (int i = 0; i < width; i++) { buffer[size + i] = str.charAt(i); }
+             } else {
+                 int padLen = width - strLen;
+                 str.getChars(0, strLen, buffer, size);

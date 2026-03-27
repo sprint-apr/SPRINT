@@ -1,0 +1,11 @@
+--- Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -133,7 +133,7 @@
+         for ( ;start < end; start++) {
+             final byte currentByte = buffer[start];
+             if (currentByte == 0) {
+-                break;
++throw new IllegalArgumentException("NUL byte detected in buffer at position " + start);
+             }
+             // CheckStyle:MagicNumber OFF
+             if (currentByte < '0' || currentByte > '7'){

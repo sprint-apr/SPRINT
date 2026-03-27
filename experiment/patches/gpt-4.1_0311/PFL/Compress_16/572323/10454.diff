@@ -1,0 +1,10 @@
+--- Compress_16/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
++++ Compress_16/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+@@ -242,6 +242,7 @@
+                     TarArchiveInputStream tais = new TarArchiveInputStream(new ByteArrayInputStream(tarheader));
+                     // COMPRESS-191 - verify the header checksum
+                     tais.getNextEntry();
++if (tais.available() > 0)
+                         return new TarArchiveInputStream(in);
+                 } catch (Exception e) { // NOPMD
+                     // can generate IllegalArgumentException as well

@@ -1,0 +1,11 @@
+--- Jsoup_45/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
++++ Jsoup_45/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+@@ -391,7 +391,7 @@
+             if ("select".equals(name)) {
+                 transition(HtmlTreeBuilderState.InSelect);
+                 break; // frag
+-            } else if (("td".equals(name) || "td".equals(name) && !last)) {
++            } else if (("td".equals(name) || "td".equals(name) && pos == 0 || node.nodeName().equals("th"))) {
+                 transition(HtmlTreeBuilderState.InCell);
+                 break;
+             } else if ("tr".equals(name)) {

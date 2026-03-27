@@ -1,0 +1,602 @@
+[
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548148,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548149,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548150,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548151,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548152,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548153,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548154,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548155,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548156,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548157,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548158,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 417,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548159,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 523,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548160,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 523,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548161,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 523,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548162,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 523,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548163,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 523,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548164,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 523,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548165,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 523,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548166,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 524,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548167,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 524,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548168,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 524,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548169,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 524,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548170,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 524,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548171,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 524,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548172,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 524,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548173,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 526,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548174,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 526,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548175,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 526,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548176,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 526,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548177,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 526,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548178,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 526,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548179,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 526,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548181,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 527,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548180,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 527,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548182,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 527,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548183,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548184,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548185,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548186,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548187,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548188,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548189,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548190,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548191,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548192,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548194,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548193,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 529,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548201,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548195,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548196,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548197,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548198,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548199,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548200,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548202,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548203,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548204,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 530,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548205,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 534,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548206,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 534,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_63",
+    "ap_id": 548207,
+    "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 534,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

@@ -1,0 +1,10 @@
+--- Lang_57/src/java/org/apache/commons/lang/LocaleUtils.java
++++ Lang_57/src/java/org/apache/commons/lang/LocaleUtils.java
+@@ -220,6 +220,7 @@
+      * @return true if the locale is a known locale
+      */
+     public static boolean isAvailableLocale(Locale locale) {
++if (!(locale != null && cAvailableLocaleSet != null)) return false;
+         return cAvailableLocaleSet.contains(locale);
+     }
+ 

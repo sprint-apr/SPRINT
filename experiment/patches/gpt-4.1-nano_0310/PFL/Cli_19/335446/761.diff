@@ -1,0 +1,10 @@
+--- Cli_19/src/java/org/apache/commons/cli/PosixParser.java
++++ Cli_19/src/java/org/apache/commons/cli/PosixParser.java
+@@ -234,6 +234,7 @@
+         else if (stopAtNonOption)
+         {
+             eatTheRest = true;
++System.exit(1);
+             tokens.add(token);
+         }
+     }

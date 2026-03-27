@@ -1,0 +1,11 @@
+--- Time_9/src/main/java/org/joda/time/DateTimeZone.java
++++ Time_9/src/main/java/org/joda/time/DateTimeZone.java
+@@ -279,6 +279,8 @@
+      * @return the DateTimeZone object for the offset
+      */
+     public static DateTimeZone forOffsetMillis(int millisOffset) {
++if (Math.abs(millisOffset) >= 86400000)
++	throw new IllegalArgumentException();
+         String id = printOffset(millisOffset);
+         return fixedOffsetZone(id, millisOffset);
+     }

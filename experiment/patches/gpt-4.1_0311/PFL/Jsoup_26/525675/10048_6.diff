@@ -1,0 +1,11 @@
+--- Jsoup_26/src/main/java/org/jsoup/safety/Cleaner.java
++++ Jsoup_26/src/main/java/org/jsoup/safety/Cleaner.java
+@@ -40,6 +40,8 @@
+         Validate.notNull(dirtyDocument);
+ 
+         Document clean = Document.createShell(dirtyDocument.baseUri());
++if ((dirtyDocument.body() != null ? 1 : 0) == (clean.body() != null ? 1 : 0) && dirtyDocument.body() != null)
++
+             copySafeNodes(dirtyDocument.body(), clean.body());
+ 
+         return clean;

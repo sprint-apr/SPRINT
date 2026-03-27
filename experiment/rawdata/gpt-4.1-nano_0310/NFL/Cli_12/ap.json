@@ -1,0 +1,422 @@
+[
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923156,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923165,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923164,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923163,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923162,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923161,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923160,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923159,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923158,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923157,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 923155,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 85,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217501,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217502,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217503,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217504,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217505,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217500,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217510,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217506,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217507,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217508,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217509,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217511,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 319,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217512,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 319,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217513,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 319,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217514,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 319,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217515,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 319,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217516,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 319,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217517,
+    "file": "src/java/org/apache/commons/cli/OptionBuilder.java",
+    "line": 319,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217528,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217529,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217530,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217525,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217524,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217523,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217522,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217521,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217527,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217526,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217520,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217519,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Cli_12",
+    "ap_id": 217518,
+    "file": "src/java/org/apache/commons/cli/GnuParser.java",
+    "line": 81,
+    "sbfl_score": 0.5303300858899106,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  }
+]

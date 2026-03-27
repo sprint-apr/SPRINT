@@ -1,0 +1,11 @@
+--- Closure_11/src/com/google/javascript/jscomp/TypeCheck.java
++++ Closure_11/src/com/google/javascript/jscomp/TypeCheck.java
+@@ -1311,7 +1311,7 @@
+ 
+     if (childType.isDict()) {
+       report(t, property, TypeValidator.ILLEGAL_PROPERTY_ACCESS, "'.'", "dict");
+-    } else if (n.getJSType() != null && parent.isAssign()) {
++    } else if (n.getJSType() != null && property.isAssign()) {
+       return;
+     } else if (validator.expectNotNullOrUndefined(t, n, childType,
+         "No properties on this expression", getNativeType(OBJECT_TYPE))) {

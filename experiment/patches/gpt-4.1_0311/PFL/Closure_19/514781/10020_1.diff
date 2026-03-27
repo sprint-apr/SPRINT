@@ -1,0 +1,11 @@
+--- Closure_19/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
++++ Closure_19/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
+@@ -172,6 +172,8 @@
+         // "this" references aren't currently modeled in the CFG.
+ 
+       default:
++if (Token.THIS == node.getType())
++	return;
+         throw new IllegalArgumentException("Node cannot be refined. \n" +
+             node.toStringTree());
+     }

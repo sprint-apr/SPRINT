@@ -1,0 +1,11 @@
+--- Cli_8/src/java/org/apache/commons/cli/HelpFormatter.java
++++ Cli_8/src/java/org/apache/commons/cli/HelpFormatter.java
+@@ -809,7 +809,7 @@
+         while (true)
+         {
+             text = padding + text.substring(pos).trim();
+-            pos = findWrapPos(text, width, nextLineTabStop);
++            pos = findWrapPos(text, Math.max(0, width - nextLineTabStop), nextLineTabStop);
+ 
+             if (pos == -1)
+             {

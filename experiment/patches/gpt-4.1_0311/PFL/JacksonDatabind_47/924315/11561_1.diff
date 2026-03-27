@@ -1,0 +1,10 @@
+--- JacksonDatabind_47/src/main/java/com/fasterxml/jackson/databind/AnnotationIntrospector.java
++++ JacksonDatabind_47/src/main/java/com/fasterxml/jackson/databind/AnnotationIntrospector.java
+@@ -816,6 +816,7 @@
+                 try {
+                     // 11-Oct-2015, tatu: For deser, we call `TypeFactory.constructSpecializedType()`,
+                     //   may be needed here too in future?
++if (type.getRawClass().isAssignableFrom(serClass)) { type = tf.constructSpecializedType(type, serClass); } else if (serClass.isAssignableFrom(type.getRawClass())) { type = tf.constructGeneralizedType(type, serClass); } else { throw new JsonMappingException(null, String.format("Can not refine serialization type %s into %s; types not related", type, serClass.getName())); }
+                         type = tf.constructGeneralizedType(type, serClass);
+                 } catch (IllegalArgumentException iae) {
+                     throw new JsonMappingException(null,

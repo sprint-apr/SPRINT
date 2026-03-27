@@ -1,0 +1,832 @@
+[
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255103,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 277,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255101,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 277,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255102,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 277,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255100,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 277,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255104,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 277,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255108,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255109,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255110,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255111,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255112,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255107,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255105,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255106,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255113,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 280,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255116,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 281,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255117,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 281,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255115,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 281,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255119,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 281,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255120,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 281,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255118,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 281,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255114,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 281,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255127,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255121,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255122,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255128,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255126,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255125,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255124,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255123,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 459,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255129,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255130,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255136,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255135,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255134,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255133,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255132,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255131,
+    "file": "src/java/org/apache/commons/math/util/MathUtils.java",
+    "line": 460,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255139,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 363,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255140,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 363,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255141,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 363,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255138,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 363,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255137,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 363,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255146,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255147,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255148,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255149,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255142,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255143,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255144,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255145,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 359,
+    "sbfl_score": 0.21320071635561044,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255152,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255150,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255151,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255153,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255154,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255155,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255156,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255157,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 358,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255173,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255172,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255160,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255159,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255158,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255161,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255162,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255163,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255164,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255165,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255166,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255167,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255168,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255169,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255170,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255171,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255174,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255182,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255181,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255180,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255179,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255177,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255176,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255175,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_96",
+    "ap_id": 255178,
+    "file": "src/java/org/apache/commons/math/complex/Complex.java",
+    "line": 355,
+    "sbfl_score": 0.18257418583505539,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

@@ -1,0 +1,10 @@
+--- Lang_31/src/main/java/org/apache/commons/lang3/StringUtils.java
++++ Lang_31/src/main/java/org/apache/commons/lang3/StringUtils.java
+@@ -1449,6 +1449,7 @@
+ 				if (searchChars[j] == ch) {
+ 						// ch is a supplementary character
+ 						// ch is in the Basic Multilingual Plane
++if (Character.isHighSurrogate(ch) && (i + 1 < csLength && Character.isLowSurrogate(cs.charAt(i + 1)))) { continue; }
+ 						return true;
+ 				}
+ 			}

@@ -1,0 +1,3062 @@
+[
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924633,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 353,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924634,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 353,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924635,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 353,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924636,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 353,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924637,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 353,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924638,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 353,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924639,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 359,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924640,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 359,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924641,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 359,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924642,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 359,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924643,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 359,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 924644,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 359,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887464,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887465,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887466,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887467,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887453,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887454,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887455,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887456,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887457,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887458,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887459,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887460,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887461,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887462,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887463,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887468,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 313,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887469,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 313,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887470,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 313,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887471,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 313,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887472,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887473,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887474,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887475,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887476,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887477,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887478,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887479,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 316,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887480,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887481,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887482,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887483,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887484,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887485,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887486,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887487,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 317,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887488,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887490,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887491,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887492,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887493,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887494,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887495,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887489,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 318,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887496,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887497,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887498,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887499,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887500,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887501,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887502,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887503,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 319,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887504,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887505,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887514,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887506,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887507,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887508,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887509,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887510,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887511,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887512,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887513,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887515,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 320,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887516,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887517,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887518,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887519,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887520,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887521,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887522,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887523,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887525,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887524,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 325,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887526,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887527,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887528,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887529,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887530,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887531,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887532,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887533,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887534,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 328,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887535,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887536,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887537,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887538,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887539,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887540,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887541,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887542,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887543,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 329,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887544,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887545,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887546,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887547,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887548,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887549,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887550,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887551,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887552,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 330,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887553,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887554,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887555,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887556,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887557,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887558,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887559,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887560,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887561,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 331,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887562,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887563,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887564,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887565,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887566,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887567,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887569,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887568,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 332,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887570,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887571,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887572,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887573,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887574,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887575,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887576,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887577,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887578,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887579,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887580,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 333,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887581,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887582,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887583,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887584,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887585,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887586,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887587,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887588,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887589,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887591,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887590,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 334,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887592,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 337,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887593,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 337,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887594,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 337,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887595,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 337,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887596,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 337,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887597,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 337,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887598,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 338,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887599,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 338,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887600,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 338,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887601,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 338,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887602,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 338,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887603,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 338,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887604,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887605,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887606,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887607,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887608,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887609,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887610,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887611,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 339,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887612,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887613,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887614,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887615,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887616,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887617,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887619,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887618,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 340,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887620,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887621,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887622,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887623,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887624,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887625,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887626,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887627,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 341,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887628,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887629,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887630,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887631,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887632,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887633,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887634,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887635,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 342,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887636,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887637,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887638,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887639,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887640,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887641,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887642,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887643,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887644,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 343,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887645,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 344,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887646,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 344,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887647,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 344,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887648,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 344,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887649,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 344,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887650,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 344,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887651,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887652,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887653,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887654,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887655,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887656,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887658,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887657,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 378,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887659,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887660,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887661,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887662,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887663,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887664,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887665,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887666,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887667,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887668,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887670,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887669,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 379,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887671,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887672,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887673,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887674,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887675,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887676,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887677,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887679,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887678,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 380,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887680,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887681,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887682,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887683,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887684,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887685,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887686,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887688,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887687,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 381,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887689,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887690,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887691,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887692,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887693,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887694,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887695,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887697,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887696,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 382,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887698,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887699,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887700,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887701,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887702,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887703,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887704,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887705,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 385,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887706,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887707,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887708,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887709,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887710,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887711,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887712,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887713,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 386,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887714,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887715,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887716,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887717,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887718,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887719,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887720,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887721,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887723,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887722,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 387,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887724,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887725,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887726,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887727,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887728,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887729,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887730,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887731,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887732,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887733,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887734,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887735,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887737,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887736,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 388,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887738,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 390,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887739,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 390,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887740,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 390,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887741,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 390,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887742,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 481,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887743,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 481,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887744,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 481,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887745,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 481,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_52",
+    "ap_id": 887746,
+    "file": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+    "line": 481,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

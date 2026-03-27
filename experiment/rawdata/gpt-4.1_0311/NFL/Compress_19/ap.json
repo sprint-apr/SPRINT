@@ -1,0 +1,2072 @@
+[
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812952,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 260,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812953,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 260,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812954,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 260,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812955,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 260,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812956,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 260,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812957,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 260,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812958,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812959,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812960,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812961,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812962,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812963,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812964,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812966,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812965,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 615,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812967,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812968,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812969,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812970,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812973,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812975,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812971,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812972,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812974,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 616,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812976,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 618,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812977,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 618,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812978,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 618,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812979,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 618,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812980,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 618,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812982,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 618,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812981,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 618,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812983,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 619,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812984,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 619,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812985,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 619,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812986,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 619,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812987,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 619,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812989,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 619,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812988,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 619,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812990,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812991,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812992,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812993,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812994,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812995,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812996,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812997,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 760,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812998,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 775,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 812999,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 775,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813000,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 775,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813001,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 775,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813002,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 775,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813003,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 775,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813004,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 775,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813005,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813006,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813007,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813008,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813009,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813010,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813011,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813012,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813013,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813014,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 777,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813025,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813015,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813016,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813017,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813018,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813019,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813020,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813021,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813022,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813023,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813024,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 778,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813026,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813027,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813028,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813029,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813030,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813031,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813032,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813033,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813034,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813035,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 779,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813036,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813037,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813038,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813039,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813040,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813041,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813042,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813043,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813044,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813045,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 780,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813046,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 784,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813047,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 784,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813048,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 784,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813049,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 784,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813050,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 784,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813051,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 784,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813052,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813053,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813054,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813055,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813056,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813057,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813058,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813059,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813060,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813061,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 786,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813062,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813063,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813064,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813065,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813066,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813067,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813068,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813069,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813070,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813071,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813072,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 787,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813073,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 788,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813074,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 788,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813075,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 788,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813076,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 788,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813077,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813078,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813079,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813080,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813081,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813082,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813083,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813084,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813085,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 196,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813086,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 196,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813087,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 196,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813088,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 196,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813089,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 196,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813090,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 196,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813091,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+    "line": 196,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813096,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813097,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813098,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813099,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813100,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813101,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813102,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813092,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813093,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813094,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813095,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813103,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 254,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813104,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 254,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813105,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 254,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813106,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 254,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813107,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 254,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813108,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 254,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813109,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 254,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813110,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813111,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813112,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813113,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813114,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813115,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813116,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813117,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813118,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 255,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813119,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813120,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813121,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813122,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813123,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813124,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813125,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813126,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813127,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+    "line": 259,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813128,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813129,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813130,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813131,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813132,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813133,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813134,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813135,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 224,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813136,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813137,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813142,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813138,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813139,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813140,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813141,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813143,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813144,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813145,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813146,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813147,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813148,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813151,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813152,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813157,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813149,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813150,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813153,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813154,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813155,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813156,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_19",
+    "ap_id": 813158,
+    "file": "src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+    "line": 230,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

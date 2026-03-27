@@ -1,0 +1,11 @@
+--- Lang_15/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java
++++ Lang_15/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java
+@@ -672,7 +672,7 @@
+                 : new HashMap<TypeVariable<?>, Type>(subtypeVarAssigns);
+ 
+         // has target class been reached?
+-        if (cls.getTypeParameters().length > 0 || toClass.equals(cls)) {
++        if (cls.getTypeParameters().length > 0 && subtypeVarAssigns != null || toClass.equals(cls)) {
+             return typeVarAssigns;
+         }
+ 

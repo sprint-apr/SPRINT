@@ -1,0 +1,11 @@
+--- Math_101/src/java/org/apache/commons/math/complex/ComplexFormat.java
++++ Math_101/src/java/org/apache/commons/math/complex/ComplexFormat.java
+@@ -375,7 +375,7 @@
+         startIndex = pos.getIndex();
+         int endIndex = startIndex + n;
+         if (
+-            source.substring(startIndex, endIndex).compareTo(
++            source.substring(startIndex, Math.max(Math.min(endIndex, source.length()), startIndex)).compareTo(
+             getImaginaryCharacter()) != 0) {
+             // set index back to initial, error index should be the start index
+             // character examined.

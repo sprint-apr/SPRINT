@@ -1,0 +1,2312 @@
+[
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310042,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310043,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310044,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310047,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310045,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310046,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310041,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 166,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310056,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310051,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310057,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310052,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310053,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310054,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310055,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310048,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310049,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310050,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310063,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310064,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310065,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310066,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310060,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310058,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310059,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310068,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310061,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310062,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310067,
+    "file": "source/org/jfree/data/general/AbstractDataset.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310069,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310070,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310071,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310072,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310073,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310074,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310075,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310076,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310077,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310078,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310079,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310080,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310087,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310081,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310082,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310083,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310084,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310085,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310086,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310088,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310089,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 664,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310093,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 665,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310090,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 665,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310091,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 665,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310092,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 665,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310094,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310095,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310096,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310097,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310098,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310099,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310100,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310101,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310102,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310103,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310104,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310105,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 795,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310106,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310107,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310108,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310109,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310110,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310111,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310112,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310113,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 796,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310114,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 797,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310115,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 797,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310116,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 797,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310117,
+    "file": "source/org/jfree/chart/JFreeChart.java",
+    "line": 797,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310120,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 144,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310121,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 144,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310122,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 144,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310123,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 144,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310124,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 144,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310118,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 144,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310119,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 144,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310130,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310131,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310132,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310133,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310134,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310125,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310126,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310127,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310128,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310129,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310143,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310144,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310145,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310135,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310136,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310137,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310138,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310139,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310140,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310141,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310142,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 145,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310148,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 146,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310149,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 146,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310150,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 146,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310151,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 146,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310152,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 146,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310146,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 146,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310147,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 146,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310153,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310154,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310155,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310156,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310157,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310158,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310159,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310160,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310161,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 147,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310162,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310163,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310164,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310165,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310166,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310167,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310168,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310169,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310170,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 148,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310171,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310172,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310173,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310174,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310175,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310176,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310177,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310178,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310179,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310180,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310181,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310182,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310183,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310184,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310185,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310186,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310187,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310188,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310189,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310190,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310191,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310192,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310193,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310194,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310195,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310196,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310197,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310198,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310199,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310200,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310201,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 153,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310202,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310203,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310204,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310205,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310206,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310207,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310208,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310209,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310210,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310211,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 154,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310212,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310213,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310214,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310215,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310216,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310217,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310218,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310219,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310220,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310221,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310222,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310223,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310224,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310225,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310226,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310227,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310228,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310229,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310230,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310231,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310232,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310233,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310234,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310235,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 157,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310236,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 158,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310237,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 158,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310238,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 158,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310239,
+    "file": "source/org/jfree/chart/plot/MultiplePiePlot.java",
+    "line": 158,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310240,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310241,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310242,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310243,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310244,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310245,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310246,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310247,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310248,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310249,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310250,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310251,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310252,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310253,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310254,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310255,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310256,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310257,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 71,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310258,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 71,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310259,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 71,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310260,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 71,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310261,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310262,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310263,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310264,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310265,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310266,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310267,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310268,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310269,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310270,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_12",
+    "ap_id": 310271,
+    "file": "source/org/jfree/chart/util/TableOrder.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

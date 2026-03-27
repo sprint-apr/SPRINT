@@ -1,0 +1,12 @@
+--- JacksonDatabind_91/src/main/java/com/fasterxml/jackson/databind/deser/DeserializerCache.java
++++ JacksonDatabind_91/src/main/java/com/fasterxml/jackson/databind/deser/DeserializerCache.java
+@@ -538,6 +538,9 @@
+             // First: value types may have both value and type handlers
+             JavaType ct = t.getContentType();
+             if (ct != null) {
++if (t.isMapLikeType() && t.getKeyType() != null && t.getKeyType().getValueHandler() != null) {
++                return true;
++            }
+                 return (ct.getValueHandler() != null) || (ct.getTypeHandler() != null);
+             // Second: map(-like) types may have value handler for key (but not type; keys are untyped)
+             }

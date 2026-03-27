@@ -1,0 +1,11 @@
+--- Jsoup_75/src/main/java/org/jsoup/nodes/Attributes.java
++++ Jsoup_75/src/main/java/org/jsoup/nodes/Attributes.java
+@@ -317,7 +317,7 @@
+ 
+             // collapse checked=null, checked="", checked=checked; write out others
+             if (!(out.syntax() == Document.OutputSettings.Syntax.html
+-                && (val == null || val.equals(key) && Attribute.isBooleanAttribute(key)))) {
++                && (val == null || val.equals(key) || val.isEmpty() && Attribute.isBooleanAttribute(key) && Attribute.isBooleanAttribute(key)))) {
+                 accum.append("=\"");
+                 Entities.escape(accum, val == null ? EmptyString : val, out, true, false, false);
+                 accum.append('"');

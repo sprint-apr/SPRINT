@@ -1,0 +1,962 @@
+[
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187785,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187786,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187787,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187788,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187789,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187790,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187791,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187792,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187793,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187794,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187795,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187796,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187797,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187802,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187798,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187799,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187800,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187801,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187803,
+    "file": "src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+    "line": 81,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187804,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187805,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187806,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187807,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187808,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187809,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187812,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187810,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187811,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187813,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187814,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 51,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187815,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 54,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187816,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 54,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187817,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 54,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187818,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 54,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187819,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 54,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187820,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 54,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187821,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 54,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187822,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 55,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187823,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 55,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187824,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 55,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187825,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 55,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187826,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 55,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187827,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 55,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187828,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 55,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187829,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187830,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187831,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187833,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187832,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187834,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187835,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187836,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 58,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187837,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 58,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187838,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 58,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187839,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 58,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187840,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 58,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187841,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187842,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187843,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187844,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187845,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187846,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187847,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187850,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187848,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187849,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187851,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187852,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 59,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187853,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187854,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187855,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187856,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187857,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187860,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187858,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187859,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187861,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187862,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 60,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187863,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 62,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187864,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 62,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187865,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 62,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187866,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 62,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187867,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 62,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187868,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 63,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187869,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 63,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187870,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 63,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187871,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 63,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187872,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 63,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187873,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 63,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187874,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187875,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187876,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187877,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187878,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187879,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_18",
+    "ap_id": 187880,
+    "file": "src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  }
+]

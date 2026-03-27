@@ -1,0 +1,11 @@
+--- Time_9/src/main/java/org/joda/time/DateTimeZone.java
++++ Time_9/src/main/java/org/joda/time/DateTimeZone.java
+@@ -254,6 +254,8 @@
+         if (hoursOffset == 0 && minutesOffset == 0) {
+             return DateTimeZone.UTC;
+         }
++if (hoursOffset > 23 || hoursOffset < -23)
++	throw new IllegalArgumentException();
+         if (minutesOffset < 0 || minutesOffset > 59) {
+             throw new IllegalArgumentException("Minutes out of range: " + minutesOffset);
+         }

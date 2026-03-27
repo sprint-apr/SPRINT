@@ -1,0 +1,10 @@
+--- JacksonDatabind_49/src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java
++++ JacksonDatabind_49/src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java
+@@ -48,6 +48,7 @@
+         //    id being generated for "alwaysAsId", but not being written as POJO; regardless,
+         //    need to use existing id if there is one:
+             id = generator.generateId(forPojo);
++id = null;
+         return id;
+     }
+ 

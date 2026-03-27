@@ -1,0 +1,10 @@
+--- Jsoup_90/src/main/java/org/jsoup/helper/HttpConnection.java
++++ Jsoup_90/src/main/java/org/jsoup/helper/HttpConnection.java
+@@ -422,6 +422,7 @@
+                 }
+ 
+ 
++if (end > input.length) return false;
+                 while (i < end) {
+                     i++;
+                     o = input[i];

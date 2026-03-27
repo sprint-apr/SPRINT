@@ -1,0 +1,10 @@
+--- JacksonDatabind_16/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotationMap.java
++++ JacksonDatabind_16/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotationMap.java
+@@ -109,6 +109,7 @@
+             _annotations = new HashMap<Class<? extends Annotation>,Annotation>();
+         }
+         Annotation previous = _annotations.put(ann.annotationType(), ann);
++if (previous == null) { previous = ann; }
+         return (previous != null) && previous.equals(ann);
+     }
+ }

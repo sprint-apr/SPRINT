@@ -1,0 +1,12 @@
+--- Compress_14/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_14/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -69,7 +69,8 @@
+                 break;
+             }
+         }
+-        if (allNUL) {
++        if (result == 0 && buffer[start] == 0) {
++
+             return 0L;
+         }
+ 

@@ -1,0 +1,11 @@
+--- JacksonDatabind_14/src/main/java/com/fasterxml/jackson/databind/ObjectReader.java
++++ JacksonDatabind_14/src/main/java/com/fasterxml/jackson/databind/ObjectReader.java
+@@ -1473,7 +1473,7 @@
+             result = NullNode.instance;
+         } else {
+             DeserializationContext ctxt = createDeserializationContext(jp, _config);
+-            JsonDeserializer<Object> deser = _findRootDeserializer(ctxt, JSON_NODE_TYPE);
++JsonDeserializer<Object> deser = createDeserializationContext(jp, _config).findNonContextualValueDeserializer(JSON_NODE_TYPE);
+             if (_unwrapRoot) {
+                 result = (JsonNode) _unwrapAndDeserialize(jp, ctxt, JSON_NODE_TYPE, deser);
+             } else {

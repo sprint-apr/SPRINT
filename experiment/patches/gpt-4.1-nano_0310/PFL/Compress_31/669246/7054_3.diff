@@ -1,0 +1,11 @@
+--- Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -132,6 +132,8 @@
+ 
+         for ( ;start < end; start++) {
+             final byte currentByte = buffer[start];
++if ((currentByte >= '0' && currentByte <= '7') != true)
++	throw new IllegalArgumentException();
+             if (currentByte == 0) {
+                 break;
+             }

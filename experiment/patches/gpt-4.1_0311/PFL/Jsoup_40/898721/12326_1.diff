@@ -1,0 +1,11 @@
+--- Jsoup_40/src/main/java/org/jsoup/nodes/DocumentType.java
++++ Jsoup_40/src/main/java/org/jsoup/nodes/DocumentType.java
+@@ -19,6 +19,8 @@
+     public DocumentType(String name, String publicId, String systemId, String baseUri) {
+         super(baseUri);
+ 
++if (name == null || "".equals(name))
++	return;
+         Validate.notEmpty(name);
+         attr("name", name);
+         attr("publicId", publicId);

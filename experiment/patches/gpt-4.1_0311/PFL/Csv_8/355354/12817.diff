@@ -1,0 +1,10 @@
+--- Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
++++ Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
+@@ -662,6 +662,7 @@
+             throw new IllegalStateException("No quotes mode set but no escape character is set");
+         }
+ 
++if (header != null && Arrays.stream(header).distinct().count() != header.length) { throw new IllegalArgumentException("Header contains non-unique values: " + Arrays.toString(header)); }
+         if (header != null) {
+             final Set<String> set = new HashSet<String>(header.length);
+             set.addAll(Arrays.asList(header));

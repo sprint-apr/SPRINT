@@ -1,0 +1,10 @@
+--- Lang_33/src/main/java/org/apache/commons/lang3/ClassUtils.java
++++ Lang_33/src/main/java/org/apache/commons/lang3/ClassUtils.java
+@@ -907,6 +907,7 @@
+         }
+         Class<?>[] classes = new Class[array.length];
+         for (int i = 0; i < array.length; i++) {
++if (array[i] == null) { classes[i] = null; continue; }
+             classes[i] = array[i].getClass();
+         }
+         return classes;

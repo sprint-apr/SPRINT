@@ -1,0 +1,2502 @@
+[
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172883,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 587,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172884,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 587,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172885,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 587,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172886,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 587,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172887,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 587,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172888,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 587,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172889,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 587,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172894,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172895,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172896,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172897,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172899,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172901,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172902,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172903,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172905,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172890,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172904,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172900,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172898,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172891,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172892,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172893,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 588,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923080,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923079,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923078,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923077,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923076,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923075,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923074,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 923073,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 590,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172906,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172907,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172909,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172910,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172912,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172914,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172908,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172911,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172913,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 146,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172923,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172915,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172916,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172917,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172921,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172925,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172927,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172918,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172919,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172920,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172922,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172924,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172926,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 147,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172928,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172929,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172931,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172932,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172934,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172936,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172930,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172933,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172935,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 148,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172937,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 149,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172938,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 149,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172939,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 149,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172940,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 149,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172941,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 173,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172942,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 173,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172943,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 173,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172944,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 173,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172946,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 173,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172947,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 173,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172945,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 173,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172955,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172953,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172950,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172949,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172948,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172951,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172952,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172954,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java",
+    "line": 451,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172959,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 109,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172958,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 109,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172957,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 109,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172956,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 109,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172960,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 109,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172961,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 113,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172966,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 113,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172962,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 113,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172963,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 113,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172964,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 113,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172965,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializer.java",
+    "line": 113,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172970,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172967,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172968,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172969,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172971,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172972,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172973,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172974,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172975,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 585,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172978,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 586,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172979,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 586,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172980,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 586,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172976,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 586,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172977,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 586,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172981,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172982,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172983,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172984,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172985,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172986,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172988,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172987,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 594,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172989,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 595,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172990,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 595,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172992,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 595,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172991,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 595,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172993,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 595,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172994,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172995,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172996,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172997,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172998,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 172999,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173001,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173000,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 604,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173002,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 616,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173003,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 616,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173004,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 616,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173005,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 616,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173007,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 616,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173006,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 616,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173008,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 619,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173009,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 619,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173010,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 619,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173011,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 619,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173012,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 619,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173013,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 619,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173014,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 619,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173015,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173016,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173018,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173022,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173024,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173026,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173028,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173017,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173019,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173020,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173021,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173023,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173025,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173027,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 620,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173029,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 624,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173030,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 624,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173031,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 624,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173032,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java",
+    "line": 624,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173033,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 64,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173034,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 64,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173035,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 64,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173036,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 64,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173037,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 64,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173039,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 64,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173038,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 64,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173040,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 65,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173041,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 65,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173042,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 65,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173043,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 65,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173045,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 65,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173044,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 65,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173046,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 66,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173047,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 66,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173048,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 66,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173049,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 66,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173050,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173051,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173052,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173054,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173055,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173057,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173053,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173056,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173058,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 137,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173059,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173060,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173064,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173065,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173067,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173069,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173061,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173062,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173063,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173066,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173068,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 170,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173070,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 176,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173071,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 176,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173072,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 176,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173073,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 176,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173074,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 176,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173076,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 176,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173075,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 176,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173077,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173078,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173081,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173083,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173085,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173087,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173079,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173080,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173082,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173084,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173086,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 178,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173088,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173089,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173092,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173094,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173095,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173090,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173091,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173093,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 179,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173096,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 180,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173097,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 180,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173098,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 180,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173099,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 180,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173101,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 180,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173100,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 180,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173102,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173103,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173105,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173109,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173111,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173113,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173115,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173116,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173108,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173104,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173106,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173107,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173110,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173112,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173114,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 183,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173117,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 198,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173118,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 198,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173119,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 198,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173120,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 198,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173121,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 199,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173122,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 199,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173123,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 199,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_1",
+    "ap_id": 173124,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.java",
+    "line": 199,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698875,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 139,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698876,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 139,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698877,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 139,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698878,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 139,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698879,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 139,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698880,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 139,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698881,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 139,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698882,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698883,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698884,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698885,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698886,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698890,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698887,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698888,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698889,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 142,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698891,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698892,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698895,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698896,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698897,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698898,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698899,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698893,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698894,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 145,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698900,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698901,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698902,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698903,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698904,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698905,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698911,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698906,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698907,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698908,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698909,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698910,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 152,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698912,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698913,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698914,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698915,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698916,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698917,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698918,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698922,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698919,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698920,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698921,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698923,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 155,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698924,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698925,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698926,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698927,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698928,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698929,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698933,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698930,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698931,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698932,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698934,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698935,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698936,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698937,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698938,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698939,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698940,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698941,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698942,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698943,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698944,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698945,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698946,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698950,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698947,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698948,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698949,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698951,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698952,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698953,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698954,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698956,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698955,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698957,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698958,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 174,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698959,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 174,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698962,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 174,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698960,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 174,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698961,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 174,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698963,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698964,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698969,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698965,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698966,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698967,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698968,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698970,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 177,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698971,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698972,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698973,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698975,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698974,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698976,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 179,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698977,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698978,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698983,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698979,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698980,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698981,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698982,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 181,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698984,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698985,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698989,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698993,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698986,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698987,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698988,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698990,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698991,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698992,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698994,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 182,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698995,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 185,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698996,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 185,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698997,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 185,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698999,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 185,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 698998,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 185,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699000,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 185,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699001,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699002,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699003,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699004,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699005,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699006,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699007,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699008,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699012,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699009,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699010,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699011,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699013,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 188,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699014,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699015,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699021,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699016,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699017,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699018,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699019,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699020,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699022,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 189,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699023,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699024,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699026,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699025,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 190,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699027,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 193,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699028,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 193,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699029,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 193,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699030,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 193,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699032,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 193,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699031,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 193,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699033,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699034,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699037,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699038,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699039,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699043,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699044,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699046,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699035,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699036,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699040,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699041,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699042,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699045,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 195,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699047,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 297,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699048,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 297,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699053,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 297,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699049,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 297,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699050,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 297,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699051,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 297,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699052,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 297,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699054,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699055,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699056,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699057,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699058,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699059,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699060,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699061,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699062,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699063,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699064,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699065,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699066,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699067,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699068,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699069,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 300,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699070,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699071,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699079,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699072,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699073,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699074,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699075,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699076,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699077,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699078,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 301,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699080,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 302,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699081,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 302,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699082,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 302,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699083,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 302,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_44",
+    "ap_id": 699084,
+    "file": "src/java/org/apache/commons/lang/NumberUtils.java",
+    "line": 302,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  }
+]

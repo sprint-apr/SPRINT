@@ -1,0 +1,912 @@
+[
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720044,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1050,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720045,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1050,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720046,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1050,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720047,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1050,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720048,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1050,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720049,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1053,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720050,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1053,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720051,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1053,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720052,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1053,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720053,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1053,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720054,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720055,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720056,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720057,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720058,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720059,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720060,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720061,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1056,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720062,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1057,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720063,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1057,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720064,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1057,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720065,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1057,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720066,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1057,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720067,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1057,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720068,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1057,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720069,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720070,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720071,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720072,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720073,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720074,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720075,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720076,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720077,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1058,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720078,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720079,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720080,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720084,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720085,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720086,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720082,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720083,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720081,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720087,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720088,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1059,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720089,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720090,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720091,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720092,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720093,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720094,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720095,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720096,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720097,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720099,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720098,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720100,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1061,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720101,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720102,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720103,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720104,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720105,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720106,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720109,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720107,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720108,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1062,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720110,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720111,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720112,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720113,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720114,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720115,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720116,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720117,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720118,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720119,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720120,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1064,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720121,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1068,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720122,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1068,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720123,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1068,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720124,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1068,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720125,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1068,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720126,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720127,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720128,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720129,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720130,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720133,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720131,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720132,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_3",
+    "ap_id": 720134,
+    "file": "source/org/jfree/data/time/TimeSeries.java",
+    "line": 1071,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

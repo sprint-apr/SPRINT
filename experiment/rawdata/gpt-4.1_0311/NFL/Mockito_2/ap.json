@@ -1,0 +1,5922 @@
+[
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923173,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 26,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923171,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 26,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923170,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 26,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923172,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 26,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923169,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 4,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923168,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 4,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923167,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 4,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 923166,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 4,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217531,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 21,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217532,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 21,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217533,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 21,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217534,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 21,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217535,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 21,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217536,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 21,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217538,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217539,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217540,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217541,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217542,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217543,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217544,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217537,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 19,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217545,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 28,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217546,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 28,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217547,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 28,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217548,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 28,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217549,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 36,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217550,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 36,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217551,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 36,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217552,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 36,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217554,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 36,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217555,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 36,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217553,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 36,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217556,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 40,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217557,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 40,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217558,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 40,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217559,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 40,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217560,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 48,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217561,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 48,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217562,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 48,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217563,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 48,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217564,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217565,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217566,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217567,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217568,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217569,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217570,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217571,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217572,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217573,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217574,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217575,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 259,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217576,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 260,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217577,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 260,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217578,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 260,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217579,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 260,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217580,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 260,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217581,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 260,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217582,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217583,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217584,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217585,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217586,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217587,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217588,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217589,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217590,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217591,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217592,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217593,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217594,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217595,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217596,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217597,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217598,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 263,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217599,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 110,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217600,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 110,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217601,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 110,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217602,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 110,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217603,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 110,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217604,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 110,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217605,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217606,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217607,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217608,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217609,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217610,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217611,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 111,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217612,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 112,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217613,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 112,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217614,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 112,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217615,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 112,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217616,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 112,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217617,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 112,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217618,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217619,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217620,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217621,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217622,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217623,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217624,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217625,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217626,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217627,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 115,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217628,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 116,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217629,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 116,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217631,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 116,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217632,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 116,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217630,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 116,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217633,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 125,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217634,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 125,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217635,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 125,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217636,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 125,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217637,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 125,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217638,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 125,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217639,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217640,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217641,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217642,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217643,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217644,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217645,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217646,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217647,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217648,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217649,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217650,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217651,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 126,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217652,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217653,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217654,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217655,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217656,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217657,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 137,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217658,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 137,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217659,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 137,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217660,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 137,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217661,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 137,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217662,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 137,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217663,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 138,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217664,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 138,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217665,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 138,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217666,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 138,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217667,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217668,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217669,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217670,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217671,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217672,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217673,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217674,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217675,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217676,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 139,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217677,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217678,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217679,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217680,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217681,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217683,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217684,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217685,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217686,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217687,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217682,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 149,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217688,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217689,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217690,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217691,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217692,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217694,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217695,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217696,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217697,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217698,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217693,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 150,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217699,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217700,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217701,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217702,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 151,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217703,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217704,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217705,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217706,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217707,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217708,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217709,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217710,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217711,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217712,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217713,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217714,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217715,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 155,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217716,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217717,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217718,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217719,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217720,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217721,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217722,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217723,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217724,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217725,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 156,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217726,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 160,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217727,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 160,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217728,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 160,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217729,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 160,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217730,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 160,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217731,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 160,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217732,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 160,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217733,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217734,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217735,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217736,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217737,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217738,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217739,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217740,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217741,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217742,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217743,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217744,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 161,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217745,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 162,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217746,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 162,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217747,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 162,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217748,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 162,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217749,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 162,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217753,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 163,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217750,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 163,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217751,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 163,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217752,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 163,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217754,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 163,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217755,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 163,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217756,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 163,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217757,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217758,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217759,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217760,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217761,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217762,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217763,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217764,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217765,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217766,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217767,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217768,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217769,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217770,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217771,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217772,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217773,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217774,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217776,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217777,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217778,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217779,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217780,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217775,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 295,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217781,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 296,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217782,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 296,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217783,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 296,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217784,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 296,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217785,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217786,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217787,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217788,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217789,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217790,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217791,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217792,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217793,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217794,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217795,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217796,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 299,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217797,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 300,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217798,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 300,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217799,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 300,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217800,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 300,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217801,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 300,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217802,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217803,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217804,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217805,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217806,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217807,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217808,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217809,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217810,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217811,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217812,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 306,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217813,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 306,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217814,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 306,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217815,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 306,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217816,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 306,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217817,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217818,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217819,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217820,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217821,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217822,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217823,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 308,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217824,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 308,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217825,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 308,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217826,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 308,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217827,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 308,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217828,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 308,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217829,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 308,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217830,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217831,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217832,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217833,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217834,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217835,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217836,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217837,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 310,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217838,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217839,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217840,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217841,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217842,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217843,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217845,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217846,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217847,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217848,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217849,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217844,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 311,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217850,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217851,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217852,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217853,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217854,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217855,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217856,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217857,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217858,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217860,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217861,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217862,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217863,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217859,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 318,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217864,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217865,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217866,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217867,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217868,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217870,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217871,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217872,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217869,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 322,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217873,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217874,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217875,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217876,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217877,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217878,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217879,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217880,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217881,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217883,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217884,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217885,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217886,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217887,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217882,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 323,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217888,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 324,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217889,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 324,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217890,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 324,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217891,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 324,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217892,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217893,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217894,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217895,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217896,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217898,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217899,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217897,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 335,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217901,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217900,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217902,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217903,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217904,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217906,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217907,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217908,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217905,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 336,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217909,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 337,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217910,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 337,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217911,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 337,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217912,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 337,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217913,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 337,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217914,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 338,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217915,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 338,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217916,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 338,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217917,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 338,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217918,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 338,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217919,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 338,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217920,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217921,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217922,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217923,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217924,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217925,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217926,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217927,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217928,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217930,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217932,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217934,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217935,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217936,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217937,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217938,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217939,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217929,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217931,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217933,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 339,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217940,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217941,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217942,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217943,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217945,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217946,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217947,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217949,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217951,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217953,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217954,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217944,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217948,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217950,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217952,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 341,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217961,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217955,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217956,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217957,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217958,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217959,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217960,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217963,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217964,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217962,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 343,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217965,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217966,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217967,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217968,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217969,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217970,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217972,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217974,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217975,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217976,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217977,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217978,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217971,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217973,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 344,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217979,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217980,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217981,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217982,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217983,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217984,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217986,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217987,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217988,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217989,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217985,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 345,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217990,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217991,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217992,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217993,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217994,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217995,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217996,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217998,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218000,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218002,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218003,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217997,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 217999,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218001,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 346,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218004,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218005,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218006,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218007,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218008,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218009,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218011,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218013,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218015,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218016,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218010,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218012,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218014,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 350,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218017,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 354,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218018,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 354,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218019,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 354,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218020,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 354,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218022,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 354,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218023,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 354,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218021,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 354,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218024,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218025,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218026,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218027,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218028,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218029,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218030,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218032,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218033,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218034,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218036,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218037,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218031,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218035,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 355,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218038,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 356,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218039,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 356,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218040,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 356,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218041,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 356,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218042,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 356,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218043,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218044,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218045,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218046,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218047,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218048,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218050,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218049,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218051,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 357,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218052,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218053,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218054,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218055,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218056,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218057,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218058,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218059,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218060,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218061,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218062,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218063,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218064,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218065,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218066,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218067,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218068,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218069,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218070,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 361,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218071,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218072,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218073,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218074,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218075,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218076,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218077,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218078,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218079,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218081,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218082,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218083,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218084,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218085,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218086,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218087,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218080,
+    "file": "test/org/mockitoutil/ClassLoaders.java",
+    "line": 362,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218088,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 9,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218089,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 9,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218090,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 9,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218091,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 9,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218092,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 9,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218093,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 9,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218101,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218100,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218099,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218098,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218097,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218095,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218094,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218096,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 7,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218102,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218103,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218104,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218105,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218106,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218107,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218108,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218109,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218110,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 10,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218111,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 11,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218112,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 11,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218113,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 11,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_2",
+    "ap_id": 218114,
+    "file": "src/org/mockito/internal/util/Timer.java",
+    "line": 11,
+    "sbfl_score": 0.41602514716892186,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

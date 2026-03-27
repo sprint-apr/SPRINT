@@ -1,0 +1,11 @@
+--- Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -585,6 +585,8 @@
+         if (totalRead == -1) {
+             hasHitEOF = true;
+         } else {
++if (totalRead != -1 && totalRead < numToRead)
++	throw new IOException();
+             entryOffset += totalRead;
+         }
+ 

@@ -1,0 +1,11 @@
+--- JacksonCore_25/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
++++ JacksonCore_25/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
+@@ -1960,6 +1960,8 @@
+             }
+             char c = _inputBuffer[_inputPtr];
+             int i = (int) c;
++if (i >= 0 && i < maxCode && codes[i] != -1)
++
+             if (i <= maxCode) {
+                 if (codes[i] != 0) {
+                     break;

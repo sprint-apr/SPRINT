@@ -1,0 +1,10 @@
+--- Closure_52/src/com/google/javascript/jscomp/CodeGenerator.java
++++ Closure_52/src/com/google/javascript/jscomp/CodeGenerator.java
+@@ -742,6 +742,7 @@
+         return false;
+       }
+     }
++if (len > 1 && s.length() > 1 && s.charAt(0) == '0') return false;
+     return len > 0;
+   }
+ 

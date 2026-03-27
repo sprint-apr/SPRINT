@@ -1,0 +1,11 @@
+--- Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
++++ Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
+@@ -313,6 +313,8 @@
+         if (header == null) {
+         	this.header = null;
+         } else {
++if (java.util.Arrays.stream(header).distinct().count() != header.length)
++	throw new IllegalArgumentException();
+             this.header = header.clone();        	
+         }
+         this.skipHeaderRecord = skipHeaderRecord;

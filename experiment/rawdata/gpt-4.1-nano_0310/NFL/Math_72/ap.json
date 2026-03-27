@@ -1,0 +1,462 @@
+[
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449068,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449061,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449062,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449063,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449064,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449065,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449066,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449067,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449069,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449070,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 115,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449071,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449072,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449073,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449074,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449075,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449076,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449077,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449078,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449079,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 116,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449080,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449081,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449082,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449083,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449084,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449085,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449086,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449087,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449089,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449088,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 184,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449090,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 185,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449092,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 185,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449093,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 185,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449094,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 185,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449095,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 185,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449096,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 185,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 449091,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 171,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923626,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923627,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923628,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923629,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923630,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923631,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923632,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923633,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923634,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_72",
+    "ap_id": 923635,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 127,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

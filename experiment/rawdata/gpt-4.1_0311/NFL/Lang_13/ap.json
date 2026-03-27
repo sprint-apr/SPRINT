@@ -1,0 +1,1562 @@
+[
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730560,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730565,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730561,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730562,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730563,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730564,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730568,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730569,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730570,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730571,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730566,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730567,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730572,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730573,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730574,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 103,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730575,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 103,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730576,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 103,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730577,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 103,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730578,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 103,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730579,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 103,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730580,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 103,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730585,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 110,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730581,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 110,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730583,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 110,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730584,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 110,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730582,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 110,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730586,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 110,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730587,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730588,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730589,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730590,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730591,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730592,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730593,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730594,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730595,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730596,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730597,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730598,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730599,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730600,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730601,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730602,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730603,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730604,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730606,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730605,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730607,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730619,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730612,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730613,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730614,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730615,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730616,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730617,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730618,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730620,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730610,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730609,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730608,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730611,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 75,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730622,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 76,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730621,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 76,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730623,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 76,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730624,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+    "line": 76,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730625,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 83,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730626,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 83,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730629,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 83,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730627,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 83,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730628,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 83,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730630,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 83,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730631,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 83,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730632,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 85,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730633,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 85,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730635,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 85,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730634,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 85,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730636,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 85,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730637,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 85,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730645,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730647,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730638,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730639,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730646,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730648,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730640,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730641,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730642,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730643,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730644,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 88,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730654,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 95,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730655,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 95,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730649,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 95,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730650,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 95,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730651,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 95,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730652,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 95,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730653,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 95,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730658,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 104,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730660,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 104,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730656,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 104,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730657,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 104,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730659,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 104,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730663,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 105,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730664,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 105,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730666,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 105,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730667,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 105,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730661,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 105,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730662,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 105,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730665,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 105,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730671,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 109,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730670,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 109,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730668,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 109,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730669,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 109,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730676,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730677,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730679,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730673,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730672,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730674,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730675,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730678,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 249,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730682,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730683,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730684,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730685,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730686,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730687,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730688,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730690,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730680,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730681,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730689,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 250,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730692,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 252,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730691,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 252,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730693,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 252,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730694,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 252,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730703,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730695,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730696,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730697,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730698,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730699,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730700,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730701,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730702,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 264,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730712,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730713,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730704,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730705,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730706,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730707,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730708,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730709,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730710,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730711,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730714,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_13",
+    "ap_id": 730715,
+    "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+    "line": 266,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

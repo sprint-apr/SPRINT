@@ -1,0 +1,10 @@
+--- Csv_2/src/main/java/org/apache/commons/csv/CSVRecord.java
++++ Csv_2/src/main/java/org/apache/commons/csv/CSVRecord.java
+@@ -82,6 +82,7 @@
+                     "No header mapping was specified, the record values can't be accessed by name");
+         }
+         final Integer index = mapping.get(name);
++if (index == null || index.intValue() < 0 || index.intValue() > values.length - 1) { throw new IllegalArgumentException("Column name is not valid: " + name); }
+             return index != null ? values[index.intValue()] : null;
+     }
+ 

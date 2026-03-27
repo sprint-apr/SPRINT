@@ -1,0 +1,10 @@
+--- Jsoup_48/src/main/java/org/jsoup/helper/HttpConnection.java
++++ Jsoup_48/src/main/java/org/jsoup/helper/HttpConnection.java
+@@ -770,6 +770,7 @@
+                             cookie(cookieName, cookieVal);
+                     }
+                 } else { // combine same header names with comma: http://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html#sec4.2
++while (values.size() > 1) { values.set(0, values.get(0) + ", " + values.get(1)); values.remove(1); }
+                     if (!values.isEmpty())
+                         header(name, values.get(0));
+                 }

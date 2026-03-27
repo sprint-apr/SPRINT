@@ -1,0 +1,5052 @@
+[
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578779,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 79,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578780,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 79,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578781,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 79,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578778,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 79,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578783,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 79,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578782,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 79,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578793,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578800,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578799,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578798,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578797,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578796,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578795,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578794,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578792,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 80,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578807,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 81,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578806,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 81,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578805,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 81,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578804,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 81,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578803,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 81,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578802,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 81,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578801,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 81,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578818,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578817,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578816,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578815,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578814,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578813,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578812,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578811,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578810,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578809,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578808,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 84,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578822,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 85,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578821,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 85,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578820,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 85,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578819,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 85,
+    "sbfl_score": 0.36194993015330795,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578830,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578829,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578828,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578827,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578826,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578825,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578824,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578823,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 399,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578835,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 400,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578837,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 400,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578836,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 400,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578834,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 400,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578833,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 400,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578832,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 400,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578831,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 400,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578845,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578844,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578843,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578842,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578841,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578840,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578839,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578838,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 406,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578857,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578856,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578855,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578854,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578853,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578852,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578851,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578850,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578849,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578848,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578847,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578846,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 407,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578861,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 409,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578860,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 409,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578859,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 409,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578858,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 409,
+    "sbfl_score": 0.3390663451222457,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578873,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578872,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578871,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578870,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578869,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578868,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578867,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578866,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578865,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578864,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578863,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578862,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 299,
+    "sbfl_score": 0.2921186973360886,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578875,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578876,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578877,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578878,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578879,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578880,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578881,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578874,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 324,
+    "sbfl_score": 0.2712254014483242,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578882,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578883,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578884,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578885,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578886,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578887,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578888,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578889,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 323,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578890,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578891,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578892,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578893,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578894,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578901,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578896,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578897,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578898,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578899,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578900,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578895,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 341,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578902,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578903,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578904,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578905,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578906,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578907,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578908,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578909,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578910,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578911,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578912,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 342,
+    "sbfl_score": 0.26233033431358116,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578913,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578914,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578915,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578916,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578917,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578918,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578919,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578920,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 654,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578921,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578922,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578923,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578924,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578925,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578926,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578927,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578928,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 655,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578929,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578930,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578931,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578932,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578933,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578934,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578935,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578936,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 656,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578939,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578937,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578938,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578940,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578941,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578942,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578943,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578944,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 657,
+    "sbfl_score": 0.2581988897471611,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578945,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1023,
+    "sbfl_score": 0.21081851067789195,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578946,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1023,
+    "sbfl_score": 0.21081851067789195,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578947,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1023,
+    "sbfl_score": 0.21081851067789195,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578948,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1023,
+    "sbfl_score": 0.21081851067789195,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578949,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1023,
+    "sbfl_score": 0.21081851067789195,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578950,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1023,
+    "sbfl_score": 0.21081851067789195,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578951,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1023,
+    "sbfl_score": 0.21081851067789195,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578952,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578953,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578954,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578955,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578956,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578962,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 213,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578959,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 213,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578958,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 213,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578957,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 213,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578960,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 213,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578961,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 213,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578963,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 213,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578973,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578971,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578968,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578967,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578965,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578964,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578966,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578969,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578970,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578972,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 214,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578977,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 215,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578976,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 215,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578975,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 215,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578974,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 215,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578978,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 215,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578982,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 216,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578981,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 216,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578980,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 216,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578979,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 216,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578983,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 216,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578992,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578990,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578989,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578988,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578987,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578985,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578984,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578986,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578991,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 217,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578993,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 221,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578994,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 221,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578995,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 221,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578996,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 221,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579002,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 257,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578999,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 257,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578998,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 257,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578997,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 257,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579000,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 257,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579001,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 257,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579003,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 257,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579013,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579011,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579008,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579007,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579005,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579004,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579006,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579009,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579010,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579012,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 258,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579017,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 259,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579016,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 259,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579015,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 259,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579014,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 259,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579018,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 259,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579027,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579025,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579024,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579023,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579022,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579020,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579019,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579021,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579026,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 260,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579028,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 263,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579029,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 263,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579030,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 263,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579031,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java",
+    "line": 263,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579037,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 76,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579035,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 76,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579034,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 76,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579033,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 76,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579032,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 76,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579036,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 76,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579039,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579038,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579044,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579045,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579047,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579048,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579046,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579043,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579042,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579041,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579040,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 77,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579050,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 79,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579051,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 79,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579052,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 79,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579054,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 79,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579049,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 79,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579053,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 79,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579055,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 80,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579056,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 80,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579057,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 80,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579058,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 80,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578767,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578768,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578769,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578770,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578771,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578772,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578773,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578774,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578775,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578777,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578776,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 81,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579059,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 87,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579060,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 87,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579061,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 87,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579062,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java",
+    "line": 87,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579063,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1055,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579064,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1055,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579065,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1055,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579066,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1055,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579067,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1055,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579068,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1055,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579069,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1055,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579070,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1067,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579071,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1067,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579072,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1067,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579073,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1067,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579074,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1067,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579075,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1067,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579076,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1067,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579077,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579078,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579079,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579080,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579081,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579082,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579083,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579084,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java",
+    "line": 129,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579085,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579086,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579087,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579088,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579093,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579089,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579090,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579091,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579094,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579092,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 43,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579095,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 46,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579096,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 46,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579097,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 46,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579098,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 46,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579099,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 46,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579100,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 46,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579101,
+    "file": "src/main/java/com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.java",
+    "line": 46,
+    "sbfl_score": 0.18257418583505536,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579102,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 380,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579103,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 380,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579104,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 380,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579105,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 380,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579106,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 380,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579107,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 380,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579108,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 380,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579109,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 381,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579110,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 381,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579111,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 381,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579112,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 381,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579113,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 381,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579114,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 381,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579115,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 381,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579118,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579116,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579117,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579119,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579120,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579121,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579122,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579123,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579124,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 382,
+    "sbfl_score": 0.17568209223157663,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579129,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579130,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579131,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579132,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579133,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579125,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579134,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579135,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579136,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579126,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579127,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579128,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 232,
+    "sbfl_score": 0.1732050807568877,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579137,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 39,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579138,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 39,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579139,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 39,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579140,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 39,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579141,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 39,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579142,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 39,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579146,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579147,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579148,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579150,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579151,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579152,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579149,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579143,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579144,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579145,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 40,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579153,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579154,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579155,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579156,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579157,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579158,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579159,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579160,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579161,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579162,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 41,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579166,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 42,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579164,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 42,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579163,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 42,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579165,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.java",
+    "line": 42,
+    "sbfl_score": 0.16232825118589134,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579168,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579167,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579169,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579170,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579171,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579172,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579173,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579174,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 521,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579178,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579175,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579176,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579177,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579179,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579180,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579181,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579182,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579183,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579184,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579185,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579186,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579187,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579188,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 522,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579189,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579190,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579191,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579192,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579193,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579194,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579195,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579196,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579197,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 527,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579198,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 528,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579199,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 528,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579200,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 528,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579201,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 528,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579202,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 528,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579203,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 531,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579204,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 531,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579205,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 531,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579206,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 531,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579207,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 531,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579208,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 531,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579209,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java",
+    "line": 531,
+    "sbfl_score": 0.16151457061744964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579211,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579212,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579213,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579214,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579215,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579216,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579217,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579218,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579210,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 351,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579223,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579219,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579221,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579222,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579224,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579225,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579226,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579220,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 996,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579227,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 997,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579228,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 997,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579229,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 997,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579230,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 997,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579231,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 997,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579232,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 997,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579240,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579233,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579234,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579235,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579236,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579237,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579238,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579239,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579241,
+    "file": "src/main/java/com/fasterxml/jackson/databind/util/ClassUtil.java",
+    "line": 1005,
+    "sbfl_score": 0.15936381457791915,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579242,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579246,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579245,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579243,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579244,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579250,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579249,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579248,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579247,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1059,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579256,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1060,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579255,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1060,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579254,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1060,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579253,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1060,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579252,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1060,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579251,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 1060,
+    "sbfl_score": 0.15720673907332552,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579258,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 199,
+    "sbfl_score": 0.15654969561196289,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579263,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 199,
+    "sbfl_score": 0.15654969561196289,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579262,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 199,
+    "sbfl_score": 0.15654969561196289,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579261,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 199,
+    "sbfl_score": 0.15654969561196289,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579259,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 199,
+    "sbfl_score": 0.15654969561196289,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579257,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 199,
+    "sbfl_score": 0.15654969561196289,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579260,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.java",
+    "line": 199,
+    "sbfl_score": 0.15654969561196289,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579271,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579270,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579269,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579268,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579267,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579266,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579265,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 579264,
+    "file": "src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java",
+    "line": 248,
+    "sbfl_score": 0.15652475842498528,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578791,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578790,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578789,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578788,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578787,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578786,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578785,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_34",
+    "ap_id": 578784,
+    "file": "src/main/java/com/fasterxml/jackson/databind/JsonMappingException.java",
+    "line": 70,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  }
+]

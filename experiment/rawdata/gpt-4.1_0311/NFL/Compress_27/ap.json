@@ -1,0 +1,1442 @@
+[
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812808,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812817,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812815,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812814,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812813,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812812,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812816,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812811,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812810,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812809,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812823,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 118,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812824,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 118,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812825,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 118,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812820,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 118,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812818,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 118,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812821,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 118,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812822,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 118,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812826,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812827,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812828,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812829,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812830,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812831,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812832,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812833,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812834,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 247,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812835,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812836,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812837,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812838,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812839,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812840,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812841,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812842,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 249,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812853,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812854,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812843,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812844,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812845,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812846,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812847,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812848,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812849,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812850,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812851,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812852,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 250,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812855,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 251,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812856,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 251,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812857,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 251,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812858,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 251,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812859,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 251,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812819,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 105,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812860,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 112,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812864,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 112,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812863,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 112,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812862,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 112,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812861,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 112,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812869,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 149,
+    "sbfl_score": 0.15249857033260467,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812868,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 149,
+    "sbfl_score": 0.15249857033260467,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812867,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 149,
+    "sbfl_score": 0.15249857033260467,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812866,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 149,
+    "sbfl_score": 0.15249857033260467,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812865,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 149,
+    "sbfl_score": 0.15249857033260467,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812870,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 116,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812871,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 116,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812873,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 116,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812872,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 116,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812874,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 116,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812875,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 117,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812876,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 117,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812877,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 117,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812878,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 117,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812879,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 117,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812881,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 117,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812880,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 117,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812882,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 128,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812883,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 128,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812886,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 128,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812884,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 128,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812885,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 128,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812887,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 128,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812888,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 128,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812889,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812890,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812892,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812893,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812894,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812895,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812896,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812891,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812897,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 129,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812898,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 130,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812900,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 130,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812901,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 130,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812902,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 130,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812904,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 130,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812905,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 130,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812903,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 130,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812906,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812907,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812908,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812909,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812910,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812911,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812912,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812913,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 131,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812914,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 133,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812915,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 133,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812916,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 133,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812917,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 133,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812918,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 133,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812919,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812920,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812921,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812922,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812923,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812924,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812925,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812926,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 138,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812931,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 139,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812932,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 139,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812933,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 139,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812927,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 139,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812928,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 139,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812929,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 139,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812930,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 139,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812934,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 141,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812935,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 141,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812936,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 141,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812937,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 141,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812938,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 141,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812939,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 141,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812940,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812942,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812943,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812944,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812945,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812946,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812947,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812948,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812949,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812950,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812951,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 145,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812941,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 103,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_27",
+    "ap_id": 812899,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+    "line": 104,
+    "sbfl_score": 0.15075567228888181,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

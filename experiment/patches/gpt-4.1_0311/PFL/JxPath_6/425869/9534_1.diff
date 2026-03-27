@@ -1,0 +1,11 @@
+--- JxPath_6/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationCompare.java
++++ JxPath_6/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationCompare.java
+@@ -54,7 +54,7 @@
+ //            (l == null ? "null" : l.getClass().getName()) + " " +
+ //            (r == null ? "null" : r.getClass().getName()));
+ 
+-        if (l instanceof InitialContext || l instanceof SelfContext) {
++        if ((l != null && l.getClass().getName().equals("org.apache.commons.jxpath.ri.EvalContext$InitialContext")) || l instanceof SelfContext) {
+             l = ((EvalContext) l).getSingleNodePointer();
+         }
+ 

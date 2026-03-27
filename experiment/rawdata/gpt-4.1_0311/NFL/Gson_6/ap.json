@@ -1,0 +1,772 @@
+[
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 923432,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 923435,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 923436,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 923434,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 923433,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332499,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 430,
+    "sbfl_score": 0.816496580927726,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332501,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 430,
+    "sbfl_score": 0.816496580927726,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332500,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 430,
+    "sbfl_score": 0.816496580927726,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332498,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 430,
+    "sbfl_score": 0.816496580927726,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332506,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 59,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332507,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 59,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332502,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 59,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332503,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 59,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332504,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 59,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332505,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 59,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332508,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332509,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332514,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332513,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332515,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332512,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332511,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332510,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 60,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332516,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 61,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332517,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 61,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332518,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 61,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332519,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 61,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332520,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 62,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332521,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 62,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332524,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 62,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332526,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 62,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332525,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 62,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332523,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 62,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332522,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 62,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332527,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 63,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332528,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 63,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332529,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 63,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332530,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 63,
+    "sbfl_score": 0.6324555320336759,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332539,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332531,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332532,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332533,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332538,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332534,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332535,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332536,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332537,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 47,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332541,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 502,
+    "sbfl_score": 0.408248290463863,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332542,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 502,
+    "sbfl_score": 0.408248290463863,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332540,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 502,
+    "sbfl_score": 0.408248290463863,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332543,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 502,
+    "sbfl_score": 0.408248290463863,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332544,
+    "file": "gson/src/main/java/com/google/gson/Gson.java",
+    "line": 502,
+    "sbfl_score": 0.408248290463863,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332549,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 53,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332546,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 53,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332545,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 53,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332547,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 53,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332548,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 53,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332550,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 53,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332551,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 53,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332553,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 55,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332552,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 55,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332554,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 55,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332556,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 55,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332555,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 55,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332559,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 58,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332561,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 58,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332560,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 58,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332558,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 58,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332557,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 58,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332564,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332565,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332566,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332568,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332569,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332567,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332563,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Gson_6",
+    "ap_id": 332562,
+    "file": "gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java",
+    "line": 67,
+    "sbfl_score": 0.36514837167011077,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  }
+]

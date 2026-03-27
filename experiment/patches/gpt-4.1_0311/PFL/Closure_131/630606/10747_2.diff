@@ -1,0 +1,10 @@
+--- Closure_131/src/com/google/javascript/rhino/TokenStream.java
++++ Closure_131/src/com/google/javascript/rhino/TokenStream.java
+@@ -190,6 +190,7 @@
+     public static boolean isJSIdentifier(String s) {
+       int length = s.length();
+ 
++if (s.matches(".*[\\u0000-\\u001F].*")) { return false; }
+       if (length == 0 ||
+           !Character.isJavaIdentifierStart(s.charAt(0))) {
+         return false;

@@ -1,0 +1,10 @@
+--- Math_32/src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
++++ Math_32/src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
+@@ -133,6 +133,7 @@
+ 
+         if (v.length == 0) {
+             final BSPTree<Euclidean2D> tree = getTree(false);
++tree.setAttribute(Boolean.FALSE);
+             if ((Boolean) tree.getAttribute()) {
+                 // the instance covers the whole space
+                 setSize(Double.POSITIVE_INFINITY);

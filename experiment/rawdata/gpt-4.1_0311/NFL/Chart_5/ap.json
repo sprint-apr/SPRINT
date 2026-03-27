@@ -1,0 +1,972 @@
+[
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 923429,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 542,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 923431,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 542,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 923428,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 542,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 923430,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 542,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 923427,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 542,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 923426,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 542,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 923425,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 542,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332074,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332075,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332076,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332077,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332078,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332071,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332070,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332080,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332079,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332072,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332073,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 527,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332081,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332082,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332083,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332084,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332085,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332086,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332087,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332088,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332089,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332090,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332093,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332092,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332091,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 564,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332095,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332094,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332096,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332097,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332098,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332099,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332100,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332101,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 563,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332102,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332103,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332104,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332105,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332106,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332107,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332108,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332109,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332110,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332111,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 570,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332116,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 541,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332115,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 541,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332112,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 541,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332114,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 541,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332113,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 541,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332122,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 546,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332121,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 546,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332120,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 546,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332119,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 546,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332117,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 546,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332118,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 546,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332131,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332132,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332123,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332124,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332125,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332126,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332127,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332128,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332129,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332130,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 547,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332133,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332134,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332135,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332136,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332138,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332139,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332142,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332137,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332140,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332141,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 548,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332148,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332149,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332150,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332143,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332144,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332145,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332146,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332147,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 574,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332153,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332154,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332155,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332156,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332157,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332158,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332159,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332151,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Chart_5",
+    "ap_id": 332152,
+    "file": "source/org/jfree/data/xy/XYSeries.java",
+    "line": 575,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  }
+]

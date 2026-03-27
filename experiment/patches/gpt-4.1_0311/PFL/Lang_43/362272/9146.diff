@@ -1,0 +1,10 @@
+--- Lang_43/src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java
++++ Lang_43/src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java
+@@ -418,6 +418,7 @@
+             StringBuffer appendTo, boolean escapingOn) {
+         int start = pos.getIndex();
+         char[] c = pattern.toCharArray();
++pos.setIndex(start + 1);
+         if (escapingOn && c[start] == QUOTE) {
+             return appendTo == null ? null : appendTo.append(QUOTE);
+         }

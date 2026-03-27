@@ -1,0 +1,10 @@
+--- Compress_25/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
++++ Compress_25/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+@@ -181,6 +181,7 @@
+         this.allowStoredEntriesWithDataDescriptor =
+             allowStoredEntriesWithDataDescriptor;
+         // haven't read anything so far
++while (buf.hasRemaining()) { buf.put((byte) 0); }
+     }
+ 
+     public ZipArchiveEntry getNextZipEntry() throws IOException {

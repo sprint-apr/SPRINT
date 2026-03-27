@@ -1,0 +1,652 @@
+[
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738280,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738282,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738277,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738275,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738278,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738279,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738281,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738276,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 179,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738283,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 180,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738284,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 180,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738287,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 180,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738289,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 180,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738286,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 180,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738288,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 180,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738285,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 180,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738290,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 181,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738291,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 181,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738292,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 181,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738293,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 181,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738297,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 176,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738295,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 176,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738298,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 176,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738296,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 176,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738294,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 176,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738299,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 176,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738304,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738308,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738305,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738306,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738307,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738300,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738301,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738302,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738303,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 210,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738313,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 115,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738314,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 115,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738309,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 115,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738310,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 115,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738311,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 115,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738312,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 115,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738315,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738316,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738317,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738322,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738318,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738319,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738320,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738321,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 118,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738323,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 119,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738324,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 119,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738325,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 119,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738326,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 119,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738327,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 119,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738328,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 119,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738329,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 119,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738330,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 120,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738331,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 120,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738332,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 120,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738333,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 120,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738339,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 209,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738334,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 209,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738335,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 209,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738336,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 209,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738337,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 209,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_55",
+    "ap_id": 738338,
+    "file": "src/java/org/apache/commons/lang/time/StopWatch.java",
+    "line": 209,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

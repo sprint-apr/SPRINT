@@ -1,0 +1,10 @@
+--- Codec_8/src/java/org/apache/commons/codec/binary/Base64InputStream.java
++++ Codec_8/src/java/org/apache/commons/codec/binary/Base64InputStream.java
+@@ -169,6 +169,7 @@
+                     if (c > 0 && b.length == len) {
+                         base64.setInitialBuffer(b, offset, len);
+                     }
++this.base64.readResults(b, offset, len);;
+                     if (doEncode) {
+                         base64.encode(buf, 0, c);
+                     } else {

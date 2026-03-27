@@ -1,0 +1,10 @@
+--- JacksonDatabind_56/src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java
++++ JacksonDatabind_56/src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java
+@@ -228,6 +228,7 @@
+                 return Pattern.compile(value);
+             case STD_LOCALE:
+                 {
++value = value.replace('-', '_');
+                     int ix = value.indexOf('_');
+                     if (ix < 0) { // single argument
+                         return new Locale(value);

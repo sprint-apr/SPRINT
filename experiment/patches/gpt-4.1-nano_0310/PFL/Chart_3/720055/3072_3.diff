@@ -1,0 +1,11 @@
+--- Chart_3/source/org/jfree/data/time/TimeSeries.java
++++ Chart_3/source/org/jfree/data/time/TimeSeries.java
+@@ -1053,7 +1053,7 @@
+         if (end < start) {
+             throw new IllegalArgumentException("Requires start <= end.");
+         }
+-        TimeSeries copy = (TimeSeries) super.clone();
++TimeSeries copy = new TimeSeries(this.getKey());
+         copy.data = new java.util.ArrayList();
+         if (this.data.size() > 0) {
+             for (int index = start; index <= end; index++) {

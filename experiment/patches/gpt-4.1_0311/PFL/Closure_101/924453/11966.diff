@@ -1,0 +1,10 @@
+--- Closure_101/src/com/google/javascript/jscomp/CommandLineRunner.java
++++ Closure_101/src/com/google/javascript/jscomp/CommandLineRunner.java
+@@ -434,6 +434,7 @@
+       options.closurePass = true;
+     }
+ 
++options.closurePass = Boolean.TRUE.equals(flags.process_closure_primitives);
+     initOptionsFromFlags(options);
+     return options;
+   }

@@ -1,0 +1,11 @@
+--- Cli_9/src/java/org/apache/commons/cli/Parser.java
++++ Cli_9/src/java/org/apache/commons/cli/Parser.java
+@@ -316,7 +316,7 @@
+             // loop through the required options
+             while (iter.hasNext())
+             {
+-                buff.append(iter.next());
++                buff.append((iter.hasNext() ? iter.next() : "") + (iter.hasNext() ? ", " : ""));
+             }
+ 
+             throw new MissingOptionException(buff.toString());

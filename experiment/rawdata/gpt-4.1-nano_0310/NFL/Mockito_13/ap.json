@@ -1,0 +1,6752 @@
+[
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924490,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924486,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924488,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924487,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924494,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924493,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924492,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924491,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 924489,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830419,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1502,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830420,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1502,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830421,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1502,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830422,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1502,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830423,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1502,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830424,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1502,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830432,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830426,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830425,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830427,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830428,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830429,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830431,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830433,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830434,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830430,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1139,
+    "sbfl_score": 0.11785113019775793,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830444,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830446,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830445,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830435,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830436,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830437,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830438,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830439,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830440,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830441,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830442,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830443,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 174,
+    "sbfl_score": 0.0944911182523068,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830453,
+    "file": "src/org/mockito/internal/stubbing/BaseStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.09325048082403138,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830447,
+    "file": "src/org/mockito/internal/stubbing/BaseStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.09325048082403138,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830448,
+    "file": "src/org/mockito/internal/stubbing/BaseStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.09325048082403138,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830449,
+    "file": "src/org/mockito/internal/stubbing/BaseStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.09325048082403138,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830450,
+    "file": "src/org/mockito/internal/stubbing/BaseStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.09325048082403138,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830451,
+    "file": "src/org/mockito/internal/stubbing/BaseStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.09325048082403138,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830452,
+    "file": "src/org/mockito/internal/stubbing/BaseStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.09325048082403138,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830459,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 22,
+    "sbfl_score": 0.09128709291752768,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830455,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 22,
+    "sbfl_score": 0.09128709291752768,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830454,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 22,
+    "sbfl_score": 0.09128709291752768,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830460,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 22,
+    "sbfl_score": 0.09128709291752768,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830457,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 22,
+    "sbfl_score": 0.09128709291752768,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830456,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 22,
+    "sbfl_score": 0.09128709291752768,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830458,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 22,
+    "sbfl_score": 0.09128709291752768,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830466,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830461,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830462,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830463,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830464,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830465,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830467,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830468,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830469,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 171,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830470,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 30,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830471,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 30,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830472,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 30,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830473,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 30,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830474,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 30,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830475,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 30,
+    "sbfl_score": 0.08703882797784893,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830478,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 57,
+    "sbfl_score": 0.08638684255813601,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830479,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 57,
+    "sbfl_score": 0.08638684255813601,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830476,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 57,
+    "sbfl_score": 0.08638684255813601,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830477,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 57,
+    "sbfl_score": 0.08638684255813601,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830480,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830481,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830482,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830483,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830484,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830485,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830486,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830487,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830488,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830490,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830489,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830493,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830492,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830491,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 54,
+    "sbfl_score": 0.0854357657716761,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830494,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 34,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830496,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 34,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830497,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 34,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830498,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 34,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830495,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 34,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830506,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830499,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830500,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830501,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830502,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830503,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830504,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830505,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830507,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830508,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 50,
+    "sbfl_score": 0.08481889296799709,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830520,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830521,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830509,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830510,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830511,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830512,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830522,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830513,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830514,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830515,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830516,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830517,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830518,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830519,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 21,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830523,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830526,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830527,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830525,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830524,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830530,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830529,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830528,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 46,
+    "sbfl_score": 0.0842151921066519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830532,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830531,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830533,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830534,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830535,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830536,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830537,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830538,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830539,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1113,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830540,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 24,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830541,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 24,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830542,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 24,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830543,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 24,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830544,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 24,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830545,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 24,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830546,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 24,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830547,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 17,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830548,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 17,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830549,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 17,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830550,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 17,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830554,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 18,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830551,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 18,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830552,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 18,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830553,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 18,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830555,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 18,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830556,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 18,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830557,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 18,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830558,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 19,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830559,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 19,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830560,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 19,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830561,
+    "file": "src/org/mockito/internal/stubbing/answers/Returns.java",
+    "line": 19,
+    "sbfl_score": 0.08362420100070908,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830562,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 14,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830563,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 14,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830564,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 14,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830565,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 14,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830566,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830567,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830568,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830569,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830570,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830571,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830572,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830573,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830574,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 15,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830577,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 16,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830578,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 16,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830575,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 16,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830576,
+    "file": "src/org/mockito/internal/stubbing/ConsecutiveStubbing.java",
+    "line": 16,
+    "sbfl_score": 0.08219949365267865,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830579,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 47,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830580,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 47,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830581,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 47,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830582,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 47,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830587,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830583,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830584,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830585,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830586,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830588,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830589,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830590,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830591,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830592,
+    "file": "src/org/mockito/internal/stubbing/OngoingStubbingImpl.java",
+    "line": 23,
+    "sbfl_score": 0.08164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830601,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830596,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830597,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830598,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830599,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830600,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830593,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830594,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830595,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 179,
+    "sbfl_score": 0.08084520834544433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830605,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 56,
+    "sbfl_score": 0.079555728417573,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830602,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 56,
+    "sbfl_score": 0.079555728417573,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830603,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 56,
+    "sbfl_score": 0.079555728417573,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830604,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 56,
+    "sbfl_score": 0.079555728417573,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830606,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 56,
+    "sbfl_score": 0.079555728417573,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830612,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 66,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830607,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 66,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830608,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 66,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830609,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 66,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830610,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 66,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830611,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 66,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830613,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830614,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830615,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830616,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830617,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830618,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830619,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830620,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830621,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 45,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830622,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830623,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830624,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830625,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830626,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830627,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830628,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830629,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830630,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830631,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830632,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830633,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 46,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830634,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830635,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830636,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830637,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830638,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830639,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830640,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830641,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830642,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830643,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 25,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830647,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830644,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830645,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830646,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830648,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830649,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830650,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830651,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 26,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830652,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 27,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830653,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 27,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830654,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 27,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830655,
+    "file": "src/org/mockito/internal/verification/RegisteredInvocations.java",
+    "line": 27,
+    "sbfl_score": 0.07930515857181442,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830660,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1082,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830656,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1082,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830657,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1082,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830658,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1082,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830659,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1082,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830661,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1082,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830662,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1082,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830668,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 65,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830669,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 65,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830663,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 65,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830664,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 65,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830665,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 65,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830666,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 65,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830667,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 65,
+    "sbfl_score": 0.07856742013183861,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830670,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 51,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830671,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 51,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830672,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 51,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830673,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 51,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830674,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 51,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830675,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 51,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830676,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 51,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830681,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 52,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830677,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 52,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830678,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 52,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830679,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 52,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830680,
+    "file": "src/org/mockito/internal/MockitoCore.java",
+    "line": 52,
+    "sbfl_score": 0.07808688094430304,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830682,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830684,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830685,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830686,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830687,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830688,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830689,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830690,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830691,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830683,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 93,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830697,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830698,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830702,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830700,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830692,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830693,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830701,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830694,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830695,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830699,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830696,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 94,
+    "sbfl_score": 0.07761505257063328,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830703,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830704,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830705,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830706,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830707,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830708,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830709,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830710,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830711,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830712,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830713,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830714,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 73,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830715,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830716,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830717,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830718,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830719,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830720,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830721,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830722,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830723,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830724,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830725,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830726,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830727,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 74,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830728,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830729,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830730,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830731,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830732,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830733,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830734,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830735,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830736,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830737,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830738,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 75,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830747,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830739,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830740,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830741,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830742,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830743,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830744,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830745,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830746,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830748,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830749,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 230,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830750,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 231,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830751,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 231,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830752,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 231,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830753,
+    "file": "src/org/mockito/internal/invocation/Invocation.java",
+    "line": 231,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830754,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 30,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830755,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 30,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830756,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 30,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830757,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 30,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830758,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 30,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830759,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 30,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830760,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 30,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830761,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830762,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830763,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830764,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830765,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830766,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830767,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830768,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830769,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830770,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830771,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830772,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830773,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830774,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830775,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830776,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830777,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 31,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830780,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830778,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830779,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830781,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830782,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830783,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830784,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830785,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830786,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830787,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830788,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 40,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830789,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 41,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830790,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 41,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830791,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 41,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830792,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 41,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830793,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 15,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830794,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 15,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830795,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 15,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830796,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 15,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830797,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 15,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830798,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 15,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830799,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830800,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830801,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830802,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830803,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830804,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830805,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830806,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830807,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830808,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830809,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 16,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830810,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 17,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830811,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 17,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830812,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 17,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830813,
+    "file": "src/org/mockito/internal/invocation/StubInfo.java",
+    "line": 17,
+    "sbfl_score": 0.07715167498104596,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830814,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 32,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830816,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 32,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830817,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 32,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830815,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 32,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830818,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 32,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830819,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 32,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830823,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830824,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830825,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830826,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830827,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830820,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830821,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830822,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 33,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830828,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830829,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830830,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830831,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830832,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830833,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830834,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830835,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 34,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830836,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 35,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830837,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 35,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830838,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 35,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830839,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 35,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830840,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 35,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830841,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 35,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830842,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 35,
+    "sbfl_score": 0.07432941462471664,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830852,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830853,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830846,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830843,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830844,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830845,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830847,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830848,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830849,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830850,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830851,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 72,
+    "sbfl_score": 0.07412493166611012,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830854,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 59,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830855,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 59,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830856,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 59,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830857,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 59,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830858,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 59,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830859,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830860,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830861,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830862,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830863,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830864,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830865,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830866,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830867,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830868,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830869,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830870,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830871,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830872,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 62,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830873,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 64,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830874,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 64,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830875,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 64,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830876,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 64,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830884,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830877,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830878,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830879,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830880,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830881,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830882,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830883,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830885,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830886,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830887,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 24,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830893,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 20,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830894,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 20,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830888,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 20,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830889,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 20,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830890,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 20,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830891,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 20,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830892,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 20,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830896,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830897,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830898,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830899,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830900,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830901,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830895,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830902,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830903,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830904,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830905,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830906,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 25,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830907,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 26,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830908,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 26,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830909,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 26,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830910,
+    "file": "src/org/mockito/internal/stubbing/StubbedInvocationMatcher.java",
+    "line": 26,
+    "sbfl_score": 0.07293249574894728,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830912,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 31,
+    "sbfl_score": 0.07198157507486945,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830913,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 31,
+    "sbfl_score": 0.07198157507486945,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830914,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 31,
+    "sbfl_score": 0.07198157507486945,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830911,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 31,
+    "sbfl_score": 0.07198157507486945,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830917,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 28,
+    "sbfl_score": 0.0716114874039433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830918,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 28,
+    "sbfl_score": 0.0716114874039433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830920,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 28,
+    "sbfl_score": 0.0716114874039433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830919,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 28,
+    "sbfl_score": 0.0716114874039433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830921,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 28,
+    "sbfl_score": 0.0716114874039433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830915,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 28,
+    "sbfl_score": 0.0716114874039433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830916,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 28,
+    "sbfl_score": 0.0716114874039433,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830923,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830922,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830924,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830925,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830926,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830927,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830928,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830929,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830930,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830931,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 52,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830932,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 53,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830933,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 53,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830934,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 53,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830935,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 53,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830936,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 29,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830937,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 29,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830938,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 29,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830939,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 29,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830940,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 29,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830941,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 29,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830949,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830942,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830943,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830944,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830945,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830946,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830947,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830948,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 24,
+    "sbfl_score": 0.07124704998790965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830951,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830952,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830953,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830954,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830955,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830956,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830957,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830950,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 87,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830958,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 88,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830959,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 88,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830960,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 88,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830961,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 88,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830962,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830963,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830964,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830965,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830966,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830967,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830968,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830969,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830970,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 54,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830971,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830972,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830973,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830974,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830975,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830976,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830977,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830978,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830979,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830980,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 55,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830981,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 56,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830982,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 56,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830983,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 56,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830984,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 56,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830985,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 56,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830986,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 56,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830987,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830988,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830989,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830990,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830991,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830992,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830993,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830994,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830995,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830996,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830997,
+    "file": "src/org/mockito/internal/stubbing/InvocationContainerImpl.java",
+    "line": 57,
+    "sbfl_score": 0.07018624063435965,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830998,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 830999,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831000,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831001,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831002,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831003,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831004,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831005,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 20,
+    "sbfl_score": 0.07001400420140048,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831006,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 45,
+    "sbfl_score": 0.06933752452815364,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831007,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 45,
+    "sbfl_score": 0.06933752452815364,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831008,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 45,
+    "sbfl_score": 0.06933752452815364,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831009,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 45,
+    "sbfl_score": 0.06933752452815364,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831010,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 44,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831011,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 44,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831012,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 44,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831013,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 44,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831014,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 44,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831015,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 44,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831016,
+    "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+    "line": 44,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831017,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831018,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831019,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831020,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831021,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831022,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831023,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831024,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 63,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831025,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 64,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831026,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 64,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831027,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 64,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831028,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 64,
+    "sbfl_score": 0.06900655593423542,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831035,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831036,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831030,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831031,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831029,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831032,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831033,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831034,
+    "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+    "line": 62,
+    "sbfl_score": 0.06868028197434452,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831037,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 11,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831038,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 11,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831039,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 11,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831040,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 11,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831041,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 11,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831042,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 11,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831044,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 13,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831045,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 13,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831046,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 13,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831047,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 13,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831048,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 13,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831049,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 13,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831043,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 13,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831050,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831051,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831052,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831053,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831054,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831055,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831056,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831057,
+    "file": "src/org/mockito/internal/stubbing/answers/AnswersValidator.java",
+    "line": 16,
+    "sbfl_score": 0.06804138174397717,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831063,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1481,
+    "sbfl_score": 0.06509445549041194,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831058,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1481,
+    "sbfl_score": 0.06509445549041194,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831059,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1481,
+    "sbfl_score": 0.06509445549041194,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831060,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1481,
+    "sbfl_score": 0.06509445549041194,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831061,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1481,
+    "sbfl_score": 0.06509445549041194,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831062,
+    "file": "src/org/mockito/Mockito.java",
+    "line": 1481,
+    "sbfl_score": 0.06509445549041194,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831069,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 33,
+    "sbfl_score": 0.06178020632152154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831064,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 33,
+    "sbfl_score": 0.06178020632152154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831065,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 33,
+    "sbfl_score": 0.06178020632152154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831066,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 33,
+    "sbfl_score": 0.06178020632152154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831067,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 33,
+    "sbfl_score": 0.06178020632152154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831068,
+    "file": "src/org/mockito/internal/creation/DelegatingMethod.java",
+    "line": 33,
+    "sbfl_score": 0.06178020632152154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831070,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831071,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831072,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831073,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831074,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831075,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831076,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831077,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831078,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831079,
+    "file": "src/org/mockito/internal/MockHandler.java",
+    "line": 77,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831083,
+    "file": "src/org/mockito/internal/verification/MockAwareVerificationMode.java",
+    "line": 26,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831082,
+    "file": "src/org/mockito/internal/verification/MockAwareVerificationMode.java",
+    "line": 26,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831081,
+    "file": "src/org/mockito/internal/verification/MockAwareVerificationMode.java",
+    "line": 26,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831080,
+    "file": "src/org/mockito/internal/verification/MockAwareVerificationMode.java",
+    "line": 26,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Mockito_13",
+    "ap_id": 831084,
+    "file": "src/org/mockito/internal/verification/MockAwareVerificationMode.java",
+    "line": 26,
+    "sbfl_score": 0.05965499862718936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

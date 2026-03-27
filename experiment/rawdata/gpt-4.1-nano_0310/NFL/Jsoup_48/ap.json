@@ -1,0 +1,3322 @@
+[
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457961,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457962,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457960,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457959,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457958,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457957,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457956,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457955,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 773,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457970,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457971,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457972,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457974,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457963,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457964,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457965,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457966,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457967,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457973,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457968,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457969,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 774,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457977,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457978,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457981,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457982,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457980,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457979,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457975,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457976,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 754,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457983,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457984,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457985,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457986,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457987,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457990,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457989,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457988,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 755,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457991,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 756,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457992,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 756,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457993,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 756,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457994,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 756,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457995,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 756,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457996,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 756,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458003,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458002,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457997,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457998,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 457999,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458000,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458001,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458004,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 759,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458011,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458005,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458006,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458007,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458008,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458009,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458010,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458012,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 760,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458016,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 776,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458013,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 776,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458014,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 776,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458015,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 776,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458017,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 776,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458021,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 777,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458018,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 777,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458019,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 777,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458020,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 777,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458022,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458023,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458029,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458024,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458025,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458026,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458027,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458028,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458030,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458031,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 265,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458032,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458033,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458034,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458035,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458038,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458039,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458040,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458036,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458037,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458041,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 266,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458042,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458043,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458049,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458044,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458045,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458046,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458047,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458048,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458050,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458051,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 270,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458052,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458053,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458059,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458054,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458055,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458056,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458057,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458058,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458060,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458061,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 271,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458062,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458063,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458065,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458070,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458064,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458066,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458067,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458068,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458069,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458071,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 272,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458072,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458073,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458075,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458076,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458077,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458084,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458086,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458074,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458078,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458079,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458080,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458081,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458082,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458083,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458085,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 273,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458087,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458088,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458096,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458089,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458090,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458091,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458092,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458093,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458094,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458095,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458097,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 274,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458098,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458099,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458100,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458101,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458102,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458103,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458104,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458105,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458106,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458107,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 290,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458108,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458109,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458110,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458111,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458112,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458113,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458114,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458115,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458116,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458117,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 291,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458118,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458119,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458120,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458121,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458122,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 292,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458123,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458124,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458125,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458126,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458127,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458128,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458129,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458130,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458131,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 294,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458132,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458133,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458139,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458134,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458135,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458136,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458137,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458138,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458140,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458141,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 302,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458142,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458143,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458144,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458145,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458146,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458149,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458150,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458151,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458147,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458148,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458152,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458153,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 304,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458154,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458155,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458156,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458159,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458157,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458158,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458160,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458161,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 305,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458162,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458163,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458164,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458167,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458165,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458166,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458168,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 307,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458169,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458170,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458171,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458178,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458177,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458172,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458173,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458174,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458175,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458176,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458179,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 312,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458180,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458181,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458186,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458182,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458183,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458184,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458185,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458187,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458188,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 316,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458192,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458195,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458189,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458190,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458191,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458193,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458194,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458196,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 317,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458197,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458198,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458199,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458204,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458200,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458201,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458202,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458203,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458205,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 321,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458210,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 239,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458207,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 239,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458206,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 239,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458208,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 239,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458209,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 239,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458211,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 239,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458218,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 240,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458216,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 240,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458213,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 240,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458212,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 240,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458214,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 240,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458215,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 240,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458217,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 240,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458223,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 241,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458224,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 241,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458225,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 241,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458222,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 241,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458221,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 241,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458220,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 241,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458219,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 241,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458229,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 242,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458227,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 242,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458228,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 242,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458226,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 242,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458235,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 480,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458236,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 480,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458234,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 480,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458233,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 480,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458232,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 480,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458231,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 480,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458230,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 480,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458253,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 481,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458254,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 481,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458255,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 481,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458256,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 481,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458257,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 477,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458259,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 477,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458260,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 477,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458261,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 477,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458262,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 477,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458258,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 477,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458263,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 103,
+    "sbfl_score": 0.2182178902359924,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458265,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 103,
+    "sbfl_score": 0.2182178902359924,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458264,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 103,
+    "sbfl_score": 0.2182178902359924,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458266,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 103,
+    "sbfl_score": 0.2182178902359924,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458268,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458269,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458270,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458271,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458272,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458273,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458277,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458274,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458275,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458276,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458267,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 101,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458278,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 25,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458279,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 25,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458280,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 25,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458281,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 25,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458282,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 25,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458283,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 27,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458285,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 27,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458286,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 27,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458284,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 27,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458239,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458242,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458243,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458244,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458241,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458240,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458238,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458237,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 470,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458248,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458249,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458246,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458247,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458250,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458251,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458252,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_48",
+    "ap_id": 458245,
+    "file": "src/main/java/org/jsoup/helper/HttpConnection.java",
+    "line": 471,
+    "sbfl_score": 0.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  }
+]

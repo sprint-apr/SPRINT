@@ -1,0 +1,10 @@
+--- JacksonCore_15/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
++++ JacksonCore_15/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
+@@ -228,6 +228,7 @@
+     		//else if scalar, and scalar not present in obj/array and !includePath and INCLUDE_ALL matched once
+     		// then return null 
+         // Anything buffered?
++if (!_allowMultipleMatches && _currToken != null && _exposedContext == null && (_itemFilter == null || !_headContext.isStartHandled())) { return null; }
+         TokenFilterContext ctxt = _exposedContext;
+ 
+         if (ctxt != null) {

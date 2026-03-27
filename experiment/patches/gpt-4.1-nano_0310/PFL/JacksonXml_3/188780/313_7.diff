@@ -1,0 +1,11 @@
+--- JacksonXml_3/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
++++ JacksonXml_3/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
+@@ -668,7 +668,7 @@
+         case XmlTokenStream.XML_ATTRIBUTE_VALUE:
+             _currText = _xmlTokens.getText();
+             _currToken = JsonToken.VALUE_STRING;
+-            break;
++_currText = _xmlTokens.getText(); return _currText != null ? _currText : "";
+         case XmlTokenStream.XML_TEXT:
+             _currText = _xmlTokens.getText();
+             if (_mayBeLeaf) {

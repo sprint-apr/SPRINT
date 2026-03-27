@@ -1,0 +1,11 @@
+--- Cli_40/src/main/java/org/apache/commons/cli/TypeHandler.java
++++ Cli_40/src/main/java/org/apache/commons/cli/TypeHandler.java
+@@ -100,6 +100,8 @@
+         }
+         else
+         {
++if (clazz != PatternOptionBuilder.STRING_VALUE && clazz != PatternOptionBuilder.OBJECT_VALUE && clazz != PatternOptionBuilder.NUMBER_VALUE && clazz != PatternOptionBuilder.DATE_VALUE && clazz != PatternOptionBuilder.CLASS_VALUE && clazz != PatternOptionBuilder.FILE_VALUE && clazz != PatternOptionBuilder.EXISTING_FILE_VALUE && clazz != PatternOptionBuilder.FILES_VALUE && clazz != PatternOptionBuilder.URL_VALUE)
++	throw new ParseException("");
+             return null;
+         }
+     }

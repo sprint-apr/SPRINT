@@ -1,0 +1,11 @@
+--- Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java
++++ Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java
+@@ -122,6 +122,8 @@
+         private void copyAttributes(org.jsoup.nodes.Node source, Element el) {
+             for (Attribute attribute : source.attributes()) {
+                 // valid xml attribute names are: ^[a-zA-Z_:][-a-zA-Z0-9_:.]
++if (!Character.isLetter(attribute.getKey().charAt(0)) && attribute.getKey().charAt(0) != '_' && attribute.getKey().charAt(0) != ':')
++	return;
+                 String key = attribute.getKey().replaceAll("[^-a-zA-Z0-9_:.]", "");
+                     el.setAttribute(key, attribute.getValue());
+             }

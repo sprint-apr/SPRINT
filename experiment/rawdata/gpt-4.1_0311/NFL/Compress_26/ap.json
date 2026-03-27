@@ -1,0 +1,402 @@
+[
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428735,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 99,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428736,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 99,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428734,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 99,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428737,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 99,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428738,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 99,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428744,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428745,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428739,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428746,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428747,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428740,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428741,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428742,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428743,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 97,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428748,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 98,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428749,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 98,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428750,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 98,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428752,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 98,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428753,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 98,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428754,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 98,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428751,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 98,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428755,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 95,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428756,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 95,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428757,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 95,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428758,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 95,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428759,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 95,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428760,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 95,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428761,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 95,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428764,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 96,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428762,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 96,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428763,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 96,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428765,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 96,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428766,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 96,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428767,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 104,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428768,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 104,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428769,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 104,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428770,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 104,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428771,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 104,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428772,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 104,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_26",
+    "ap_id": 428773,
+    "file": "src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+    "line": 104,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

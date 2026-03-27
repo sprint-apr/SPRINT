@@ -1,0 +1,10 @@
+--- Chart_9/source/org/jfree/data/time/TimeSeries.java
++++ Chart_9/source/org/jfree/data/time/TimeSeries.java
+@@ -941,6 +941,7 @@
+             endIndex = -(endIndex + 1); // this is first item AFTER end period
+             endIndex = endIndex - 1;    // so this is last item BEFORE end
+         }
++if (startIndex == this.data.size() || startIndex > endIndex) { emptyRange = true; }
+         if (endIndex < 0) {
+             emptyRange = true;
+         }

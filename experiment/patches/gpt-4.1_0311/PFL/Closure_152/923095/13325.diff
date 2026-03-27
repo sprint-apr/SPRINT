@@ -1,0 +1,11 @@
+--- Closure_152/src/com/google/javascript/rhino/jstype/FunctionType.java
++++ Closure_152/src/com/google/javascript/rhino/jstype/FunctionType.java
+@@ -868,6 +868,8 @@
+     // Warning about typeOfThis if it doesn't resolve to an ObjectType
+     // is handled further upstream.
+     // TODO(nicksantos): Handle this correctly if we have a UnionType.
++if (safeResolve(typeOfThis, t, scope) instanceof ObjectType)
++
+     typeOfThis = (ObjectType) safeResolve(typeOfThis, t, scope);
+ 
+     boolean changed = false;

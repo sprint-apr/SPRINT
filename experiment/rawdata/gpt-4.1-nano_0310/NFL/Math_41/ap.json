@@ -1,0 +1,4772 @@
+[
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266157,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266158,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266159,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266151,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266152,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266153,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266160,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266154,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266155,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266156,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 370,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266170,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266161,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266162,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266163,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266164,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266165,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266166,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266167,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266168,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266169,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 222,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266171,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 258,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266172,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 258,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266174,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 258,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266173,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 258,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266175,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 258,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266176,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 262,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266177,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 262,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266181,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 262,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266178,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 262,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266179,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 262,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266180,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 262,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266182,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 262,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266183,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 266,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266184,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 266,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266186,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 266,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266185,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 266,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266187,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 266,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266188,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 266,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266189,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266191,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266198,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266190,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266192,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266193,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266194,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266195,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266196,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266197,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266199,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266200,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 267,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266201,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 268,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266202,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 268,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266206,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 268,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266203,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 268,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266204,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 268,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266205,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 268,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266207,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 268,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266208,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 271,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266209,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 271,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266213,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 271,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266210,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 271,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266211,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 271,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266212,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 271,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266214,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 271,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266215,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 274,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266216,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 274,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266220,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 274,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266217,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 274,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266218,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 274,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266219,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 274,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266221,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 274,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266222,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266223,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266229,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266224,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266225,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266226,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266227,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266228,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266230,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266231,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 277,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266232,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 278,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266233,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 278,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266235,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 278,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266234,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 278,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266236,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 278,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266237,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 278,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266238,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 278,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266239,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 282,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266240,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 282,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266243,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 282,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266241,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 282,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266242,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 282,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266244,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 282,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266245,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266246,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266247,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266248,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266249,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266250,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266251,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266252,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266253,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+    "line": 286,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266254,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266255,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266256,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266257,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266258,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266259,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 159,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266260,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266261,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266262,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266263,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266264,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266265,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266266,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266267,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266270,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266268,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266269,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266271,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 160,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266272,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266273,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266274,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266275,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266276,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266277,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266279,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266278,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 161,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266280,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266281,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266282,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266283,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266284,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266285,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266286,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266287,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266288,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266289,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266291,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266290,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 162,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266292,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266293,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266294,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266295,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266296,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266297,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266298,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266299,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266300,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266301,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266303,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266304,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266302,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 163,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266305,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 166,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266306,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 166,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266307,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 166,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266308,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 166,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266309,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+    "line": 166,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266310,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266311,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266312,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266314,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266315,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266316,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266319,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266317,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266318,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266320,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266313,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 205,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266321,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 206,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266322,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 206,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266324,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 206,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266323,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 206,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266325,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 206,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266326,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 206,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266327,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266328,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266330,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266331,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266332,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266333,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266334,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266335,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266329,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266336,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266337,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 209,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266338,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266339,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266340,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266341,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266342,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266343,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266345,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266346,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266347,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266348,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266349,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266344,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266350,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266351,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 210,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266352,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266353,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266354,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266355,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266356,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266357,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266358,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266359,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 213,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266360,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266361,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266362,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266363,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266364,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266365,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266366,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266367,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266368,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266369,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266371,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266370,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 214,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266372,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266373,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266374,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266375,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266376,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266377,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266378,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266379,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266380,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266381,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266382,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266383,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266385,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266386,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266384,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 215,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266387,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 217,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266388,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 217,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266389,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 217,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266390,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 217,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266391,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 217,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266392,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 217,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266393,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+    "line": 217,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266394,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 316,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266395,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 316,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266396,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 316,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266397,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 316,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266398,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 316,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266399,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 316,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266400,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266401,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266402,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266403,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266404,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266405,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266406,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266407,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266408,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266409,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266410,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 318,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266411,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266412,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266414,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266415,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266416,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266418,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266413,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266417,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 319,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266419,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 320,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266420,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 320,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266421,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 320,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266422,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 320,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266424,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 320,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266423,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 320,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266425,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 322,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266426,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 322,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266427,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 322,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266428,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 322,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266429,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 322,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266430,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 323,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266431,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 323,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266433,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 323,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266432,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 323,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266434,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 323,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266435,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 323,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266436,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266437,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266439,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266440,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266441,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266442,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266443,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266444,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266445,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266438,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266446,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266447,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 324,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266448,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266449,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266450,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266451,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266452,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266453,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266454,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266455,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266456,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266457,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266458,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266460,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266459,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 325,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266461,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 328,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266462,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 328,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266463,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 328,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266464,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 328,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266465,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 328,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266466,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 504,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266467,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 504,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266468,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 504,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266469,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 504,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266470,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 504,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266471,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 504,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266472,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266473,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266474,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266475,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266476,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266477,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266478,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266479,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266480,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266481,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266482,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 506,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266483,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 507,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266484,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 507,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266485,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 507,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266486,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 507,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266488,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 507,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266487,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 507,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266490,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 509,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266489,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 509,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266491,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 509,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266492,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 509,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266493,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 509,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266494,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266495,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266496,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266497,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266498,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266499,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266500,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266502,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266501,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 510,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266503,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266504,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266505,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266506,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266507,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266508,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266509,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266511,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266510,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 511,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266512,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266513,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266514,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266515,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266516,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266517,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266518,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266519,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266520,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 512,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266521,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266523,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266524,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266525,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266526,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266527,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266528,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266529,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266530,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266532,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266522,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266531,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 513,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266533,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266534,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266535,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266536,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266537,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266538,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266539,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266541,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266542,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266540,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 514,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266550,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266543,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266544,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266545,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266546,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266547,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266548,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266549,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266551,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266552,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266553,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266555,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266556,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266554,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 515,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266557,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266558,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266559,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266560,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266561,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266562,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266563,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266564,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266565,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266567,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266568,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266566,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 516,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266569,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266570,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266571,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266572,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266573,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266574,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266575,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266576,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 519,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266577,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266578,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266579,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266580,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266581,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266582,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266583,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266584,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266585,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266587,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266586,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 520,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266588,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266589,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266590,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266591,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266592,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266593,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266594,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266596,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266597,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266595,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 521,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266598,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 524,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266599,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 524,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266600,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 524,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266601,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 524,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266602,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 524,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266603,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 524,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266604,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 524,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266605,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266606,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266607,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266608,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266609,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266610,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266611,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266612,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266613,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266614,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266615,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266616,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266617,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266618,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266619,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266620,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266622,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266621,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 525,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266623,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 531,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266624,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 531,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266625,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 531,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266626,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 531,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_41",
+    "ap_id": 266627,
+    "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+    "line": 531,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

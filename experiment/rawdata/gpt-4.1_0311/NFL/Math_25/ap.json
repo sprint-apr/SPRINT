@@ -1,0 +1,842 @@
+[
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408317,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408323,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408318,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408319,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408320,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408321,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408322,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408324,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2215,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408325,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2216,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408326,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2216,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408329,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2216,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408327,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2216,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408328,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2216,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408330,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2219,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408331,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2219,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408336,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2219,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408332,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2219,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408333,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2219,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408334,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2219,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408335,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2219,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408337,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408339,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408344,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408341,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408342,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408338,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408340,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408343,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408345,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2560,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408352,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408346,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408348,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408353,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408349,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408350,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408351,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408354,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408347,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2561,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408355,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408357,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408362,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408356,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408358,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408359,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408360,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408361,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408363,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2562,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408364,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2564,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408365,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2564,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408366,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2564,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408367,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2564,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408368,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2564,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408369,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2564,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408370,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408371,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408377,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408372,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408373,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408374,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408375,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408376,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2572,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408378,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2579,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408379,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2579,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408382,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2579,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408380,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2579,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408381,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 2579,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408384,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408383,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408390,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408385,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408386,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408387,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408388,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408389,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408391,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 326,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408392,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408393,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408394,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408395,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408396,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408397,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408398,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408399,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_25",
+    "ap_id": 408400,
+    "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+    "line": 327,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

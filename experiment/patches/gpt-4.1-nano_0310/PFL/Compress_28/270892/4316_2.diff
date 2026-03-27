@@ -1,0 +1,10 @@
+--- Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -582,6 +582,7 @@
+         totalRead = is.read(buf, offset, numToRead);
+         count(totalRead);
+         
++if (totalRead == -1) { throw new IOException("Unexpected EOF"); }
+         if (totalRead == -1) {
+             hasHitEOF = true;
+         } else {

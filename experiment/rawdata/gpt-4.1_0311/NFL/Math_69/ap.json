@@ -1,0 +1,6192 @@
+[
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548214,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548213,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548208,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548209,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548210,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548211,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548212,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 68,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548216,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 69,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548217,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 69,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548218,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 69,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548215,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 69,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548223,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 161,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548224,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 161,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548219,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 161,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548220,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 161,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548221,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 161,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548222,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 161,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548230,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548231,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548232,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548225,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548226,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548227,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548228,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548229,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 162,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548233,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 163,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548234,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 163,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548235,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 163,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548236,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 163,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548237,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 163,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548238,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 163,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548239,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 163,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548240,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548241,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548242,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548246,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548247,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548248,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548243,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548244,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548245,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548249,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548250,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 164,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548251,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548252,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548253,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548254,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548255,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548256,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548257,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548259,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548261,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548260,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548258,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 165,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548262,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 166,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548263,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 166,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548264,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 166,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548265,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 166,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548266,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 166,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548267,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 166,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548268,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548269,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548271,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548272,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548270,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548273,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548274,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548275,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 167,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548276,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548277,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548278,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548279,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548280,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548281,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548282,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548283,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548284,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548285,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548286,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 169,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548287,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548288,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548289,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548290,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548291,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548292,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548293,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548294,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548295,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548296,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 170,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548297,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548298,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548299,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548300,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548301,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548302,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548303,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548304,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548305,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548306,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548307,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548309,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548308,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548310,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548311,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548312,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 171,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548313,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548314,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548315,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548316,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548317,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548318,
+    "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548319,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548320,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548321,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548322,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548323,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548324,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548325,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548329,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548330,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548326,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548327,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548328,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548331,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548332,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548333,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548334,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548335,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548336,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548337,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548338,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548339,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548340,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548341,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548342,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548343,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548344,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548345,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548346,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548347,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548348,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548349,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548350,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548351,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548352,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548353,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548354,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548357,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548355,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548356,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548358,
+    "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548359,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548360,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548361,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548362,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548363,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548364,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548365,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548366,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548367,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 54,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548368,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548369,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548370,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548371,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548372,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548373,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548374,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548375,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548376,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548377,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548378,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548379,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548380,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 121,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548381,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 125,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548382,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 125,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548383,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 125,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548384,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 125,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548385,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 125,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548386,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548387,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548388,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548389,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548390,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548391,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548392,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548393,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548394,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548395,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548396,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548397,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548398,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 151,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548399,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548400,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548401,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548402,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548403,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548404,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548405,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548406,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548407,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548408,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548409,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 152,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548410,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548411,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548412,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548413,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548414,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548415,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548416,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548417,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548418,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548419,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548420,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548421,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 153,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548422,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 156,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548423,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 156,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548424,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 156,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548425,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 156,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548426,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 156,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548431,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548427,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548428,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548429,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548430,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548432,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548433,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548434,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548435,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548436,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548437,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548438,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548439,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548440,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548441,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548442,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548443,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548444,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548445,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548446,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548447,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548448,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548449,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548450,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548451,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548452,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548453,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548454,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548455,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548456,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548457,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548458,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548459,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548460,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548461,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 46,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548462,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 46,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548463,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 46,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548464,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 46,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548465,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 46,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548466,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 47,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548467,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 47,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548468,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 47,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548469,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 47,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548470,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548471,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548472,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548473,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548474,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548475,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548476,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548477,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 128,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548478,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548479,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548480,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548481,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548482,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548483,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548484,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548485,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548486,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 129,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548487,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548488,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548489,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548490,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548491,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548492,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548493,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548494,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548495,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548496,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 130,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548500,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548497,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548498,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548499,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548501,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548502,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548503,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548504,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548505,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 131,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548506,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548507,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548508,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548509,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548510,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548511,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548512,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548513,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548514,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 132,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548515,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 133,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548516,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 133,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548517,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 133,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548518,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 133,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548519,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 133,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548520,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 133,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548521,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 133,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548522,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548523,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548524,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548525,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548526,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548527,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548528,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548529,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548530,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548531,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548533,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548532,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548534,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548535,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548536,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548537,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548538,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548540,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548539,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548544,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548541,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548542,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548543,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548545,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548546,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548547,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548548,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548549,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 137,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548550,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548551,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548552,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548553,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548554,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548555,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548556,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548557,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548558,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 138,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548559,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548560,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548561,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548562,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548563,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548564,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548565,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548566,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548567,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548568,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548569,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548570,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548571,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548572,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548573,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548574,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548575,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548576,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548577,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548578,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548579,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548580,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548581,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548582,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548583,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548584,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548585,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 141,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548586,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 141,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548588,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 141,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548587,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 141,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548589,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 141,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548590,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 141,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548591,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548592,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548593,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548594,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548595,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548596,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548597,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548598,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 142,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548599,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548600,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548602,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548601,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548603,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 175,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548604,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548606,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548610,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548605,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548607,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548608,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548609,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548611,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548612,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 182,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548613,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 184,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548614,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 184,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548617,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 184,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548615,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 184,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548616,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 184,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548618,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 184,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548619,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548620,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548624,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548627,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548621,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548622,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548623,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548625,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548626,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 189,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548631,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548632,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548628,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548629,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548630,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548633,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548635,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548636,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548634,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 192,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548637,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 193,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548638,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 193,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548640,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 193,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548639,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 193,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548641,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 193,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548642,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 193,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548643,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 193,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548644,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 194,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548645,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 194,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548647,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 194,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548646,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 194,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548648,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 194,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548649,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 194,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548650,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 194,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548651,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548652,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548654,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548653,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548655,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548656,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548657,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 195,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548658,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548659,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548661,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548660,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548662,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548663,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548664,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 196,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548665,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 197,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548666,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 197,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548667,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 197,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548668,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 197,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548669,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 197,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548670,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548671,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548673,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548672,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548674,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 199,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548675,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 205,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548676,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 205,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548677,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 205,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548678,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 205,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548679,
+    "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+    "line": 205,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548680,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548681,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548682,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548683,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548684,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548685,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 134,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548686,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548687,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548688,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548689,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548690,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548691,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548692,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 135,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548693,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548694,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548695,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548696,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548697,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548698,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548699,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 136,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548700,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548701,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548702,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548703,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548704,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548705,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548706,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548707,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548708,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 139,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548709,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548710,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548711,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548712,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548713,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548714,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 140,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548715,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548716,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548717,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548718,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548719,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 143,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548720,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 148,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548721,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 148,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548722,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 148,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548723,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 148,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548724,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 148,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548725,
+    "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+    "line": 148,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548726,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 41,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548727,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 41,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548728,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 41,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548729,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 41,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548730,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548731,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548732,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548733,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548734,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548735,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548736,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548737,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548738,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548739,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 61,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548746,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548740,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548741,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548742,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548743,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548744,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548745,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548747,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548748,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 97,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548749,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 100,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548750,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 100,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548751,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 100,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548752,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 100,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548753,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 100,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548754,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 100,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548755,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548756,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548757,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548758,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548759,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548760,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548761,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548762,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548763,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 102,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548764,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548765,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548766,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548767,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548768,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548769,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548770,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548771,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548772,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548773,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548774,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548775,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548777,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548776,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 103,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548778,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548779,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548780,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548781,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548782,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548783,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548784,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548785,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548787,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548788,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548786,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 104,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548789,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548791,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548792,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548793,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548794,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548795,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548796,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548798,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548797,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548790,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 106,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548799,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548800,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548801,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548802,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548803,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548804,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548805,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548806,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548807,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 108,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548808,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 109,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548809,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 109,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548810,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 109,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548811,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 109,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548812,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 109,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548813,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 109,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548814,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 109,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548815,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 110,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548816,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 110,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548817,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 110,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548818,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 110,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548819,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 110,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548820,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 110,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548821,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 110,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548822,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 113,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548823,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 113,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548824,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 113,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548825,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 113,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_69",
+    "ap_id": 548826,
+    "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+    "line": 113,
+    "sbfl_score": 0.5345224838248488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

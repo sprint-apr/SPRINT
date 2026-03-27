@@ -1,0 +1,11 @@
+--- Cli_9/src/java/org/apache/commons/cli/Parser.java
++++ Cli_9/src/java/org/apache/commons/cli/Parser.java
+@@ -319,7 +319,7 @@
+                 buff.append(iter.next());
+             }
+ 
+-            throw new MissingOptionException(buff.toString());
++throw new MissingOptionException(buff.toString().replaceAll("([a-zA-Z]):\\s(.)(.)", "$1: $2, $3"));
+         }
+     }
+ 

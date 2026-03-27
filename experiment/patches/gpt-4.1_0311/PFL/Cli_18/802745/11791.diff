@@ -1,0 +1,10 @@
+--- Cli_18/src/java/org/apache/commons/cli/PosixParser.java
++++ Cli_18/src/java/org/apache/commons/cli/PosixParser.java
+@@ -237,6 +237,7 @@
+         }
+         else if (stopAtNonOption)
+         {
++this.tokens.add("--" + token);
+             eatTheRest = true;
+         }
+     }

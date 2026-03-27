@@ -1,0 +1,11 @@
+--- Jsoup_84/src/main/java/org/jsoup/helper/W3CDom.java
++++ Jsoup_84/src/main/java/org/jsoup/helper/W3CDom.java
+@@ -89,7 +89,7 @@
+                 String tagName = sourceEl.tagName();
+ 
+                 Element el = 
+-                    doc.createElementNS(namespace, tagName);
++                    doc.createElementNS(namespacesStack.peek().containsKey(prefix) ? namespacesStack.peek().get(prefix) : "", tagName);
+                 copyAttributes(sourceEl, el);
+                 if (dest == null) { // sets up the root
+                     doc.appendChild(el);

@@ -1,0 +1,11 @@
+--- Chart_7/source/org/jfree/data/time/TimePeriodValues.java
++++ Chart_7/source/org/jfree/data/time/TimePeriodValues.java
+@@ -297,7 +297,7 @@
+         }
+         
+         if (this.maxMiddleIndex >= 0) {
+-            long s = getDataItem(this.minMiddleIndex).getPeriod().getStart()
++            long s = this.getDataItem(this.maxMiddleIndex).getPeriod().getStart()
+                 .getTime();
+             long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd()
+                 .getTime();

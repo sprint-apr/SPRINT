@@ -1,0 +1,10 @@
+--- Closure_129/src/com/google/javascript/jscomp/PrepareAst.java
++++ Closure_129/src/com/google/javascript/jscomp/PrepareAst.java
+@@ -164,6 +164,7 @@
+ 
+       // ignore cast nodes.
+ 
++if (first != null && first.getType() == Token.CAST) { return; }
+       if (!NodeUtil.isGet(first)) {
+         n.putBooleanProp(Node.FREE_CALL, true);
+       }

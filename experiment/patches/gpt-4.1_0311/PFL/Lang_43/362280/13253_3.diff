@@ -1,0 +1,11 @@
+--- Lang_43/src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java
++++ Lang_43/src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java
+@@ -419,7 +419,7 @@
+         int start = pos.getIndex();
+         char[] c = pattern.toCharArray();
+         if (escapingOn && c[start] == QUOTE) {
+-            return appendTo == null ? null : appendTo.append(QUOTE);
++pos.setIndex(start + 1); return appendTo == null ? null : appendTo.append(pattern, start, start + 1);
+         }
+         int lastHold = start;
+         for (int i = pos.getIndex(); i < pattern.length(); i++) {

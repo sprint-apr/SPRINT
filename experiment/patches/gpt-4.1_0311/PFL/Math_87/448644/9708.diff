@@ -1,0 +1,11 @@
+--- Math_87/src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
++++ Math_87/src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+@@ -273,7 +273,7 @@
+         Integer row = null;
+         for (int i = getNumObjectiveFunctions(); i < getHeight(); i++) {
+             if (!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+-                if (row == null) {
++                if (getEntry(i, col) > 0.0) {
+                 row = i;
+                 } else {
+                 return null;

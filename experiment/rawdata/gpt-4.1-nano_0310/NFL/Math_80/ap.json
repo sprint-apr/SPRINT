@@ -1,0 +1,3332 @@
+[
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831085,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831087,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831088,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831089,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831090,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831091,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831092,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831093,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831095,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831094,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 871,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831096,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 872,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831097,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 872,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831098,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 872,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831099,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 872,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831100,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 872,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831101,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831102,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831103,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831104,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831105,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831106,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831107,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831108,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831110,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831111,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831109,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 944,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831112,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831113,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831117,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831118,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831119,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831114,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831116,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831120,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831121,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831122,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 945,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831123,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831124,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831125,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831126,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831127,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831128,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831129,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831130,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831132,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831133,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831131,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 957,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831134,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831135,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831136,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831137,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831138,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831139,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831141,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831142,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831140,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 958,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831143,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831144,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831145,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831146,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831147,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831148,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831149,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831150,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831152,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831153,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831151,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 959,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831154,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831155,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831156,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831157,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831158,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831159,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831160,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831162,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831163,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831161,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 960,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831164,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831165,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831166,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831167,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831168,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831169,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831170,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831171,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831172,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831173,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831175,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831174,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1055,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831181,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831182,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831183,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831184,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831185,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831186,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831187,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831188,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831189,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831190,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831191,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831192,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1058,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831176,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1057,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831177,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1057,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831178,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1057,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831179,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1057,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831180,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1057,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831198,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831199,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831200,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831201,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831202,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831203,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831204,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831205,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831206,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831207,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831208,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831209,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1061,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831193,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1060,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831194,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1060,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831195,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1060,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831196,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1060,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831197,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1060,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831210,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831211,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831212,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831213,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831214,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831215,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831216,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831217,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831218,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831219,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831220,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831221,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831222,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831223,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1062,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831224,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831225,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831226,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831227,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831228,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831229,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831230,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831231,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831233,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831232,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1063,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831234,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831235,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831236,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831237,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831238,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831239,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831240,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831241,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831242,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831243,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831244,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831245,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831246,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831247,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831248,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831249,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831250,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831251,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831252,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831253,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831254,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831255,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831256,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831257,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831258,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831259,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831260,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831261,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831262,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831263,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831264,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831265,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831266,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831267,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831268,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831270,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831269,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1137,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831271,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831272,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831273,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831274,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831275,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831276,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831277,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831278,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831281,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831279,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831280,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831282,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831283,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831284,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831285,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831286,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831287,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831288,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831289,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831291,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831292,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831290,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831293,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831294,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831295,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831296,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831297,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831298,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831300,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831301,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831299,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831302,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1142,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831303,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1142,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831305,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1142,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831304,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1142,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831306,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1142,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831307,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1142,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831308,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1142,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831309,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1144,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831310,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1144,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831311,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1144,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831312,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1144,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831313,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1144,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831314,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831315,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831316,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831317,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831318,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831319,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831320,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831321,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831323,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831322,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1384,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831324,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831325,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831326,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831327,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831328,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831329,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831330,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831332,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831331,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1385,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831333,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831334,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831335,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831336,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831337,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831338,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831340,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831339,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1386,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831341,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831342,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831343,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831344,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831345,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831346,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831347,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831348,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831350,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831349,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1387,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831351,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831352,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831353,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831354,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831355,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831356,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831357,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831358,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831360,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831359,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1404,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831361,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831362,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831363,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831364,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831365,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831366,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831367,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831369,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831368,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1405,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831370,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831371,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831372,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831373,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831374,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831375,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831377,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831376,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1406,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831379,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831380,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831378,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831381,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831382,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831383,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831384,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831385,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831387,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831386,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1407,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831388,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831389,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831390,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831391,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831392,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831393,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831394,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831395,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831396,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831397,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831398,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831399,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831400,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831401,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831403,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831402,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1414,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831404,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831405,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831406,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831407,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831408,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831409,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831410,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831411,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831412,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831413,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831414,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831415,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831417,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831416,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 1415,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831086,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 855,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_80",
+    "ap_id": 831115,
+    "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+    "line": 941,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

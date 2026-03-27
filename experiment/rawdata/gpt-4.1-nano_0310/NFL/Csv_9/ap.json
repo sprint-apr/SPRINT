@@ -1,0 +1,132 @@
+[
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434791,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 214,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434792,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 214,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434793,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 214,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434794,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 214,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434795,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 214,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434796,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 214,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434797,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 214,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434798,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 180,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434799,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 180,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434800,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 180,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434801,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 180,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434802,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 180,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Csv_9",
+    "ap_id": 434803,
+    "file": "src/main/java/org/apache/commons/csv/CSVRecord.java",
+    "line": 180,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

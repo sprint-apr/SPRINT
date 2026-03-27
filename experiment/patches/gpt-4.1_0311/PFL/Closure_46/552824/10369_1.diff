@@ -1,0 +1,11 @@
+--- Closure_46/src/com/google/javascript/rhino/jstype/RecordType.java
++++ Closure_46/src/com/google/javascript/rhino/jstype/RecordType.java
+@@ -151,7 +151,7 @@
+             getPropertyNode(property));
+       }
+     }
+-    return builder.build();
++    return registry.createUnionType(this, that);
+   }
+   JSType getGreatestSubtypeHelper(JSType that) {
+     if (that.isRecordType()) {

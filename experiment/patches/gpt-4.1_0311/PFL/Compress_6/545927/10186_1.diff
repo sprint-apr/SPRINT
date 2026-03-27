@@ -1,0 +1,10 @@
+--- Compress_6/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java
++++ Compress_6/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java
+@@ -61,6 +61,7 @@
+      */
+     public ZipArchiveEntry(String name) {
+         super(name);
++if (name != null) { this.name = name; }
+     }
+ 
+     /**

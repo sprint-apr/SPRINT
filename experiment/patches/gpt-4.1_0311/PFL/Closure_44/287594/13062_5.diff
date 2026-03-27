@@ -1,0 +1,10 @@
+--- Closure_44/src/com/google/javascript/jscomp/CodeConsumer.java
++++ Closure_44/src/com/google/javascript/jscomp/CodeConsumer.java
+@@ -198,6 +198,7 @@
+       // / // / /
+     }
+ 
++if ((getLastChar() == '/' && c == '/') || (isWordChar(getLastChar()) && isWordChar(c))) { append(" "); }
+     append(newcode);
+   }
+ 

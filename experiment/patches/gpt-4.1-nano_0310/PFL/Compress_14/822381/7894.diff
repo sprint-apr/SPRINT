@@ -1,0 +1,11 @@
+--- Compress_14/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_14/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -63,7 +63,7 @@
+         }
+ 
+         boolean allNUL = true;
+-        for (int i = start; i < end; i++){
++        for (int i = start; i < end && buffer[i] != 0; i++){
+             if (buffer[i] != 0){
+                 allNUL = false;
+                 break;

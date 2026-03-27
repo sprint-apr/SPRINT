@@ -1,0 +1,10 @@
+--- Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -580,6 +580,7 @@
+         numToRead = Math.min(numToRead, available());
+         
+         totalRead = is.read(buf, offset, numToRead);
++if (totalRead == -1) { throw new IOException("Unexpected end of stream detected"); }
+         count(totalRead);
+         
+         if (totalRead == -1) {

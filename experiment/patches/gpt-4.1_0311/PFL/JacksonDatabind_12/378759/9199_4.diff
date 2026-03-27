@@ -1,0 +1,10 @@
+--- JacksonDatabind_12/src/main/java/com/fasterxml/jackson/databind/deser/std/MapDeserializer.java
++++ JacksonDatabind_12/src/main/java/com/fasterxml/jackson/databind/deser/std/MapDeserializer.java
+@@ -300,6 +300,7 @@
+         /* As per [databind#735], existence of value or key deserializer (only passed
+          * if annotated to use non-standard one) should also prevent caching.
+          */
++if (_valueDeserializer != null || _keyDeserializer != null) return false;
+         return (_valueTypeDeserializer == null)
+                 && (_ignorableProperties == null);
+     }

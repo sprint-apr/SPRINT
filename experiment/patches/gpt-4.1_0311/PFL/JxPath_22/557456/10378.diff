@@ -1,0 +1,10 @@
+--- JxPath_22/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
++++ JxPath_22/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
+@@ -686,6 +686,7 @@
+                 if (aNode.getNodeType() == Node.ELEMENT_NODE) {
+                     Attr attr = ((Element) aNode).getAttributeNode(qname);
+                     if (attr != null) {
++if (!attr.getValue().startsWith(""))
+                         return attr.getValue();
+                     }
+                 }

@@ -1,0 +1,1102 @@
+[
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 923487,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 30,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 923486,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 30,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 923485,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 30,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 923488,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 30,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 923489,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 30,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362302,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362303,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362297,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362298,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362295,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362296,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362299,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362300,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362301,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java",
+    "line": 38,
+    "sbfl_score": 0.1690308509457033,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362307,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 32,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362305,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 32,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362310,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 32,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362306,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 32,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362308,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 32,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362309,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 32,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362304,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 32,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362320,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362311,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362312,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362313,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362314,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362315,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362316,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362317,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362318,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362319,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 34,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362321,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 35,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362322,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 35,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362323,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 35,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362324,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 35,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362325,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 545,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362326,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 545,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362327,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 545,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362328,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 545,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362329,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 545,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362330,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 545,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362331,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 545,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362332,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362333,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362334,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362335,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362336,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362337,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362338,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362339,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 546,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362340,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 547,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362341,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 547,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362342,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 547,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362343,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 547,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362344,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 547,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362345,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 547,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362347,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362346,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362348,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362349,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362350,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362351,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362352,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362353,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362354,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 548,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362358,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362359,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362360,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362361,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362362,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362363,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362364,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362365,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362366,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362367,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362355,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362356,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362357,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 552,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362368,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362369,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362370,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362371,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362372,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362373,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362374,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362375,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 554,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362376,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362377,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362379,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362380,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362381,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362382,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362383,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362384,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362385,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362386,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362387,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362388,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362389,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362378,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 557,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362390,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 562,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362391,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 562,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362392,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 562,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362393,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 562,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362394,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java",
+    "line": 562,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362395,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 28,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362396,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 28,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362397,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 28,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362398,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 28,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_9",
+    "ap_id": 362399,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java",
+    "line": 28,
+    "sbfl_score": 0.1543033499620919,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

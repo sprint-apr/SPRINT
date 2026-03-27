@@ -1,0 +1,10 @@
+--- JacksonDatabind_9/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java
++++ JacksonDatabind_9/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java
+@@ -29,6 +29,7 @@
+             provider.defaultSerializeDateKey((Date) value, jgen);
+             return;
+         } else {
++if (value instanceof Class) str = ((Class)value).getName(); else
+             str = value.toString();
+         }
+         jgen.writeFieldName(str);

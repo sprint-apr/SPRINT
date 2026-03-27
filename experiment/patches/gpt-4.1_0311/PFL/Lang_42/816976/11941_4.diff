@@ -1,0 +1,10 @@
+--- Lang_42/src/java/org/apache/commons/lang/Entities.java
++++ Lang_42/src/java/org/apache/commons/lang/Entities.java
+@@ -828,6 +828,7 @@
+             char c = str.charAt(i);
+             String entityName = this.entityName(c);
+             if (entityName == null) {
++if (Character.isHighSurrogate(c) && i+1 < len && Character.isLowSurrogate(str.charAt(i+1))) { int cp = Character.toCodePoint(c, str.charAt(i+1)); writer.write("&#"); writer.write(Integer.toString(cp, 10)); writer.write(';'); i++; continue; }
+                 if (c > 0x7F) {
+                     writer.write("&#");
+                     writer.write(Integer.toString(c, 10));

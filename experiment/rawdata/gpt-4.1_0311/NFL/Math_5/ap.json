@@ -1,0 +1,52 @@
+[
+  {
+    "bug_id": "Math_5",
+    "ap_id": 822490,
+    "file": "src/main/java/org/apache/commons/math3/complex/Complex.java",
+    "line": 305,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_5",
+    "ap_id": 822491,
+    "file": "src/main/java/org/apache/commons/math3/complex/Complex.java",
+    "line": 305,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_5",
+    "ap_id": 822489,
+    "file": "src/main/java/org/apache/commons/math3/complex/Complex.java",
+    "line": 305,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_5",
+    "ap_id": 822492,
+    "file": "src/main/java/org/apache/commons/math3/complex/Complex.java",
+    "line": 305,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_5",
+    "ap_id": 822493,
+    "file": "src/main/java/org/apache/commons/math3/complex/Complex.java",
+    "line": 305,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

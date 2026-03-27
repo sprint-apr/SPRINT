@@ -1,0 +1,11 @@
+--- Mockito_8/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
++++ Mockito_8/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
+@@ -77,6 +77,8 @@
+             if (actualTypeArgument instanceof WildcardType) {
+                 contextualActualTypeParameters.put(typeParameter, boundsOf((WildcardType) actualTypeArgument));
+             } else {
++if (actualTypeArgument == null || actualTypeArgument == typeParameter)
++	return;
+                 contextualActualTypeParameters.put(typeParameter, actualTypeArgument);
+             }
+             // logger.log("For '" + parameterizedType + "' found type variable : { '" + typeParameter + "(" + System.identityHashCode(typeParameter) + ")" + "' : '" + actualTypeArgument + "(" + System.identityHashCode(typeParameter) + ")" + "' }");

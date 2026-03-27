@@ -1,0 +1,10 @@
+--- Math_106/src/java/org/apache/commons/math/fraction/ProperFractionFormat.java
++++ Math_106/src/java/org/apache/commons/math/fraction/ProperFractionFormat.java
+@@ -199,6 +199,7 @@
+         
+             // minus signs must be leading, invalid
+ 
++if (num.intValue() < 0 || den.intValue() <= 0 || (whole.intValue() < 0 && num.intValue() < 0)) { pos.setIndex(initialIndex); return null; }
+         int w = whole.intValue();
+         int n = num.intValue();
+         int d = den.intValue();

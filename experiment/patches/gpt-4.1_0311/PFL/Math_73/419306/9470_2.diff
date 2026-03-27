@@ -1,0 +1,11 @@
+--- Math_73/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
++++ Math_73/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+@@ -135,7 +135,7 @@
+ 
+ 
+         // full Brent algorithm starting with provided initial guess
+-        return solve(f, min, yMin, max, yMax, initial, yInitial);
++throw new IllegalArgumentException("Non-bracketing: yMin=" + yMin + ", yMax=" + yMax + ", yInitial=" + yInitial);
+ 
+     }
+ 

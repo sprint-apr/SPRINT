@@ -1,0 +1,11 @@
+--- Math_45/src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java
++++ Math_45/src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java
+@@ -47,6 +47,8 @@
+      */
+     public OpenMapRealMatrix(int rowDimension, int columnDimension) {
+         super(rowDimension, columnDimension);
++if (rowDimension + columnDimension < 0)
++	throw new NumberIsTooLargeException(null,0,0,false);
+         this.rows = rowDimension;
+         this.columns = columnDimension;
+         this.entries = new OpenIntToDoubleHashMap(0.0);

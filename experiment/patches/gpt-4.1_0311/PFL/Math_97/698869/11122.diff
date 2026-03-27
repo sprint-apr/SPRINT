@@ -1,0 +1,10 @@
+--- Math_97/src/java/org/apache/commons/math/analysis/BrentSolver.java
++++ Math_97/src/java/org/apache/commons/math/analysis/BrentSolver.java
+@@ -135,6 +135,7 @@
+         
+         // Verify bracketing
+         double sign = yMin * yMax;
++if (Math.abs(yMax) < 1E-12) { return max; }
+         if (sign >= 0) {
+             // check if either value is close to a zero
+                 // neither value is close to zero and min and max do not bracket root.

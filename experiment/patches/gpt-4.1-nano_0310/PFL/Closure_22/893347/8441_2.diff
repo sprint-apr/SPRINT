@@ -1,0 +1,11 @@
+--- Closure_22/src/com/google/javascript/jscomp/CheckSideEffects.java
++++ Closure_22/src/com/google/javascript/jscomp/CheckSideEffects.java
+@@ -114,6 +114,8 @@
+           if (ancestorType == Token.COMMA)
+             continue;
+           if (ancestorType != Token.EXPR_RESULT && ancestorType != Token.BLOCK)
++if (n.isQualifiedName())
++
+             return;
+           else
+             break;

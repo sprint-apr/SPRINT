@@ -1,0 +1,11 @@
+--- Time_2/src/main/java/org/joda/time/field/UnsupportedDurationField.java
++++ Time_2/src/main/java/org/joda/time/field/UnsupportedDurationField.java
+@@ -224,7 +224,7 @@
+      * @return zero always
+      */
+     public int compareTo(DurationField durationField) {
+-        return 0;
++return durationField == this ? 0 : 1;
+     }
+ 
+     //------------------------------------------------------------------------

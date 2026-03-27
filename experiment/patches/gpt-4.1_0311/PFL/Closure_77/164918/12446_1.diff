@@ -1,0 +1,10 @@
+--- Closure_77/src/com/google/javascript/jscomp/CodeGenerator.java
++++ Closure_77/src/com/google/javascript/jscomp/CodeGenerator.java
+@@ -962,6 +962,7 @@
+     sb.append(quote);
+     for (int i = 0; i < s.length(); i++) {
+       char c = s.charAt(i);
++if (c == 0) { sb.append("\\0"); continue; }
+       switch (c) {
+         case '\n': sb.append("\\n"); break;
+         case '\r': sb.append("\\r"); break;

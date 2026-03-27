@@ -1,0 +1,5222 @@
+[
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194217,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 193,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194218,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 193,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194219,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 193,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194220,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 193,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194221,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 193,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194216,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 193,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194222,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 193,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194223,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194224,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194225,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194226,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194227,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194228,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194229,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194232,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194234,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194233,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194231,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194230,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194235,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194236,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194237,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194238,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194239,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194242,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194244,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194243,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194241,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194240,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194245,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194246,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194247,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194250,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194251,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194249,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194248,
+    "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194252,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194253,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194254,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194255,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194256,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194257,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194258,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194259,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194261,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194260,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 86,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194262,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194263,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194264,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194265,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194266,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194267,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194268,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194269,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194271,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194270,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194272,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194273,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194274,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194275,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194276,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194277,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194278,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194279,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194281,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194280,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194283,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194282,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194284,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194292,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194291,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194285,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194286,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194287,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194288,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194289,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194290,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194303,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194302,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194293,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194294,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194295,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194296,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194297,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194298,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194299,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194300,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194301,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 91,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194314,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194313,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194304,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194305,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194306,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194307,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194308,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194309,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194310,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194311,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194312,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 92,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194326,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194325,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194315,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194316,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194317,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194318,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194319,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194320,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194321,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194322,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194323,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194324,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 94,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194343,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194342,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194327,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194328,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194329,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194330,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194331,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194332,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194333,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194334,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194335,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194336,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194337,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194338,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194339,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194340,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194341,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 95,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194358,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194357,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194344,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194345,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194346,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194347,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194348,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194349,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194350,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194351,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194352,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194353,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194354,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194355,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194356,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 96,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194367,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194366,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194359,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194360,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194361,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194362,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194363,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194364,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194365,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 97,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194392,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194391,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194368,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194369,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194370,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194371,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194372,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194373,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194374,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194375,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194376,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194377,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194378,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194379,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194380,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194381,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194382,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194383,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194384,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194385,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194386,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194387,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194388,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194389,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194390,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 98,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194399,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194393,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194394,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194395,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194396,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194397,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194398,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194400,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 100,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194407,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194405,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194404,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194401,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194402,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194403,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194406,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194408,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 101,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194416,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194414,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194413,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194409,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194410,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194411,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194412,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194415,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194417,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 102,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194424,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194422,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194421,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194418,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194419,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194420,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194423,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194425,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 103,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194435,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194426,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194427,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194428,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194429,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194430,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194431,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194432,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194433,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194434,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194436,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 108,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194445,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194437,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194438,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194439,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194440,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194441,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194442,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194443,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194444,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194446,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 109,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194450,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194451,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194452,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194453,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194454,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194455,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194456,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194457,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194447,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194448,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194449,
+    "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+    "line": 111,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194464,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194458,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194459,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194460,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194461,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194462,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194463,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194465,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 130,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194475,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194466,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194467,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194468,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194469,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194470,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194471,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194472,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194473,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194474,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194476,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 131,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194480,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 132,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194477,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 132,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194478,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 132,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194479,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 132,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194481,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 132,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194490,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194483,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194484,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194485,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194486,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194487,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194488,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194489,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194491,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194482,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 135,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194500,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194492,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194493,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194494,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194495,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194496,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194497,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194498,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194499,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194501,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 136,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194502,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 137,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194503,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 137,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194504,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 137,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194505,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 137,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194506,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194508,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194509,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194510,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194511,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194512,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194513,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194515,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194514,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 138,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194516,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 125,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194517,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 125,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194518,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 125,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194519,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 125,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194520,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 125,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194521,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 125,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194522,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 125,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194523,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194524,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194525,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194526,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194527,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194528,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194529,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194530,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 126,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194533,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194531,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194532,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194534,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194535,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194536,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194537,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194538,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 127,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194539,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194540,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194541,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194542,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194543,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194544,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194545,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194546,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194547,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194548,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194549,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194550,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 128,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194551,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 129,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194552,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 129,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194553,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 129,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194554,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 129,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194555,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 129,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194556,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194557,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194558,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194559,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194560,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194561,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194562,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194563,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 142,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194564,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 158,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194565,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 158,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194566,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 158,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194567,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 158,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194568,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 158,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194569,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 176,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194570,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 176,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194571,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 176,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194572,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 176,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194573,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 176,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194574,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 385,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194575,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 385,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194576,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 385,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194577,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 385,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194578,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 385,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194579,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 385,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194584,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 105,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194583,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 105,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194582,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 105,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194581,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 105,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194580,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 105,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194585,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 105,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194586,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 105,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194591,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 106,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194590,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 106,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194589,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 106,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194588,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 106,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194587,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 106,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194592,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 106,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194596,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 109,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194595,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 109,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194594,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 109,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194593,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 109,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194597,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 109,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194601,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 114,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194600,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 114,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194599,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 114,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194598,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 114,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194602,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 114,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194507,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 118,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194608,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 118,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194607,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 118,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194606,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 118,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194605,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 118,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194604,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 118,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194603,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 118,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194614,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 119,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194613,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 119,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194612,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 119,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194611,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 119,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194610,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 119,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194609,
+    "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+    "line": 119,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194615,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194616,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194617,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194618,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194619,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194620,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194621,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194624,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194622,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194623,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194625,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 268,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194633,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194632,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194631,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194630,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194629,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194628,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194627,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194626,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 279,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194641,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194639,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194636,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194635,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194634,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194637,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194638,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194640,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 280,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194647,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194646,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194645,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194643,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194642,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194644,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194648,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194649,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 281,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194651,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 283,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194650,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 283,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194656,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 283,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194652,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 283,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194653,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 283,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194654,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 283,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194655,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 283,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194661,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194662,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194664,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194665,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194657,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194658,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194659,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194660,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194663,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 292,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194669,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194672,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194670,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194671,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194673,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194674,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194666,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194667,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194668,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 293,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194675,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194676,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194677,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194678,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194681,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194679,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194680,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194682,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194683,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 294,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194684,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194685,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194686,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194687,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194688,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194692,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194693,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194694,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194695,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194696,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194697,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194698,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194699,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194700,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194701,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194702,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194703,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194704,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194705,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194706,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194707,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194710,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194691,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194690,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194689,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194709,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194711,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194708,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 295,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194712,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 308,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194713,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 308,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194714,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 308,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194717,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 308,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194715,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 308,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194716,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 308,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194718,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 308,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194719,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194720,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194721,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194722,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194723,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194726,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194724,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194725,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194727,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194728,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 309,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194729,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194730,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194731,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194732,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194733,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194736,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194734,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194735,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_2",
+    "ap_id": 194737,
+    "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+    "line": 321,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

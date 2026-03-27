@@ -1,0 +1,10 @@
+--- Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java
++++ Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java
+@@ -170,6 +170,7 @@
+             doc.outputSettings().charset(charset);
+                 // some charsets can read but not encode; switch to an encodable charset and update the meta el
+         }
++if (!doc.outputSettings().charset().canEncode()) { doc.outputSettings().charset(Charset.forName(defaultCharset)); doc.select("meta[http-equiv=content-type], meta[charset]").attr("charset", defaultCharset); }
+         input.close();
+         return doc;
+     }

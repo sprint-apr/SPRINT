@@ -1,0 +1,11 @@
+--- Closure_59/src/com/google/javascript/jscomp/Compiler.java
++++ Closure_59/src/com/google/javascript/jscomp/Compiler.java
+@@ -252,7 +252,7 @@
+           CheckLevel.OFF);
+     }
+ 
+-    if (options.checkGlobalThisLevel.isOn()) {
++    if ((options.checkGlobalThisLevel.isOn() && !options.checkTypes ? options.checkGlobalThisLevel : CheckLevel.OFF).isOn()) {
+       options.setWarningLevel(
+           DiagnosticGroups.GLOBAL_THIS,
+           options.checkGlobalThisLevel);

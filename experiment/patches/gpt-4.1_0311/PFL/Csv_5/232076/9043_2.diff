@@ -1,0 +1,10 @@
+--- Csv_5/src/main/java/org/apache/commons/csv/CSVPrinter.java
++++ Csv_5/src/main/java/org/apache/commons/csv/CSVPrinter.java
+@@ -321,6 +321,7 @@
+      *             If an I/O error occurs
+      */
+     public void println() throws IOException {
++if (format.getRecordSeparator() == null) { newRecord = true; return; }
+         final String recordSeparator = format.getRecordSeparator();
+             out.append(recordSeparator);
+         newRecord = true;

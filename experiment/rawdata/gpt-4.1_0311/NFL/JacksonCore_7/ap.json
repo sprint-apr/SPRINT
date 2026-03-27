@@ -1,0 +1,4432 @@
+[
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291638,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291634,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291639,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291640,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291642,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291641,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291635,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291637,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291636,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1039,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291649,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291644,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291643,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291648,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291650,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291645,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291646,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291647,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 833,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291657,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 834,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291652,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 834,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291651,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 834,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291653,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 834,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291654,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 834,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291655,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 834,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291656,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 834,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291665,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291659,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291658,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291660,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291661,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291662,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291663,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291664,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291666,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 835,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291674,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291668,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291667,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291669,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291670,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291672,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291671,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291673,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291675,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 836,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291679,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 839,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291678,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 839,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291676,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 839,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291677,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 839,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291681,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291680,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291686,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291682,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291683,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291684,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291685,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291687,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1036,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291690,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1037,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291691,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1037,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291692,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1037,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291693,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1037,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291688,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1037,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291689,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1037,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291694,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1037,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291697,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291698,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291699,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291700,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291701,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291703,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291695,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291696,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291702,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1038,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291705,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1042,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291704,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1042,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291706,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1042,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291707,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1042,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291708,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291709,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291716,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291717,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291721,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291722,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291720,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291719,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291718,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291715,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291714,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291713,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291712,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291711,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291710,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 431,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291723,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 433,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291724,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 433,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291725,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 433,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291726,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 433,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291727,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 433,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291729,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 433,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291728,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 433,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291730,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291731,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291733,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291734,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291736,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291737,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291735,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291732,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 437,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291738,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291739,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291741,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291742,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291744,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291745,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291743,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291740,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 440,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291746,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291747,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291749,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291750,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291751,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291752,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291753,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291755,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291754,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291748,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 441,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291756,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 445,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291757,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 445,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291762,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 445,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291761,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 445,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291760,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 445,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291759,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 445,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291758,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 445,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291763,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291764,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291769,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291770,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291768,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291767,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291766,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291765,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 448,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291771,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 449,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291772,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 449,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291773,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 449,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291774,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 449,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291782,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291781,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291780,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291778,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291777,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291776,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291775,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291779,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 169,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291783,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291784,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291785,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291786,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291787,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291788,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291789,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291790,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 170,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291796,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 171,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291793,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 171,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291794,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 171,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291792,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 171,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291791,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 171,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291795,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 171,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291804,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291802,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291799,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291803,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291801,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291800,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291798,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291797,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 419,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291810,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 420,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291809,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 420,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291808,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 420,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291807,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 420,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291811,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 420,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291806,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 420,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291805,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 420,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291814,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291820,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291816,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291821,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291819,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291818,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291817,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291813,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291815,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291812,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 425,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291822,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 426,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291827,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 426,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291823,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 426,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291828,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 426,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291826,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 426,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291825,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 426,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291824,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 426,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291840,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291841,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291831,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291830,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291833,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291829,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291832,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291834,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291835,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291836,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291837,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291838,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291839,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 130,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291842,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291843,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291844,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291845,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291846,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291847,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291850,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291848,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291849,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 131,
+    "sbfl_score": 0.22645540682891913,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291851,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 975,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291854,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 975,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291855,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 975,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291853,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 975,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291852,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 975,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291857,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 976,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291859,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 976,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291858,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 976,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291856,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 976,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291860,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 976,
+    "sbfl_score": 0.22360679774997896,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291861,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291868,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291867,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291866,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291865,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291864,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291863,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291862,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 128,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291874,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 129,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291873,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 129,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291872,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 129,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291871,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 129,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291870,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 129,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291869,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 129,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291875,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 129,
+    "sbfl_score": 0.22086305214969307,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291879,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 314,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291878,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 314,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291877,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 314,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291876,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 314,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291880,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 314,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291881,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 314,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291882,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 314,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291888,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291889,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291883,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291884,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291885,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291886,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291887,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291890,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 317,
+    "sbfl_score": 0.21320071635561041,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291891,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291892,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291893,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291894,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291895,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291896,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291897,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291899,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291898,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 309,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291904,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291900,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291901,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291905,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291906,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291907,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291902,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291903,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291908,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291909,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 310,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291910,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291911,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291912,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291913,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291914,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291915,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291917,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291916,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 311,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291918,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 319,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291919,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 319,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291920,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 319,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291921,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 319,
+    "sbfl_score": 0.20412414523193154,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291922,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 989,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291923,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 989,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291924,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 989,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291925,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 989,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291926,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 989,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291927,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 989,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291928,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 989,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291936,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291931,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291929,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291930,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291932,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291933,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291934,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291935,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 992,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291944,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291937,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291938,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291939,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291940,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291941,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291943,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291942,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 993,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291949,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 994,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291946,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 994,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291948,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 994,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291947,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 994,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291945,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 994,
+    "sbfl_score": 0.1889822365046136,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291956,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1221,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291954,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1221,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291953,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1221,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291952,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1221,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291951,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1221,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291950,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1221,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291955,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1221,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291964,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291959,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291957,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291963,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291958,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291960,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291961,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291962,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291965,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1223,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291972,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291967,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291966,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291968,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291969,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291970,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291971,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291973,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1224,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291980,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291975,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291974,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291976,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291977,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291978,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291979,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291981,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1225,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291984,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1227,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291983,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1227,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291982,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1227,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291985,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1227,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291986,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1227,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291992,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1228,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291988,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1228,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291987,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1228,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291993,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1228,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291989,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1228,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291990,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1228,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291991,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1228,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292001,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291995,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291994,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291996,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291997,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291998,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 291999,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292000,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1230,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292008,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1233,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292006,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1233,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292003,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1233,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292002,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1233,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292004,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1233,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292005,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1233,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292007,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1233,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292015,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1234,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292014,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1234,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292013,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1234,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292011,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1234,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292010,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1234,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292009,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1234,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292012,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1234,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292019,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1235,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292018,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1235,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292016,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1235,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292017,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1235,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292020,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1235,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292027,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292022,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292021,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292024,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292025,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292026,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292028,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292023,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1236,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292033,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1237,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292031,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1237,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292030,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1237,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292029,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1237,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292032,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1237,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292037,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1249,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292036,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1249,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292034,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1249,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292035,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java",
+    "line": 1249,
+    "sbfl_score": 0.17149858514250882,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292043,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 774,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292039,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 774,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292042,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 774,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292040,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 774,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292041,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 774,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292038,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 774,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292045,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 775,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292047,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 775,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292048,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 775,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292046,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 775,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292044,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java",
+    "line": 775,
+    "sbfl_score": 0.15811388300841897,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292052,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 168,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292051,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 168,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292050,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 168,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292049,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 168,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292054,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 168,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292053,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 168,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292055,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 175,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292056,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 175,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292057,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 175,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292058,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 175,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292059,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 175,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292060,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 175,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292065,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292066,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292067,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292068,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292061,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292062,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292063,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292064,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 183,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292072,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292076,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292069,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292070,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292071,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292075,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292074,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_7",
+    "ap_id": 292073,
+    "file": "src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java",
+    "line": 184,
+    "sbfl_score": 0.15617376188860607,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

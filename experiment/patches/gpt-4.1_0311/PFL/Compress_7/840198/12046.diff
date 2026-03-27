@@ -1,0 +1,11 @@
+--- Compress_7/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_7/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -98,7 +98,7 @@
+             if (buffer[i] == 0) {
+                 break;
+             }
+-            result.append((char) buffer[i]);
++result.append(buffer[i] != 0 ? (char) (buffer[i] & 0xFF) : ' ');
+         }
+ 
+         return result.toString();

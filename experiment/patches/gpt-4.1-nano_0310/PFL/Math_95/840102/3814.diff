@@ -1,0 +1,11 @@
+--- Math_95/src/java/org/apache/commons/math/distribution/FDistributionImpl.java
++++ Math_95/src/java/org/apache/commons/math/distribution/FDistributionImpl.java
+@@ -142,7 +142,7 @@
+      */
+     protected double getInitialDomain(double p) {
+         double ret;
+-        double d = getDenominatorDegreesOfFreedom();
++        double d = getDenominatorDegreesOfFreedom() - Math.PI;
+             // use mean
+             ret = d / (d - 2.0);
+         return ret;

@@ -1,0 +1,11 @@
+--- Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
++++ Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
+@@ -665,6 +665,8 @@
+         if (header != null) {
+             final Set<String> set = new HashSet<String>(header.length);
+             set.addAll(Arrays.asList(header));
++if (header.length > set.size())
++	throw new IllegalArgumentException();
+             if (set.size() != header.length) {
+                 throw new IllegalStateException("The header contains duplicate names: " + Arrays.toString(header));
+             }

@@ -1,0 +1,10 @@
+--- Lang_46/src/java/org/apache/commons/lang/StringEscapeUtils.java
++++ Lang_46/src/java/org/apache/commons/lang/StringEscapeUtils.java
+@@ -241,6 +241,7 @@
+                         out.write('\\');
+                         break;
+                     case '/' :
++if (escapeSingleQuote)
+                             out.write('\\');
+                         out.write('/');
+                         break;

@@ -1,0 +1,11 @@
+--- Cli_28/src/java/org/apache/commons/cli/Parser.java
++++ Cli_28/src/java/org/apache/commons/cli/Parser.java
+@@ -287,7 +287,7 @@
+                 {
+                     // if the value is not yes, true or 1 then don't add the
+                     // option to the CommandLine
+-                    break;
++System.err.println("Skipping option due to invalid value: " + option); continue;
+                 }
+ 
+                 cmd.addOption(opt);

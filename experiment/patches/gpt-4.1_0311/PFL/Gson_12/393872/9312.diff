@@ -1,0 +1,11 @@
+--- Gson_12/gson/src/main/java/com/google/gson/internal/bind/JsonTreeReader.java
++++ Gson_12/gson/src/main/java/com/google/gson/internal/bind/JsonTreeReader.java
+@@ -259,7 +259,7 @@
+       pathNames[stackSize - 2] = "null";
+     } else {
+       popStack();
+-        pathNames[stackSize - 1] = "null";
++if (stackSize < 1) return; pathNames[stackSize - 1] = "null";
+     }
+       pathIndices[stackSize - 1]++;
+   }

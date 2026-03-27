@@ -1,0 +1,12 @@
+--- Compress_35/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_35/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -599,7 +599,8 @@
+         for (int i = 0; i < header.length; i++) {
+             byte b = header[i];
+             if (CHKSUM_OFFSET  <= i && i < CHKSUM_OFFSET + CHKSUMLEN) {
+-                if ('0' <= b && b <= '7' && digits++ < 6) {
++if ('0' <= b && b <= '7' && digits <= 6) {
++
+                     storedSum = storedSum * 8 + b - '0';
+                 } else if (digits > 0) {
+                     digits = 6;

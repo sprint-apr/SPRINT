@@ -1,0 +1,62 @@
+[
+  {
+    "bug_id": "JacksonDatabind_45",
+    "ap_id": 624748,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java",
+    "line": 63,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_45",
+    "ap_id": 624749,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java",
+    "line": 63,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonDatabind_45",
+    "ap_id": 624750,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java",
+    "line": 63,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_45",
+    "ap_id": 624751,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java",
+    "line": 63,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_45",
+    "ap_id": 624752,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java",
+    "line": 63,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonDatabind_45",
+    "ap_id": 624753,
+    "file": "src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java",
+    "line": 63,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

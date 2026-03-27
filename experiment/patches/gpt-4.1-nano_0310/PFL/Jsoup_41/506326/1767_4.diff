@@ -1,0 +1,11 @@
+--- Jsoup_41/src/main/java/org/jsoup/nodes/Element.java
++++ Jsoup_41/src/main/java/org/jsoup/nodes/Element.java
+@@ -1172,7 +1172,7 @@
+ 
+         Element element = (Element) o;
+ 
+-        return this == o;
++return this.getClass() == o.getClass() && super.equals(o);
+     }
+ 
+     @Override

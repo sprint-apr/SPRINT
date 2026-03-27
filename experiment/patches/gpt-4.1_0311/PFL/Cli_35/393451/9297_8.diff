@@ -1,0 +1,10 @@
+--- Cli_35/src/main/java/org/apache/commons/cli/Options.java
++++ Cli_35/src/main/java/org/apache/commons/cli/Options.java
+@@ -238,6 +238,7 @@
+ 
+         // for a perfect match return the single option only
+ 
++if ((longOpts.values().size() > 0) && longOpts.containsKey(opt)) { matchingOpts.add(opt); return matchingOpts; }
+         for (String longOpt : longOpts.keySet())
+         {
+             if (longOpt.startsWith(opt))

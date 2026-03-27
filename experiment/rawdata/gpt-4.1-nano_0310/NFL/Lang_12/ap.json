@@ -1,0 +1,872 @@
+[
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 923614,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 236,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 923615,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 236,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 923613,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 236,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 923616,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 236,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 923617,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 236,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 923618,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 236,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446846,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446847,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446848,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446837,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446838,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446841,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446839,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446840,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446842,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446843,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446844,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446845,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 248,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446853,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446849,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446850,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446851,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446852,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446854,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 225,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446855,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 227,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446856,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 227,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446857,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 227,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446858,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 227,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446859,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 227,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446860,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446861,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446862,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446863,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446864,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446865,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446866,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 228,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446867,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446868,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446869,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446870,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446871,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446872,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446873,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446874,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446875,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 231,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446876,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446877,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446878,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446879,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446880,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446881,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446882,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446883,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446884,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 232,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446891,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 233,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446885,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 233,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446886,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 233,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446887,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 233,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446888,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 233,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446889,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 233,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446890,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 233,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446892,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 240,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446893,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 240,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446895,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 240,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446896,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 240,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446897,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 240,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446894,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 240,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446898,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446899,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446900,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446901,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446902,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446903,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446904,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446905,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446906,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 241,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446907,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 243,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446908,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 243,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446909,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 243,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446910,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 243,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446911,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 243,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446912,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 245,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446913,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 245,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446914,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 245,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446915,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 245,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446916,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 245,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_12",
+    "ap_id": 446917,
+    "file": "src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+    "line": 245,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

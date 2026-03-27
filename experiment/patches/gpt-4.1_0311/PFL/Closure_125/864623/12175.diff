@@ -1,0 +1,11 @@
+--- Closure_125/src/com/google/javascript/jscomp/TypeCheck.java
++++ Closure_125/src/com/google/javascript/jscomp/TypeCheck.java
+@@ -1658,6 +1658,8 @@
+     JSType type = getJSType(constructor).restrictByNotNullOrUndefined();
+     if (type.isConstructor() || type.isEmptyType() || type.isUnknownType()) {
+       FunctionType fnType = type.toMaybeFunctionType();
++if (type.isEmptyType())
++	return;
+       if (fnType != null) {
+         visitParameterList(t, n, fnType);
+         ensureTyped(t, n, fnType.getInstanceType());

@@ -1,0 +1,10 @@
+--- Codec_5/src/java/org/apache/commons/codec/binary/Base64.java
++++ Codec_5/src/java/org/apache/commons/codec/binary/Base64.java
+@@ -584,6 +584,7 @@
+         // This approach makes the '=' padding characters completely optional.
+         if (eof && modulus != 0) {
+             
++if (buffer == null || pos > buffer.length - decodeSize) { resizeBuffer(); }
+             x = x << 6;
+             switch (modulus) {
+                 case 2 :

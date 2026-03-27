@@ -1,0 +1,11 @@
+--- Math_73/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
++++ Math_73/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+@@ -135,6 +135,8 @@
+ 
+ 
+         // full Brent algorithm starting with provided initial guess
++if (yInitial * yMin > 0 && yInitial * yMax > 0)
++	throw new IllegalArgumentException();
+         return solve(f, min, yMin, max, yMax, initial, yInitial);
+ 
+     }

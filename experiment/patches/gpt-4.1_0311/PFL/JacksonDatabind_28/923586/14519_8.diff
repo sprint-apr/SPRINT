@@ -1,0 +1,10 @@
+--- JacksonDatabind_28/src/main/java/com/fasterxml/jackson/databind/deser/std/JsonNodeDeserializer.java
++++ JacksonDatabind_28/src/main/java/com/fasterxml/jackson/databind/deser/std/JsonNodeDeserializer.java
+@@ -94,6 +94,7 @@
+         @Override
+         public ObjectNode deserialize(JsonParser p, DeserializationContext ctxt) throws IOException
+         {
++if (p.getCurrentToken() == JsonToken.END_OBJECT) { return ctxt.getNodeFactory().objectNode().put("empty", true); }
+             if (p.getCurrentToken() == JsonToken.START_OBJECT) {
+                 p.nextToken();
+                 return deserializeObject(p, ctxt, ctxt.getNodeFactory());

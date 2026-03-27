@@ -1,0 +1,11 @@
+--- Closure_115/src/com/google/javascript/jscomp/FunctionInjector.java
++++ Closure_115/src/com/google/javascript/jscomp/FunctionInjector.java
+@@ -697,7 +697,7 @@
+     boolean hasSideEffects = false;
+     if (block.hasChildren()) {
+       Preconditions.checkState(block.hasOneChild());
+-      Node stmt = block.getFirstChild();
++      Node stmt = block.getFirstChild().getFirstChild();
+       if (stmt.isReturn()) {
+         hasSideEffects = NodeUtil.mayHaveSideEffects(stmt.getFirstChild(), compiler);
+       }

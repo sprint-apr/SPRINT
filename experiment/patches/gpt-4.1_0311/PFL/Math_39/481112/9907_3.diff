@@ -1,0 +1,10 @@
+--- Math_39/src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
++++ Math_39/src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
+@@ -246,6 +246,7 @@
+           firstTime = false;
+         }
+ 
++if (forward ? (stepStart + hNew > t) : (stepStart + hNew < t)) hNew = t - stepStart;
+         stepSize = hNew;
+ 
+         // next stages

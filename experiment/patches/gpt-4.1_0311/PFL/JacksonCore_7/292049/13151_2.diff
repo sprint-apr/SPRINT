@@ -1,0 +1,10 @@
+--- JacksonCore_7/src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java
++++ JacksonCore_7/src/main/java/com/fasterxml/jackson/core/json/JsonWriteContext.java
+@@ -165,6 +165,7 @@
+     
+     public int writeValue() {
+         // Most likely, object:
++if (_type == TYPE_OBJECT && _gotName == false) { return STATUS_EXPECT_NAME; } else if (_type == TYPE_OBJECT) { }
+         if (_type == TYPE_OBJECT) {
+             _gotName = false;
+             ++_index;

@@ -1,0 +1,10 @@
+--- Chart_10/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java
++++ Chart_10/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java
+@@ -62,6 +62,7 @@
+      * @return The formatted HTML area tag attribute(s).
+      */
+     public String generateToolTipFragment(String toolTipText) {
++if (toolTipText != null && toolTipText.length() > 0) toolTipText = toolTipText.replace("\"", "&quot;");
+         return " title=\"" + toolTipText
+             + "\" alt=\"\"";
+     }

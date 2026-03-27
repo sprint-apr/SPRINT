@@ -1,0 +1,10 @@
+--- Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java
++++ Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java
+@@ -87,6 +87,7 @@
+             String type = el.attr("type");
+ 
+ 
++if (type.equals("button")) continue;
+             if ("select".equals(el.normalName())) {
+                 Elements options = el.select("option[selected]");
+                 boolean set = false;

@@ -1,0 +1,2352 @@
+[
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807884,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 89,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807885,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 89,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807888,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 89,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807886,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 89,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807887,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 89,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807889,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 89,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807890,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 89,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807891,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807892,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807896,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807893,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807894,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807895,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807897,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807898,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 60,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807899,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807900,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807901,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807904,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807906,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807902,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807903,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807905,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 63,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807907,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807908,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807910,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807911,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807912,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807909,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807913,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807914,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 66,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807915,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807916,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807917,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807918,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807919,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807920,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807922,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807921,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 69,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807923,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807924,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807925,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807926,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807927,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807928,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807930,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807929,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 72,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807931,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807932,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807933,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807934,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807935,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807936,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807938,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807937,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 75,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807939,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807940,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807941,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807942,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807943,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807944,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807945,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807947,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807946,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 78,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807948,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807949,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807950,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807951,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807952,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807953,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807954,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807956,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807955,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 81,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807957,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 90,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807958,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 90,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807959,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 90,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807960,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 90,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807961,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807962,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807963,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807964,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807965,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807966,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807967,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807968,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 106,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807969,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807970,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807974,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807976,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807971,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807972,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807973,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807975,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 107,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807977,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807978,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807982,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807984,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807979,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807980,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807981,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807983,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 108,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807985,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807986,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807987,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807988,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807989,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807990,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807991,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807992,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807993,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807994,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807995,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 110,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807996,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807997,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807998,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 807999,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808000,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808001,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808002,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808003,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808004,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808005,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808006,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 111,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808007,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808008,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808014,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808017,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808018,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808019,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808021,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808011,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808009,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808010,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808012,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808013,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808015,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808016,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808020,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 112,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808022,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808023,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808029,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808032,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808033,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808034,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808036,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808024,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808025,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808026,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808027,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808028,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808030,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808031,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808035,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 113,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808037,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808038,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808044,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808047,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808048,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808049,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808051,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808039,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808040,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808041,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808042,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808043,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808045,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808046,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808050,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 114,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808052,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808053,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808058,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808059,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808060,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808062,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808054,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808055,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808056,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808057,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808061,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 115,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808064,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808063,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808069,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808070,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808071,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808073,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808065,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808066,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808067,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808068,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808072,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 116,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808074,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808075,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808081,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808076,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808077,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808078,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808079,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808080,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808082,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808083,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 118,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808084,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808085,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808087,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808088,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808089,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808090,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808091,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808093,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808086,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808092,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 119,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808094,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808095,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808096,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808099,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808101,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808097,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808098,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808100,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 120,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808102,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 121,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808103,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 121,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808104,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 121,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808105,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 121,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808106,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808107,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808108,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808109,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808110,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808111,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808112,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808113,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808114,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808115,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808116,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808117,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_105",
+    "ap_id": 808118,
+    "file": "src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+    "line": 264,
+    "sbfl_score": 0.3333333333333333,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

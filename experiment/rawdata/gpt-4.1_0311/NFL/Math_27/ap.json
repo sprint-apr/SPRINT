@@ -1,0 +1,72 @@
+[
+  {
+    "bug_id": "Math_27",
+    "ap_id": 548141,
+    "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+    "line": 597,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_27",
+    "ap_id": 548142,
+    "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+    "line": 597,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_27",
+    "ap_id": 548143,
+    "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+    "line": 597,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_27",
+    "ap_id": 548144,
+    "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+    "line": 597,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_27",
+    "ap_id": 548145,
+    "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+    "line": 597,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_27",
+    "ap_id": 548146,
+    "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+    "line": 597,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_27",
+    "ap_id": 548147,
+    "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+    "line": 597,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

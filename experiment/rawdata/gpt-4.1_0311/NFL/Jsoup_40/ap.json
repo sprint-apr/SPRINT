@@ -1,0 +1,762 @@
+[
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898651,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 92,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898649,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 92,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898650,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 92,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898653,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 92,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898648,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 92,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898654,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 92,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898652,
+    "file": "src/main/java/org/jsoup/helper/Validate.java",
+    "line": 92,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898655,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898656,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898657,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898658,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898659,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898660,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898661,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898662,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898663,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898664,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1142,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898665,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898666,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898667,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898668,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898669,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898670,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898671,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898672,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898673,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1143,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898674,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898675,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898676,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898677,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898678,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898679,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898680,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898681,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1144,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898689,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898685,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898686,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898687,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898688,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898690,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898682,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898683,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898684,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1145,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898691,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898692,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898693,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898694,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898695,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898696,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898697,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898698,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898699,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1146,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898700,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1147,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898701,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1147,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898702,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1147,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898703,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1147,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898704,
+    "file": "src/main/java/org/jsoup/parser/TokeniserState.java",
+    "line": 1147,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898712,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898713,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898714,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898711,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898710,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898706,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898708,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898709,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898705,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898707,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 20,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898715,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898716,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898717,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898718,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898719,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898720,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898721,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898722,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_40",
+    "ap_id": 898723,
+    "file": "src/main/java/org/jsoup/nodes/DocumentType.java",
+    "line": 22,
+    "sbfl_score": 0.31622776601683794,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

@@ -1,0 +1,11 @@
+--- Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -453,7 +453,7 @@
+      */
+     void writePaxHeaders(String entryName,
+                          Map<String, String> headers) throws IOException {
+-        String name = "./PaxHeaders.X/" + stripTo7Bits(entryName);
++        String name = "./PaxHeaders.X/" + stripTo7Bits(headers.containsKey(entryName) ? entryName : "unknown");
+             // TarEntry's constructor would think this is a directory
+             // and not allow any data to be written
+         if (name.length() >= TarConstants.NAMELEN) {

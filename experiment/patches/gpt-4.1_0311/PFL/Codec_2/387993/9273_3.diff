@@ -1,0 +1,10 @@
+--- Codec_2/src/java/org/apache/commons/codec/binary/Base64.java
++++ Codec_2/src/java/org/apache/commons/codec/binary/Base64.java
+@@ -443,6 +443,7 @@
+                     }
+                     break;
+             }
++if (pos == 0 && (encodeTable == STANDARD_ENCODE_TABLE)) return;
+             if (lineLength > 0) {
+                 System.arraycopy(lineSeparator, 0, buf, pos, lineSeparator.length);
+                 pos += lineSeparator.length;

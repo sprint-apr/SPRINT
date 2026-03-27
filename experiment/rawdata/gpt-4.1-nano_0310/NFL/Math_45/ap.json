@@ -1,0 +1,322 @@
+[
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768811,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 49,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768812,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 49,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768816,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 49,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768813,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 49,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768814,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 49,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768815,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 49,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768817,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 49,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768818,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 50,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768819,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 50,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768820,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 50,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768821,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 50,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768822,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 50,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768823,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 50,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768824,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 51,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768825,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 51,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768828,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 51,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768826,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 51,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768827,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 51,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768829,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 51,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768830,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768831,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768837,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768832,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768833,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768834,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768835,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768836,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768838,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 52,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768839,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 53,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768841,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 53,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768842,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 53,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_45",
+    "ap_id": 768840,
+    "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+    "line": 53,
+    "sbfl_score": 0.1796053020267749,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

@@ -1,0 +1,11 @@
+--- Time_9/src/main/java/org/joda/time/DateTimeZone.java
++++ Time_9/src/main/java/org/joda/time/DateTimeZone.java
+@@ -259,6 +259,8 @@
+         }
+         int offset = 0;
+         try {
++if (Math.abs(hoursOffset) > 23)
++	throw new IllegalArgumentException();
+             int hoursInMinutes = FieldUtils.safeMultiply(hoursOffset, 60);
+             if (hoursInMinutes < 0) {
+                 minutesOffset = FieldUtils.safeAdd(hoursInMinutes, -minutesOffset);

@@ -1,0 +1,11 @@
+--- Cli_3/src/java/org/apache/commons/cli/TypeHandler.java
++++ Cli_3/src/java/org/apache/commons/cli/TypeHandler.java
+@@ -159,7 +159,7 @@
+     {
+         try
+         {
+-            return NumberUtils.createNumber(str);
++            return Double.valueOf(str);
+         }
+         catch (NumberFormatException nfe)
+         {

@@ -1,0 +1,11 @@
+--- Gson_6/gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java
++++ Gson_6/gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java
+@@ -64,7 +64,7 @@
+       throw new IllegalArgumentException(
+           "@JsonAdapter value must be TypeAdapter or TypeAdapterFactory reference.");
+     }
+-      typeAdapter = typeAdapter.nullSafe();
++typeAdapter = (typeAdapter != null ? typeAdapter.nullSafe() : null);
+     return typeAdapter;
+   }
+ }

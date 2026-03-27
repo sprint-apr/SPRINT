@@ -1,0 +1,3232 @@
+[
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862634,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862633,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862632,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862631,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862630,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862629,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862628,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862627,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 91,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862638,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862641,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862639,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862640,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862642,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862635,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862636,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862637,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 204,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862643,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862644,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862645,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862646,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862647,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862650,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862648,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862649,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862651,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862652,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 68,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862659,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862661,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862662,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862653,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862654,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862656,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862657,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862660,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862658,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862655,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 69,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862667,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 70,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862668,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 70,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862663,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 70,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862664,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 70,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862665,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 70,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862666,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 70,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862674,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 71,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862669,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 71,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862670,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 71,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862671,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 71,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862672,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 71,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862673,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 71,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862675,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 71,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862680,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 74,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862676,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 74,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862677,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 74,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862678,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 74,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862679,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 74,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862685,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 80,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862681,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 80,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862682,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 80,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862683,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 80,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862684,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 80,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862691,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 84,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862686,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 84,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862687,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 84,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862688,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 84,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862689,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 84,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862690,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 84,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862693,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862695,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862696,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862697,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862699,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862700,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862692,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862694,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862698,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 87,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862705,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 88,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862706,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 88,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862702,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 88,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862701,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 88,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862703,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 88,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862704,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 88,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862712,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862713,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862715,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862707,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862708,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862709,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862710,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862711,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862714,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862716,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 89,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862719,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862722,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862717,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862718,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862720,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862721,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 90,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862727,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 198,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862723,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 198,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862724,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 198,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862725,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 198,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862726,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 198,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862738,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862739,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862737,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862736,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862730,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862728,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862729,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862731,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862732,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862733,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862734,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862735,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 225,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862743,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862744,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862745,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862746,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862747,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862748,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862742,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862741,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862740,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 18,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862749,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 19,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862750,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 19,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862751,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 19,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862752,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 19,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862753,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 19,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862754,
+    "file": "src/main/java/com/fasterxml/jackson/core/io/NumberInput.java",
+    "line": 19,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862755,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862756,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862757,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862758,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 55,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862759,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 56,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862760,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 56,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862761,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 56,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862762,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 56,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862763,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 56,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862764,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 56,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862765,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 57,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862766,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 57,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862767,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 57,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862768,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 57,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862769,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 57,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862770,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 57,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862772,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862773,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862774,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862775,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862776,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862771,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 58,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862777,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 59,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862778,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 59,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862779,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 59,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862780,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 59,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862781,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 59,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862782,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 59,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862783,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 60,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862784,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 60,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862785,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 60,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862786,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 60,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862790,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 65,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862787,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 65,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862788,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 65,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862789,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 65,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862793,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862794,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862795,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862797,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862798,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862791,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862792,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862796,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 66,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862801,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 67,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862803,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 67,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862804,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 67,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862799,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 67,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862800,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 67,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862802,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 67,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862807,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862808,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862809,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862811,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862812,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862805,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862806,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862810,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 69,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862817,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862818,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862820,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862813,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862814,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862815,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862816,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862819,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862821,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 70,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862822,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 26,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862823,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 26,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862824,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 26,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862825,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 26,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862826,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 26,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862834,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862835,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862837,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862827,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862828,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862829,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862830,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862831,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862832,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862833,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862836,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 91,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862840,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862841,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862842,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862843,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862844,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862845,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862847,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862838,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862839,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862846,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 95,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862852,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862853,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862855,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862848,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862849,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862850,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862851,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862854,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 98,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862861,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862862,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862864,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862865,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862856,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862857,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862858,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862859,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862860,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862863,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 186,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862866,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862867,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862868,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862869,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862870,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862871,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862872,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862873,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 189,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862874,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862876,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862877,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862878,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862879,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862880,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862881,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862882,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862883,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862884,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862875,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 192,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862885,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862886,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862887,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862888,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862889,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862890,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862891,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862892,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862893,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862894,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 193,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862895,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 194,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862896,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 194,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862897,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 194,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862898,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 194,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862899,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 194,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862900,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 194,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862907,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862909,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862910,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862901,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862902,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862903,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862904,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862905,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862906,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862908,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 208,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862917,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 211,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862911,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 211,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862912,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 211,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862913,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 211,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862914,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 211,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862915,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 211,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862916,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 211,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862923,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862924,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862926,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862927,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862918,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862919,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862920,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862921,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862922,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862925,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 212,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862932,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 213,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862928,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 213,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862929,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 213,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862930,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 213,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862931,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 213,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862937,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 217,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862934,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 217,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862935,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 217,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862933,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 217,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862936,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 217,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862938,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 217,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862941,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 219,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862944,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 219,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862939,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 219,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862940,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 219,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862942,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 219,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862943,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 219,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862948,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 223,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862949,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 223,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862945,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 223,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862946,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 223,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "JacksonCore_5",
+    "ap_id": 862947,
+    "file": "src/main/java/com/fasterxml/jackson/core/JsonPointer.java",
+    "line": 223,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  }
+]

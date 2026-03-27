@@ -1,0 +1,4032 @@
+[
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245945,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1542,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245942,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1542,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245943,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1542,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245941,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1542,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245947,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1542,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245946,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1542,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245944,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1542,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245948,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 131,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245949,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 131,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245950,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 131,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245951,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 131,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245952,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 131,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245953,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 131,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245954,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245955,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245956,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245957,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245958,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245959,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245960,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245961,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 132,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245962,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245964,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245963,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245965,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245966,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245967,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245968,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245969,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245970,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 133,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245971,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 134,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245972,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 134,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245974,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 134,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245973,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 134,
+    "sbfl_score": 0.14586499149789456,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245975,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245976,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245977,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245978,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245979,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245980,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245981,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245982,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245983,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 94,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245984,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 144,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245985,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 144,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245986,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 144,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245987,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 144,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245988,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 144,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245989,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 144,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245990,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245991,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245992,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245993,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245994,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245995,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245996,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245997,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 146,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245998,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 245999,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246000,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246001,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246002,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246003,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246004,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246005,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246006,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246007,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246008,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246009,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 147,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246010,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246011,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246012,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246013,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246014,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246015,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246016,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246017,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246018,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246019,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246020,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246021,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246022,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246023,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246024,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246025,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 150,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246028,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246026,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246027,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246029,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246030,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246031,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246032,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246033,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246034,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 151,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246035,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 154,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246036,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 154,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246037,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 154,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246038,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 154,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246039,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 154,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246040,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 154,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246041,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 154,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246042,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 155,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246043,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 155,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246044,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 155,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246045,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 155,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246046,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 167,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246047,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 167,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246048,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 167,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246049,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 167,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246050,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 167,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246051,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246052,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246053,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246054,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246055,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246056,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246057,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246058,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246059,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 172,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246060,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 173,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246061,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 173,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246062,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 173,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246063,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 173,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246064,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 173,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246065,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 173,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246066,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 173,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246067,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 174,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246068,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 174,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246069,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 174,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246070,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 174,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246071,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 174,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246072,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 174,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246073,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 174,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246074,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246075,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246076,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246077,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246078,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246079,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246080,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246081,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246082,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246083,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246084,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246085,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246086,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 176,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246087,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246088,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246089,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246090,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246091,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246092,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246093,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246094,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246095,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246096,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246097,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246098,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246099,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246100,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246101,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246102,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246103,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246104,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246105,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246106,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246107,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246108,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246109,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246110,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 177,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246111,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246112,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246113,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246114,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246115,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246116,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246117,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246118,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246119,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246120,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246121,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246122,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246123,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246124,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246125,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246126,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246127,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246128,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246129,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246130,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246131,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246132,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 178,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246133,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246134,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246135,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246136,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246137,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246138,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246139,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246140,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246141,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246142,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246143,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246144,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246145,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246146,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246147,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 179,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246148,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246149,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246150,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246151,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246152,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246153,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246154,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246155,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246156,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246157,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 180,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246158,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246159,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246160,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246161,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246162,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246163,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246164,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246165,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 181,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246166,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 182,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246167,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 182,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246168,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 182,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246169,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 182,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246170,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 182,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246171,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246172,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246173,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246174,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246175,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246176,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246177,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246178,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246179,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 183,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246180,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 184,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246181,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 184,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246182,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 184,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246183,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 184,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246184,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 184,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246185,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 184,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246186,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 186,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246187,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 186,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246188,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 186,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246189,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 186,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246190,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 186,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246191,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 186,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246192,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 186,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246198,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 187,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246193,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 187,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246194,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 187,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246195,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 187,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246196,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 187,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246197,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 187,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246199,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 187,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246200,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246201,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246202,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246203,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246204,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246205,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246206,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246207,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246208,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 191,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246209,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246210,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246211,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246212,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246213,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246214,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246215,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246216,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246217,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246218,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246219,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246220,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246221,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246222,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246223,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246224,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246225,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246226,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246227,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246228,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246229,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246230,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246231,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 192,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246234,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246232,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246233,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246235,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246236,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246237,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246238,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246239,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246240,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246241,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246242,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246243,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246244,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246245,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246246,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246247,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246248,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246249,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246250,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246251,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246252,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 193,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246253,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246254,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246255,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246256,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246257,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246258,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246259,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246260,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246261,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246262,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246263,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246264,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246265,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 194,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246266,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246267,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246268,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246269,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246270,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246271,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246272,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246273,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246274,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246275,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 195,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246276,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 196,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246277,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 196,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246278,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 196,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246279,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 196,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246280,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 196,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246281,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 196,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246282,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 196,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246283,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 197,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246284,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 197,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246285,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 197,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246286,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 197,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246287,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 197,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246288,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246289,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246290,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246291,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246292,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246293,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246294,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246295,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246296,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246297,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 198,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246298,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 199,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246299,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 199,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246300,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 199,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246301,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 199,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246302,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 199,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246303,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 199,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246304,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 199,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246305,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 203,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246306,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 203,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246307,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 203,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246308,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 203,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246309,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 203,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246310,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 203,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246311,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 205,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246312,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 205,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246313,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 205,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246314,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 205,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246315,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 205,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246316,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 205,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246317,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 205,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246318,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 207,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246319,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 207,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246320,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 207,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246321,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 207,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246326,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246327,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246328,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246329,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246334,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246335,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246322,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246323,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246324,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246325,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246330,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246331,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246332,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246333,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 216,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246336,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 217,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246337,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 217,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246338,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 217,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246339,
+    "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+    "line": 217,
+    "sbfl_score": 0.11952286093343936,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246342,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1541,
+    "sbfl_score": 0.11624763874381928,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246341,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1541,
+    "sbfl_score": 0.11624763874381928,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246343,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1541,
+    "sbfl_score": 0.11624763874381928,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_15",
+    "ap_id": 246340,
+    "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+    "line": 1541,
+    "sbfl_score": 0.11624763874381928,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  }
+]

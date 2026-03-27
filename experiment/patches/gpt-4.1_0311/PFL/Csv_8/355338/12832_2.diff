@@ -1,0 +1,10 @@
+--- Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
++++ Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
+@@ -313,6 +313,7 @@
+         if (header == null) {
+         	this.header = null;
+         } else {
++for (String h : header) { int count = 0; for (String x : header) { if (h != null && h.equals(x)) count++; } if (count > 1) { throw new IllegalArgumentException("Duplicate header value: " + h); } }
+             this.header = header.clone();        	
+         }
+         this.skipHeaderRecord = skipHeaderRecord;

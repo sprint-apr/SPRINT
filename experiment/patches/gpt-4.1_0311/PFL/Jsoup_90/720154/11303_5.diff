@@ -1,0 +1,11 @@
+--- Jsoup_90/src/main/java/org/jsoup/helper/HttpConnection.java
++++ Jsoup_90/src/main/java/org/jsoup/helper/HttpConnection.java
+@@ -422,7 +422,7 @@
+                 }
+ 
+ 
+-                while (i < end) {
++                while ((i < end) && (i >= 0 && i < input.length - 1)) {
+                     i++;
+                     o = input[i];
+                     if ((o & 0xC0) != 0x80) {

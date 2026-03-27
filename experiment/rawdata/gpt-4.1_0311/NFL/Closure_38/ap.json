@@ -1,0 +1,4332 @@
+[
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456922,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456920,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456925,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456921,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456918,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456919,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456917,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456924,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456926,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456923,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 265,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456931,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 2148,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456928,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 2148,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456929,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 2148,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456930,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 2148,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456927,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 2148,
+    "sbfl_score": 0.2041241452319315,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456932,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1139,
+    "sbfl_score": 0.1856953381770519,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456936,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1139,
+    "sbfl_score": 0.1856953381770519,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456934,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1139,
+    "sbfl_score": 0.1856953381770519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456935,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1139,
+    "sbfl_score": 0.1856953381770519,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456933,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1139,
+    "sbfl_score": 0.1856953381770519,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456937,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456947,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456948,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456946,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456942,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456938,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456939,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456940,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456941,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456943,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456944,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456945,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 978,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456951,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456956,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456949,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456950,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456952,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456953,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456954,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456955,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456957,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 979,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456959,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456961,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456962,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456958,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456960,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456963,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456964,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456965,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 171,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456967,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 172,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456966,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 172,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456968,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 172,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456969,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 172,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456970,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1153,
+    "sbfl_score": 0.16012815380508716,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456971,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1153,
+    "sbfl_score": 0.16012815380508716,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456974,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1153,
+    "sbfl_score": 0.16012815380508716,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456973,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1153,
+    "sbfl_score": 0.16012815380508716,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456972,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 1153,
+    "sbfl_score": 0.16012815380508716,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456977,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456975,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456978,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456976,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456979,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456980,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456982,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456981,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1472,
+    "sbfl_score": 0.05933908290969266,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456985,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 1196,
+    "sbfl_score": 0.05923488777590923,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456986,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 1196,
+    "sbfl_score": 0.05923488777590923,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456987,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 1196,
+    "sbfl_score": 0.05923488777590923,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456983,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 1196,
+    "sbfl_score": 0.05923488777590923,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456984,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 1196,
+    "sbfl_score": 0.05923488777590923,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456988,
+    "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+    "line": 1196,
+    "sbfl_score": 0.05923488777590923,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456991,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456989,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456990,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456992,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456993,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456994,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456996,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456995,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1468,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457006,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456997,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456998,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 456999,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457000,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457001,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457004,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457005,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457003,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457002,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1470,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457007,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1471,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457008,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1471,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457012,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1471,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457013,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1471,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457011,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1471,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457010,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1471,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457009,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1471,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457014,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457021,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457022,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457023,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457025,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457024,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457020,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457019,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457018,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457017,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457016,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457015,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1474,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457026,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457027,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457028,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457029,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457030,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457031,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457032,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457035,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457036,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457034,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457033,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 1475,
+    "sbfl_score": 0.05812381937190964,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457043,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457042,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457041,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457040,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457039,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457038,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457037,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457044,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 169,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457054,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457052,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457049,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457048,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457047,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457045,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457046,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457050,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457051,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457053,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 975,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457055,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457057,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457056,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457059,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457060,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457062,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457063,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457061,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457058,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 976,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457064,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457065,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457072,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457073,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457071,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457070,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457069,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457068,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457067,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457066,
+    "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+    "line": 977,
+    "sbfl_score": 0.05352877275721892,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457075,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457074,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457076,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457077,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457078,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457079,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457080,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457081,
+    "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+    "line": 144,
+    "sbfl_score": 0.038866103716823586,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457082,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457083,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457089,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457088,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457087,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457086,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457085,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457084,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 254,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457090,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 255,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457091,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 255,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457092,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 255,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457093,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 255,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457094,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 255,
+    "sbfl_score": 0.037877700953928506,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457097,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 289,
+    "sbfl_score": 0.03779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457099,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 289,
+    "sbfl_score": 0.03779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457098,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 289,
+    "sbfl_score": 0.03779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457095,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 289,
+    "sbfl_score": 0.03779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457096,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 289,
+    "sbfl_score": 0.03779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457108,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457100,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457101,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457102,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457103,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457104,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457105,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457106,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457107,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 288,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457109,
+    "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+    "line": 95,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457110,
+    "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+    "line": 95,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457111,
+    "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+    "line": 95,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457112,
+    "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+    "line": 106,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457113,
+    "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+    "line": 106,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457114,
+    "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+    "line": 106,
+    "sbfl_score": 0.037769478730024904,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457119,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457118,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457115,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457116,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457117,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457123,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457122,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457121,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457120,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 250,
+    "sbfl_score": 0.037113480951260276,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457124,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457133,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457132,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457131,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457130,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457129,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457128,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457127,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457126,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457125,
+    "file": "src/com/google/javascript/jscomp/Compiler.java",
+    "line": 248,
+    "sbfl_score": 0.0370879470776142,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457135,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 129,
+    "sbfl_score": 0.03688555567816587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457138,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 129,
+    "sbfl_score": 0.03688555567816587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457137,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 129,
+    "sbfl_score": 0.03688555567816587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457136,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 129,
+    "sbfl_score": 0.03688555567816587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457134,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 129,
+    "sbfl_score": 0.03688555567816587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457140,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457139,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457141,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457142,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457143,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457144,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457145,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457146,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457147,
+    "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+    "line": 1025,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457148,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 118,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457149,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 118,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457150,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 118,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457151,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 118,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457152,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 118,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457153,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 118,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457159,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 119,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457160,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 119,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457154,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 119,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457155,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 119,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457156,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 119,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457157,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 119,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457158,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 119,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457161,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 121,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457162,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 121,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457163,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 121,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457164,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 121,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457165,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 121,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457166,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 121,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457167,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 121,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457168,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 149,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457169,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 149,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457170,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 149,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457171,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 149,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457172,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 149,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457173,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 61,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457174,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 61,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457175,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 61,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457176,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 61,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457177,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 62,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457178,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 62,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457179,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 62,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457180,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 62,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457181,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 62,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457182,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 62,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457187,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457183,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457185,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457186,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457188,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457184,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457191,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457190,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457189,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 63,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457192,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 64,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457195,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 64,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457194,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 64,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457193,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 64,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457205,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457204,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457203,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457202,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457201,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457200,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457199,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457198,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457197,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457196,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 72,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457217,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457216,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457215,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457214,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457213,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457212,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457211,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457210,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457209,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457208,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457206,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457207,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 73,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457226,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457225,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457224,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457223,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457222,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457221,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457220,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457219,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457218,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 75,
+    "sbfl_score": 0.036860489038724284,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457230,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 118,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457229,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 118,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457228,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 118,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457227,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 118,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457231,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 118,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457234,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 119,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457235,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 119,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457236,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 119,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457237,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 119,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457238,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 119,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457232,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 119,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457233,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 119,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457239,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 120,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457240,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 120,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457241,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+    "line": 120,
+    "sbfl_score": 0.03624997167972069,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457242,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457243,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457244,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457245,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457246,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457247,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457248,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457249,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457250,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457251,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 45,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457254,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 58,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457253,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 58,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457252,
+    "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+    "line": 58,
+    "sbfl_score": 0.03396178054056622,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457259,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 144,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457255,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 144,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457257,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 144,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457258,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 144,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457260,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 144,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457261,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 144,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457256,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 144,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457262,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 147,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457263,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 147,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457264,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 147,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457265,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 147,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457266,
+    "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+    "line": 147,
+    "sbfl_score": 0.033786868919974296,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457275,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457274,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457269,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457270,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457271,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457272,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457273,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457267,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457268,
+    "file": "src/com/google/javascript/rhino/Node.java",
+    "line": 2297,
+    "sbfl_score": 0.02518963609299392,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457278,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457279,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457280,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457281,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457283,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457276,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457277,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457282,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457284,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 244,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457285,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457286,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457287,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457289,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457288,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457294,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457290,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457291,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457292,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457293,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457295,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 245,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457296,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 246,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457297,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 246,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457298,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 246,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457300,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 246,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457299,
+    "file": "src/com/google/javascript/jscomp/CodeGenerator.java",
+    "line": 246,
+    "sbfl_score": 0.024551430807011814,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457302,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457303,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457301,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457304,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457305,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457306,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457307,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457308,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 243,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457309,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 244,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457310,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 244,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457311,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 244,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457312,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 244,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457313,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 244,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457314,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 244,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457315,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 244,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457317,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457320,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457318,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457323,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457321,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457322,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457319,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457316,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 245,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457330,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 249,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457328,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 249,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457327,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 249,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457324,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 249,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457325,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 249,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457326,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 249,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457329,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 249,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457334,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 267,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457333,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 267,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457332,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 267,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457331,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 267,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457349,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457335,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457336,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457337,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457338,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457339,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457340,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457341,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457342,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457343,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457344,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457345,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457346,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457347,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Closure_38",
+    "ap_id": 457348,
+    "file": "src/com/google/javascript/jscomp/CodeConsumer.java",
+    "line": 270,
+    "sbfl_score": 0.02452188635490521,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

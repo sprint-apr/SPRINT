@@ -1,0 +1,10 @@
+--- Jsoup_39/src/main/java/org/jsoup/helper/DataUtil.java
++++ Jsoup_39/src/main/java/org/jsoup/helper/DataUtil.java
+@@ -115,6 +115,7 @@
+             byteData.rewind();
+             docData = Charset.forName(defaultCharset).decode(byteData).toString();
+             docData = docData.substring(1);
++doc = parser.parseInput("" + docData, baseUri);
+             charsetName = defaultCharset;
+         }
+         if (doc == null) {

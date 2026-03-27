@@ -1,0 +1,11 @@
+--- Csv_7/src/main/java/org/apache/commons/csv/CSVParser.java
++++ Csv_7/src/main/java/org/apache/commons/csv/CSVParser.java
+@@ -368,6 +368,8 @@
+             // build the name to index mappings
+             if (header != null) {
+                 for (int i = 0; i < header.length; i++) {
++if (hdrMap.containsKey(header[i]))
++	throw new IllegalStateException();
+                     hdrMap.put(header[i], Integer.valueOf(i));
+                 }
+             }

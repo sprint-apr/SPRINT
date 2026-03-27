@@ -1,0 +1,10 @@
+--- Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -582,6 +582,7 @@
+         totalRead = is.read(buf, offset, numToRead);
+         count(totalRead);
+         
++if (totalRead < numToRead && totalRead != -1 && entryOffset + totalRead < entrySize) { throw new IOException("Entry truncated unexpectedly"); }
+         if (totalRead == -1) {
+             hasHitEOF = true;
+         } else {

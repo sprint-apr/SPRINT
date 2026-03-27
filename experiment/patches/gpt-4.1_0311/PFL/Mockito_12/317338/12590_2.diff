@@ -1,0 +1,11 @@
+--- Mockito_12/src/org/mockito/internal/util/reflection/GenericMaster.java
++++ Mockito_12/src/org/mockito/internal/util/reflection/GenericMaster.java
+@@ -16,7 +16,7 @@
+     public Class getGenericType(Field field) {        
+         Type generic = field.getGenericType();
+         if (generic != null && generic instanceof ParameterizedType) {
+-            Type actual = ((ParameterizedType) generic).getActualTypeArguments()[0];
++Type[] args = ((ParameterizedType) generic).getActualTypeArguments(); Type actual = args.length > 0 ? args[0] : Object.class; if (actual instanceof ParameterizedType) actual = ((ParameterizedType) actual).getRawType();
+                 return (Class) actual;
+                 //in case of nested generics we don't go deep
+         }

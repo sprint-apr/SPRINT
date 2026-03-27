@@ -1,0 +1,812 @@
+[
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867993,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867994,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867988,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867989,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867990,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867991,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867992,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867987,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867996,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867995,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 654,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867997,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 655,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867998,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 655,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 867999,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 655,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868001,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 655,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868000,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 655,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868004,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868002,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868003,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868005,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868006,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868007,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868008,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868009,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868010,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868015,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868017,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868011,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868012,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868013,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868014,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868016,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1171,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868018,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1172,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868019,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1172,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868020,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1172,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868021,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1172,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868029,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868031,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868022,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868023,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868025,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868026,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868024,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868027,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868028,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868030,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1130,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868032,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1131,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868033,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1131,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868034,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1131,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868035,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 1131,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868037,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868038,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868039,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868040,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868041,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868042,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868043,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868044,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868036,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 820,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868048,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868047,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868046,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868045,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868049,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868050,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868051,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868052,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868053,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868054,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 821,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868065,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868067,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868064,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868055,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868056,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868057,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868058,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868059,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868060,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868061,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868062,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868063,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_26",
+    "ap_id": 868066,
+    "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+    "line": 822,
+    "sbfl_score": 0.17960530202677488,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

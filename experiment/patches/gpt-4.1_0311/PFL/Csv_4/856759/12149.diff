@@ -1,0 +1,12 @@
+--- Csv_4/src/main/java/org/apache/commons/csv/CSVParser.java
++++ Csv_4/src/main/java/org/apache/commons/csv/CSVParser.java
+@@ -285,6 +285,9 @@
+      * @return a copy of the header map that iterates in column order.
+      */
+     public Map<String, Integer> getHeaderMap() {
++if (this.headerMap == null) {
++    return null;
++}
+         return new LinkedHashMap<String, Integer>(this.headerMap);
+     }
+ 

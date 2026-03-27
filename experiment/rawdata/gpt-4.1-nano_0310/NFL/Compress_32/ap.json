@@ -1,0 +1,222 @@
+[
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786420,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786421,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786424,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786425,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786428,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786430,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786422,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786423,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786426,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786427,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 786429,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 501,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924349,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924350,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924351,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924352,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924353,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924354,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924355,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924356,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924357,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924358,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Compress_32",
+    "ap_id": 924359,
+    "file": "src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java",
+    "line": 505,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

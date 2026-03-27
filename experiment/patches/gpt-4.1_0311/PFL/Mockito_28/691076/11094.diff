@@ -1,0 +1,10 @@
+--- Mockito_28/src/org/mockito/internal/configuration/DefaultInjectionEngine.java
++++ Mockito_28/src/org/mockito/internal/configuration/DefaultInjectionEngine.java
+@@ -90,6 +90,7 @@
+ 
+     private void injectMockCandidate(Class<?> awaitingInjectionClazz, Set<Object> mocks, Object fieldInstance) {
+         for(Field field : orderedInstanceFieldsFrom(awaitingInjectionClazz)) {
++if (field.getType().isAssignableFrom(fieldInstance.getClass())) continue;
+             mockCandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+         }
+     }

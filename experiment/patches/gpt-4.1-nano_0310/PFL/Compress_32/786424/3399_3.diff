@@ -1,0 +1,11 @@
+--- Compress_32/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ Compress_32/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -498,7 +498,7 @@
+             } else if ("linkpath".equals(key)){
+                 currEntry.setLinkName(val);
+             } else if ("gid".equals(key)){
+-                currEntry.setGroupId(Integer.parseInt(val));
++                currEntry.setGroupId(Long.valueOf(val, 10));
+             } else if ("gname".equals(key)){
+                 currEntry.setGroupName(val);
+             } else if ("uid".equals(key)){

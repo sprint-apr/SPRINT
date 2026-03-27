@@ -1,0 +1,11 @@
+--- Closure_2/src/com/google/javascript/jscomp/TypeCheck.java
++++ Closure_2/src/com/google/javascript/jscomp/TypeCheck.java
+@@ -1571,6 +1571,8 @@
+     Set<String> currentPropertyNames;
+       // This can be the case if interfaceType is proxy to a non-existent
+       // object (which is a bad type annotation, but shouldn't crash).
++if (implicitProto == null || implicitProto.getOwnPropertyNames() == null)
++	return;
+       currentPropertyNames = implicitProto.getOwnPropertyNames();
+     for (String name : currentPropertyNames) {
+       ObjectType oType = properties.get(name);

@@ -1,0 +1,11 @@
+--- Jsoup_10/src/main/java/org/jsoup/nodes/Node.java
++++ Jsoup_10/src/main/java/org/jsoup/nodes/Node.java
+@@ -170,7 +170,7 @@
+                     return abs.toExternalForm();
+                 }
+                 // workaround: java resolves '//path/file + ?foo' to '//path/?foo', not '//path/file?foo' as desired
+-                URL abs = new URL(base, relUrl);
++                URL abs = new URL(base, relUrl.startsWith("?") ? base.getPath() + relUrl : relUrl);
+                 return abs.toExternalForm();
+             } catch (MalformedURLException e) {
+                 return "";

@@ -1,0 +1,11 @@
+--- Lang_48/src/java/org/apache/commons/lang/builder/EqualsBuilder.java
++++ Lang_48/src/java/org/apache/commons/lang/builder/EqualsBuilder.java
+@@ -378,7 +378,7 @@
+         Class lhsClass = lhs.getClass();
+         if (!lhsClass.isArray()) {
+                 // The simple case, not an array, just test the element
+-                isEquals = lhs.equals(rhs);
++                isEquals = (lhs instanceof Comparable) ? ((Comparable) lhs).compareTo(rhs) == 0 : lhs.equals(rhs);
+         } else if (lhs.getClass() != rhs.getClass()) {
+             // Here when we compare different dimensions, for example: a boolean[][] to a boolean[] 
+             this.setEquals(false);

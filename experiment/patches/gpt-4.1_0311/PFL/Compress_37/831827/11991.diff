@@ -1,0 +1,10 @@
+--- Compress_37/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ Compress_37/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -459,6 +459,7 @@
+             int read = 0;
+             while((ch = i.read()) != -1) {
+                 read++;
++if (ch == '\n' || ch == '\r') { break; }
+                 if (ch == ' '){
+                     // Get keyword
+                     final ByteArrayOutputStream coll = new ByteArrayOutputStream();

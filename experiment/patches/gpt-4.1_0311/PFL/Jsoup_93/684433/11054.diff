@@ -1,0 +1,10 @@
+--- Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java
++++ Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java
+@@ -84,6 +84,7 @@
+             if (el.hasAttr("disabled")) continue; // skip disabled form inputs
+             String name = el.attr("name");
+             if (name.length() == 0) continue;
++if ("button".equalsIgnoreCase(el.attr("type"))) continue;
+             String type = el.attr("type");
+ 
+ 

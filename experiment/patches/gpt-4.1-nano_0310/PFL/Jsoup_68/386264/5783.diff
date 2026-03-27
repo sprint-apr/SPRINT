@@ -1,0 +1,11 @@
+--- Jsoup_68/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
++++ Jsoup_68/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+@@ -467,6 +467,8 @@
+         // https://html.spec.whatwg.org/multipage/parsing.html#has-an-element-in-the-specific-scope
+         int bottom = stack.size() -1;
+         if (bottom > MaxScopeSearchDepth) {
++if (bottom >= 0 && bottom < MaxScopeSearchDepth)
++
+             bottom = MaxScopeSearchDepth;
+         }
+         final int top = bottom > MaxScopeSearchDepth ? bottom - MaxScopeSearchDepth : 0;

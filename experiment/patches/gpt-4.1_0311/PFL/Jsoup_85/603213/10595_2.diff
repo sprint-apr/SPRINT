@@ -1,0 +1,11 @@
+--- Jsoup_85/src/main/java/org/jsoup/nodes/Attribute.java
++++ Jsoup_85/src/main/java/org/jsoup/nodes/Attribute.java
+@@ -42,7 +42,7 @@
+     public Attribute(String key, String val, Attributes parent) {
+         Validate.notNull(key);
+         this.key = key.trim();
+-        Validate.notEmpty(key); // trimming could potentially make empty, so validate here
++if (key == null || key.trim().length() == 0) throw new IllegalArgumentException("Empty key");
+         this.val = val;
+         this.parent = parent;
+     }

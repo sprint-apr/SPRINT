@@ -1,0 +1,11 @@
+--- Lang_37/src/java/org/apache/commons/lang3/ArrayUtils.java
++++ Lang_37/src/java/org/apache/commons/lang3/ArrayUtils.java
+@@ -2959,6 +2959,8 @@
+         final Class<?> type1 = array1.getClass().getComponentType();
+         T[] joinedArray = (T[]) Array.newInstance(type1, array1.length + array2.length);
+         System.arraycopy(array1, 0, joinedArray, 0, array1.length);
++if (array1.getClass().isAssignableFrom(array2.getClass()) == false)
++	throw new IllegalArgumentException();
+             System.arraycopy(array2, 0, joinedArray, array1.length, array2.length);
+             // Check if problem is incompatible types
+         return joinedArray;

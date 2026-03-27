@@ -1,0 +1,102 @@
+[
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651340,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651341,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651342,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651343,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651344,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651347,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 138,
+    "sbfl_score": 0.2773500981126146,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651345,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 138,
+    "sbfl_score": 0.2773500981126146,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651346,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 138,
+    "sbfl_score": 0.2773500981126146,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651349,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 138,
+    "sbfl_score": 0.2773500981126146,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Time_15",
+    "ap_id": 651348,
+    "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+    "line": 138,
+    "sbfl_score": 0.2773500981126146,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

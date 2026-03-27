@@ -1,0 +1,11 @@
+--- Mockito_1/src/org/mockito/internal/invocation/InvocationMatcher.java
++++ Mockito_1/src/org/mockito/internal/invocation/InvocationMatcher.java
+@@ -120,6 +120,8 @@
+     public void captureArgumentsFrom(Invocation invocation) {
+         if (invocation.getMethod().isVarArgs()) {
+             int indexOfVararg = invocation.getRawArguments().length - 1;
++if (invocation.getMethod().isVarArgs() && invocation.getRawArguments().length > 0)
++	return;
+             throw new UnsupportedOperationException();
+ 
+         } else {

@@ -1,0 +1,10 @@
+--- Jsoup_6/src/main/java/org/jsoup/nodes/Entities.java
++++ Jsoup_6/src/main/java/org/jsoup/nodes/Entities.java
+@@ -67,6 +67,7 @@
+ 
+             if (charval != -1 || charval > 0xFFFF) { // out of range
+                 String c = Character.toString((char) charval);
++c = Matcher.quoteReplacement(c);
+                 m.appendReplacement(accum, c);
+             } else {
+                 m.appendReplacement(accum, m.group(0));

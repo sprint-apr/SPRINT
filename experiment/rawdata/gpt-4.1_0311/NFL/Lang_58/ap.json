@@ -1,0 +1,2362 @@
+[
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564909,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564903,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564904,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564905,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564906,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564908,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564902,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564907,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 464,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564913,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 1508,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564914,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 1508,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564910,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 1508,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564911,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 1508,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564912,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 1508,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564918,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 398,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564919,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 398,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564921,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 398,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564915,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 398,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564916,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 398,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564917,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 398,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564920,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 398,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564924,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564925,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564926,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564927,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564929,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564922,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564923,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564928,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 401,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564937,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564935,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564936,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564938,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564930,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564931,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564932,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564933,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564934,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 404,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564939,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564940,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564941,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564942,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564943,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564944,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564945,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564946,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564949,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564947,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564948,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564950,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 411,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564951,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564952,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564953,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564954,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564955,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564956,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564957,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564960,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564958,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564959,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564961,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564962,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 414,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564963,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564964,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564971,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564965,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564966,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564967,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564968,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564969,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564970,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564972,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564973,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 418,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564974,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564976,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564988,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564975,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564977,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564978,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564979,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564980,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564981,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564982,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564983,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564984,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564985,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564986,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564987,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564989,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564990,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 419,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564991,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 421,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564992,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 421,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564994,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 421,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564993,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 421,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564995,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 421,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564996,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 421,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564997,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 433,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564998,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 433,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565000,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 433,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 564999,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 433,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565001,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 433,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565002,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565003,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565007,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565006,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565005,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565004,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565008,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565009,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 436,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565010,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 438,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565011,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 438,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565013,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 438,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565012,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 438,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565014,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 438,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565015,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 438,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565016,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 440,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565017,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 440,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565018,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 440,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565019,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 440,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565020,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 440,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565021,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 440,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565022,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 440,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565023,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565024,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565031,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565025,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565026,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565027,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565028,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565029,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565030,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565032,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565033,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 441,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565034,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 444,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565035,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 444,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565037,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 444,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565036,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 444,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565038,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 444,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565039,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 444,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565040,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565041,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565042,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565043,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565044,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565045,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565046,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565047,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565050,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565048,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565049,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565051,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565052,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 447,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565053,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565054,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565059,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565055,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565056,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565057,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565058,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565060,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565061,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 448,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565062,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 449,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565063,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 449,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565064,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 449,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565065,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 449,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565066,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 452,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565067,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 452,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565068,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 452,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565069,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 452,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565070,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 452,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565071,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 452,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565072,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565073,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565074,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565075,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565076,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565077,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565078,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565079,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 454,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565081,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565080,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565082,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565083,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565084,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565085,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565086,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565087,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565088,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565089,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565090,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565091,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 455,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565092,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565093,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565094,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565095,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565096,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565097,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565098,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565099,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 457,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565101,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 556,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565102,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 556,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565103,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 556,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565104,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 556,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565100,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 556,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565105,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 556,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565106,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 556,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565107,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565108,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565109,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565110,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565111,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565112,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565113,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565114,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565115,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565116,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565117,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565118,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565119,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565120,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565121,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565122,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 559,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565123,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565124,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565125,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565126,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565127,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565128,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565129,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565130,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565131,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565132,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 560,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565133,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 561,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565134,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 561,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565135,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 561,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565136,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 561,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_58",
+    "ap_id": 565137,
+    "file": "src/java/org/apache/commons/lang/math/NumberUtils.java",
+    "line": 561,
+    "sbfl_score": 0.5773502691896258,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  }
+]

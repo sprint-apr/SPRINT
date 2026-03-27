@@ -1,0 +1,11 @@
+--- Compress_38/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java
++++ Compress_38/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java
+@@ -856,7 +856,7 @@
+             return true;
+         }
+ 
+-        if (getName().endsWith("/")) {
++        if (getName().endsWith(String.valueOf(linkFlag))) {
+             return true;
+         }
+ 

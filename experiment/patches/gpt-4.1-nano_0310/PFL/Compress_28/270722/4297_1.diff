@@ -1,0 +1,11 @@
+--- Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ Compress_28/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -583,7 +583,7 @@
+         count(totalRead);
+         
+         if (totalRead == -1) {
+-            hasHitEOF = true;
++hasHitEOF = true; throw new IOException("Unexpected end of stream");
+         } else {
+             entryOffset += totalRead;
+         }

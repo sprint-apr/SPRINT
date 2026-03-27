@@ -1,0 +1,11 @@
+--- JacksonDatabind_99/src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java
++++ JacksonDatabind_99/src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java
+@@ -166,7 +166,7 @@
+         sb.append(_class.getName());
+         sb.append('<');
+         sb.append(_referencedType.toCanonical());
+-        return sb.toString();
++return sb.append('>').toString();
+     }
+ 
+     /*

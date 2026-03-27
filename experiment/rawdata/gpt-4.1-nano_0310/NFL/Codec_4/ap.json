@@ -1,0 +1,4032 @@
+[
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684471,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 931,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684474,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 931,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684473,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 931,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684472,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 931,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684470,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 931,
+    "sbfl_score": 0.8164965809277261,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684476,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 906,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684479,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 906,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684478,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 906,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684477,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 906,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684475,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 906,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684481,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 906,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684480,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 906,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684483,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 903,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684484,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 903,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684485,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 903,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684482,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 903,
+    "sbfl_score": 0.4082482904638631,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684493,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684494,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684495,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684496,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684497,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684498,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684499,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684487,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684486,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684488,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684489,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684490,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684491,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684492,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 485,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684508,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684500,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684501,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684502,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684503,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684504,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684505,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684506,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684507,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684509,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684510,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 486,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684515,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684514,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684513,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684512,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684511,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684516,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684517,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684518,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 469,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684525,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684526,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684519,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684520,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684521,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684522,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684523,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684524,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 470,
+    "sbfl_score": 0.3651483716701107,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684535,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684527,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684528,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684529,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684530,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684531,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684532,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684533,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684534,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 465,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684536,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684537,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684538,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684539,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684540,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684541,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684542,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684543,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684544,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 466,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684545,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684546,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684547,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684548,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684549,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684550,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684551,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684552,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 468,
+    "sbfl_score": 0.35355339059327373,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684561,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684560,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684559,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684558,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684557,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684556,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684553,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684555,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 496,
+    "sbfl_score": 0.30151134457776363,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684564,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684567,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684568,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684569,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684570,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684571,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684572,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684566,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684565,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684562,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 970,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684577,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 976,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684576,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 976,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684575,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 976,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684579,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 976,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684574,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 976,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684573,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 976,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684578,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 976,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684580,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684581,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684582,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684583,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684584,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684585,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684586,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684587,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684588,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684589,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684590,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 490,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684591,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684592,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684593,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684594,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684595,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684596,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684597,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684598,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684599,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684600,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684601,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 493,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684554,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684602,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684603,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684604,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684605,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684606,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684607,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684608,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684609,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 494,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684610,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 495,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684611,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 495,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684612,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 495,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684613,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 495,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684614,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 495,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684615,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 495,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684616,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684617,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684618,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684619,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684620,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684621,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684622,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684623,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684624,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684625,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684626,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684627,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684628,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684629,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 498,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684630,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684631,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684632,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684633,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684634,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684635,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684636,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684637,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 499,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684638,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 929,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684639,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 929,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684640,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 929,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684641,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 929,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684642,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 929,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684643,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 929,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684644,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 929,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684645,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684647,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684648,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684649,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684650,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684651,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684652,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684653,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684646,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 930,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684654,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684655,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684656,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684657,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684658,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684659,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684660,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684661,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684662,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684663,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684664,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684665,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 933,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684667,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 934,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684666,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 934,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684668,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 934,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684669,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 934,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684670,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 934,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684671,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 934,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684672,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684673,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684674,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684675,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684676,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684677,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684678,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684679,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684680,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684681,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684682,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684683,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 935,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684684,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684685,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684686,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684687,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684688,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684689,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684690,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684691,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684692,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684693,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684694,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684695,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 936,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684696,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684697,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684698,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684699,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684700,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684701,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684702,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684703,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684704,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684705,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 937,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684707,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684706,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684708,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684709,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684710,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684711,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684712,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684713,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 939,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684714,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684715,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684716,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684717,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684718,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684719,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684720,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684721,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684722,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 944,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684725,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 949,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684723,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 949,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684724,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 949,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684726,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 949,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684727,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 949,
+    "sbfl_score": 0.24618298195866545,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684728,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 348,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684729,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 348,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684730,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 348,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684731,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 348,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684732,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 348,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684733,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 348,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684734,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 348,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684735,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684736,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684737,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684738,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684739,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684740,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684741,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684742,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684743,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684744,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684745,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 489,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684747,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684749,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684750,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684751,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684752,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684753,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684754,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684755,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684756,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684746,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684748,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 965,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684563,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684757,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684758,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684759,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684760,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684761,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684762,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684763,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684764,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684765,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684766,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 967,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684772,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684771,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684767,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684768,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684769,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684770,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684773,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684774,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684775,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 968,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684776,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 969,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684777,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 969,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684778,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 969,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684779,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 969,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684780,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 969,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684781,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 969,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684782,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 969,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684783,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 972,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684784,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 972,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684785,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 972,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684786,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 972,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684787,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 972,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684788,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 973,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684789,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 973,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684790,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 973,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684791,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 973,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684792,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 973,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684793,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684794,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684795,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684796,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684797,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684798,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684799,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684800,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 974,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684801,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 975,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684802,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 975,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684803,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 975,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684804,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 975,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684805,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 975,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684806,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 975,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684807,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 979,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684808,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 979,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684809,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 979,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684810,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 979,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684811,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 979,
+    "sbfl_score": 0.24253562503633297,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684812,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 453,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684813,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 453,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684814,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 453,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684815,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 453,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684816,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 453,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684817,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 453,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684818,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 453,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684819,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 458,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684820,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 458,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684821,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 458,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684822,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 458,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684823,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 458,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684824,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 458,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684832,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684825,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684826,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684827,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684828,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684829,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684830,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684831,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 459,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684833,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684834,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684835,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684836,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684837,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684838,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684839,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684840,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684841,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684842,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684843,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 460,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684844,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 463,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684848,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 463,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684847,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 463,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684846,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 463,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684845,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 463,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684852,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684851,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684850,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684849,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684853,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684854,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684855,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684856,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 484,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684857,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 513,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684858,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 513,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684859,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 513,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684860,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 513,
+    "sbfl_score": 0.23904572186687872,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684862,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684861,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684863,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684864,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684865,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684866,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684867,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684868,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 225,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684869,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 226,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684870,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 226,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684871,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 226,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Codec_4",
+    "ap_id": 684872,
+    "file": "src/java/org/apache/commons/codec/binary/Base64.java",
+    "line": 226,
+    "sbfl_score": 0.23570226039551587,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

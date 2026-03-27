@@ -1,0 +1,10 @@
+--- JacksonDatabind_90/src/main/java/com/fasterxml/jackson/databind/deser/ValueInstantiator.java
++++ JacksonDatabind_90/src/main/java/com/fasterxml/jackson/databind/deser/ValueInstantiator.java
+@@ -69,6 +69,7 @@
+      */
+     public boolean canInstantiate() {
+         return canCreateUsingDefault()
++|| canCreateUsingArrayDelegate()
+                 || canCreateUsingDelegate() 
+                 || canCreateFromObjectWith() || canCreateFromString()
+                 || canCreateFromInt() || canCreateFromLong()

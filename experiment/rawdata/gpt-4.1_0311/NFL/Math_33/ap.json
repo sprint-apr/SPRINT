@@ -1,0 +1,5652 @@
+[
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704697,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 59,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704696,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 59,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704695,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 59,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704698,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 59,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704694,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 59,
+    "sbfl_score": 0.7071067811865476,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704704,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704706,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704705,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704703,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704702,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704701,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704700,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704699,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 406,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704709,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 407,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704708,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 407,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704707,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 407,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704710,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 407,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704711,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 407,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704712,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 407,
+    "sbfl_score": 0.5773502691896257,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704724,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704725,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704727,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704726,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704717,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704718,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704719,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704720,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704721,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704722,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704723,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 261,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704734,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 262,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704728,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 262,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704729,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 262,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704730,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 262,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704731,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 262,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704732,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 262,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704733,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 262,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704741,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704742,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704735,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704736,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704737,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704738,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704739,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704740,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 263,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704749,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704745,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704743,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704744,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704746,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704747,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704748,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704750,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704751,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 339,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704716,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 57,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704713,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 57,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704714,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 57,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704715,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+    "line": 57,
+    "sbfl_score": 0.4472135954999579,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704757,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704758,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704759,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704761,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704762,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704763,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704764,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704765,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704766,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704767,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704768,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704770,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704769,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704752,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704753,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704755,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704756,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704754,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 226,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704760,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 204,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704773,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704774,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704777,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704778,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704779,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704780,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704771,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704772,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704775,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704776,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 162,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704783,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704792,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704789,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704790,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704791,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704793,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704781,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704782,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704784,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704785,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704786,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704787,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704788,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 199,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704799,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704800,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704794,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704795,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704796,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704797,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704798,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704801,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 200,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704806,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704807,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704808,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704809,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704810,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704811,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704804,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704813,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704812,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704814,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704802,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704803,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704805,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 215,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704821,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704815,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704816,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704817,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704818,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704819,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704820,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704822,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 216,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704826,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704829,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704830,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704823,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704824,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704825,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704827,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704828,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 298,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704836,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 299,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704831,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 299,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704832,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 299,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704833,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 299,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704834,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 299,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704835,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 299,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704837,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 299,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704844,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704838,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704839,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704840,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704841,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704842,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704843,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704845,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704846,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 300,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704851,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 302,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704847,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 302,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704848,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 302,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704849,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 302,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704850,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 302,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704856,
+    "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+    "line": 63,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704852,
+    "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+    "line": 63,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704853,
+    "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+    "line": 63,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704854,
+    "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+    "line": 63,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704855,
+    "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+    "line": 63,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704861,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 67,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704862,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 67,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704857,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 67,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704858,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 67,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704859,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 67,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704860,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 67,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704865,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704866,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704870,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704863,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704864,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704867,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704869,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704868,
+    "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+    "line": 68,
+    "sbfl_score": 0.25,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704874,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+    "line": 181,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704873,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+    "line": 181,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704872,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+    "line": 181,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704871,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+    "line": 181,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704883,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704882,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704880,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704879,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704878,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704876,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704875,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704881,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704877,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 347,
+    "sbfl_score": 0.242535625036333,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704886,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704899,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704884,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704885,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704887,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704888,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704889,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704890,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704891,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704892,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704893,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704894,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704895,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704896,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704897,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704898,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704900,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 224,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704904,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 332,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704905,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 332,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704901,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 332,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704902,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 332,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704903,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 332,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704908,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704912,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704906,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704907,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704909,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704910,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704911,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704913,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 333,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704926,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704914,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704915,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704916,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704917,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704918,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704919,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704920,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704921,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704922,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704923,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704924,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704925,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704927,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 336,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704928,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704929,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704930,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704931,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704932,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704933,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704934,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704935,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704936,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704937,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704938,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704939,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704940,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 337,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704941,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704942,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704943,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704944,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704945,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704946,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704947,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704948,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704949,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704950,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704951,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704952,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704954,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704953,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 338,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704966,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704955,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704956,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704957,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704958,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704959,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704960,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704961,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704962,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704963,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704964,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704965,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704967,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 344,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704977,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704978,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704968,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704969,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704970,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704971,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704972,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704973,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704974,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704975,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704976,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704979,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 345,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704988,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704980,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704981,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704982,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704983,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704984,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704985,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704986,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704987,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704989,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 346,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704993,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704994,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704995,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705000,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705001,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704990,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704991,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704992,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704996,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704997,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704998,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 704999,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 351,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705004,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705005,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705006,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705007,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705011,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705012,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705014,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705015,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705002,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705003,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705008,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705009,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705010,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705013,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 352,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705020,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 353,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705022,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 353,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705016,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 353,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705017,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 353,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705018,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 353,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705019,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 353,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705021,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 353,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705035,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705023,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705024,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705025,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705026,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705027,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705028,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705029,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705030,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705031,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705032,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705033,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705034,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705036,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 354,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705044,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705045,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705037,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705038,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705039,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705040,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705041,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705042,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705043,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 355,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705053,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705059,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705060,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705061,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705046,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705047,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705048,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705049,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705050,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705051,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705052,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705054,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705055,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705056,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705057,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705058,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 356,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705064,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705065,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705066,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705067,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705068,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705069,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705070,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705071,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705073,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705074,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705063,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705062,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705072,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 361,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705077,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705078,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705079,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705080,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705081,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705082,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705083,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705085,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705086,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705087,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705075,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705076,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705084,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 362,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705092,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705093,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705095,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705088,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705089,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705090,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705091,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705094,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705096,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 365,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705099,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705102,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705103,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705104,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705097,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705098,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705100,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705101,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 366,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705105,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 367,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705106,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 367,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705107,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 367,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705108,
+    "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+    "line": 367,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705114,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 74,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705109,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 74,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705110,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 74,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705111,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 74,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705112,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 74,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705113,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 74,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705122,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705118,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705115,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705116,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705117,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705119,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705120,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705121,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705123,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 75,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705124,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 76,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705125,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 76,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705126,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 76,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705127,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 76,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705131,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 262,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705132,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 262,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705134,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 262,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705128,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 262,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705129,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 262,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705130,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 262,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705133,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 262,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705137,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 263,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705139,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 263,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705135,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 263,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705136,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 263,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705138,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 263,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705142,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 266,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705144,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 266,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705141,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 266,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705140,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 266,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705143,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 266,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705147,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 269,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705148,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 269,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705150,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 269,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705151,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 269,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705145,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 269,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705146,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 269,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705149,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 269,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705154,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705155,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705156,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705158,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705159,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705152,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705153,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705157,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 270,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705162,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 271,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705163,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 271,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705165,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 271,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705160,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 271,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705161,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 271,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705164,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 271,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705168,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705169,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705170,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705171,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705173,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705174,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705166,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705167,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705172,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 275,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705177,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 276,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705178,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 276,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705180,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 276,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705175,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 276,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705176,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 276,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705179,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 276,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705187,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705189,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705185,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705186,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705188,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705181,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705182,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705183,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705184,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 279,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705190,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705191,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705192,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705193,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705194,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705195,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705196,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705197,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705198,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705203,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705199,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705200,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705201,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705202,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 280,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705204,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 281,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705205,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 281,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705206,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 281,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705207,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 281,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705208,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 281,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705209,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 281,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705210,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 281,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705211,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705212,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705214,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705215,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705217,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705218,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705219,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705213,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705216,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705220,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705221,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705222,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705223,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705224,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705225,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705226,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 284,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705227,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 286,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705228,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 286,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705229,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 286,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705230,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 286,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705231,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 290,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705232,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 290,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705233,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 290,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705234,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 290,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705235,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705236,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705237,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705238,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705239,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705240,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705241,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705242,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705243,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705244,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705245,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 526,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705246,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 527,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705247,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 527,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705248,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 527,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705249,
+    "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+    "line": 527,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705252,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 257,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705251,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 257,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705250,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 257,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705253,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 257,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705254,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 257,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705255,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 260,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705256,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 260,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705257,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 260,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_33",
+    "ap_id": 705258,
+    "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+    "line": 260,
+    "sbfl_score": 0.23570226039551584,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

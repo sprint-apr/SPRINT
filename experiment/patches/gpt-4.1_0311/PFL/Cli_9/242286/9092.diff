@@ -1,0 +1,10 @@
+--- Cli_9/src/java/org/apache/commons/cli/Parser.java
++++ Cli_9/src/java/org/apache/commons/cli/Parser.java
+@@ -319,6 +319,7 @@
+                 buff.append(iter.next());
+             }
+ 
++if (getRequiredOptions().size() > 1) { buff.insert(buff.length() - 1, ", "); }
+             throw new MissingOptionException(buff.toString());
+         }
+     }

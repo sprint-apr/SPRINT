@@ -1,0 +1,11 @@
+--- Compress_15/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java
++++ Compress_15/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java
+@@ -666,7 +666,7 @@
+         String myComment = getComment();
+         String otherComment = other.getComment();
+         if (myComment == null) {
+-            if (otherComment != null) {
++            if (otherComment != null && !"".equals(otherComment)) {
+                 return false;
+             }
+         } else if (!myComment.equals(otherComment)) {

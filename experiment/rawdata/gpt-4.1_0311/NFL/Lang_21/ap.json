@@ -1,0 +1,1342 @@
+[
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419321,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419322,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419323,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419324,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419325,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419326,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419327,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419328,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419329,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419330,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 259,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419331,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419332,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419333,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419334,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419335,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419336,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419337,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419338,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419339,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419340,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419341,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419342,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419343,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 262,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419344,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419345,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419346,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419347,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419348,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419349,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419350,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419351,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419352,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419353,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419354,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419355,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419356,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419357,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419358,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419359,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 263,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419360,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419361,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419362,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419363,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419364,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419365,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419366,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419367,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419368,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419373,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419369,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419370,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419371,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419372,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419374,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419375,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 264,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419376,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419377,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419378,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419379,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419380,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419381,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419382,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419383,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419384,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419389,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419385,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419386,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419387,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419388,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419390,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419391,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 265,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419392,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419393,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419394,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419395,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419396,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419397,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419398,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419399,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419400,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419405,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419401,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419402,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419403,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419404,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419406,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419407,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 266,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419408,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419409,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419410,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419411,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419412,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419413,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419414,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419415,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419416,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419417,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419422,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419418,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419419,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419420,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419421,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419423,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419424,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 267,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419425,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419426,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419427,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419428,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419429,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419430,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419431,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419432,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419433,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419438,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419434,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419435,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419436,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419437,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419439,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419440,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 268,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419441,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419442,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419443,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419444,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419445,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419446,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419447,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419452,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419448,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419449,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419450,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419451,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419453,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Lang_21",
+    "ap_id": 419454,
+    "file": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+    "line": 269,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

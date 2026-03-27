@@ -1,0 +1,292 @@
+[
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419292,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 209,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419293,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 209,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419294,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 209,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419295,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 209,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419297,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 209,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419296,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 209,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419298,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 211,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419299,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 211,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419301,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 211,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419302,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 211,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419303,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 211,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419304,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 211,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419300,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+    "line": 211,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419305,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419306,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419307,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419320,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419308,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419309,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419310,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419311,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419312,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419313,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419314,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419315,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419316,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419317,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419318,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_73",
+    "ap_id": 419319,
+    "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+    "line": 138,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

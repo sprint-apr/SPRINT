@@ -1,0 +1,10 @@
+--- Math_15/src/main/java/org/apache/commons/math3/util/FastMath.java
++++ Math_15/src/main/java/org/apache/commons/math3/util/FastMath.java
+@@ -1538,6 +1538,7 @@
+         /* Handle special case x<0 */
+         if (x < 0) {
+             // y is an even integer in this case
++if (y == (long) y && (((long)y) & 1) == 1) { return -pow(-x, y); }
+             if (y >= TWO_POWER_52 || y <= -TWO_POWER_52) {
+                 return pow(-x, y);
+             }

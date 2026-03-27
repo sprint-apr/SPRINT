@@ -1,0 +1,92 @@
+[
+  {
+    "bug_id": "Math_89",
+    "ap_id": 923407,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 111,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 923406,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 111,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 923408,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 111,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 923409,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 111,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 324927,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 110,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 324926,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 110,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 324923,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 110,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 324924,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 110,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_89",
+    "ap_id": 324925,
+    "file": "src/java/org/apache/commons/math/stat/Frequency.java",
+    "line": 110,
+    "sbfl_score": 0.7071067811865475,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  }
+]

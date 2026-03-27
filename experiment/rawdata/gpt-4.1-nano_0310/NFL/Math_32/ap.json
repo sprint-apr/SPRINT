@@ -1,0 +1,912 @@
+[
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780586,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780587,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780588,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780589,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780591,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780592,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780593,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780595,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780590,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780594,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 83,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780599,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 84,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780596,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 84,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780597,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 84,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780598,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+    "line": 84,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780600,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780601,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780602,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780603,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780604,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780605,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780606,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780607,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780608,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 135,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780609,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780610,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780611,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780612,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780613,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780614,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780616,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780615,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 136,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780617,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780618,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780619,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780620,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780622,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780623,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780624,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780625,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780626,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780621,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780627,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+    "line": 330,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780628,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780629,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780630,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780631,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780632,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780633,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780634,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780635,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780636,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780638,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780637,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 56,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780639,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 57,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780640,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 57,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780641,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 57,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780642,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 57,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780643,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780644,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780645,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780646,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780647,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780648,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780649,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780650,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 139,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780651,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780652,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780653,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780654,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780655,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780656,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780657,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780658,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 140,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780659,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780660,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780661,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780662,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780663,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780664,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780665,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780666,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780667,
+    "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+    "line": 141,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780668,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780669,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780670,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780675,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780671,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780672,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780673,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780674,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_32",
+    "ap_id": 780676,
+    "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+    "line": 167,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

@@ -1,0 +1,11 @@
+--- Jsoup_20/src/main/java/org/jsoup/helper/DataUtil.java
++++ Jsoup_20/src/main/java/org/jsoup/helper/DataUtil.java
+@@ -96,7 +96,7 @@
+             // in utf-8. If after decoding, there is a BOM, strip it; otherwise will cause the parser to go straight
+             // into head mode
+ 
+-            doc = parser.parseInput(docData, baseUri);
++            doc = parser.parseInput((docData.startsWith("\uFEFF") ? docData.substring(1) : docData), baseUri);
+             doc.outputSettings().charset(charsetName);
+         }
+         return doc;

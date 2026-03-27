@@ -1,0 +1,11 @@
+--- Compress_27/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_27/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -130,7 +130,7 @@
+             end--;
+             trailer = buffer[end - 1];
+         }
+-        if (start == end) {
++        if (start < end && buffer[start] == ' ') {
+             throw new IllegalArgumentException(
+                     exceptionMessage(buffer, offset, length, start, trailer));
+         }

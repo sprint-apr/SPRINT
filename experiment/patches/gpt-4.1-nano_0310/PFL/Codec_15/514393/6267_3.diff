@@ -1,0 +1,11 @@
+--- Codec_15/src/main/java/org/apache/commons/codec/language/Soundex.java
++++ Codec_15/src/main/java/org/apache/commons/codec/language/Soundex.java
+@@ -189,7 +189,7 @@
+             if ('H' == hwChar || 'W' == hwChar) {
+                 final char preHWChar = str.charAt(index - 2);
+                 final char firstCode = this.map(preHWChar);
+-                if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {
++                if (firstCode == mappedChar || 'X' == preHWChar || 'W' == preHWChar) {
+                     return 0;
+                 }
+             }

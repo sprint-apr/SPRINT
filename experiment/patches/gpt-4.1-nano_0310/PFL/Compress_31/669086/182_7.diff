@@ -1,0 +1,11 @@
+--- Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -133,6 +133,8 @@
+         for ( ;start < end; start++) {
+             final byte currentByte = buffer[start];
+             if (currentByte == 0) {
++if (currentByte == 0 || currentByte == '9' || currentByte == '8')
++	throw new IllegalArgumentException();
+                 break;
+             }
+             // CheckStyle:MagicNumber OFF

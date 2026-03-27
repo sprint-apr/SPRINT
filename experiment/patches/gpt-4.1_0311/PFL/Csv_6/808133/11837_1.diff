@@ -1,0 +1,11 @@
+--- Csv_6/src/main/java/org/apache/commons/csv/CSVRecord.java
++++ Csv_6/src/main/java/org/apache/commons/csv/CSVRecord.java
+@@ -178,7 +178,7 @@
+      */
+     <M extends Map<String, String>> M putIn(final M map) {
+         for (final Entry<String, Integer> entry : mapping.entrySet()) {
+-            final int col = entry.getValue().intValue();
++final int col = entry.getValue() < values.length ? entry.getValue() : 0;
+                 map.put(entry.getKey(), values[col]);
+         }
+         return map;

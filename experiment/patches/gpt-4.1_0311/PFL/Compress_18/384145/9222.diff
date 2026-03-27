@@ -1,0 +1,10 @@
+--- Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -456,6 +456,7 @@
+         String name = "./PaxHeaders.X/" + stripTo7Bits(entryName);
+             // TarEntry's constructor would think this is a directory
+             // and not allow any data to be written
++if (name.charAt(name.length() - 1) == '/') name = name.substring(0, name.length() - 1);
+         if (name.length() >= TarConstants.NAMELEN) {
+             name = name.substring(0, TarConstants.NAMELEN - 1);
+         }

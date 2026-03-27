@@ -1,0 +1,1522 @@
+[
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514210,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514211,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514212,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514213,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 128,
+    "sbfl_score": 0.5,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514214,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514215,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514221,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514219,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514216,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514218,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514217,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514220,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514222,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 88,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514223,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 89,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514224,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 89,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514225,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 89,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514228,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 89,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514229,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 89,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514227,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 89,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514226,
+    "file": "src/main/java/org/jsoup/parser/Parser.java",
+    "line": 89,
+    "sbfl_score": 0.3779644730092272,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514232,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 123,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514230,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 123,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514231,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 123,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514233,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 123,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514235,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 123,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514234,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 123,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514236,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 124,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514237,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 124,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514238,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 124,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514239,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 124,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514240,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 124,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514241,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514243,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514248,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514249,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514250,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514251,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514244,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514245,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514246,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514247,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514252,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514253,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514254,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514255,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514256,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 130,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514262,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514263,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514264,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514266,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514257,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514258,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514259,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514260,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514261,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514265,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 131,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514268,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514270,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514271,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514272,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514273,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514274,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514276,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514267,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514269,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514275,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 132,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514277,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 133,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514278,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 133,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514279,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 133,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514280,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 133,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514281,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 133,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514282,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 133,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514283,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 134,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514284,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 134,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514285,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 134,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514286,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 134,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514287,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 134,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514288,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 136,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514289,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 136,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514290,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 136,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514291,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 136,
+    "sbfl_score": 0.2773500981126145,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514297,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514296,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514295,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514294,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514293,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514292,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514298,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514299,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514300,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514301,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514302,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514303,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 46,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514304,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 47,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514305,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 47,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514306,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 47,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514307,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 47,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514308,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 47,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514309,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514310,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514311,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514312,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514313,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514314,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514315,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514316,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514317,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 117,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514322,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 118,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514323,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 118,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514318,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 118,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514319,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 118,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514320,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 118,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514321,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 118,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514242,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514326,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514327,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514328,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514329,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514337,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514338,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514324,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514325,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514330,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514331,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514332,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514333,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514334,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514335,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514336,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 120,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514342,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514343,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514344,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514345,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514346,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514347,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514348,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514339,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514340,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514341,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 121,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514349,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514350,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514351,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514352,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514353,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514354,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514355,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514356,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 122,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514357,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 127,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514358,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 127,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514359,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 127,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514360,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 127,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Jsoup_77",
+    "ap_id": 514361,
+    "file": "src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+    "line": 127,
+    "sbfl_score": 0.2672612419124244,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

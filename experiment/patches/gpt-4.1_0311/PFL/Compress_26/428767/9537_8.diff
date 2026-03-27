@@ -1,0 +1,10 @@
+--- Compress_26/src/main/java/org/apache/commons/compress/utils/IOUtils.java
++++ Compress_26/src/main/java/org/apache/commons/compress/utils/IOUtils.java
+@@ -101,6 +101,7 @@
+             numToSkip -= skipped;
+         }
+             
++if (numToSkip > 0) { do { if (input.read() == -1) break; numToSkip--; } while (numToSkip > 0); }
+         return available - numToSkip;
+     }
+ 

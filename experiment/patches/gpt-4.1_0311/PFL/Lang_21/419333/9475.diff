@@ -1,0 +1,11 @@
+--- Lang_21/src/main/java/org/apache/commons/lang3/time/DateUtils.java
++++ Lang_21/src/main/java/org/apache/commons/lang3/time/DateUtils.java
+@@ -259,7 +259,7 @@
+         if (cal1 == null || cal2 == null) {
+             throw new IllegalArgumentException("The date must not be null");
+         }
+-        return (cal1.get(Calendar.MILLISECOND) == cal2.get(Calendar.MILLISECOND) &&
++        return (cal1.get(Calendar.AM_PM) == cal2.get(Calendar.AM_PM) &&
+                 cal1.get(Calendar.SECOND) == cal2.get(Calendar.SECOND) &&
+                 cal1.get(Calendar.MINUTE) == cal2.get(Calendar.MINUTE) &&
+                 cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&

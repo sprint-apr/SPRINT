@@ -1,0 +1,11 @@
+--- Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
++++ Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
+@@ -663,6 +663,8 @@
+         }
+ 
+         if (header != null) {
++if (header.length != Arrays.asList(header).stream().distinct().count())
++	throw new IllegalArgumentException();
+             final Set<String> set = new HashSet<String>(header.length);
+             set.addAll(Arrays.asList(header));
+             if (set.size() != header.length) {

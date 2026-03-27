@@ -1,0 +1,1282 @@
+[
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720614,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720615,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720616,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720617,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720618,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720619,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720620,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720621,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720622,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 66,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720623,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720624,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720627,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720628,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720629,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720630,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720631,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720632,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720633,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720634,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720625,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720626,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 70,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720635,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720636,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720637,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720638,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720639,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720640,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720641,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720642,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 74,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720643,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720645,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720646,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720647,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720648,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720649,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720650,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720644,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 75,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720651,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720652,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720653,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720654,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720655,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720656,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720657,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720658,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720659,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720660,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720662,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720661,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 76,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720663,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720664,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720665,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720666,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720667,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720668,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720669,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720670,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720672,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720673,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720671,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 77,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720674,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720675,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720676,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720677,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720678,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720679,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720680,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720681,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720682,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720683,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720684,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720686,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720687,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720685,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 78,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720688,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720689,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720690,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720691,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": true,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720692,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 80,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": true,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720693,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720694,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720695,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720696,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720697,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720698,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720699,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720700,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720701,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720702,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 97,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720703,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720704,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720705,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720706,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720707,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720708,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720709,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 98,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720710,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720711,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720712,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720713,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720714,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720715,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720716,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720717,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720718,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720719,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 99,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720725,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720720,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720721,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720722,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720723,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720724,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720726,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720727,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720728,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720729,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720730,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720731,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 350,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720732,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 351,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720733,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 351,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720734,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 351,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720735,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 351,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720736,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 351,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720737,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 351,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720738,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 351,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720739,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 355,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720740,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 355,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": true
+  },
+  {
+    "bug_id": "Math_102",
+    "ap_id": 720741,
+    "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+    "line": 355,
+    "sbfl_score": 1.0,
+    "remains_after_prunning": false,
+    "pfl": false,
+    "is_line_level": false
+  }
+]

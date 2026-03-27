@@ -1,0 +1,11 @@
+--- Lang_16/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
++++ Lang_16/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+@@ -455,7 +455,7 @@
+             // a wrong value.
+             return null;
+         }
+-        if (str.startsWith("0x") || str.startsWith("-0x")) {
++if (str.toUpperCase().startsWith("0X") || str.toUpperCase().startsWith("-0X")) {
+             return createInteger(str);
+         }   
+         char lastChar = str.charAt(str.length() - 1);

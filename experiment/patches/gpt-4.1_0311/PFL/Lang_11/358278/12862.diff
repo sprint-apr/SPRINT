@@ -1,0 +1,10 @@
+--- Lang_11/src/main/java/org/apache/commons/lang3/RandomStringUtils.java
++++ Lang_11/src/main/java/org/apache/commons/lang3/RandomStringUtils.java
+@@ -244,6 +244,7 @@
+             }
+         }
+ 
++if (end <= start) { throw new IllegalArgumentException("Invalid range: start=" + start + ", end=" + end); }
+         char[] buffer = new char[count];
+         int gap = end - start;
+ 

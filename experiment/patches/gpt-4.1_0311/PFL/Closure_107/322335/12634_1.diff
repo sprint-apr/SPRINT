@@ -1,0 +1,11 @@
+--- Closure_107/src/com/google/javascript/jscomp/CommandLineRunner.java
++++ Closure_107/src/com/google/javascript/jscomp/CommandLineRunner.java
+@@ -858,6 +858,8 @@
+       // In ADVANCED mode, goog.getMsg is going to be renamed anyway,
+       // so we might as well inline it. But shut off the i18n warnings,
+       // because the user didn't really ask for i18n.
++if (flags.translationsProject != null)
++
+       options.messageBundle = new EmptyMessageBundle();
+     }
+ 

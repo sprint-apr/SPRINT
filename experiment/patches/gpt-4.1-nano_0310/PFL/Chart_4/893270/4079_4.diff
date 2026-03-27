@@ -1,0 +1,11 @@
+--- Chart_4/source/org/jfree/chart/plot/XYPlot.java
++++ Chart_4/source/org/jfree/chart/plot/XYPlot.java
+@@ -4490,7 +4490,7 @@
+                     }
+                 }
+                 
+-                    Collection c = r.getAnnotations();
++                    Collection c = annotations;
+                     Iterator i = c.iterator();
+                     while (i.hasNext()) {
+                         XYAnnotation a = (XYAnnotation) i.next();

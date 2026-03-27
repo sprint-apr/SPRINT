@@ -1,0 +1,10 @@
+--- JxPath_8/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
++++ JxPath_8/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
+@@ -74,6 +74,7 @@
+         }
+         double ld = InfoSetUtil.doubleValue(left);
+         double rd = InfoSetUtil.doubleValue(right);
++if (Double.isNaN(ld) || Double.isNaN(rd)) return evaluateCompare(0) && false;
+         return evaluateCompare(ld == rd ? 0 : ld < rd ? -1 : 1);
+     }
+ 

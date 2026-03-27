@@ -1,0 +1,10 @@
+--- Jsoup_55/src/main/java/org/jsoup/parser/TokeniserState.java
++++ Jsoup_55/src/main/java/org/jsoup/parser/TokeniserState.java
+@@ -879,6 +879,7 @@
+                     t.transition(Data);
+                     break;
+                 default:
++r.unconsume();
+                     t.error(this);
+                     t.transition(BeforeAttributeName);
+             }

@@ -1,0 +1,12 @@
+--- Math_53/src/main/java/org/apache/commons/math/complex/Complex.java
++++ Math_53/src/main/java/org/apache/commons/math/complex/Complex.java
+@@ -149,6 +149,9 @@
+      */
+     public Complex add(Complex rhs)
+         throws NullArgumentException {
++if (Double.isNaN(rhs.getReal()) || Double.isNaN(rhs.getImaginary())) {
++    return createComplex(Double.NaN, Double.NaN);
++}
+         MathUtils.checkNotNull(rhs);
+         return createComplex(real + rhs.getReal(),
+             imaginary + rhs.getImaginary());

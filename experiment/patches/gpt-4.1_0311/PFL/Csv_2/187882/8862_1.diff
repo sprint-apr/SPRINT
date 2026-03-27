@@ -1,0 +1,11 @@
+--- Csv_2/src/main/java/org/apache/commons/csv/CSVRecord.java
++++ Csv_2/src/main/java/org/apache/commons/csv/CSVRecord.java
+@@ -81,7 +81,7 @@
+             throw new IllegalStateException(
+                     "No header mapping was specified, the record values can't be accessed by name");
+         }
+-        final Integer index = mapping.get(name);
++final Integer index = mapping.containsKey(name) ? mapping.get(name) : null; if (index != null && (index < 0 || index >= values.length)) throw new IllegalArgumentException("Invalid index for header: " + name);
+             return index != null ? values[index.intValue()] : null;
+     }
+ 

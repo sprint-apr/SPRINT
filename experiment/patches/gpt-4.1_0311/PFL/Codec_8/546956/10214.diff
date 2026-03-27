@@ -1,0 +1,11 @@
+--- Codec_8/src/java/org/apache/commons/codec/binary/Base64.java
++++ Codec_8/src/java/org/apache/commons/codec/binary/Base64.java
+@@ -418,6 +418,8 @@
+ 
+     void setInitialBuffer(byte[] out, int outPos, int outAvail) {
+         if (out != null && out.length == outAvail) {
++if (out != null && out.length > outAvail)
++
+             buffer = out;
+             pos = outPos;
+             readPos = outPos;
