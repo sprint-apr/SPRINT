@@ -1,0 +1,10 @@
+diff --git a/JacksonDatabind_26/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java b/JacksonDatabind_26/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java
+index 2093b7b..acaa178 100644
+--- a/JacksonDatabind_26/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java
++++ b/JacksonDatabind_26/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java
+@@ -39 +39,2 @@ public class BeanPropertyWriter extends PropertyWriter
+-    implements BeanProperty
++    implements BeanProperty,
++        java.io.Serializable // since 2.6.2
+@@ -41,0 +43 @@ public class BeanPropertyWriter extends PropertyWriter
++    private static final long serialVersionUID = 4603296144163950020L;

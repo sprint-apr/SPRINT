@@ -1,0 +1,16 @@
+diff --git a/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/DefaultDeserializationContext.java b/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/DefaultDeserializationContext.java
+index 373ac89..8132018 100644
+--- a/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/DefaultDeserializationContext.java
++++ b/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/DefaultDeserializationContext.java
+@@ -86,0 +87,3 @@ public abstract class DefaultDeserializationContext
++        if (id == null) {
++            return null;
++        }
+diff --git a/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java b/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java
+index 921904f..594d85f 100644
+--- a/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java
++++ b/JacksonDatabind_13/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java
+@@ -91,0 +92,3 @@ public final class ObjectIdValueProperty
++        if (id == null) {
++            return null;
++        }

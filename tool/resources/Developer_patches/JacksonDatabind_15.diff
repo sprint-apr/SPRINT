@@ -1,0 +1,77 @@
+diff --git a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/JavaType.java b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/JavaType.java
+index c3d85c9..07b6ba9 100644
+--- a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/JavaType.java
++++ b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/JavaType.java
+@@ -301,0 +302 @@ public abstract class JavaType
++    public final boolean isJavaLangObject() { return _class == Object.class; }
+diff --git a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
+index a65f9d2..14e6d93 100644
+--- a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
++++ b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
+@@ -163 +163 @@ public class BeanSerializerFactory
+-        if (ser == null) {
++        if (ser == null && !delegateType.isJavaLangObject()) {
+diff --git a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java
+index e69205e..3e11648 100644
+--- a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java
++++ b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java
+@@ -370 +370,2 @@ public abstract class BeanSerializerBase
+-                    JsonSerializer<?> ser = provider.findValueSerializer(delegateType, prop);
++                    JsonSerializer<?> ser = delegateType.isJavaLangObject() ? null
++                            : provider.findValueSerializer(delegateType, prop);
+diff --git a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java
+index 3aeb4f3..6c52b73 100644
+--- a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java
++++ b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java
+@@ -120,0 +121 @@ public class StdDelegatingSerializer
++            if (!delegateType.isJavaLangObject()) {
+@@ -121,0 +123 @@ public class StdDelegatingSerializer
++            }
+@@ -126,2 +128,4 @@ public class StdDelegatingSerializer
+-        return (delSer == _delegateSerializer) ? this
+-                : withDelegate(_converter, delegateType, delSer);
++        if (delSer == _delegateSerializer && delegateType == _delegateType) {
++            return this;
++        }
++        return withDelegate(_converter, delegateType, delSer);
+@@ -161 +165,5 @@ public class StdDelegatingSerializer
+-        _delegateSerializer.serialize(delegateValue, gen, provider);
++        JsonSerializer<Object> ser = _delegateSerializer;
++        if (ser == null) {
++            ser = _findSerializer(delegateValue, provider);
++        }
++        ser.serialize(delegateValue, gen, provider);
+@@ -172 +180,5 @@ public class StdDelegatingSerializer
+-        _delegateSerializer.serializeWithType(delegateValue, gen, provider, typeSer);
++        JsonSerializer<Object> ser = _delegateSerializer;
++        if (ser == null) {
++            ser = _findSerializer(value, provider);
++        }
++        ser.serializeWithType(delegateValue, gen, provider, typeSer);
+@@ -179,0 +192,3 @@ public class StdDelegatingSerializer
++        if (_delegateSerializer == null) { // best we can do for now, too costly to look up
++            return (value == null);
++        }
+@@ -186,0 +202,3 @@ public class StdDelegatingSerializer
++        if (_delegateSerializer == null) { // best we can do for now, too costly to look up
++            return (value == null);
++        }
+@@ -224 +242,3 @@ public class StdDelegatingSerializer
+-        _delegateSerializer.acceptJsonFormatVisitor(visitor, typeHint);
++        if (_delegateSerializer != null) {
++            _delegateSerializer.acceptJsonFormatVisitor(visitor, typeHint);
++        }
+@@ -255,0 +276,3 @@ public class StdDelegatingSerializer
++    protected JsonSerializer<Object> _findSerializer(Object value, SerializerProvider serializers)
++        throws JsonMappingException
++    {
+@@ -256,0 +280,2 @@ public class StdDelegatingSerializer
++        return serializers.findValueSerializer(value.getClass());
++    }
+diff --git a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java
+index 53e0984..6089e6b 100644
+--- a/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java
++++ b/JacksonDatabind_15/src/main/java/com/fasterxml/jackson/databind/ser/std/StdSerializer.java
+@@ -262 +262 @@ public abstract class StdSerializer<T>
+-                    if (existingSerializer == null) {
++                    if (existingSerializer == null && !delegateType.hasRawClass(Object.class)) {

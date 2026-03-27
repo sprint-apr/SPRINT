@@ -1,0 +1,8 @@
+diff --git a/Compress_46/src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java b/Compress_46/src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java
+index f7a7440..f050874 100644
+--- a/Compress_46/src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java
++++ b/Compress_46/src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java
+@@ -529,2 +529 @@ public class X5455_ExtendedTimestamp implements ZipExtraField, Cloneable, Serial
+-        final long TWO_TO_32 = 0x100000000L;
+-        if (l >= TWO_TO_32) {
++        if (l < Integer.MIN_VALUE || l > Integer.MAX_VALUE) {

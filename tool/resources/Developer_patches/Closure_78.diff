@@ -1,0 +1,8 @@
+diff --git a/Closure_78/src/com/google/javascript/jscomp/PeepholeFoldConstants.java b/Closure_78/src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+index c5ef4b0..1afb7a8 100644
+--- a/Closure_78/src/com/google/javascript/jscomp/PeepholeFoldConstants.java
++++ b/Closure_78/src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+@@ -711 +710,0 @@ class PeepholeFoldConstants extends AbstractPeepholeOptimization {
+-          error(DiagnosticType.error("JSC_DIVIDE_BY_0_ERROR", "Divide by 0"), right);
+@@ -718 +716,0 @@ class PeepholeFoldConstants extends AbstractPeepholeOptimization {
+-          error(DiagnosticType.error("JSC_DIVIDE_BY_0_ERROR", "Divide by 0"), right);

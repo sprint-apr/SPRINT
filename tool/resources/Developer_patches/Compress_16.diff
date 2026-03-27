@@ -1,0 +1,9 @@
+diff --git a/Compress_16/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java b/Compress_16/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+index 37dfbe0..90820df 100644
+--- a/Compress_16/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
++++ b/Compress_16/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+@@ -244 +244 @@ public class ArchiveStreamFactory {
+-                    tais.getNextEntry();
++                    if (tais.getNextTarEntry().isCheckSumOK()) {
+@@ -245,0 +246 @@ public class ArchiveStreamFactory {
++                    }

@@ -1,0 +1,14 @@
+diff --git a/Closure_72/src/com/google/javascript/jscomp/FunctionToBlockMutator.java b/Closure_72/src/com/google/javascript/jscomp/FunctionToBlockMutator.java
+index 64764c0..3fee1a9 100644
+--- a/Closure_72/src/com/google/javascript/jscomp/FunctionToBlockMutator.java
++++ b/Closure_72/src/com/google/javascript/jscomp/FunctionToBlockMutator.java
+@@ -151,0 +152,2 @@ class FunctionToBlockMutator {
++    new RenameLabels(compiler, new LabelNameSupplier(idSupplier), false)
++        .process(null, fnNode);
+diff --git a/Closure_72/src/com/google/javascript/jscomp/RenameLabels.java b/Closure_72/src/com/google/javascript/jscomp/RenameLabels.java
+index a2f53cf..28e52ee 100644
+--- a/Closure_72/src/com/google/javascript/jscomp/RenameLabels.java
++++ b/Closure_72/src/com/google/javascript/jscomp/RenameLabels.java
+@@ -215 +215 @@ final class RenameLabels implements CompilerPass {
+-      if (li.referenced) {
++      if (li.referenced || !removeUnused) {

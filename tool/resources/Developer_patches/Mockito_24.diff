@@ -1,0 +1,7 @@
+diff --git a/Mockito_24/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java b/Mockito_24/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java
+index 4c00f50..d19fcda 100644
+--- a/Mockito_24/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java
++++ b/Mockito_24/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java
+@@ -76 +76 @@ public class ReturnsEmptyValues implements Answer<Object>, Serializable {
+-            return 1;
++            return invocation.getMock() == invocation.getArguments()[0] ? 0 : 1;

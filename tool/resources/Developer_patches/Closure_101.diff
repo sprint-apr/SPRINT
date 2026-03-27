@@ -1,0 +1,10 @@
+diff --git a/Closure_101/src/com/google/javascript/jscomp/CommandLineRunner.java b/Closure_101/src/com/google/javascript/jscomp/CommandLineRunner.java
+index bdf5592..c18639a 100644
+--- a/Closure_101/src/com/google/javascript/jscomp/CommandLineRunner.java
++++ b/Closure_101/src/com/google/javascript/jscomp/CommandLineRunner.java
+@@ -433,3 +432,0 @@ public class CommandLineRunner extends
+-    if (flags.process_closure_primitives) {
+-      options.closurePass = true;
+-    }
+@@ -436,0 +434 @@ public class CommandLineRunner extends
++    options.closurePass = flags.process_closure_primitives;

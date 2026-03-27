@@ -1,0 +1,33 @@
+diff --git a/JacksonCore_22/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java b/JacksonCore_22/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
+index 4dc7c9a..4459e7f 100644
+--- a/JacksonCore_22/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
++++ b/JacksonCore_22/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
+@@ -417 +417 @@ public class FilteringParserDelegate extends JsonParserDelegate
+-                    if (_includePath) {
++                    if (_verifyAllowedMatches() && _includePath) {
+@@ -439,0 +440 @@ public class FilteringParserDelegate extends JsonParserDelegate
++                    if (_verifyAllowedMatches()) {
+@@ -440,0 +442 @@ public class FilteringParserDelegate extends JsonParserDelegate
++                    }
+@@ -575 +577 @@ public class FilteringParserDelegate extends JsonParserDelegate
+-                        if (_includePath) {
++                        if (_verifyAllowedMatches() && _includePath) {
+@@ -599,0 +602 @@ public class FilteringParserDelegate extends JsonParserDelegate
++                        if (_verifyAllowedMatches()) {
+@@ -600,0 +604 @@ public class FilteringParserDelegate extends JsonParserDelegate
++                        }
+@@ -717 +721 @@ public class FilteringParserDelegate extends JsonParserDelegate
+-                    if (f == TokenFilter.INCLUDE_ALL) {
++                    if (f == TokenFilter.INCLUDE_ALL && _verifyAllowedMatches()) {
+@@ -731,0 +736 @@ public class FilteringParserDelegate extends JsonParserDelegate
++                        if (_verifyAllowedMatches()) {
+@@ -732,0 +738 @@ public class FilteringParserDelegate extends JsonParserDelegate
++                        }
+@@ -770,0 +777,7 @@ public class FilteringParserDelegate extends JsonParserDelegate
++    private final boolean _verifyAllowedMatches() throws IOException {
++        if (_matchCount == 0 || _allowMultipleMatches) {
++            ++_matchCount;
++            return true;
++        }
++        return false;
++    }

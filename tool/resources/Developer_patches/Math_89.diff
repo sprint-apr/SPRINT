@@ -1,0 +1,10 @@
+diff --git a/Math_89/src/java/org/apache/commons/math/stat/Frequency.java b/Math_89/src/java/org/apache/commons/math/stat/Frequency.java
+index c8deca3..70d622d 100644
+--- a/Math_89/src/java/org/apache/commons/math/stat/Frequency.java
++++ b/Math_89/src/java/org/apache/commons/math/stat/Frequency.java
+@@ -109,0 +110 @@ public class Frequency implements Serializable {
++        if (v instanceof Comparable<?>){
+@@ -110,0 +112,3 @@ public class Frequency implements Serializable {
++        } else {
++            throw new IllegalArgumentException("Object must implement Comparable");
++        }

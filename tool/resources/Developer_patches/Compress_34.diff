@@ -1,0 +1,9 @@
+diff --git a/Compress_34/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.java b/Compress_34/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.java
+index 14aebab..e325b56 100644
+--- a/Compress_34/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.java
++++ b/Compress_34/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.java
+@@ -57,0 +58 @@ public class X7875_NewUnix implements ZipExtraField, Cloneable, Serializable {
++    private static final ZipShort ZERO = new ZipShort(0);
+@@ -146 +147 @@ public class X7875_NewUnix implements ZipExtraField, Cloneable, Serializable {
+-        return getLocalFileDataLength();
++        return ZERO;

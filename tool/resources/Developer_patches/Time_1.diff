@@ -1,0 +1,25 @@
+diff --git a/Time_1/src/main/java/org/joda/time/Partial.java b/Time_1/src/main/java/org/joda/time/Partial.java
+index 3b84fdc..6ff2771 100644
+--- a/Time_1/src/main/java/org/joda/time/Partial.java
++++ b/Time_1/src/main/java/org/joda/time/Partial.java
+@@ -216,0 +217,9 @@ public final class Partial
++                if (loopUnitField.isSupported() == false) {
++                    if (lastUnitField.isSupported()) {
++                        throw new IllegalArgumentException("Types array must be in order largest-smallest: " +
++                                        types[i - 1].getName() + " < " + loopType.getName());
++                    } else {
++                        throw new IllegalArgumentException("Types array must not contain duplicate unsupported: " +
++                                        types[i - 1].getName() + " and " + loopType.getName());
++                    }
++                }
+@@ -221 +230 @@ public final class Partial
+-                } else if (compare == 0) {
++                } else if (compare == 0 && lastUnitField.equals(loopUnitField)) {
+diff --git a/Time_1/src/main/java/org/joda/time/field/UnsupportedDurationField.java b/Time_1/src/main/java/org/joda/time/field/UnsupportedDurationField.java
+index 7e0ce57..bf44e01 100644
+--- a/Time_1/src/main/java/org/joda/time/field/UnsupportedDurationField.java
++++ b/Time_1/src/main/java/org/joda/time/field/UnsupportedDurationField.java
+@@ -227,3 +226,0 @@ public final class UnsupportedDurationField extends DurationField implements Ser
+-        if (durationField.isSupported()) {
+-            return 1;
+-        }

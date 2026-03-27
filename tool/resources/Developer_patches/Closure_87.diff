@@ -1,0 +1,22 @@
+diff --git a/Closure_87/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java b/Closure_87/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java
+index 9498fa6..6c4ee4a 100644
+--- a/Closure_87/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java
++++ b/Closure_87/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java
+@@ -522,0 +523 @@ public class PeepholeSubstituteAlternateSyntax
++        if (maybeExpr.getType() == Token.EXPR_RESULT) {
+@@ -528,0 +530,2 @@ public class PeepholeSubstituteAlternateSyntax
++          if (maybeExpr.getFirstChild().getType() == Token.CALL) {
++            Node calledFn = maybeExpr.getFirstChild().getFirstChild();
+@@ -531,0 +535,7 @@ public class PeepholeSubstituteAlternateSyntax
++            if (calledFn.getType() == Token.GETELEM) {
++              return false;
++            } else if (calledFn.getType() == Token.GETPROP &&
++                       calledFn.getLastChild().getString().startsWith("on")) {
++              return false;
++            }
++          }
+@@ -533 +543,3 @@ public class PeepholeSubstituteAlternateSyntax
+-          return NodeUtil.isExpressionNode(maybeExpr);
++          return true;
++        }
++        return false;

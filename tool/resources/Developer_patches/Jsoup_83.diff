@@ -1,0 +1,21 @@
+diff --git a/Jsoup_83/src/main/java/org/jsoup/parser/CharacterReader.java b/Jsoup_83/src/main/java/org/jsoup/parser/CharacterReader.java
+index 80dffcd..6993524 100644
+--- a/Jsoup_83/src/main/java/org/jsoup/parser/CharacterReader.java
++++ b/Jsoup_83/src/main/java/org/jsoup/parser/CharacterReader.java
+@@ -254 +254 @@ public final class CharacterReader {
+-            if (c == '\t'|| c ==  '\n'|| c ==  '\r'|| c ==  '\f'|| c ==  ' '|| c ==  '/'|| c ==  '>'|| c ==  TokeniserState.nullChar)
++            if (c == '\t'|| c ==  '\n'|| c ==  '\r'|| c ==  '\f'|| c ==  ' '|| c ==  '/'|| c ==  '>'|| c == '<' || c ==  TokeniserState.nullChar)
+diff --git a/Jsoup_83/src/main/java/org/jsoup/parser/TokeniserState.java b/Jsoup_83/src/main/java/org/jsoup/parser/TokeniserState.java
+index 4980f15..95b326c 100644
+--- a/Jsoup_83/src/main/java/org/jsoup/parser/TokeniserState.java
++++ b/Jsoup_83/src/main/java/org/jsoup/parser/TokeniserState.java
+@@ -160,0 +161,3 @@ enum TokeniserState {
++                case '<': // NOTE: out of spec, but clear author intent
++                    t.error(this);
++                    r.unconsume();
+@@ -563,0 +567,3 @@ enum TokeniserState {
++                case '<': // NOTE: out of spec, but clear (spec has this as a part of the attribute name)
++                    t.error(this);
++                    r.unconsume();
+@@ -581 +586,0 @@ enum TokeniserState {
+-                case '<':

@@ -1,0 +1,1 @@
+int len = binaryData.length * 8 / 6 + ((binaryData.length % 3) > 0 ? 1 : 0);

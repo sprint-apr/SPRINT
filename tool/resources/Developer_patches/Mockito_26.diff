@@ -1,0 +1,7 @@
+diff --git a/Mockito_26/src/org/mockito/internal/util/Primitives.java b/Mockito_26/src/org/mockito/internal/util/Primitives.java
+index b44b825..5a91f3a 100644
+--- a/Mockito_26/src/org/mockito/internal/util/Primitives.java
++++ b/Mockito_26/src/org/mockito/internal/util/Primitives.java
+@@ -66 +66 @@ public class Primitives {
+-        primitiveValues.put(double.class, 0);
++        primitiveValues.put(double.class, 0D);

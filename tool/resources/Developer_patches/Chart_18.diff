@@ -1,0 +1,28 @@
+diff --git a/Chart_18/source/org/jfree/data/DefaultKeyedValues.java b/Chart_18/source/org/jfree/data/DefaultKeyedValues.java
+index 707eb0a..5569198 100644
+--- a/Chart_18/source/org/jfree/data/DefaultKeyedValues.java
++++ b/Chart_18/source/org/jfree/data/DefaultKeyedValues.java
+@@ -318 +317,0 @@ public class DefaultKeyedValues implements KeyedValues,
+-        if (index < this.keys.size()) {
+@@ -320 +318,0 @@ public class DefaultKeyedValues implements KeyedValues,
+-        }
+@@ -335 +333,2 @@ public class DefaultKeyedValues implements KeyedValues,
+-			return;
++            throw new UnknownKeyException("The key (" + key 
++                    + ") is not recognised.");
+diff --git a/Chart_18/source/org/jfree/data/DefaultKeyedValues2D.java b/Chart_18/source/org/jfree/data/DefaultKeyedValues2D.java
+index 798d5d0..cb81694 100644
+--- a/Chart_18/source/org/jfree/data/DefaultKeyedValues2D.java
++++ b/Chart_18/source/org/jfree/data/DefaultKeyedValues2D.java
+@@ -454,0 +455,6 @@ public class DefaultKeyedValues2D implements KeyedValues2D,
++    	if (columnKey == null) {
++    		throw new IllegalArgumentException("Null 'columnKey' argument.");
++    	}
++    	if (!this.columnKeys.contains(columnKey)) {
++    		throw new UnknownKeyException("Unknown key: " + columnKey);
++    	}
+@@ -457,0 +464,2 @@ public class DefaultKeyedValues2D implements KeyedValues2D,
++            int index = rowData.getIndex(columnKey);
++            if (index >= 0) {
+@@ -458,0 +467 @@ public class DefaultKeyedValues2D implements KeyedValues2D,
++            }

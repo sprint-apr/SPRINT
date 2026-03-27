@@ -1,0 +1,25 @@
+diff --git a/Mockito_17/src/org/mockito/internal/creation/MockSettingsImpl.java b/Mockito_17/src/org/mockito/internal/creation/MockSettingsImpl.java
+index bf2cf3b..5285d90 100644
+--- a/Mockito_17/src/org/mockito/internal/creation/MockSettingsImpl.java
++++ b/Mockito_17/src/org/mockito/internal/creation/MockSettingsImpl.java
+@@ -19,0 +20 @@ public class MockSettingsImpl implements MockSettings {
++    private boolean serializable;
+@@ -22 +23,2 @@ public class MockSettingsImpl implements MockSettings {
+-        return this.extraInterfaces(java.io.Serializable.class);
++        this.serializable = true;
++        return this;
+@@ -74 +76 @@ public class MockSettingsImpl implements MockSettings {
+-        return extraInterfaces != null && java.util.Arrays.asList(extraInterfaces).contains(java.io.Serializable.class);
++        return serializable;
+diff --git a/Mockito_17/src/org/mockito/internal/util/MockUtil.java b/Mockito_17/src/org/mockito/internal/util/MockUtil.java
+index d2d042f..b8ed8b4 100644
+--- a/Mockito_17/src/org/mockito/internal/util/MockUtil.java
++++ b/Mockito_17/src/org/mockito/internal/util/MockUtil.java
+@@ -18,0 +19 @@ import org.mockito.internal.util.reflection.LenientCopyTool;
++import java.io.Serializable;
+@@ -44,0 +46,3 @@ public class MockUtil {
++        if (settings.isSerializable()) {
++            ancillaryTypes = interfaces == null ? new Class<?>[] {Serializable.class} : new ArrayUtils().concat(interfaces, Serializable.class);
++        } else {
+@@ -45,0 +50 @@ public class MockUtil {
++        }

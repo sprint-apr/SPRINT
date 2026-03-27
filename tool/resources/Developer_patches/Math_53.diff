@@ -1,0 +1,8 @@
+diff --git a/Math_53/src/main/java/org/apache/commons/math/complex/Complex.java b/Math_53/src/main/java/org/apache/commons/math/complex/Complex.java
+index e0a8e97..ab58c78 100644
+--- a/Math_53/src/main/java/org/apache/commons/math/complex/Complex.java
++++ b/Math_53/src/main/java/org/apache/commons/math/complex/Complex.java
+@@ -152,0 +153,3 @@ public class Complex implements FieldElement<Complex>, Serializable  {
++        if (isNaN || rhs.isNaN) {
++            return NaN;
++        }

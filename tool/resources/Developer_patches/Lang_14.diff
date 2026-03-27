@@ -1,0 +1,9 @@
+diff --git a/Lang_14/src/main/java/org/apache/commons/lang3/StringUtils.java b/Lang_14/src/main/java/org/apache/commons/lang3/StringUtils.java
+index 535a3f2..4733b7e 100644
+--- a/Lang_14/src/main/java/org/apache/commons/lang3/StringUtils.java
++++ b/Lang_14/src/main/java/org/apache/commons/lang3/StringUtils.java
+@@ -787,0 +788 @@ public class StringUtils {
++        if (cs1 instanceof String && cs2 instanceof String) {
+@@ -788,0 +790,2 @@ public class StringUtils {
++        }
++        return CharSequenceUtils.regionMatches(cs1, false, 0, cs2, 0, Math.max(cs1.length(), cs2.length()));

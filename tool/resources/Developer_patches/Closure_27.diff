@@ -1,0 +1,16 @@
+diff --git a/Closure_27/src/com/google/javascript/rhino/IR.java b/Closure_27/src/com/google/javascript/rhino/IR.java
+index 081f01f..002acd6 100644
+--- a/Closure_27/src/com/google/javascript/rhino/IR.java
++++ b/Closure_27/src/com/google/javascript/rhino/IR.java
+@@ -110,0 +111,3 @@ public class IR {
++  private static Node blockUnchecked(Node stmt) {
++    return new Node(Token.BLOCK, stmt);
++  }
+@@ -224,2 +227,2 @@ public class IR {
+-    Preconditions.checkState(tryBody.isLabelName());
+-    Preconditions.checkState(finallyBody.isLabelName());
++    Preconditions.checkState(tryBody.isBlock());
++    Preconditions.checkState(finallyBody.isBlock());
+@@ -233 +236 @@ public class IR {
+-    Node catchBody = block(catchNode).copyInformationFrom(catchNode);
++    Node catchBody = blockUnchecked(catchNode).copyInformationFrom(catchNode);

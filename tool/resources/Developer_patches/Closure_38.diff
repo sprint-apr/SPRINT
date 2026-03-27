@@ -1,0 +1,7 @@
+diff --git a/Closure_38/src/com/google/javascript/jscomp/CodeConsumer.java b/Closure_38/src/com/google/javascript/jscomp/CodeConsumer.java
+index 4381487..3522e89 100644
+--- a/Closure_38/src/com/google/javascript/jscomp/CodeConsumer.java
++++ b/Closure_38/src/com/google/javascript/jscomp/CodeConsumer.java
+@@ -245 +245 @@ abstract class CodeConsumer {
+-    if (x < 0 && prev == '-') {
++    if ((x < 0 || negativeZero) && prev == '-') {

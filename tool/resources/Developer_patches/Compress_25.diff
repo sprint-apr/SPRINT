@@ -1,0 +1,6 @@
+diff --git a/Compress_25/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java b/Compress_25/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+index 38ae956..9a3aa37 100644
+--- a/Compress_25/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
++++ b/Compress_25/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+@@ -183,0 +184 @@ public class ZipArchiveInputStream extends ArchiveInputStream {
++        buf.limit(0);

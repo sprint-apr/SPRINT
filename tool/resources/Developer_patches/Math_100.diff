@@ -1,0 +1,13 @@
+diff --git a/Math_100/src/java/org/apache/commons/math/estimation/AbstractEstimator.java b/Math_100/src/java/org/apache/commons/math/estimation/AbstractEstimator.java
+index ea5083d..8e5fe1a 100644
+--- a/Math_100/src/java/org/apache/commons/math/estimation/AbstractEstimator.java
++++ b/Math_100/src/java/org/apache/commons/math/estimation/AbstractEstimator.java
+@@ -166 +166 @@ public abstract class AbstractEstimator implements Estimator {
+-        final int cols = problem.getAllParameters().length;
++        final int cols = problem.getUnboundParameters().length;
+@@ -202 +202 @@ public abstract class AbstractEstimator implements Estimator {
+-        int p = problem.getAllParameters().length;
++        int p = problem.getUnboundParameters().length;
+@@ -207 +207 @@ public abstract class AbstractEstimator implements Estimator {
+-        double[] errors = new double[problem.getAllParameters().length];
++        double[] errors = new double[problem.getUnboundParameters().length];

@@ -1,0 +1,33 @@
+diff --git a/Math_21/src/main/java/org/apache/commons/math3/linear/RectangularCholeskyDecomposition.java b/Math_21/src/main/java/org/apache/commons/math3/linear/RectangularCholeskyDecomposition.java
+index 04488e5..aba7b98 100644
+--- a/Math_21/src/main/java/org/apache/commons/math3/linear/RectangularCholeskyDecomposition.java
++++ b/Math_21/src/main/java/org/apache/commons/math3/linear/RectangularCholeskyDecomposition.java
+@@ -69 +68,0 @@ public class RectangularCholeskyDecomposition {
+-        int[] swap  = new int[order];
+@@ -79 +78 @@ public class RectangularCholeskyDecomposition {
+-            swap[r] = r;
++            int swapR = r;
+@@ -82,3 +81,3 @@ public class RectangularCholeskyDecomposition {
+-                int isi = index[swap[i]];
+-                if (c[ii][ii] > c[isi][isi]) {
+-                    swap[r] = i;
++                int isr = index[swapR];
++                if (c[ii][ii] > c[isr][isr]) {
++                    swapR = i;
+@@ -90,4 +89,7 @@ public class RectangularCholeskyDecomposition {
+-            if (swap[r] != r) {
+-                int tmp = index[r];
+-                index[r] = index[swap[r]];
+-                index[swap[r]] = tmp;
++            if (swapR != r) {
++                final int tmpIndex    = index[r];
++                index[r]              = index[swapR];
++                index[swapR]          = tmpIndex;
++                final double[] tmpRow = b[r];
++                b[r]                  = b[swapR];
++                b[swapR]              = tmpRow;
+@@ -123,0 +126 @@ public class RectangularCholeskyDecomposition {
++                final double inverse2 = 1 / c[ir][ir];
+@@ -128 +131 @@ public class RectangularCholeskyDecomposition {
+-                    c[ii][ii] -= e * e;
++                    c[ii][ii] -= c[ii][ir] * c[ii][ir] * inverse2;

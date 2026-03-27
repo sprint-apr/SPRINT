@@ -1,0 +1,61 @@
+diff --git a/Jsoup_56/src/main/java/org/jsoup/nodes/DocumentType.java b/Jsoup_56/src/main/java/org/jsoup/nodes/DocumentType.java
+index cd0c8df..4e7730b 100644
+--- a/Jsoup_56/src/main/java/org/jsoup/nodes/DocumentType.java
++++ b/Jsoup_56/src/main/java/org/jsoup/nodes/DocumentType.java
+@@ -14,0 +15 @@ public class DocumentType extends Node {
++    private static final String PUB_SYS_KEY = "pubSysKey"; // PUBLIC or SYSTEM
+@@ -30,0 +32,3 @@ public class DocumentType extends Node {
++        if (has(PUBLIC_ID)) {
++            attr(PUB_SYS_KEY, PUBLIC_KEY);
++        }
+@@ -40,0 +45,2 @@ public class DocumentType extends Node {
++    public DocumentType(String name, String pubSysKey, String publicId, String systemId, String baseUri) {
++        super(baseUri);
+@@ -41,0 +48,7 @@ public class DocumentType extends Node {
++        attr(NAME, name);
++        if (pubSysKey != null) {
++            attr(PUB_SYS_KEY, pubSysKey);
++        }
++        attr(PUBLIC_ID, publicId);
++        attr(SYSTEM_ID, systemId);
++    }
+@@ -57,0 +71,2 @@ public class DocumentType extends Node {
++        if (has(PUB_SYS_KEY))
++            accum.append(" ").append(attr(PUB_SYS_KEY));
+@@ -59 +74 @@ public class DocumentType extends Node {
+-            accum.append(" PUBLIC \"").append(attr(PUBLIC_ID)).append('"');
++            accum.append(" \"").append(attr(PUBLIC_ID)).append('"');
+diff --git a/Jsoup_56/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java b/Jsoup_56/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+index 9a40814..c515462 100644
+--- a/Jsoup_56/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
++++ b/Jsoup_56/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+@@ -23 +23 @@ enum HtmlTreeBuilderState {
+-                    tb.settings.normalizeTag(d.getName()), d.getPublicIdentifier(), d.getSystemIdentifier(), tb.getBaseUri());
++                    tb.settings.normalizeTag(d.getName()), d.getPubSysKey(), d.getPublicIdentifier(), d.getSystemIdentifier(), tb.getBaseUri());
+diff --git a/Jsoup_56/src/main/java/org/jsoup/parser/Token.java b/Jsoup_56/src/main/java/org/jsoup/parser/Token.java
+index 0eccbbe..34baf19 100644
+--- a/Jsoup_56/src/main/java/org/jsoup/parser/Token.java
++++ b/Jsoup_56/src/main/java/org/jsoup/parser/Token.java
+@@ -34,0 +35 @@ abstract class Token {
++        String pubSysKey = null;
+@@ -45,0 +47 @@ abstract class Token {
++            pubSysKey = null;
+@@ -55,0 +58,3 @@ abstract class Token {
++        String getPubSysKey() {
++            return pubSysKey;
++        }
+diff --git a/Jsoup_56/src/main/java/org/jsoup/parser/TokeniserState.java b/Jsoup_56/src/main/java/org/jsoup/parser/TokeniserState.java
+index 24c2f89..6a97238 100644
+--- a/Jsoup_56/src/main/java/org/jsoup/parser/TokeniserState.java
++++ b/Jsoup_56/src/main/java/org/jsoup/parser/TokeniserState.java
+@@ -1194,0 +1195 @@ enum TokeniserState {
++                t.doctypePending.pubSysKey = DocumentType.PUBLIC_KEY;
+@@ -1196,0 +1198 @@ enum TokeniserState {
++                t.doctypePending.pubSysKey = DocumentType.SYSTEM_KEY;
+diff --git a/Jsoup_56/src/main/java/org/jsoup/parser/XmlTreeBuilder.java b/Jsoup_56/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+index 2ac525f..cfcb1a3 100644
+--- a/Jsoup_56/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
++++ b/Jsoup_56/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+@@ -100 +100 @@ public class XmlTreeBuilder extends TreeBuilder {
+-        DocumentType doctypeNode = new DocumentType(settings.normalizeTag(d.getName()), d.getPublicIdentifier(), d.getSystemIdentifier(), baseUri);
++        DocumentType doctypeNode = new DocumentType(settings.normalizeTag(d.getName()), d.getPubSysKey(), d.getPublicIdentifier(), d.getSystemIdentifier(), baseUri);

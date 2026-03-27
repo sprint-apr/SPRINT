@@ -1,0 +1,20 @@
+diff --git a/Cli_20/src/java/org/apache/commons/cli/PosixParser.java b/Cli_20/src/java/org/apache/commons/cli/PosixParser.java
+index 7998f07..a93b73f 100644
+--- a/Cli_20/src/java/org/apache/commons/cli/PosixParser.java
++++ b/Cli_20/src/java/org/apache/commons/cli/PosixParser.java
+@@ -114 +114,4 @@ public class PosixParser extends Parser {
+-                if (token.indexOf('=') != -1)
++                int pos = token.indexOf('=');
++                String opt = pos == -1 ? token : token.substring(0, pos); // --foo
++
++                if (!options.hasOption(opt) && stopAtNonOption)
+@@ -116,2 +119 @@ public class PosixParser extends Parser {
+-                    tokens.add(token.substring(0, token.indexOf('=')));
+-                    tokens.add(token.substring(token.indexOf('=') + 1, token.length()));
++                    process(token);
+@@ -121 +123,4 @@ public class PosixParser extends Parser {
+-                    tokens.add(token);
++                    tokens.add(opt);
++                    if (pos != -1) {
++                        tokens.add(token.substring(pos + 1));
++                    }

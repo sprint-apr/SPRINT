@@ -1,0 +1,7 @@
+diff --git a/Math_27/src/main/java/org/apache/commons/math3/fraction/Fraction.java b/Math_27/src/main/java/org/apache/commons/math3/fraction/Fraction.java
+index f84218e..f81ff0a 100644
+--- a/Math_27/src/main/java/org/apache/commons/math3/fraction/Fraction.java
++++ b/Math_27/src/main/java/org/apache/commons/math3/fraction/Fraction.java
+@@ -597 +597 @@ public class Fraction
+-        return multiply(100).doubleValue();
++        return 100 * doubleValue();

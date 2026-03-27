@@ -1,0 +1,13 @@
+diff --git a/Math_87/src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java b/Math_87/src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+index 0ab790c..b0d114e 100644
+--- a/Math_87/src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
++++ b/Math_87/src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+@@ -275,2 +275 @@ class SimplexTableau implements Serializable {
+-            if (!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+-                if (row == null) {
++            if (MathUtils.equals(getEntry(i, col), 1.0, epsilon) && (row == null)) {
+@@ -278 +277 @@ class SimplexTableau implements Serializable {
+-                } else {
++            } else if (!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) {
+@@ -280 +278,0 @@ class SimplexTableau implements Serializable {
+-                }

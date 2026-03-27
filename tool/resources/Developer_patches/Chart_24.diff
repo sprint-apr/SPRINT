@@ -1,0 +1,7 @@
+diff --git a/Chart_24/source/org/jfree/chart/renderer/GrayPaintScale.java b/Chart_24/source/org/jfree/chart/renderer/GrayPaintScale.java
+index 1e1e075..e62c43f 100644
+--- a/Chart_24/source/org/jfree/chart/renderer/GrayPaintScale.java
++++ b/Chart_24/source/org/jfree/chart/renderer/GrayPaintScale.java
+@@ -126 +126 @@ public class GrayPaintScale
+-        int g = (int) ((value - this.lowerBound) / (this.upperBound 
++        int g = (int) ((v - this.lowerBound) / (this.upperBound 

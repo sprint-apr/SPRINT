@@ -1,0 +1,16 @@
+diff --git a/Lang_31/src/main/java/org/apache/commons/lang3/StringUtils.java b/Lang_31/src/main/java/org/apache/commons/lang3/StringUtils.java
+index a90b067..4aac02d 100644
+--- a/Lang_31/src/main/java/org/apache/commons/lang3/StringUtils.java
++++ b/Lang_31/src/main/java/org/apache/commons/lang3/StringUtils.java
+@@ -1445,0 +1446,2 @@ public class StringUtils {
++		int csLastIndex = csLength - 1;
++		int searchLastIndex = searchLength - 1;
+@@ -1449,0 +1452 @@ public class StringUtils {
++					if (i < csLastIndex && j < searchLastIndex && ch >= Character.MIN_HIGH_SURROGATE && ch <= Character.MAX_HIGH_SURROGATE) {
+@@ -1450,0 +1454,4 @@ public class StringUtils {
++						if (searchChars[j + 1] == cs.charAt(i + 1)) {
++							return true;
++						}
++					} else {
+@@ -1452,0 +1460 @@ public class StringUtils {
++					}

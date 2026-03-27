@@ -1,0 +1,9 @@
+diff --git a/Compress_45/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/Compress_45/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index 39ce5c1..d132d9d 100644
+--- a/Compress_45/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/Compress_45/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -486,0 +487,2 @@ public class TarUtils {
++        } else {
++            formatBigIntegerBinary(value, buf, offset, length, negative);
+@@ -488 +489,0 @@ public class TarUtils {
+-        formatBigIntegerBinary(value, buf, offset, length, negative);

@@ -1,0 +1,7 @@
+diff --git a/Closure_130/src/com/google/javascript/jscomp/CollapseProperties.java b/Closure_130/src/com/google/javascript/jscomp/CollapseProperties.java
+index ab2d2c7..f86625f 100644
+--- a/Closure_130/src/com/google/javascript/jscomp/CollapseProperties.java
++++ b/Closure_130/src/com/google/javascript/jscomp/CollapseProperties.java
+@@ -172 +172 @@ class CollapseProperties implements CompilerPass {
+-      if (name.globalSets == 1 && name.localSets == 0 &&
++      if (!name.inExterns && name.globalSets == 1 && name.localSets == 0 &&

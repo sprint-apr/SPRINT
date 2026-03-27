@@ -1,0 +1,7 @@
+diff --git a/Closure_10/src/com/google/javascript/jscomp/NodeUtil.java b/Closure_10/src/com/google/javascript/jscomp/NodeUtil.java
+index eef2792..eeb12d4 100644
+--- a/Closure_10/src/com/google/javascript/jscomp/NodeUtil.java
++++ b/Closure_10/src/com/google/javascript/jscomp/NodeUtil.java
+@@ -1417 +1417 @@ public final class NodeUtil {
+-      return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
++      return anyResultsMatch(n, MAY_BE_STRING_PREDICATE);

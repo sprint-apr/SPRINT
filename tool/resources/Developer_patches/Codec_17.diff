@@ -1,0 +1,7 @@
+diff --git a/Codec_17/src/main/java/org/apache/commons/codec/binary/StringUtils.java b/Codec_17/src/main/java/org/apache/commons/codec/binary/StringUtils.java
+index 5b14ca0..7bb15e3 100644
+--- a/Codec_17/src/main/java/org/apache/commons/codec/binary/StringUtils.java
++++ b/Codec_17/src/main/java/org/apache/commons/codec/binary/StringUtils.java
+@@ -339 +339 @@ public class StringUtils {
+-        return new String(bytes, Charsets.ISO_8859_1);
++        return newString(bytes, Charsets.ISO_8859_1);

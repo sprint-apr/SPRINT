@@ -1,0 +1,14 @@
+diff --git a/Compress_3/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java b/Compress_3/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+index 005e3e7..2dc3b26 100644
+--- a/Compress_3/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ b/Compress_3/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -54,0 +55 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++    private boolean haveUnclosedEntry = false;
+@@ -111,0 +113,3 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++        if(haveUnclosedEntry) {
++            throw new IOException("This archives contains unclosed entries.");
++        }
+@@ -186,0 +191 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++        haveUnclosedEntry = true;
+@@ -216,0 +222 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++        haveUnclosedEntry = false;

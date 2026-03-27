@@ -1,0 +1,11 @@
+diff --git a/Cli_7/src/java/org/apache/commons/cli2/builder/PatternBuilder.java b/Cli_7/src/java/org/apache/commons/cli2/builder/PatternBuilder.java
+index 6910017..2b4c1b5 100644
+--- a/Cli_7/src/java/org/apache/commons/cli2/builder/PatternBuilder.java
++++ b/Cli_7/src/java/org/apache/commons/cli2/builder/PatternBuilder.java
+@@ -19 +18,0 @@ package org.apache.commons.cli2.builder;
+-import java.util.HashSet;
+@@ -20,0 +20 @@ import java.util.Iterator;
++import java.util.LinkedHashSet;
+@@ -67 +67 @@ public class PatternBuilder {
+-    private final Set options = new HashSet();
++    private final Set options = new LinkedHashSet();

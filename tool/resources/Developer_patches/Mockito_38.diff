@@ -1,0 +1,7 @@
+diff --git a/Mockito_38/src/org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool.java b/Mockito_38/src/org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool.java
+index 671fbc5..9d4f834 100644
+--- a/Mockito_38/src/org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool.java
++++ b/Mockito_38/src/org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool.java
+@@ -48 +48 @@ public class ArgumentMatchingTool {
+-        return StringDescription.toString(m).equals(arg.toString());
++        return StringDescription.toString(m).equals(arg == null? "null" : arg.toString());

@@ -1,0 +1,75 @@
+diff --git a/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationCompare.java b/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationCompare.java
+index 26875b8..e083ab3 100644
+--- a/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationCompare.java
++++ b/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationCompare.java
+@@ -36,0 +37 @@ public abstract class CoreOperationCompare extends CoreOperation {
++    private boolean invert;
+@@ -38,0 +40,2 @@ public abstract class CoreOperationCompare extends CoreOperation {
++        this(arg1, arg2, false);
++    }
+@@ -39,0 +43 @@ public abstract class CoreOperationCompare extends CoreOperation {
++    protected CoreOperationCompare(Expression arg1, Expression arg2, boolean invert) {
+@@ -40,0 +45 @@ public abstract class CoreOperationCompare extends CoreOperation {
++        this.invert = invert;
+@@ -42,0 +48,3 @@ public abstract class CoreOperationCompare extends CoreOperation {
++    public Object computeValue(EvalContext context) {
++        return equal(context, args[0], args[1]) ? Boolean.TRUE : Boolean.FALSE;
++    }
+@@ -123,5 +130,0 @@ public abstract class CoreOperationCompare extends CoreOperation {
+-        if (l instanceof Pointer && r instanceof Pointer) {
+-            if (l.equals(r)) {
+-                return true;
+-            }
+-        }
+@@ -136,3 +139 @@ public abstract class CoreOperationCompare extends CoreOperation {
+-        if (l == r) {
+-            return true;
+-        }
++        boolean result;
+@@ -140,2 +141,2 @@ public abstract class CoreOperationCompare extends CoreOperation {
+-            return (InfoSetUtil.booleanValue(l) == InfoSetUtil.booleanValue(r));
+-            }
++            result = l == r || InfoSetUtil.booleanValue(l) == InfoSetUtil.booleanValue(r);
++        } else if (l instanceof Number || r instanceof Number) {
+@@ -143,2 +144,3 @@ public abstract class CoreOperationCompare extends CoreOperation {
+-        if (l instanceof Number || r instanceof Number) {
+-            return (InfoSetUtil.doubleValue(l) == InfoSetUtil.doubleValue(r));
++            double ld = InfoSetUtil.doubleValue(l);
++            if (Double.isNaN(ld)) {
++                return false;
+@@ -145,0 +148,6 @@ public abstract class CoreOperationCompare extends CoreOperation {
++            double rd = InfoSetUtil.doubleValue(r);
++            if (Double.isNaN(rd)) {
++                return false;
++            }
++            result = ld == rd;
++        } else {
+@@ -147,2 +155,4 @@ public abstract class CoreOperationCompare extends CoreOperation {
+-            return (
+-                InfoSetUtil.stringValue(l).equals(InfoSetUtil.stringValue(r)));
++                l = InfoSetUtil.stringValue(l);
++                r = InfoSetUtil.stringValue(r);
++            }
++            result = l == r || l != null && l.equals(r);
+@@ -150 +160 @@ public abstract class CoreOperationCompare extends CoreOperation {
+-        return l != null && l.equals(r);
++        return result ^ invert;
+diff --git a/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationEqual.java b/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationEqual.java
+index baca531..801e7fb 100644
+--- a/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationEqual.java
++++ b/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationEqual.java
+@@ -31,3 +30,0 @@ public class CoreOperationEqual extends CoreOperationCompare {
+-    public Object computeValue(org.apache.commons.jxpath.ri.EvalContext context) {
+-        return equal(context, args[0], args[1]) ? Boolean.TRUE : Boolean.FALSE;
+-    }
+diff --git a/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationNotEqual.java b/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationNotEqual.java
+index 6754f46..aad3f5f 100644
+--- a/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationNotEqual.java
++++ b/JxPath_9/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationNotEqual.java
+@@ -28 +28 @@ public class CoreOperationNotEqual extends CoreOperationCompare {
+-        super(arg1, arg2);
++        super(arg1, arg2, true);
+@@ -31,3 +30,0 @@ public class CoreOperationNotEqual extends CoreOperationCompare {
+-    public Object computeValue(org.apache.commons.jxpath.ri.EvalContext context) {
+-        return equal(context, args[0], args[1]) ? Boolean.FALSE : Boolean.TRUE;
+-    }

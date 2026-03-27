@@ -1,0 +1,8 @@
+diff --git a/Cli_5/src/java/org/apache/commons/cli/Util.java b/Cli_5/src/java/org/apache/commons/cli/Util.java
+index 2d88c30..94e97e3 100644
+--- a/Cli_5/src/java/org/apache/commons/cli/Util.java
++++ b/Cli_5/src/java/org/apache/commons/cli/Util.java
+@@ -35,0 +36,3 @@ class Util {
++        if (str == null) {
++            return null;
++        }

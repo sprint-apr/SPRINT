@@ -1,0 +1,29 @@
+diff --git a/Jsoup_91/src/main/java/org/jsoup/UncheckedIOException.java b/Jsoup_91/src/main/java/org/jsoup/UncheckedIOException.java
+index 4cab9f4..e7a9cc3 100644
+--- a/Jsoup_91/src/main/java/org/jsoup/UncheckedIOException.java
++++ b/Jsoup_91/src/main/java/org/jsoup/UncheckedIOException.java
+@@ -9,0 +10,3 @@ public class UncheckedIOException extends RuntimeException {
++    public UncheckedIOException(String message) {
++        super(new IOException(message));
++    }
+diff --git a/Jsoup_91/src/main/java/org/jsoup/parser/CharacterReader.java b/Jsoup_91/src/main/java/org/jsoup/parser/CharacterReader.java
+index 187f9e9..7f163dd 100644
+--- a/Jsoup_91/src/main/java/org/jsoup/parser/CharacterReader.java
++++ b/Jsoup_91/src/main/java/org/jsoup/parser/CharacterReader.java
+@@ -36,0 +37,3 @@ public final class CharacterReader {
++        if (isBinary()) {
++            throw new UncheckedIOException("Input is binary and unsupported");
++        }
+@@ -451,0 +455 @@ public final class CharacterReader {
++    private static final int numNullsConsideredBinary = 10; // conservative
+@@ -456,0 +461,2 @@ public final class CharacterReader {
++    boolean isBinary() {
++        int nullsSeen = 0;
+@@ -457,0 +464,4 @@ public final class CharacterReader {
++        for (int i = bufPos; i < bufLength; i++) {
++            if (charBuf[i] == '\0')
++                nullsSeen++;
++        }
+@@ -458,0 +469,2 @@ public final class CharacterReader {
++        return nullsSeen >= numNullsConsideredBinary;
++    }

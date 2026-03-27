@@ -1,0 +1,46 @@
+diff --git a/Time_26/src/main/java/org/joda/time/DateTimeZone.java b/Time_26/src/main/java/org/joda/time/DateTimeZone.java
+index 9edb188..23f70a5 100644
+--- a/Time_26/src/main/java/org/joda/time/DateTimeZone.java
++++ b/Time_26/src/main/java/org/joda/time/DateTimeZone.java
+@@ -935,0 +936,9 @@ public abstract class DateTimeZone implements Serializable {
++    public long convertLocalToUTC(long instantLocal, boolean strict, long originalInstantUTC) {
++        int offsetOriginal = getOffset(originalInstantUTC);
++        long instantUTC = instantLocal - offsetOriginal;
++        int offsetLocalFromOriginal = getOffset(instantUTC);
++        if (offsetLocalFromOriginal == offsetOriginal) {
++            return instantUTC;
++        }
++        return convertLocalToUTC(instantLocal, strict);
++    }
+diff --git a/Time_26/src/main/java/org/joda/time/chrono/ZonedChronology.java b/Time_26/src/main/java/org/joda/time/chrono/ZonedChronology.java
+index f165f3d..819f64e 100644
+--- a/Time_26/src/main/java/org/joda/time/chrono/ZonedChronology.java
++++ b/Time_26/src/main/java/org/joda/time/chrono/ZonedChronology.java
+@@ -436 +436 @@ public final class ZonedChronology extends AssembledChronology {
+-               return iZone.convertLocalToUTC(localInstant, false);
++               return iZone.convertLocalToUTC(localInstant, false, instant);
+@@ -448 +448 @@ public final class ZonedChronology extends AssembledChronology {
+-               return iZone.convertLocalToUTC(localInstant, false);
++               return iZone.convertLocalToUTC(localInstant, false, instant);
+@@ -460 +460 @@ public final class ZonedChronology extends AssembledChronology {
+-                return iZone.convertLocalToUTC(localInstant, false);
++                return iZone.convertLocalToUTC(localInstant, false, instant);
+@@ -467 +467 @@ public final class ZonedChronology extends AssembledChronology {
+-            long result = iZone.convertLocalToUTC(localInstant, false);
++            long result = iZone.convertLocalToUTC(localInstant, false, instant);
+@@ -481 +481 @@ public final class ZonedChronology extends AssembledChronology {
+-            return iZone.convertLocalToUTC(localInstant, false);
++            return iZone.convertLocalToUTC(localInstant, false, instant);
+@@ -528 +528 @@ public final class ZonedChronology extends AssembledChronology {
+-                return iZone.convertLocalToUTC(localInstant, false);
++                return iZone.convertLocalToUTC(localInstant, false, instant);
+@@ -540 +540 @@ public final class ZonedChronology extends AssembledChronology {
+-                return iZone.convertLocalToUTC(localInstant, false);
++                return iZone.convertLocalToUTC(localInstant, false, instant);
+diff --git a/Time_26/src/main/java/org/joda/time/field/LenientDateTimeField.java b/Time_26/src/main/java/org/joda/time/field/LenientDateTimeField.java
+index 450a4ef..6cf4c71 100644
+--- a/Time_26/src/main/java/org/joda/time/field/LenientDateTimeField.java
++++ b/Time_26/src/main/java/org/joda/time/field/LenientDateTimeField.java
+@@ -75 +75 @@ public class LenientDateTimeField extends DelegatedDateTimeField {
+-        return iBase.getZone().convertLocalToUTC(localInstant, false);
++        return iBase.getZone().convertLocalToUTC(localInstant, false, instant);

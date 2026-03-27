@@ -1,0 +1,6 @@
+diff --git a/JacksonCore_26/src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java b/JacksonCore_26/src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java
+index 5046b37..c2817af 100644
+--- a/JacksonCore_26/src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java
++++ b/JacksonCore_26/src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java
+@@ -107,0 +108 @@ public class NonBlockingJsonParser
++        _currBufferStart = start;

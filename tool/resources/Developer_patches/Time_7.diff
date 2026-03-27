@@ -1,0 +1,8 @@
+diff --git a/Time_7/src/main/java/org/joda/time/format/DateTimeFormatter.java b/Time_7/src/main/java/org/joda/time/format/DateTimeFormatter.java
+index 447674a..913d036 100644
+--- a/Time_7/src/main/java/org/joda/time/format/DateTimeFormatter.java
++++ b/Time_7/src/main/java/org/joda/time/format/DateTimeFormatter.java
+@@ -707,0 +708 @@ public class DateTimeFormatter {
++        int defaultYear = DateTimeUtils.getChronology(chrono).year().get(instantMillis);
+@@ -710 +710,0 @@ public class DateTimeFormatter {
+-        int defaultYear = chrono.year().get(instantLocal);

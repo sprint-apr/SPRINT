@@ -1,0 +1,8 @@
+diff --git a/Jsoup_59/src/main/java/org/jsoup/parser/Token.java b/Jsoup_59/src/main/java/org/jsoup/parser/Token.java
+index 7dcfa2b..af51432 100644
+--- a/Jsoup_59/src/main/java/org/jsoup/parser/Token.java
++++ b/Jsoup_59/src/main/java/org/jsoup/parser/Token.java
+@@ -106,0 +107 @@ abstract class Token {
++                if (pendingAttributeName.length() > 0) {
+@@ -115,0 +117 @@ abstract class Token {
++                }

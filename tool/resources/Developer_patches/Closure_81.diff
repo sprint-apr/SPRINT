@@ -1,0 +1,12 @@
+diff --git a/Closure_81/src/com/google/javascript/jscomp/parsing/IRFactory.java b/Closure_81/src/com/google/javascript/jscomp/parsing/IRFactory.java
+index 4a733cd..07761aa 100644
+--- a/Closure_81/src/com/google/javascript/jscomp/parsing/IRFactory.java
++++ b/Closure_81/src/com/google/javascript/jscomp/parsing/IRFactory.java
+@@ -516,0 +517,7 @@ public class IRFactory {
++        int functionType = functionNode.getFunctionType();
++        if (functionType != FunctionNode.FUNCTION_EXPRESSION) {
++          errorReporter.error(
++            "unnamed function statement",
++            sourceName,
++            functionNode.getLineno(), "", 0);
++        }

@@ -1,0 +1,35 @@
+diff --git a/Lang_41/src/java/org/apache/commons/lang/ClassUtils.java b/Lang_41/src/java/org/apache/commons/lang/ClassUtils.java
+index d5de42b..478b377 100644
+--- a/Lang_41/src/java/org/apache/commons/lang/ClassUtils.java
++++ b/Lang_41/src/java/org/apache/commons/lang/ClassUtils.java
+@@ -190,0 +191 @@ public class ClassUtils {
++        StringBuffer arrayPrefix = new StringBuffer();
+@@ -192,0 +194,5 @@ public class ClassUtils {
++        if (className.startsWith("[")) {
++            while (className.charAt(0) == '[') {
++                className = className.substring(1);
++                arrayPrefix.append("[]");
++            }
+@@ -193,0 +200,4 @@ public class ClassUtils {
++            if (className.charAt(0) == 'L' && className.charAt(className.length() - 1) == ';') {
++                className = className.substring(1, className.length() - 1);
++            }
++        }
+@@ -194,0 +205,3 @@ public class ClassUtils {
++        if (reverseAbbreviationMap.containsKey(className)) {
++            className = reverseAbbreviationMap.get(className);
++        }
+@@ -203 +216 @@ public class ClassUtils {
+-        return out;
++        return out + arrayPrefix;
+@@ -245 +258 @@ public class ClassUtils {
+-        if (className == null) {
++        if (className == null || className.length() == 0) {
+@@ -249,0 +263,3 @@ public class ClassUtils {
++        while (className.charAt(0) == '[') {
++            className = className.substring(1);
++        }
+@@ -250,0 +267,3 @@ public class ClassUtils {
++        if (className.charAt(0) == 'L' && className.charAt(className.length() - 1) == ';') {
++            className = className.substring(1);
++        }

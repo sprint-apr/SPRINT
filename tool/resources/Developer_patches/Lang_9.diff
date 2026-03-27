@@ -1,0 +1,8 @@
+diff --git a/Lang_9/src/main/java/org/apache/commons/lang3/time/FastDateParser.java b/Lang_9/src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+index 8df302f..38857c7 100644
+--- a/Lang_9/src/main/java/org/apache/commons/lang3/time/FastDateParser.java
++++ b/Lang_9/src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+@@ -143,0 +144,3 @@ public class FastDateParser implements DateParser, Serializable {
++        if (patternMatcher.regionStart() != patternMatcher.regionEnd()) {
++            throw new IllegalArgumentException("Failed to parse \""+pattern+"\" ; gave up at index "+patternMatcher.regionStart());
++        }

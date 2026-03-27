@@ -1,0 +1,10 @@
+diff --git a/Closure_56/src/com/google/javascript/jscomp/SourceFile.java b/Closure_56/src/com/google/javascript/jscomp/SourceFile.java
+index fc0cf3f..22414f6 100644
+--- a/Closure_56/src/com/google/javascript/jscomp/SourceFile.java
++++ b/Closure_56/src/com/google/javascript/jscomp/SourceFile.java
+@@ -241,0 +242 @@ public class SourceFile implements StaticSourceFile, Serializable {
++      if (pos >= js.length()) {
+@@ -242,0 +244,3 @@ public class SourceFile implements StaticSourceFile, Serializable {
++      } else {
++        return js.substring(pos, js.length());
++      }

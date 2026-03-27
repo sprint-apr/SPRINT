@@ -1,0 +1,14 @@
+diff --git a/JacksonDatabind_9/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java b/JacksonDatabind_9/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java
+index 5fdf4eb..56fbbe1 100644
+--- a/JacksonDatabind_9/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java
++++ b/JacksonDatabind_9/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java
+@@ -26,0 +27 @@ public class StdKeySerializer extends StdSerializer<Object>
++        Class<?> cls = value.getClass();
+@@ -28 +29,3 @@ public class StdKeySerializer extends StdSerializer<Object>
+-        if (value instanceof Date) {
++        if (cls == String.class) {
++            str = (String) value;
++        } else if (Date.class.isAssignableFrom(cls)) {
+@@ -30,0 +34,2 @@ public class StdKeySerializer extends StdSerializer<Object>
++        } else if (cls == Class.class) {
++            str = ((Class<?>) value).getName();

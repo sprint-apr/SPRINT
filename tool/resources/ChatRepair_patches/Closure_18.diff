@@ -1,0 +1,1 @@
+if (options.dependencyOptions != null && options.dependencyOptions.needsManagement() && inputs.size() > 1) {

@@ -1,0 +1,7 @@
+diff --git a/Math_63/src/main/java/org/apache/commons/math/util/MathUtils.java b/Math_63/src/main/java/org/apache/commons/math/util/MathUtils.java
+index 1361849..ab0fe33 100644
+--- a/Math_63/src/main/java/org/apache/commons/math/util/MathUtils.java
++++ b/Math_63/src/main/java/org/apache/commons/math/util/MathUtils.java
+@@ -417 +417 @@ public final class MathUtils {
+-        return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
++        return equals(x, y, 1);

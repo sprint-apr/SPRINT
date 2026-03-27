@@ -1,0 +1,33 @@
+diff --git a/Mockito_23/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java b/Mockito_23/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java
+index c4384f7..b18dd3b 100644
+--- a/Mockito_23/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java
++++ b/Mockito_23/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java
+@@ -44,2 +44,2 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
+-    private MockitoCore mockitoCore = new MockitoCore();
+-    private ReturnsEmptyValues delegate = new ReturnsEmptyValues();
++    private transient MockitoCore mockitoCore;
++    private transient ReturnsEmptyValues delegate;
+@@ -51,0 +52,2 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
++        instantiateMockitoCoreIfNeeded();
++        instantiateDelegateIfNeeded();
+@@ -58,0 +61,5 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
++    private synchronized void instantiateMockitoCoreIfNeeded() {
++        if (mockitoCore == null) {
++            mockitoCore = new MockitoCore();
++        }
++    }
+@@ -59,0 +67,5 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
++    private synchronized void instantiateDelegateIfNeeded() {
++        if (delegate == null) {
++            delegate = new ReturnsEmptyValues();
++        }
++    }
+@@ -99,0 +112 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
++		        .serializable()
+@@ -114 +127 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
+-        container.addAnswer(new Answer<Object>() {
++        container.addAnswer(new SerializableAnswer() {
+@@ -122,0 +136 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
++	abstract class SerializableAnswer implements Answer<Object>, Serializable {
+@@ -123,0 +138 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
++	}

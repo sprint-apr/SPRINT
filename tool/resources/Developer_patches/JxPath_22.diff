@@ -1,0 +1,13 @@
+diff --git a/JxPath_22/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java b/JxPath_22/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
+index f8e3b1a..f1a1b2b 100644
+--- a/JxPath_22/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
++++ b/JxPath_22/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
+@@ -689 +689,2 @@ public class DOMNodePointer extends NodePointer {
+-                        return attr.getValue();
++                        uri = attr.getValue();
++                        break;
+@@ -694 +694,0 @@ public class DOMNodePointer extends NodePointer {
+-            return null;
+@@ -696 +696 @@ public class DOMNodePointer extends NodePointer {
+-        return uri;
++        return "".equals(uri) ? null : uri;

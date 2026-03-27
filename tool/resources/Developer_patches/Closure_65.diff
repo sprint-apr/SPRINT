@@ -1,0 +1,7 @@
+diff --git a/Closure_65/src/com/google/javascript/jscomp/CodeGenerator.java b/Closure_65/src/com/google/javascript/jscomp/CodeGenerator.java
+index 6117a89..cb9229a 100644
+--- a/Closure_65/src/com/google/javascript/jscomp/CodeGenerator.java
++++ b/Closure_65/src/com/google/javascript/jscomp/CodeGenerator.java
+@@ -1015 +1015 @@ class CodeGenerator {
+-        case '\0': sb.append("\\0"); break;
++        case '\0': sb.append("\\000"); break;

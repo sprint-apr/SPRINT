@@ -1,0 +1,1 @@
+if ((entry - 0d) > epsilon) {

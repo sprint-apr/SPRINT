@@ -1,0 +1,17 @@
+diff --git a/Closure_29/src/com/google/javascript/jscomp/InlineObjectLiterals.java b/Closure_29/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+index 9f5c607..8c3159d 100644
+--- a/Closure_29/src/com/google/javascript/jscomp/InlineObjectLiterals.java
++++ b/Closure_29/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+@@ -156,0 +157 @@ class InlineObjectLiterals implements CompilerPass {
++      Set<String> validProperties = Sets.newHashSet();
+@@ -180,0 +182,8 @@ class InlineObjectLiterals implements CompilerPass {
++          String propName = parent.getLastChild().getString();
++          if (!validProperties.contains(propName)) {
++            if (NodeUtil.isVarOrSimpleAssignLhs(parent, gramps)) {
++              validProperties.add(propName);
++            } else {
++              return false;
++            }
++          }
+@@ -215,0 +225 @@ class InlineObjectLiterals implements CompilerPass {
++          validProperties.add(child.getString());

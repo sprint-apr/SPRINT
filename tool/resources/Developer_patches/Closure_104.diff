@@ -1,0 +1,7 @@
+diff --git a/Closure_104/src/com/google/javascript/rhino/jstype/UnionType.java b/Closure_104/src/com/google/javascript/rhino/jstype/UnionType.java
+index a9c9a0a..6f0d798 100644
+--- a/Closure_104/src/com/google/javascript/rhino/jstype/UnionType.java
++++ b/Closure_104/src/com/google/javascript/rhino/jstype/UnionType.java
+@@ -291 +291 @@ public class UnionType extends JSType {
+-    if (result != null) {
++    if (!result.isNoType()) {

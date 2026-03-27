@@ -1,0 +1,14 @@
+diff --git a/Closure_50/src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java b/Closure_50/src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java
+index ffe47d3..afaf85a 100644
+--- a/Closure_50/src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java
++++ b/Closure_50/src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java
+@@ -376 +376 @@ class PeepholeReplaceKnownMethods extends AbstractPeepholeOptimization{
+-      if (!NodeUtil.isImmutableValue(right)) {
++      if (right.getNext() != null || !NodeUtil.isImmutableValue(right)) {
+@@ -388,0 +389,2 @@ class PeepholeReplaceKnownMethods extends AbstractPeepholeOptimization{
++    if (right != null && right.getType() == Token.STRING
++        && ",".equals(right.getString())) {
+@@ -389,0 +392,3 @@ class PeepholeReplaceKnownMethods extends AbstractPeepholeOptimization{
++      n.removeChild(right);
++      reportCodeChange();
++    }

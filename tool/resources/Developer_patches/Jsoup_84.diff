@@ -1,0 +1,8 @@
+diff --git a/Jsoup_84/src/main/java/org/jsoup/helper/W3CDom.java b/Jsoup_84/src/main/java/org/jsoup/helper/W3CDom.java
+index 7b309a3..6847574 100644
+--- a/Jsoup_84/src/main/java/org/jsoup/helper/W3CDom.java
++++ b/Jsoup_84/src/main/java/org/jsoup/helper/W3CDom.java
+@@ -91 +91,2 @@ public class W3CDom {
+-                Element el = 
++                Element el = namespace == null && tagName.contains(":") ?
++                    doc.createElementNS("", tagName) : // doesn't have a real namespace defined

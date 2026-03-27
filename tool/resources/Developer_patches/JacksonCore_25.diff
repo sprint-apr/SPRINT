@@ -1,0 +1,7 @@
+diff --git a/JacksonCore_25/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java b/JacksonCore_25/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
+index 2c1f5a2..f38e4aa 100644
+--- a/JacksonCore_25/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
++++ b/JacksonCore_25/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
+@@ -1963 +1963 @@ public class ReaderBasedJsonParser // final in 2.3, earlier
+-            if (i <= maxCode) {
++            if (i < maxCode) {

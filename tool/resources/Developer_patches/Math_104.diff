@@ -1,0 +1,7 @@
+diff --git a/Math_104/src/java/org/apache/commons/math/special/Gamma.java b/Math_104/src/java/org/apache/commons/math/special/Gamma.java
+index 8c565cb..ba2c4db 100644
+--- a/Math_104/src/java/org/apache/commons/math/special/Gamma.java
++++ b/Math_104/src/java/org/apache/commons/math/special/Gamma.java
+@@ -37 +37 @@ public class Gamma implements Serializable {
+-    private static final double DEFAULT_EPSILON = 10e-9;
++    private static final double DEFAULT_EPSILON = 10e-15;

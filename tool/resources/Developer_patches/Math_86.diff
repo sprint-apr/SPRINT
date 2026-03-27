@@ -1,0 +1,12 @@
+diff --git a/Math_86/src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java b/Math_86/src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java
+index acd9222..67e372f 100644
+--- a/Math_86/src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java
++++ b/Math_86/src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java
+@@ -114,3 +113,0 @@ public class CholeskyDecompositionImpl implements CholeskyDecomposition {
+-            if (lTData[i][i] < absolutePositivityThreshold) {
+-                throw new NotPositiveDefiniteMatrixException();
+-            }
+@@ -136,0 +134,3 @@ public class CholeskyDecompositionImpl implements CholeskyDecomposition {
++            if (ltI[i] < absolutePositivityThreshold) {
++                throw new NotPositiveDefiniteMatrixException();
++            }

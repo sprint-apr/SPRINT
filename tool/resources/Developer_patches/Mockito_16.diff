@@ -1,0 +1,22 @@
+diff --git a/Mockito_16/src/org/mockito/Mockito.java b/Mockito_16/src/org/mockito/Mockito.java
+index 5eb16aa..980587d 100644
+--- a/Mockito_16/src/org/mockito/Mockito.java
++++ b/Mockito_16/src/org/mockito/Mockito.java
+@@ -827 +827 @@ public class Mockito extends Matchers {
+-        return MOCKITO_CORE.mock(classToMock, mockSettings);
++        return MOCKITO_CORE.mock(classToMock, mockSettings, true);
+@@ -899 +899 @@ public class Mockito extends Matchers {
+-                .defaultAnswer(CALLS_REAL_METHODS)); 
++                .defaultAnswer(CALLS_REAL_METHODS), true); 
+diff --git a/Mockito_16/src/org/mockito/internal/MockitoCore.java b/Mockito_16/src/org/mockito/internal/MockitoCore.java
+index 5321566..61acce8 100755
+--- a/Mockito_16/src/org/mockito/internal/MockitoCore.java
++++ b/Mockito_16/src/org/mockito/internal/MockitoCore.java
+@@ -32,2 +32 @@ public class MockitoCore {
+-    public <T> T mock(Class<T> classToMock, MockSettings mockSettings, boolean shouldResetOngoingStubbing) { return mock(classToMock, mockSettings); }
+-    public <T> T mock(Class<T> classToMock, MockSettings mockSettings) {
++    public <T> T mock(Class<T> classToMock, MockSettings mockSettings, boolean shouldResetOngoingStubbing) {
+@@ -34,0 +34 @@ public class MockitoCore {
++        if (shouldResetOngoingStubbing) {
+@@ -35,0 +36 @@ public class MockitoCore {
++        }

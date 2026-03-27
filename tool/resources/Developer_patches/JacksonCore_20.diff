@@ -1,0 +1,16 @@
+diff --git a/JacksonCore_20/src/main/java/com/fasterxml/jackson/core/JsonGenerator.java b/JacksonCore_20/src/main/java/com/fasterxml/jackson/core/JsonGenerator.java
+index 2a08020..da75a61 100644
+--- a/JacksonCore_20/src/main/java/com/fasterxml/jackson/core/JsonGenerator.java
++++ b/JacksonCore_20/src/main/java/com/fasterxml/jackson/core/JsonGenerator.java
+@@ -1330 +1330,10 @@ public abstract class JsonGenerator
+-        throw new JsonGenerationException("No native support for writing embedded objects",
++        if (object == null) {
++            writeNull();
++            return;
++        }
++        if (object instanceof byte[]) {
++            writeBinary((byte[]) object);
++            return;
++        }
++        throw new JsonGenerationException("No native support for writing embedded objects of type "
++                +object.getClass().getName(),

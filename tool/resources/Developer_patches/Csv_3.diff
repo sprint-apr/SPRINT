@@ -1,0 +1,10 @@
+diff --git a/Csv_3/src/main/java/org/apache/commons/csv/Lexer.java b/Csv_3/src/main/java/org/apache/commons/csv/Lexer.java
+index 0a6a090..af99745 100644
+--- a/Csv_3/src/main/java/org/apache/commons/csv/Lexer.java
++++ b/Csv_3/src/main/java/org/apache/commons/csv/Lexer.java
+@@ -110,0 +111 @@ abstract class Lexer {
++            if (isDelimiter(c) || isEscape(c) || isQuoteChar(c) || isCommentStart(c)) {
+@@ -111,0 +113 @@ abstract class Lexer {
++            }
+@@ -112,0 +115 @@ abstract class Lexer {
++            return END_OF_STREAM;

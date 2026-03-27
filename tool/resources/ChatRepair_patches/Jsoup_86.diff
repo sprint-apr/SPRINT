@@ -1,0 +1,1 @@
+if (doc.childNodes().size() > 0 && doc.childNode(0) instanceof Element) {

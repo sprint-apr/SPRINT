@@ -1,0 +1,1 @@
+new Range(0.0, Math.max(0.0, constraint.getWidth() - w[2] - w[3])),

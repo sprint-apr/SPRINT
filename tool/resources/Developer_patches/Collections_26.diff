@@ -1,0 +1,7 @@
+diff --git a/Collections_26/src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java b/Collections_26/src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java
+index 794677c..2b08d8a 100644
+--- a/Collections_26/src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java
++++ b/Collections_26/src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java
+@@ -277 +277 @@ public class MultiKey<K> implements Serializable {
+-    private Object readResolve() {
++    protected Object readResolve() {

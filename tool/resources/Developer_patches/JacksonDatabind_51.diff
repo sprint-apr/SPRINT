@@ -1,0 +1,8 @@
+diff --git a/JacksonDatabind_51/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java b/JacksonDatabind_51/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java
+index 23380f0..cd9b155 100644
+--- a/JacksonDatabind_51/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java
++++ b/JacksonDatabind_51/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java
+@@ -183,0 +184 @@ public abstract class TypeDeserializerBase
++                    if (!type.hasGenericTypes()) {
+@@ -184,0 +186 @@ public abstract class TypeDeserializerBase
++                    }

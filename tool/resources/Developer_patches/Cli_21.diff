@@ -1,0 +1,61 @@
+diff --git a/Cli_21/src/java/org/apache/commons/cli2/WriteableCommandLine.java b/Cli_21/src/java/org/apache/commons/cli2/WriteableCommandLine.java
+index d6aaf49..8bd6752 100644
+--- a/Cli_21/src/java/org/apache/commons/cli2/WriteableCommandLine.java
++++ b/Cli_21/src/java/org/apache/commons/cli2/WriteableCommandLine.java
+@@ -101,0 +102 @@ public interface WriteableCommandLine extends CommandLine {
++    Option getCurrentOption();
+@@ -109,0 +111 @@ public interface WriteableCommandLine extends CommandLine {
++    void setCurrentOption(Option currentOption);
+diff --git a/Cli_21/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java b/Cli_21/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+index 88d3286..8c5e29b 100644
+--- a/Cli_21/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
++++ b/Cli_21/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+@@ -50,0 +51,2 @@ public class WriteableCommandLineImpl
++    private Option currentOption;
++    private String checkForOption;
+@@ -62,0 +65 @@ public class WriteableCommandLineImpl
++        setCurrentOption(rootOption);
+@@ -64,0 +68,3 @@ public class WriteableCommandLineImpl
++    public Option getCurrentOption() {
++        return currentOption;
++    }
+@@ -65,0 +72,3 @@ public class WriteableCommandLineImpl
++    public void setCurrentOption(Option currentOption) {
++        this.currentOption = currentOption;
++    }
+@@ -233,0 +243,2 @@ public class WriteableCommandLineImpl
++        if (checkForOption != null)
++        {
+@@ -234,0 +246,2 @@ public class WriteableCommandLineImpl
++            return !checkForOption.equals(trigger);
++        }
+@@ -235,0 +249,3 @@ public class WriteableCommandLineImpl
++        checkForOption = trigger;
++        try
++        {
+@@ -241,0 +258,3 @@ public class WriteableCommandLineImpl
++                    if (getCurrentOption().canProcess(this, trigger)
++                            || getCurrentOption().findOption(trigger) != null)
++                    {
+@@ -242,0 +262 @@ public class WriteableCommandLineImpl
++                    }
+@@ -244,0 +265 @@ public class WriteableCommandLineImpl
++
+@@ -245,0 +267,5 @@ public class WriteableCommandLineImpl
++        }
++        finally
++        {
++            checkForOption = null;
++        }
+diff --git a/Cli_21/src/java/org/apache/commons/cli2/option/GroupImpl.java b/Cli_21/src/java/org/apache/commons/cli2/option/GroupImpl.java
+index 75d87f7..fc5a82d 100644
+--- a/Cli_21/src/java/org/apache/commons/cli2/option/GroupImpl.java
++++ b/Cli_21/src/java/org/apache/commons/cli2/option/GroupImpl.java
+@@ -512,0 +513,3 @@ public class GroupImpl
++        Option oldOption = commandLine.getCurrentOption();
++        try {
++            commandLine.setCurrentOption(this);
+@@ -513,0 +517,3 @@ public class GroupImpl
++        } finally {
++            commandLine.setCurrentOption(oldOption);
++        }

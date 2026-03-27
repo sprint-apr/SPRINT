@@ -1,0 +1,10 @@
+diff --git a/Closure_53/src/com/google/javascript/jscomp/InlineObjectLiterals.java b/Closure_53/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+index 9061925..d92b16c 100644
+--- a/Closure_53/src/com/google/javascript/jscomp/InlineObjectLiterals.java
++++ b/Closure_53/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+@@ -330,0 +331,3 @@ class InlineObjectLiterals implements CompilerPass {
++      if (nodes.isEmpty()) {
++        replacement = new Node(Token.TRUE);
++      } else {
+@@ -349,0 +353 @@ class InlineObjectLiterals implements CompilerPass {
++      }

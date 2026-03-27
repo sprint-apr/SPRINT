@@ -1,0 +1,10 @@
+diff --git a/JacksonDatabind_33/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java b/JacksonDatabind_33/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java
+index 92b3ffa..5db1584 100644
+--- a/JacksonDatabind_33/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java
++++ b/JacksonDatabind_33/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java
+@@ -748 +748,4 @@ public class JacksonAnnotationIntrospector
+-                    || _hasAnnotation(a, JsonRawValue.class)) {
++                    || _hasAnnotation(a, JsonRawValue.class)
++                    || _hasAnnotation(a, JsonUnwrapped.class)
++                    || _hasAnnotation(a, JsonBackReference.class)
++                    || _hasAnnotation(a, JsonManagedReference.class)) {

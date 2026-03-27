@@ -1,0 +1,44 @@
+diff --git a/Time_3/src/main/java/org/joda/time/MutableDateTime.java b/Time_3/src/main/java/org/joda/time/MutableDateTime.java
+index 310f55d..9aa8602 100644
+--- a/Time_3/src/main/java/org/joda/time/MutableDateTime.java
++++ b/Time_3/src/main/java/org/joda/time/MutableDateTime.java
+@@ -638,0 +639 @@ public class MutableDateTime
++        if (amount != 0) {
+@@ -639,0 +641 @@ public class MutableDateTime
++        }
+@@ -659,0 +662 @@ public class MutableDateTime
++        if (years != 0) {
+@@ -660,0 +664 @@ public class MutableDateTime
++        }
+@@ -680,0 +685 @@ public class MutableDateTime
++        if (weekyears != 0) {
+@@ -681,0 +687 @@ public class MutableDateTime
++        }
+@@ -701,0 +708 @@ public class MutableDateTime
++        if (months != 0) {
+@@ -702,0 +710 @@ public class MutableDateTime
++        }
+@@ -722,0 +731 @@ public class MutableDateTime
++        if (weeks != 0) {
+@@ -723,0 +733 @@ public class MutableDateTime
++        }
+@@ -763,0 +774 @@ public class MutableDateTime
++        if (days != 0) {
+@@ -764,0 +776 @@ public class MutableDateTime
++        }
+@@ -784,0 +797 @@ public class MutableDateTime
++        if (hours != 0) {
+@@ -785,0 +799 @@ public class MutableDateTime
++        }
+@@ -815,0 +830 @@ public class MutableDateTime
++        if (minutes != 0) {
+@@ -816,0 +832 @@ public class MutableDateTime
++        }
+@@ -846,0 +863 @@ public class MutableDateTime
++        if (seconds != 0) {
+@@ -847,0 +865 @@ public class MutableDateTime
++        }
+@@ -879,0 +898 @@ public class MutableDateTime
++        if (millis != 0) {
+@@ -880,0 +900 @@ public class MutableDateTime
++        }

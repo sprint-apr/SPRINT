@@ -1,0 +1,36 @@
+diff --git a/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java b/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java
+index 37c6503..fbca28e 100644
+--- a/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java
++++ b/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java
+@@ -391,0 +392,3 @@ public abstract class ParserMinimalBase extends JsonParser
++        if (_currToken == JsonToken.FIELD_NAME) {
++            return getCurrentName();
++        }
+@@ -399,0 +403,3 @@ public abstract class ParserMinimalBase extends JsonParser
++        if (_currToken == JsonToken.FIELD_NAME) {
++            return getCurrentName();
++        }
+diff --git a/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java b/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
+index b5b0051..4f0f753 100644
+--- a/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
++++ b/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
+@@ -252,0 +253,3 @@ public class ReaderBasedJsonParser // final in 2.3, earlier
++        if (_currToken == JsonToken.FIELD_NAME) {
++            return getCurrentName();
++        }
+@@ -265,0 +269,3 @@ public class ReaderBasedJsonParser // final in 2.3, earlier
++        if (_currToken == JsonToken.FIELD_NAME) {
++            return getCurrentName();
++        }
+diff --git a/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java b/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
+index 2fe3683..2b83d18 100644
+--- a/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
++++ b/JacksonCore_9/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
+@@ -304,0 +305,3 @@ public class UTF8StreamJsonParser
++        if (_currToken == JsonToken.FIELD_NAME) {
++            return getCurrentName();
++        }
+@@ -318,0 +322,3 @@ public class UTF8StreamJsonParser
++        if (_currToken == JsonToken.FIELD_NAME) {
++            return getCurrentName();
++        }

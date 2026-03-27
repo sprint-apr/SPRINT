@@ -1,0 +1,19 @@
+diff --git a/Math_18/src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java b/Math_18/src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
+index bc754a5..866c8fd 100644
+--- a/Math_18/src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
++++ b/Math_18/src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
+@@ -932 +932 @@ public class CMAESOptimizer
+-                res[i] = (x[i] - boundaries[0][i]) / diff;
++                res[i] = x[i] / diff;
+@@ -958 +958 @@ public class CMAESOptimizer
+-                res[i] = diff * x[i] + boundaries[0][i];
++                res[i] = diff * x[i];
+@@ -989,0 +990,2 @@ public class CMAESOptimizer
++            final double[] bLoEnc = encode(boundaries[0]);
++            final double[] bHiEnc = encode(boundaries[1]);
+@@ -992 +994 @@ public class CMAESOptimizer
+-                if (x[i] < 0) {
++                if (x[i] < bLoEnc[i]) {
+@@ -995 +997 @@ public class CMAESOptimizer
+-                if (x[i] > 1.0) {
++                if (x[i] > bHiEnc[i]) {

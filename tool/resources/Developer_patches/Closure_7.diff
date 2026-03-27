@@ -1,0 +1,13 @@
+diff --git a/Closure_7/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java b/Closure_7/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
+index 0afabc8..fa7d47d 100644
+--- a/Closure_7/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
++++ b/Closure_7/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
+@@ -613 +613 @@ public abstract class ChainableReverseAbstractInterpreter
+-        return resultEqualsValue && ctorType.isSubtype(type) ? ctorType : null;
++        if (resultEqualsValue) {
+@@ -614,0 +615,2 @@ public abstract class ChainableReverseAbstractInterpreter
++          return ctorType.getGreatestSubtype(type);
++        } else {
+@@ -615,0 +618,2 @@ public abstract class ChainableReverseAbstractInterpreter
++          return type.isSubtype(ctorType) ? null : type;
++        }

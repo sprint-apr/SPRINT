@@ -1,0 +1,8 @@
+diff --git a/Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index 40e7871..94e175c 100644
+--- a/Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/Compress_31/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -135,3 +134,0 @@ public class TarUtils {
+-            if (currentByte == 0) {
+-                break;
+-            }

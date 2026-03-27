@@ -1,0 +1,11 @@
+diff --git a/JacksonDatabind_5/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedClass.java b/JacksonDatabind_5/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedClass.java
+index d6e44ab..fa379b1 100644
+--- a/JacksonDatabind_5/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedClass.java
++++ b/JacksonDatabind_5/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedClass.java
+@@ -657,0 +658,4 @@ public final class AnnotatedClass
++                    am = mixIns.find(m);
++                    if (am != null) {
++                        _addMixUnders(m, am);
++                    } else {
+@@ -658,0 +663 @@ public final class AnnotatedClass
++                    }

@@ -1,0 +1,6 @@
+diff --git a/Jsoup_76/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java b/Jsoup_76/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+index 20820ee..a230677 100644
+--- a/Jsoup_76/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
++++ b/Jsoup_76/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+@@ -381,0 +382 @@ enum HtmlTreeBuilderState {
++                        tb.reader.matchConsume("\n"); // ignore LF if next token

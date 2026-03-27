@@ -1,0 +1,16 @@
+diff --git a/Mockito_30/src/org/mockito/exceptions/Reporter.java b/Mockito_30/src/org/mockito/exceptions/Reporter.java
+index 5e46a2b..5900574 100644
+--- a/Mockito_30/src/org/mockito/exceptions/Reporter.java
++++ b/Mockito_30/src/org/mockito/exceptions/Reporter.java
+@@ -438 +438 @@ public class Reporter {
+-    public void smartNullPointerException(Location location) {
++    public void smartNullPointerException(Object obj, Location location) {
+@@ -441,0 +442 @@ public class Reporter {
++                obj,
+diff --git a/Mockito_30/src/org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java b/Mockito_30/src/org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java
+index 4942d7c..928f314 100644
+--- a/Mockito_30/src/org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java
++++ b/Mockito_30/src/org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java
+@@ -56 +56 @@ public class ReturnsSmartNulls implements Answer<Object>, Serializable {
+-            new Reporter().smartNullPointerException(location);
++            new Reporter().smartNullPointerException(obj, location);

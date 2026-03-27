@@ -1,0 +1,20 @@
+diff --git a/JxPath_15/src/java/org/apache/commons/jxpath/ri/axes/UnionContext.java b/JxPath_15/src/java/org/apache/commons/jxpath/ri/axes/UnionContext.java
+index 04adadf..80e111e 100644
+--- a/JxPath_15/src/java/org/apache/commons/jxpath/ri/axes/UnionContext.java
++++ b/JxPath_15/src/java/org/apache/commons/jxpath/ri/axes/UnionContext.java
+@@ -19,0 +20 @@ import java.util.ArrayList;
++import java.util.Iterator;
+@@ -21,0 +23 @@ import org.apache.commons.jxpath.BasicNodeSet;
++import org.apache.commons.jxpath.Pointer;
+@@ -56 +57,0 @@ public class UnionContext extends NodeSetContext {
+-                            nodeSet.add(ptr);
+@@ -61,0 +63,5 @@ public class UnionContext extends NodeSetContext {
++            sortPointers(pointers);
++
++            for (Iterator it = pointers.iterator(); it.hasNext();) {
++                nodeSet.add((Pointer) it.next());
++            }
+@@ -65 +71 @@ public class UnionContext extends NodeSetContext {
+-}
++}
+\ No newline at end of file

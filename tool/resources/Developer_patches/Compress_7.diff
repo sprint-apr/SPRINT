@@ -1,0 +1,11 @@
+diff --git a/Compress_7/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/Compress_7/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index bca115f..8aba2e2 100644
+--- a/Compress_7/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/Compress_7/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -98 +98,2 @@ public class TarUtils {
+-            if (buffer[i] == 0) {
++            byte b = buffer[i];
++            if (b == 0) { // Trailing null
+@@ -101 +102 @@ public class TarUtils {
+-            result.append((char) buffer[i]);
++            result.append((char) (b & 0xFF)); // Allow for sign-extension

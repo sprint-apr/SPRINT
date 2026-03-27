@@ -1,0 +1,7 @@
+diff --git a/Closure_73/src/com/google/javascript/jscomp/CodeGenerator.java b/Closure_73/src/com/google/javascript/jscomp/CodeGenerator.java
+index 558e74f..823d897 100644
+--- a/Closure_73/src/com/google/javascript/jscomp/CodeGenerator.java
++++ b/Closure_73/src/com/google/javascript/jscomp/CodeGenerator.java
+@@ -1045 +1045 @@ class CodeGenerator {
+-            if (c > 0x1f && c <= 0x7f) {
++            if (c > 0x1f && c < 0x7f) {

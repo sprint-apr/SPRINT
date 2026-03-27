@@ -1,0 +1,10 @@
+diff --git a/Compress_32/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java b/Compress_32/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+index c557007..41acf2a 100644
+--- a/Compress_32/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ b/Compress_32/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -501 +501 @@ public class TarArchiveInputStream extends ArchiveInputStream {
+-                currEntry.setGroupId(Integer.parseInt(val));
++                currEntry.setGroupId(Long.parseLong(val));
+@@ -505 +505 @@ public class TarArchiveInputStream extends ArchiveInputStream {
+-                currEntry.setUserId(Integer.parseInt(val));
++                currEntry.setUserId(Long.parseLong(val));

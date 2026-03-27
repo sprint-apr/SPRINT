@@ -1,0 +1,8 @@
+diff --git a/Closure_129/src/com/google/javascript/jscomp/PrepareAst.java b/Closure_129/src/com/google/javascript/jscomp/PrepareAst.java
+index d993bee..42982af 100644
+--- a/Closure_129/src/com/google/javascript/jscomp/PrepareAst.java
++++ b/Closure_129/src/com/google/javascript/jscomp/PrepareAst.java
+@@ -165,0 +166,3 @@ class PrepareAst implements CompilerPass {
++      while (first.isCast()) {
++        first = first.getFirstChild();
++      }

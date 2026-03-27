@@ -1,0 +1,12 @@
+diff --git a/Cli_38/src/main/java/org/apache/commons/cli/DefaultParser.java b/Cli_38/src/main/java/org/apache/commons/cli/DefaultParser.java
+index 4bff7f3..2cee432 100644
+--- a/Cli_38/src/main/java/org/apache/commons/cli/DefaultParser.java
++++ b/Cli_38/src/main/java/org/apache/commons/cli/DefaultParser.java
+@@ -310 +310,4 @@ public class DefaultParser implements CommandLineParser
+-        return options.hasShortOption(optName);
++        if (options.hasShortOption(optName))
++        {
++            return true;
++        }
+@@ -311,0 +315 @@ public class DefaultParser implements CommandLineParser
++        return optName.length() > 0 && options.hasShortOption(String.valueOf(optName.charAt(0)));

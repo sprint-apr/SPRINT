@@ -1,0 +1,13 @@
+diff --git a/Time_22/src/main/java/org/joda/time/base/BasePeriod.java b/Time_22/src/main/java/org/joda/time/base/BasePeriod.java
+index 679b734..a5dcb74 100644
+--- a/Time_22/src/main/java/org/joda/time/base/BasePeriod.java
++++ b/Time_22/src/main/java/org/joda/time/base/BasePeriod.java
+@@ -222 +222 @@ public abstract class BasePeriod
+-        this(duration, null, null);
++        super();
+@@ -223,0 +224,5 @@ public abstract class BasePeriod
++        iType = PeriodType.time();
++        int[] values = ISOChronology.getInstanceUTC().get(this, duration);
++        iType = PeriodType.standard();
++        iValues = new int[8];
++        System.arraycopy(values, 0, iValues, 4, 4);

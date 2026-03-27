@@ -1,0 +1,18 @@
+diff --git a/Compress_43/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java b/Compress_43/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
+index df1f63c..63aeba7 100644
+--- a/Compress_43/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
++++ b/Compress_43/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
+@@ -1034 +1034 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
+-        metaData.put(ze, new EntryMetaData(localHeaderStart, usesDataDescriptor(ze.getMethod())));
++        metaData.put(ze, new EntryMetaData(localHeaderStart, usesDataDescriptor(ze.getMethod(), phased)));
+@@ -1075 +1075 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
+-        final boolean dataDescriptor = usesDataDescriptor(zipMethod);
++        final boolean dataDescriptor = usesDataDescriptor(zipMethod, phased);
+@@ -1171 +1171 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
+-        if (ze.getMethod() != DEFLATED || channel != null) {
++        if (!usesDataDescriptor(ze.getMethod(), false)) {
+@@ -1492,2 +1492,2 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
+-    private boolean usesDataDescriptor(final int zipMethod) {
+-        return zipMethod == DEFLATED && channel == null;
++    private boolean usesDataDescriptor(final int zipMethod, boolean phased) {
++        return !phased && zipMethod == DEFLATED && channel == null;

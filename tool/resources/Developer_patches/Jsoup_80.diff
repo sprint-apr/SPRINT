@@ -1,0 +1,8 @@
+diff --git a/Jsoup_80/src/main/java/org/jsoup/parser/XmlTreeBuilder.java b/Jsoup_80/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+index 75374e4..aec5ba7 100644
+--- a/Jsoup_80/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
++++ b/Jsoup_80/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+@@ -90,0 +91 @@ public class XmlTreeBuilder extends TreeBuilder {
++                if (doc.childNodeSize() > 0) {
+@@ -93,0 +95 @@ public class XmlTreeBuilder extends TreeBuilder {
++                } // else, we couldn't parse it as a decl, so leave as a comment

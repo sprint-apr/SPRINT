@@ -1,0 +1,10 @@
+diff --git a/Lang_48/src/java/org/apache/commons/lang/builder/EqualsBuilder.java b/Lang_48/src/java/org/apache/commons/lang/builder/EqualsBuilder.java
+index a783b35..6901c8e 100644
+--- a/Lang_48/src/java/org/apache/commons/lang/builder/EqualsBuilder.java
++++ b/Lang_48/src/java/org/apache/commons/lang/builder/EqualsBuilder.java
+@@ -379,0 +380,3 @@ public class EqualsBuilder {
++            if (lhs instanceof java.math.BigDecimal) {
++                isEquals = (((java.math.BigDecimal)lhs).compareTo(rhs) == 0);
++            } else {
+@@ -381,0 +385 @@ public class EqualsBuilder {
++            }

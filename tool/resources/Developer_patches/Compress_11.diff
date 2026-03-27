@@ -1,0 +1,8 @@
+diff --git a/Compress_11/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java b/Compress_11/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+index a30cd5a..c831b60 100644
+--- a/Compress_11/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
++++ b/Compress_11/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+@@ -239,0 +240 @@ public class ArchiveStreamFactory {
++            if (signatureLength >= 512) {
+@@ -248,0 +250 @@ public class ArchiveStreamFactory {
++            }

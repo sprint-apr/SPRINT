@@ -1,0 +1,6 @@
+diff --git a/Closure_31/src/com/google/javascript/jscomp/Compiler.java b/Closure_31/src/com/google/javascript/jscomp/Compiler.java
+index b76bbb5..d98be4a 100644
+--- a/Closure_31/src/com/google/javascript/jscomp/Compiler.java
++++ b/Closure_31/src/com/google/javascript/jscomp/Compiler.java
+@@ -1285 +1284,0 @@ public class Compiler extends AbstractCompiler {
+-          !options.skipAllPasses &&

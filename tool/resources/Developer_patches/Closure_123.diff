@@ -1,0 +1,7 @@
+diff --git a/Closure_123/src/com/google/javascript/jscomp/CodeGenerator.java b/Closure_123/src/com/google/javascript/jscomp/CodeGenerator.java
+index 54eb5cf..8d268b6 100644
+--- a/Closure_123/src/com/google/javascript/jscomp/CodeGenerator.java
++++ b/Closure_123/src/com/google/javascript/jscomp/CodeGenerator.java
+@@ -285 +285 @@ class CodeGenerator {
+-        Context rhsContext = Context.OTHER;
++        Context rhsContext = getContextForNoInOperator(context);

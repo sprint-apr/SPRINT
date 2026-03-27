@@ -1,0 +1,15 @@
+diff --git a/Math_38/src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java b/Math_38/src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
+index 592a2e8..ba3fe26 100644
+--- a/Math_38/src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
++++ b/Math_38/src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
+@@ -1660 +1660 @@ public class BOBYQAOptimizer
+-                    throw new PathIsExploredException(); // XXX
++//                     throw new PathIsExploredException(); // XXX
+@@ -1662,2 +1662,2 @@ public class BOBYQAOptimizer
+-                final int iptMinus1 = ipt;
+-                final int jptMinus1 = jpt;
++                final int iptMinus1 = ipt - 1;
++                final int jptMinus1 = jpt - 1;
+@@ -1752 +1752 @@ public class BOBYQAOptimizer
+-                throw new PathIsExploredException(); // XXX
++//                 throw new PathIsExploredException(); // XXX

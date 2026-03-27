@@ -1,0 +1,12 @@
+diff --git a/Mockito_20/src/org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java b/Mockito_20/src/org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java
+index 9dc44e6..d5f77b6 100644
+--- a/Mockito_20/src/org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java
++++ b/Mockito_20/src/org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java
+@@ -31,0 +32 @@ public class ByteBuddyMockMaker implements MockMaker {
++        Instantiator instantiator = new InstantiatorProvider().getInstantiator(settings);
+@@ -34 +35 @@ public class ByteBuddyMockMaker implements MockMaker {
+-            mockInstance = classInstantiator.instantiate(mockedProxyType);
++            mockInstance = instantiator.newInstance(mockedProxyType);
+@@ -45 +46 @@ public class ByteBuddyMockMaker implements MockMaker {
+-                    "  instance creation by : " + classInstantiator.getClass().getSimpleName(),
++                    "  instance creation by : " + instantiator.getClass().getSimpleName(),

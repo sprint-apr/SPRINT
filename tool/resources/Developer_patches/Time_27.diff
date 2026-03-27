@@ -1,0 +1,8 @@
+diff --git a/Time_27/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java b/Time_27/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+index 1533228..f7c7738 100644
+--- a/Time_27/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
++++ b/Time_27/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+@@ -800,0 +801 @@ public class PeriodFormatterBuilder {
++            if (sep.iAfterParser == null && sep.iAfterPrinter == null) {
+@@ -803,0 +805 @@ public class PeriodFormatterBuilder {
++            }

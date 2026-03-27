@@ -1,0 +1,13 @@
+diff --git a/Closure_79/src/com/google/javascript/jscomp/Normalize.java b/Closure_79/src/com/google/javascript/jscomp/Normalize.java
+index 6738b10..8bee886 100644
+--- a/Closure_79/src/com/google/javascript/jscomp/Normalize.java
++++ b/Closure_79/src/com/google/javascript/jscomp/Normalize.java
+@@ -122 +122 @@ class Normalize implements CompilerPass {
+-        .traverse(root);
++        .traverseRoots(externs, root);
+diff --git a/Closure_79/src/com/google/javascript/jscomp/VarCheck.java b/Closure_79/src/com/google/javascript/jscomp/VarCheck.java
+index c8196b1..f8ebfa3 100644
+--- a/Closure_79/src/com/google/javascript/jscomp/VarCheck.java
++++ b/Closure_79/src/com/google/javascript/jscomp/VarCheck.java
+@@ -220,0 +221 @@ class VarCheck extends AbstractPostOrderCallback implements CompilerPass {
++    compiler.reportCodeChange();

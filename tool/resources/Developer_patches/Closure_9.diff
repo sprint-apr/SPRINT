@@ -1,0 +1,9 @@
+diff --git a/Closure_9/src/com/google/javascript/jscomp/ProcessCommonJSModules.java b/Closure_9/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
+index 2987bda..6777957 100644
+--- a/Closure_9/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
++++ b/Closure_9/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
+@@ -118,0 +119 @@ public class ProcessCommonJSModules implements CompilerPass {
++    filename = filename.replace("\\", "/");
+@@ -183 +184 @@ public class ProcessCommonJSModules implements CompilerPass {
+-      String moduleName = guessCJSModuleName(normalizeSourceName(script.getSourceFileName()));
++      String moduleName = guessCJSModuleName(script.getSourceFileName());

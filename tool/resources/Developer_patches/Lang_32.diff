@@ -1,0 +1,33 @@
+diff --git a/Lang_32/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java b/Lang_32/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java
+index 4ae351d..9f7e890 100644
+--- a/Lang_32/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java
++++ b/Lang_32/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java
+@@ -104,6 +104 @@ public class HashCodeBuilder {
+-    private static final ThreadLocal<Set<IDKey>> REGISTRY = new ThreadLocal<Set<IDKey>>() {
+-        @Override
+-        protected Set<IDKey> initialValue() {
+-            return new HashSet<IDKey>();
+-        }
+-    };
++    private static final ThreadLocal<Set<IDKey>> REGISTRY = new ThreadLocal<Set<IDKey>>();
+@@ -152 +147,2 @@ public class HashCodeBuilder {
+-        return getRegistry().contains(new IDKey(value));
++        Set<IDKey> registry = getRegistry();
++        return registry != null && registry.contains(new IDKey(value));
+@@ -521,0 +518,5 @@ public class HashCodeBuilder {
++        synchronized (HashCodeBuilder.class) {
++            if (getRegistry() == null) {
++                REGISTRY.set(new HashSet<IDKey>());
++            }
++        }
+@@ -538 +539,9 @@ public class HashCodeBuilder {
+-        getRegistry().remove(new IDKey(value));
++        Set<IDKey> s = getRegistry();
++        if (s != null) {
++            s.remove(new IDKey(value));
++            synchronized (HashCodeBuilder.class) {
++                if (s.isEmpty()) {
++                    REGISTRY.remove();
++                }
++            }
++        }

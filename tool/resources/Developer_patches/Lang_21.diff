@@ -1,0 +1,7 @@
+diff --git a/Lang_21/src/main/java/org/apache/commons/lang3/time/DateUtils.java b/Lang_21/src/main/java/org/apache/commons/lang3/time/DateUtils.java
+index 9a24c00..52a4436 100644
+--- a/Lang_21/src/main/java/org/apache/commons/lang3/time/DateUtils.java
++++ b/Lang_21/src/main/java/org/apache/commons/lang3/time/DateUtils.java
+@@ -265 +265 @@ public class DateUtils {
+-                cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&
++                cal1.get(Calendar.HOUR_OF_DAY) == cal2.get(Calendar.HOUR_OF_DAY) &&

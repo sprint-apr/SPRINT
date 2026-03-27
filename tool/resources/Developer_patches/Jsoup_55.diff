@@ -1,0 +1,6 @@
+diff --git a/Jsoup_55/src/main/java/org/jsoup/parser/TokeniserState.java b/Jsoup_55/src/main/java/org/jsoup/parser/TokeniserState.java
+index 3a2ac1f..2e998d5 100644
+--- a/Jsoup_55/src/main/java/org/jsoup/parser/TokeniserState.java
++++ b/Jsoup_55/src/main/java/org/jsoup/parser/TokeniserState.java
+@@ -882,0 +883 @@ enum TokeniserState {
++                    r.unconsume();

@@ -1,0 +1,10 @@
+diff --git a/Cli_27/src/java/org/apache/commons/cli/OptionGroup.java b/Cli_27/src/java/org/apache/commons/cli/OptionGroup.java
+index dd474cc..67cd5e2 100644
+--- a/Cli_27/src/java/org/apache/commons/cli/OptionGroup.java
++++ b/Cli_27/src/java/org/apache/commons/cli/OptionGroup.java
+@@ -98 +98 @@ public class OptionGroup implements Serializable
+-        if (selected == null || selected.equals(option.getOpt()))
++        if (selected == null || selected.equals(option.getKey()))
+@@ -100 +100 @@ public class OptionGroup implements Serializable
+-            selected = option.getOpt();
++            selected = option.getKey();

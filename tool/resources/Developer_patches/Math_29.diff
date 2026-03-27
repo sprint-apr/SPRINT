@@ -1,0 +1,25 @@
+diff --git a/Math_29/src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java b/Math_29/src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java
+index 8214827..294ac57 100644
+--- a/Math_29/src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java
++++ b/Math_29/src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java
+@@ -349,4 +349,3 @@ public class OpenMapRealVector extends SparseRealVector
+-        Iterator iter = entries.iterator();
+-        while (iter.hasNext()) {
+-            iter.advance();
+-            res.setEntry(iter.key(), iter.value() / v.getEntry(iter.key()));
++        final int n = getDimension();
++        for (int i = 0; i < n; i++) {
++            res.setEntry(i, this.getEntry(i) / v.getEntry(i));
+@@ -373,0 +373,12 @@ public class OpenMapRealVector extends SparseRealVector
++        if (v.isNaN() || v.isInfinite()) {
++            final int n = getDimension();
++            for (int i = 0; i < n; i++) {
++                final double y = v.getEntry(i);
++                if (Double.isNaN(y)) {
++                    res.setEntry(i, Double.NaN);
++                } else if (Double.isInfinite(y)) {
++                    final double x = this.getEntry(i);
++                    res.setEntry(i, x * y);
++                }
++            }
++        }

@@ -1,0 +1,8 @@
+diff --git a/Gson_6/gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java b/Gson_6/gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java
+index 30c4f6e..b52e157 100644
+--- a/Gson_6/gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java
++++ b/Gson_6/gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java
+@@ -66,0 +67 @@ public final class JsonAdapterAnnotationTypeAdapterFactory implements TypeAdapte
++    if (typeAdapter != null) {
+@@ -67,0 +69 @@ public final class JsonAdapterAnnotationTypeAdapterFactory implements TypeAdapte
++    }

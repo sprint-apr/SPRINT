@@ -1,0 +1,7 @@
+diff --git a/Lang_61/src/java/org/apache/commons/lang/text/StrBuilder.java b/Lang_61/src/java/org/apache/commons/lang/text/StrBuilder.java
+index 0e88989..c7cbfb3 100644
+--- a/Lang_61/src/java/org/apache/commons/lang/text/StrBuilder.java
++++ b/Lang_61/src/java/org/apache/commons/lang/text/StrBuilder.java
+@@ -1776 +1776 @@ public class StrBuilder implements Cloneable {
+-        int len = thisBuf.length - strLen;
++        int len = size - strLen + 1;

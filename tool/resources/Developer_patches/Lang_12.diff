@@ -1,0 +1,14 @@
+diff --git a/Lang_12/src/main/java/org/apache/commons/lang3/RandomStringUtils.java b/Lang_12/src/main/java/org/apache/commons/lang3/RandomStringUtils.java
+index b200223..a799057 100644
+--- a/Lang_12/src/main/java/org/apache/commons/lang3/RandomStringUtils.java
++++ b/Lang_12/src/main/java/org/apache/commons/lang3/RandomStringUtils.java
+@@ -229,0 +230,3 @@ public class RandomStringUtils {
++        if (chars != null && chars.length == 0) {
++            throw new IllegalArgumentException("The chars array must not be empty");
++        }
+@@ -231,0 +235,3 @@ public class RandomStringUtils {
++            if (chars != null) {
++                end = chars.length;
++            } else {
+@@ -237,0 +244 @@ public class RandomStringUtils {
++            }

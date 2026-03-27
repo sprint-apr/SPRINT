@@ -1,0 +1,19 @@
+diff --git a/JacksonXml_1/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java b/JacksonXml_1/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
+index 91b14dd..58618b4 100644
+--- a/JacksonXml_1/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
++++ b/JacksonXml_1/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
+@@ -511,0 +512 @@ public class FromXmlParser
++                if (_parsingContext.inArray()) {
+@@ -513,0 +515,4 @@ public class FromXmlParser
++                    _nextToken = JsonToken.END_OBJECT;
++                    _parsingContext = _parsingContext.createChildObjectContext(-1, -1);
++                    return (_currToken = JsonToken.START_OBJECT);
++                }
+@@ -550,4 +555,3 @@ public class FromXmlParser
+-                        _currToken = JsonToken.END_ARRAY;
+-                        _parsingContext = _parsingContext.getParent();
+-                        _namesToWrap = _parsingContext.getNamesToWrap();
+-                        return _currToken;
++                        _nextToken = JsonToken.END_OBJECT;
++                        _parsingContext = _parsingContext.createChildObjectContext(-1, -1);
++                        return (_currToken = JsonToken.START_OBJECT);

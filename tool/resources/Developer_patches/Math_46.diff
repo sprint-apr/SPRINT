@@ -1,0 +1,10 @@
+diff --git a/Math_46/src/main/java/org/apache/commons/math/complex/Complex.java b/Math_46/src/main/java/org/apache/commons/math/complex/Complex.java
+index d55c25a..dd0b00a 100644
+--- a/Math_46/src/main/java/org/apache/commons/math/complex/Complex.java
++++ b/Math_46/src/main/java/org/apache/commons/math/complex/Complex.java
+@@ -260 +260 @@ public class Complex implements FieldElement<Complex>, Serializable  {
+-            return isZero ? NaN : INF;
++            return NaN;
+@@ -297 +297 @@ public class Complex implements FieldElement<Complex>, Serializable  {
+-            return isZero ? NaN : INF;
++            return NaN;

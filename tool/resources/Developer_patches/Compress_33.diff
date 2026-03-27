@@ -1,0 +1,26 @@
+diff --git a/Compress_33/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java b/Compress_33/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java
+index 935283a..8dc3c52 100644
+--- a/Compress_33/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java
++++ b/Compress_33/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java
+@@ -239,0 +240,3 @@ public class CompressorStreamFactory {
++            if (DeflateCompressorInputStream.matches(signature, signatureLength)) {
++                return new DeflateCompressorInputStream(in);
++            }
+diff --git a/Compress_33/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.java b/Compress_33/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.java
+index 98d8ec1..b8ed198 100644
+--- a/Compress_33/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.java
++++ b/Compress_33/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.java
+@@ -32,0 +33,5 @@ public class DeflateCompressorInputStream extends CompressorInputStream {
++    private static final int MAGIC_1 = 0x78;
++    private static final int MAGIC_2a = 0x01;
++    private static final int MAGIC_2b = 0x5e;
++    private static final int MAGIC_2c = 0x9c;
++    private static final int MAGIC_2d = 0xda;
+@@ -105,0 +111,7 @@ public class DeflateCompressorInputStream extends CompressorInputStream {
++    public static boolean matches(byte[] signature, int length) {
++        return length > 3 && signature[0] == MAGIC_1 && (
++                signature[1] == (byte) MAGIC_2a ||
++                signature[1] == (byte) MAGIC_2b ||
++                signature[1] == (byte) MAGIC_2c ||
++                signature[1] == (byte) MAGIC_2d);
++    }

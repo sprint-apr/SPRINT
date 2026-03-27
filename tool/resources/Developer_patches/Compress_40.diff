@@ -1,0 +1,38 @@
+diff --git a/Compress_40/src/main/java/org/apache/commons/compress/utils/BitInputStream.java b/Compress_40/src/main/java/org/apache/commons/compress/utils/BitInputStream.java
+index 86dda14..35773b7 100644
+--- a/Compress_40/src/main/java/org/apache/commons/compress/utils/BitInputStream.java
++++ b/Compress_40/src/main/java/org/apache/commons/compress/utils/BitInputStream.java
+@@ -85 +85 @@ public class BitInputStream implements Closeable {
+-        while (bitsCachedSize < count) {
++        while (bitsCachedSize < count && bitsCachedSize < 57) {
+@@ -97,0 +98,3 @@ public class BitInputStream implements Closeable {
++        int overflowBits = 0;
++        long overflow = 0l;
++        if (bitsCachedSize < count) {
+@@ -98,0 +102,18 @@ public class BitInputStream implements Closeable {
++            int bitsToAddCount = count - bitsCachedSize;
++            overflowBits = 8 - bitsToAddCount;
++            final long nextByte = in.read();
++            if (nextByte < 0) {
++                return nextByte;
++            }
++            if (byteOrder == ByteOrder.LITTLE_ENDIAN) {
++                long bitsToAdd = nextByte & MASKS[bitsToAddCount];
++                bitsCached |= (bitsToAdd << bitsCachedSize);
++                overflow = (nextByte >>> bitsToAddCount) & MASKS[overflowBits];
++            } else {
++                bitsCached <<= bitsToAddCount;
++                long bitsToAdd = (nextByte >>> (overflowBits)) & MASKS[bitsToAddCount];
++                bitsCached |= bitsToAdd;
++                overflow = nextByte & MASKS[overflowBits];
++            }
++            bitsCachedSize = count;
++        }
+@@ -100,0 +122 @@ public class BitInputStream implements Closeable {
++        if (overflowBits == 0) {
+@@ -107,0 +130,5 @@ public class BitInputStream implements Closeable {
++        } else {
++            bitsOut = bitsCached & MASKS[count];
++            bitsCached = overflow;
++            bitsCachedSize = overflowBits;
++        }

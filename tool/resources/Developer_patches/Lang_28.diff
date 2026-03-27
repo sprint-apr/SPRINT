@@ -1,0 +1,12 @@
+diff --git a/Lang_28/src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java b/Lang_28/src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java
+index c3cb869..a21671a 100644
+--- a/Lang_28/src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java
++++ b/Lang_28/src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java
+@@ -62,0 +63,5 @@ public class NumericEntityUnescaper extends CharSequenceTranslator {
++            if(entityValue > 0xFFFF) {
++                char[] chrs = Character.toChars(entityValue);
++                out.write(chrs[0]);
++                out.write(chrs[1]);
++            } else {
+@@ -63,0 +69 @@ public class NumericEntityUnescaper extends CharSequenceTranslator {
++            }

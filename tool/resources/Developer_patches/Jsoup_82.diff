@@ -1,0 +1,9 @@
+diff --git a/Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java b/Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java
+index dc12cb3..f4012fc 100644
+--- a/Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java
++++ b/Jsoup_82/src/main/java/org/jsoup/helper/DataUtil.java
+@@ -170,0 +171 @@ public final class DataUtil {
++            if (!charset.canEncode()) {
+@@ -171,0 +173,2 @@ public final class DataUtil {
++                doc.charset(Charset.forName(defaultCharset));
++            }

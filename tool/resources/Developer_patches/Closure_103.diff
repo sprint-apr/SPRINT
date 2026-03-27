@@ -1,0 +1,19 @@
+diff --git a/Closure_103/src/com/google/javascript/jscomp/ControlFlowAnalysis.java b/Closure_103/src/com/google/javascript/jscomp/ControlFlowAnalysis.java
+index 3b67af3..6ef2548 100644
+--- a/Closure_103/src/com/google/javascript/jscomp/ControlFlowAnalysis.java
++++ b/Closure_103/src/com/google/javascript/jscomp/ControlFlowAnalysis.java
+@@ -893,0 +894 @@ final class ControlFlowAnalysis implements Callback, CompilerPass {
++      case Token.INSTANCEOF:
+diff --git a/Closure_103/src/com/google/javascript/jscomp/DisambiguateProperties.java b/Closure_103/src/com/google/javascript/jscomp/DisambiguateProperties.java
+index 4937879..ca5edbd 100644
+--- a/Closure_103/src/com/google/javascript/jscomp/DisambiguateProperties.java
++++ b/Closure_103/src/com/google/javascript/jscomp/DisambiguateProperties.java
+@@ -762,0 +763,3 @@ class DisambiguateProperties<T> implements CompilerPass {
++      if (foundType == null) {
++        ObjectType maybeType = ObjectType.cast(
++            registry.getGreatestSubtypeWithProperty(type, field));
+@@ -765,0 +769,4 @@ class DisambiguateProperties<T> implements CompilerPass {
++        if (maybeType != null && maybeType.hasOwnProperty(field)) {
++          foundType = maybeType;
++        }
++      }

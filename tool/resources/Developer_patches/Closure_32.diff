@@ -1,0 +1,28 @@
+diff --git a/Closure_32/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java b/Closure_32/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+index f6a6400..cfdccbe 100644
+--- a/Closure_32/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
++++ b/Closure_32/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+@@ -1357,0 +1358 @@ public final class JsDocInfoParser {
++    int lineStartChar = -1;
+@@ -1363,0 +1365 @@ public final class JsDocInfoParser {
++            lineStartChar = stream.getCharno() + 1;
+@@ -1381,0 +1384 @@ public final class JsDocInfoParser {
++          lineStartChar = 0;
+@@ -1388,0 +1392,9 @@ public final class JsDocInfoParser {
++          boolean isEOC = token == JsDocToken.EOC;
++          if (!isEOC) {
++            if (lineStartChar != -1 && option == WhitespaceOption.PRESERVE) {
++              int numSpaces = stream.getCharno() - lineStartChar;
++              for (int i = 0; i < numSpaces; i++) {
++                builder.append(' ');
++              }
++              lineStartChar = -1;
++            } else if (builder.length() > 0) {
+@@ -1389,0 +1402,3 @@ public final class JsDocInfoParser {
++              builder.append(' ');
++            }
++          }
+@@ -1414,3 +1428,0 @@ public final class JsDocInfoParser {
+-          if (builder.length() > 0) {
+-            builder.append(' ');
+-          }

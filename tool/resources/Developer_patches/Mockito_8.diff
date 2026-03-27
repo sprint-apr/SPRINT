@@ -1,0 +1,7 @@
+diff --git a/Mockito_8/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java b/Mockito_8/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
+index 152e942..8046052 100644
+--- a/Mockito_8/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
++++ b/Mockito_8/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
+@@ -79 +79 @@ public abstract class GenericMetadataSupport {
+-            } else {
++            } else if (typeParameter != actualTypeArgument) {

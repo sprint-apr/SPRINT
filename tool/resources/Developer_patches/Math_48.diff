@@ -1,0 +1,8 @@
+diff --git a/Math_48/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java b/Math_48/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+index 8a667da..0347525 100644
+--- a/Math_48/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
++++ b/Math_48/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+@@ -188,0 +189,3 @@ public abstract class BaseSecantSolver
++                    if (x == x1) {
++                        throw new ConvergenceException();
++                    }

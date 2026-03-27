@@ -1,0 +1,7 @@
+diff --git a/Cli_25/src/java/org/apache/commons/cli/HelpFormatter.java b/Cli_25/src/java/org/apache/commons/cli/HelpFormatter.java
+index 028ff5c..a46b0ec 100644
+--- a/Cli_25/src/java/org/apache/commons/cli/HelpFormatter.java
++++ b/Cli_25/src/java/org/apache/commons/cli/HelpFormatter.java
+@@ -825 +825 @@ public class HelpFormatter
+-            nextLineTabStop = width - 1;
++            nextLineTabStop = 1;

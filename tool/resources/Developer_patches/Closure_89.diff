@@ -1,0 +1,15 @@
+diff --git a/Closure_89/src/com/google/javascript/jscomp/CollapseProperties.java b/Closure_89/src/com/google/javascript/jscomp/CollapseProperties.java
+index 16d533d..ddccf0d 100644
+--- a/Closure_89/src/com/google/javascript/jscomp/CollapseProperties.java
++++ b/Closure_89/src/com/google/javascript/jscomp/CollapseProperties.java
+@@ -483,0 +484,3 @@ class CollapseProperties implements CompilerPass {
++    if (rvalue != null && rvalue.getType() == Token.FUNCTION) {
++      checkForHosedThisReferences(rvalue, refName.docInfo, refName);
++    }
+diff --git a/Closure_89/src/com/google/javascript/jscomp/GlobalNamespace.java b/Closure_89/src/com/google/javascript/jscomp/GlobalNamespace.java
+index 311e343..8268339 100644
+--- a/Closure_89/src/com/google/javascript/jscomp/GlobalNamespace.java
++++ b/Closure_89/src/com/google/javascript/jscomp/GlobalNamespace.java
+@@ -920 +920 @@ class GlobalNamespace {
+-      if (type != Type.FUNCTION && aliasingGets > 0) {
++      if (aliasingGets > 0) {

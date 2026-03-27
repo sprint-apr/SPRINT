@@ -1,0 +1,7 @@
+diff --git a/Closure_86/src/com/google/javascript/jscomp/NodeUtil.java b/Closure_86/src/com/google/javascript/jscomp/NodeUtil.java
+index dd78f90..9049aae 100644
+--- a/Closure_86/src/com/google/javascript/jscomp/NodeUtil.java
++++ b/Closure_86/src/com/google/javascript/jscomp/NodeUtil.java
+@@ -2465 +2465 @@ public final class NodeUtil {
+-        return true;
++        return false;

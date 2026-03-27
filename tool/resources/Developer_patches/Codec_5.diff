@@ -1,0 +1,8 @@
+diff --git a/Codec_5/src/java/org/apache/commons/codec/binary/Base64.java b/Codec_5/src/java/org/apache/commons/codec/binary/Base64.java
+index 2618e5d..19a6959 100644
+--- a/Codec_5/src/java/org/apache/commons/codec/binary/Base64.java
++++ b/Codec_5/src/java/org/apache/commons/codec/binary/Base64.java
+@@ -585,0 +586,3 @@ public class Base64 implements BinaryEncoder, BinaryDecoder {
++            if (buffer == null || buffer.length - pos < decodeSize) {
++                resizeBuffer();
++            }

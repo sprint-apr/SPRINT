@@ -1,0 +1,14 @@
+diff --git a/Compress_10/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java b/Compress_10/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java
+index 964c86d..b058869 100644
+--- a/Compress_10/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java
++++ b/Compress_10/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java
+@@ -808,2 +808,5 @@ public class ZipFile {
+-        for (ZipArchiveEntry ze : entries.keySet()) {
+-            OffsetEntry offsetEntry = entries.get(ze);
++        Map<ZipArchiveEntry, OffsetEntry> origMap =
++            new LinkedHashMap<ZipArchiveEntry, OffsetEntry>(entries);
++        entries.clear();
++        for (ZipArchiveEntry ze : origMap.keySet()) {
++            OffsetEntry offsetEntry = origMap.get(ze);
+@@ -841,0 +845 @@ public class ZipFile {
++            entries.put(ze, offsetEntry);

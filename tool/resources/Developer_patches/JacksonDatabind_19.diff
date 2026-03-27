@@ -1,0 +1,8 @@
+diff --git a/JacksonDatabind_19/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java b/JacksonDatabind_19/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+index 8ebffc8..4fa88cd 100644
+--- a/JacksonDatabind_19/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
++++ b/JacksonDatabind_19/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+@@ -1020,0 +1021,3 @@ public final class TypeFactory
++        if (rawClass == Properties.class) {
++            return MapType.construct(rawClass, CORE_TYPE_STRING, CORE_TYPE_STRING);
++        }

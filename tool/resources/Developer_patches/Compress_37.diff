@@ -1,0 +1,9 @@
+diff --git a/Compress_37/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java b/Compress_37/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+index 7a409d6..f0d60cb 100644
+--- a/Compress_37/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ b/Compress_37/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -462 +462,3 @@ public class TarArchiveInputStream extends ArchiveInputStream {
+-                if (ch == ' '){
++                if (ch == '\n') { // blank line in header
++                    break;
++                } else if (ch == ' '){ // End of length string

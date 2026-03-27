@@ -1,0 +1,27 @@
+diff --git a/Math_68/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java b/Math_68/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
+index d1b36ea..28aee43 100644
+--- a/Math_68/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
++++ b/Math_68/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
+@@ -165,0 +166 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++        setConvergenceChecker(null);
+@@ -246,0 +248 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++        VectorialPointValuePair current = new VectorialPointValuePair(point, objective);
+@@ -251,0 +254 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++            VectorialPointValuePair previous = current;
+@@ -303 +306 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
+-                return new VectorialPointValuePair(point, objective);
++                return current;
+@@ -344,0 +348 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                current = new VectorialPointValuePair(point, objective);
+@@ -412,0 +417 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                if (checker != null) {
+@@ -413,0 +419,4 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                    if (checker.converged(getIterations(), previous, current)) {
++                        return current;                        
++                    }
++                } else {
+@@ -419 +428 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
+-                        return new VectorialPointValuePair(point, objective);
++                        return current;
+@@ -420,0 +430 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                }

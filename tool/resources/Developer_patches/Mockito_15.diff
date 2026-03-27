@@ -1,0 +1,10 @@
+diff --git a/Mockito_15/src/org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java b/Mockito_15/src/org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java
+index 637c450..673de91 100644
+--- a/Mockito_15/src/org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java
++++ b/Mockito_15/src/org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java
+@@ -3,0 +4 @@ import org.mockito.exceptions.base.MockitoException;
++import org.mockito.internal.util.reflection.BeanPropertySetter;
+@@ -24,0 +26 @@ public class FinalMockCandidateFilter implements MockCandidateFilter {
++                        if (!new BeanPropertySetter(fieldInstance, field).set(matchingMock)) {
+@@ -25,0 +28 @@ public class FinalMockCandidateFilter implements MockCandidateFilter {
++                        }

@@ -1,0 +1,7 @@
+diff --git a/Jsoup_62/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java b/Jsoup_62/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+index c515462..e641a21 100644
+--- a/Jsoup_62/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
++++ b/Jsoup_62/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+@@ -764 +764 @@ enum HtmlTreeBuilderState {
+-            String name = t.asEndTag().normalName();
++            String name = t.asEndTag().name(); // matches with case sensitivity if enabled

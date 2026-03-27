@@ -1,0 +1,7 @@
+diff --git a/Time_16/src/main/java/org/joda/time/format/DateTimeFormatter.java b/Time_16/src/main/java/org/joda/time/format/DateTimeFormatter.java
+index a4b1612..baa276a 100644
+--- a/Time_16/src/main/java/org/joda/time/format/DateTimeFormatter.java
++++ b/Time_16/src/main/java/org/joda/time/format/DateTimeFormatter.java
+@@ -709 +709 @@ public class DateTimeFormatter {
+-            instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
++            instantLocal, chrono, iLocale, iPivotYear, chrono.year().get(instantLocal));

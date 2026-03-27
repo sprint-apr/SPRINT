@@ -1,0 +1,12 @@
+diff --git a/Math_28/src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java b/Math_28/src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java
+index a84438d..dec310b 100644
+--- a/Math_28/src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java
++++ b/Math_28/src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java
+@@ -118,0 +119 @@ public class SimplexSolver extends AbstractLinearOptimizer {
++            if (tableau.getNumArtificialVariables() > 0) {
+@@ -127,0 +129 @@ public class SimplexSolver extends AbstractLinearOptimizer {
++            }
+@@ -137,0 +140 @@ public class SimplexSolver extends AbstractLinearOptimizer {
++            if (getIterations() < getMaxIterations() / 2) {
+@@ -151,0 +155 @@ public class SimplexSolver extends AbstractLinearOptimizer {
++            }

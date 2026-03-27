@@ -1,0 +1,7 @@
+diff --git a/Chart_10/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java b/Chart_10/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java
+index cf2934c..4755d8c 100644
+--- a/Chart_10/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java
++++ b/Chart_10/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java
+@@ -65 +65 @@ public class StandardToolTipTagFragmentGenerator
+-        return " title=\"" + toolTipText
++        return " title=\"" + ImageMapUtilities.htmlEscape(toolTipText) 

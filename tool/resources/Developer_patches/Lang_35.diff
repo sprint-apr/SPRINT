@@ -1,0 +1,10 @@
+diff --git a/Lang_35/src/main/java/org/apache/commons/lang3/ArrayUtils.java b/Lang_35/src/main/java/org/apache/commons/lang3/ArrayUtils.java
+index ac22f8f..3a543ce 100644
+--- a/Lang_35/src/main/java/org/apache/commons/lang3/ArrayUtils.java
++++ b/Lang_35/src/main/java/org/apache/commons/lang3/ArrayUtils.java
+@@ -3295 +3295 @@ public class ArrayUtils {
+-            type = Object.class;
++            throw new IllegalArgumentException("Arguments cannot both be null");            
+@@ -3574 +3574 @@ public class ArrayUtils {
+-            return (T[]) new Object[] { null };
++            throw new IllegalArgumentException("Array and element cannot both be null");            

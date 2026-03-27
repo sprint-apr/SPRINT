@@ -1,0 +1,25 @@
+diff --git a/Closure_43/src/com/google/javascript/jscomp/TypedScopeCreator.java b/Closure_43/src/com/google/javascript/jscomp/TypedScopeCreator.java
+index 92d8715..f9943a1 100644
+--- a/Closure_43/src/com/google/javascript/jscomp/TypedScopeCreator.java
++++ b/Closure_43/src/com/google/javascript/jscomp/TypedScopeCreator.java
+@@ -419,0 +420 @@ final class TypedScopeCreator implements ScopeCreator {
++    private List<Node> lentObjectLiterals = null;
+@@ -546,0 +548,7 @@ final class TypedScopeCreator implements ScopeCreator {
++      if (n.getParent() != null && NodeUtil.isStatement(n) &&
++          lentObjectLiterals != null) {
++        for (Node objLit : lentObjectLiterals) {
++          defineObjectLiteral(objLit);
++        }
++        lentObjectLiterals.clear();
++      }
+@@ -579,0 +588,8 @@ final class TypedScopeCreator implements ScopeCreator {
++          JSDocInfo info = n.getJSDocInfo();
++          if (info != null &&
++              info.getLendsName() != null) {
++            if (lentObjectLiterals == null) {
++              lentObjectLiterals = Lists.newArrayList();
++            }
++            lentObjectLiterals.add(n);
++          } else {
+@@ -580,0 +597 @@ final class TypedScopeCreator implements ScopeCreator {
++          }

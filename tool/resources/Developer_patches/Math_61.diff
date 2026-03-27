@@ -1,0 +1,10 @@
+diff --git a/Math_61/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java b/Math_61/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java
+index 148daad..0a81233 100644
+--- a/Math_61/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java
++++ b/Math_61/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java
+@@ -22 +22 @@ import org.apache.commons.math.MathException;
+-import org.apache.commons.math.MathRuntimeException;
++import org.apache.commons.math.exception.NotStrictlyPositiveException;
+@@ -94 +94 @@ public class PoissonDistributionImpl extends AbstractIntegerDistribution
+-            throw MathRuntimeException.createIllegalArgumentException(LocalizedFormats.NOT_POSITIVE_POISSON_MEAN, p);
++            throw new NotStrictlyPositiveException(LocalizedFormats.MEAN, p);

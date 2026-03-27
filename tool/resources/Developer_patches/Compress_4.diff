@@ -1,0 +1,24 @@
+diff --git a/Compress_4/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java b/Compress_4/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java
+index 3641ab6..959df8d 100644
+--- a/Compress_4/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java
++++ b/Compress_4/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java
+@@ -336 +335,0 @@ public class CpioArchiveOutputStream extends ArchiveOutputStream implements
+-            this.finish();
+diff --git a/Compress_4/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java b/Compress_4/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+index abe8759..d3afc3d 100644
+--- a/Compress_4/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ b/Compress_4/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -126 +125,0 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
+-            finish();
+diff --git a/Compress_4/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java b/Compress_4/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
+index 5aa7c87..11808a9 100644
+--- a/Compress_4/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
++++ b/Compress_4/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
+@@ -530 +529,0 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
+-        finish();
+diff --git a/Compress_4/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java b/Compress_4/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java
+index ec8e2cf..778c2aa 100644
+--- a/Compress_4/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java
++++ b/Compress_4/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java
+@@ -127,0 +128 @@ public class ChangeSetPerformer {
++        out.finish();

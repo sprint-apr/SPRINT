@@ -1,0 +1,7 @@
+diff --git a/Math_80/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java b/Math_80/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+index 3fc328d..9d1b797 100644
+--- a/Math_80/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
++++ b/Math_80/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+@@ -1135 +1135 @@ public class EigenDecompositionImpl implements EigenDecomposition {
+-            int j = 4 * n - 1;
++            int j = 4 * (n - 1);

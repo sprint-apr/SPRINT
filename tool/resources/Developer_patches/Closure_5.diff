@@ -1,0 +1,8 @@
+diff --git a/Closure_5/src/com/google/javascript/jscomp/InlineObjectLiterals.java b/Closure_5/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+index 2b85d84..d03988c 100644
+--- a/Closure_5/src/com/google/javascript/jscomp/InlineObjectLiterals.java
++++ b/Closure_5/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+@@ -175,0 +176,3 @@ class InlineObjectLiterals implements CompilerPass {
++          if (gramps.isDelProp()) {
++            return false;
++          }

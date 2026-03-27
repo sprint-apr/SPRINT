@@ -1,0 +1,7 @@
+diff --git a/Closure_71/src/com/google/javascript/jscomp/CheckAccessControls.java b/Closure_71/src/com/google/javascript/jscomp/CheckAccessControls.java
+index b23fd7a..09eaa26 100644
+--- a/Closure_71/src/com/google/javascript/jscomp/CheckAccessControls.java
++++ b/Closure_71/src/com/google/javascript/jscomp/CheckAccessControls.java
+@@ -416 +416 @@ class CheckAccessControls implements ScopedCallback, HotSwapCompilerPass {
+-      boolean isOverride = t.inGlobalScope() &&
++      boolean isOverride = parent.getJSDocInfo() != null &&

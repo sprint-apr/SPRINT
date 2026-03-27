@@ -1,0 +1,30 @@
+diff --git a/Closure_85/src/com/google/javascript/jscomp/UnreachableCodeElimination.java b/Closure_85/src/com/google/javascript/jscomp/UnreachableCodeElimination.java
+index c2150b1..e6d4320 100644
+--- a/Closure_85/src/com/google/javascript/jscomp/UnreachableCodeElimination.java
++++ b/Closure_85/src/com/google/javascript/jscomp/UnreachableCodeElimination.java
+@@ -153,6 +152,0 @@ class UnreachableCodeElimination extends AbstractPostOrderCallback
+-    if (n.getParent() == null) {
+-      List<DiGraphEdge<Node,Branch>> outEdges = gNode.getOutEdges();
+-      if (outEdges.size() == 1) {
+-        return tryRemoveUnconditionalBranching(outEdges.get(0).getDestination().getValue());
+-      }
+-    }
+@@ -160,7 +153,0 @@ class UnreachableCodeElimination extends AbstractPostOrderCallback
+-      case Token.BLOCK:
+-        if (n.hasChildren()) {
+-          Node first = n.getFirstChild();
+-          return tryRemoveUnconditionalBranching(first);
+-        } else {
+-          return tryRemoveUnconditionalBranching(ControlFlowAnalysis.computeFollowNode(n));
+-        }
+@@ -183 +170 @@ class UnreachableCodeElimination extends AbstractPostOrderCallback
+-          Node fallThrough = tryRemoveUnconditionalBranching(computeFollowing(n));
++          Node fallThrough = computeFollowing(n);
+@@ -195,0 +183,7 @@ class UnreachableCodeElimination extends AbstractPostOrderCallback
++    while (next != null && next.getType() == Token.BLOCK) {
++      if (next.hasChildren()) {
++        next = next.getFirstChild();
++      } else {
++        next = computeFollowing(next);
++      }
++    }

@@ -1,0 +1,1 @@
+return cAvailableLocaleSet != null && cAvailableLocaleSet.contains(locale);

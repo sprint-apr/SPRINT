@@ -1,0 +1,11 @@
+diff --git a/Mockito_13/src/org/mockito/internal/MockHandler.java b/Mockito_13/src/org/mockito/internal/MockHandler.java
+index 6f2e4bc..8962ceb 100644
+--- a/Mockito_13/src/org/mockito/internal/MockHandler.java
++++ b/Mockito_13/src/org/mockito/internal/MockHandler.java
+@@ -77 +77 @@ public class MockHandler<T> implements MockitoInvocationHandler, MockHandlerInte
+-            if (verificationMode instanceof MockAwareVerificationMode && ((MockAwareVerificationMode) verificationMode).getMock() == invocation.getMock()) {                
++            if (((MockAwareVerificationMode) verificationMode).getMock() == invocation.getMock()) {                
+@@ -80,0 +81 @@ public class MockHandler<T> implements MockitoInvocationHandler, MockHandlerInte
++            } else {
+@@ -82,0 +84 @@ public class MockHandler<T> implements MockitoInvocationHandler, MockHandlerInte
++                mockingProgress.verificationStarted(verificationMode);

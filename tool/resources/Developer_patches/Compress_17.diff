@@ -1,0 +1,9 @@
+diff --git a/Compress_17/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/Compress_17/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index c553249..0a38336 100644
+--- a/Compress_17/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/Compress_17/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -135 +135 @@ public class TarUtils {
+-        if (trailer == 0 || trailer == ' '){
++        while (start < end - 1 && (trailer == 0 || trailer == ' ')) {
+@@ -136,0 +137 @@ public class TarUtils {
++            trailer = buffer[end - 1];

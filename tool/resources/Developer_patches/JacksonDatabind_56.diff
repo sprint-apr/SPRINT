@@ -1,0 +1,21 @@
+diff --git a/JacksonDatabind_56/src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java b/JacksonDatabind_56/src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java
+index c27ea72..e27d6a9 100644
+--- a/JacksonDatabind_56/src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java
++++ b/JacksonDatabind_56/src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java
+@@ -231 +231 @@ public abstract class FromStringDeserializer<T> extends StdScalarDeserializer<T>
+-                    int ix = value.indexOf('_');
++                    int ix = _firstHyphenOrUnderscore(value);
+@@ -237 +237 @@ public abstract class FromStringDeserializer<T> extends StdScalarDeserializer<T>
+-                    ix = value.indexOf('_');
++                    ix = _firstHyphenOrUnderscore(value);
+@@ -291,0 +292,10 @@ public abstract class FromStringDeserializer<T> extends StdScalarDeserializer<T>
++        protected int _firstHyphenOrUnderscore(String str)
++        {
++            for (int i = 0, end = str.length(); i < end; ++i) {
++                char c = str.charAt(i);
++                if (c == '_' || c == '-') {
++                    return i;
++                }
++            }
++            return -1;
++        }

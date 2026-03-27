@@ -1,0 +1,8 @@
+diff --git a/Lang_49/src/java/org/apache/commons/lang/math/Fraction.java b/Lang_49/src/java/org/apache/commons/lang/math/Fraction.java
+index 5f8e565..3347689 100644
+--- a/Lang_49/src/java/org/apache/commons/lang/math/Fraction.java
++++ b/Lang_49/src/java/org/apache/commons/lang/math/Fraction.java
+@@ -465,0 +466,3 @@ public final class Fraction extends Number implements Comparable {
++        if (numerator == 0) {
++            return equals(ZERO) ? this : ZERO;
++        }

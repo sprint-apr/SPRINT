@@ -1,0 +1,10 @@
+diff --git a/Jsoup_68/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java b/Jsoup_68/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+index 08444ef..b8cc1f0 100644
+--- a/Jsoup_68/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
++++ b/Jsoup_68/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+@@ -468,4 +468 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-        int bottom = stack.size() -1;
+-        if (bottom > MaxScopeSearchDepth) {
+-            bottom = MaxScopeSearchDepth;
+-        }
++        final int bottom = stack.size() -1;

@@ -1,0 +1,28 @@
+diff --git a/Closure_54/src/com/google/javascript/jscomp/TypedScopeCreator.java b/Closure_54/src/com/google/javascript/jscomp/TypedScopeCreator.java
+index 8654ae6..5bccc06 100644
+--- a/Closure_54/src/com/google/javascript/jscomp/TypedScopeCreator.java
++++ b/Closure_54/src/com/google/javascript/jscomp/TypedScopeCreator.java
+@@ -1413 +1413,7 @@ final class TypedScopeCreator implements ScopeCreator {
+-          if (!qVar.isTypeInferred()) {
++          ObjectType qVarType = ObjectType.cast(qVar.getType());
++          if (qVarType != null &&
++              rhsValue != null &&
++              rhsValue.getType() == Token.OBJECTLIT) {
++            typeRegistry.resetImplicitPrototype(
++                rhsValue.getJSType(), qVarType.getImplicitPrototype());
++          } else if (!qVar.isTypeInferred()) {
+diff --git a/Closure_54/src/com/google/javascript/rhino/jstype/FunctionType.java b/Closure_54/src/com/google/javascript/rhino/jstype/FunctionType.java
+index b65d8b1..a87be07 100644
+--- a/Closure_54/src/com/google/javascript/rhino/jstype/FunctionType.java
++++ b/Closure_54/src/com/google/javascript/rhino/jstype/FunctionType.java
+@@ -341 +340,0 @@ public class FunctionType extends PrototypeObjectType {
+-        baseType.isUnknownType() ||
+@@ -366 +365,2 @@ public class FunctionType extends PrototypeObjectType {
+-    boolean replacedPrototype = prototype != null;
++    PrototypeObjectType oldPrototype = this.prototype;
++    boolean replacedPrototype = oldPrototype != null;
+@@ -371,0 +372 @@ public class FunctionType extends PrototypeObjectType {
++    if (oldPrototype != null) {
+@@ -373,0 +375,2 @@ public class FunctionType extends PrototypeObjectType {
++      oldPrototype.setOwnerFunction(null);
++    }

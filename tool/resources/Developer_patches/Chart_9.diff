@@ -1,0 +1,7 @@
+diff --git a/Chart_9/source/org/jfree/data/time/TimeSeries.java b/Chart_9/source/org/jfree/data/time/TimeSeries.java
+index 4067e3e..d16d447 100644
+--- a/Chart_9/source/org/jfree/data/time/TimeSeries.java
++++ b/Chart_9/source/org/jfree/data/time/TimeSeries.java
+@@ -944 +944 @@ public class TimeSeries extends Series implements Cloneable, Serializable {
+-        if (endIndex < 0) {
++        if ((endIndex < 0)  || (endIndex < startIndex)) {

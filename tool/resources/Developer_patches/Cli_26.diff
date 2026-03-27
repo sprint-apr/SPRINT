@@ -1,0 +1,14 @@
+diff --git a/Cli_26/src/java/org/apache/commons/cli/OptionBuilder.java b/Cli_26/src/java/org/apache/commons/cli/OptionBuilder.java
+index 4d21b8b..60b4967 100644
+--- a/Cli_26/src/java/org/apache/commons/cli/OptionBuilder.java
++++ b/Cli_26/src/java/org/apache/commons/cli/OptionBuilder.java
+@@ -347,0 +348,2 @@ public final class OptionBuilder
++        Option option = null;
++        try {
+@@ -349 +351 @@ public final class OptionBuilder
+-        Option option = new Option(opt, description);
++            option = new Option(opt, description);
+@@ -358,0 +361 @@ public final class OptionBuilder
++        } finally {
+@@ -360,0 +364 @@ public final class OptionBuilder
++        }

@@ -1,0 +1,1 @@
+return (doubleValue() * 100);

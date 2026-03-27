@@ -1,0 +1,75 @@
+diff --git a/Math_6/src/main/java/org/apache/commons/math3/optim/BaseOptimizer.java b/Math_6/src/main/java/org/apache/commons/math3/optim/BaseOptimizer.java
+index 75c9757..927e17f 100644
+--- a/Math_6/src/main/java/org/apache/commons/math3/optim/BaseOptimizer.java
++++ b/Math_6/src/main/java/org/apache/commons/math3/optim/BaseOptimizer.java
+@@ -51 +51 @@ public abstract class BaseOptimizer<PAIR> {
+-        iterations = new Incrementor(0, new MaxIterCallback());
++        iterations = new Incrementor(Integer.MAX_VALUE, new MaxIterCallback());
+diff --git a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/gradient/NonLinearConjugateGradientOptimizer.java b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/gradient/NonLinearConjugateGradientOptimizer.java
+index e010781..bd12b54 100644
+--- a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/gradient/NonLinearConjugateGradientOptimizer.java
++++ b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/gradient/NonLinearConjugateGradientOptimizer.java
+@@ -214 +213,0 @@ public class NonLinearConjugateGradientOptimizer
+-        int iter = 0;
+@@ -217 +216 @@ public class NonLinearConjugateGradientOptimizer
+-            ++iter;
++            incrementIterationCount();
+@@ -223 +222 @@ public class NonLinearConjugateGradientOptimizer
+-                if (checker.converged(iter, previous, current)) {
++                if (checker.converged(getIterations(), previous, current)) {
+@@ -277 +276 @@ public class NonLinearConjugateGradientOptimizer
+-            if (iter % n == 0 ||
++            if (getIterations() % n == 0 ||
+diff --git a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java
+index 0303041..fed67b1 100644
+--- a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java
++++ b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java
+@@ -387,0 +388 @@ public class CMAESOptimizer
++            incrementIterationCount();
+diff --git a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/PowellOptimizer.java b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/PowellOptimizer.java
+index 9572820..afe8d2f 100644
+--- a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/PowellOptimizer.java
++++ b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/PowellOptimizer.java
+@@ -191 +190,0 @@ public class PowellOptimizer
+-        int iter = 0;
+@@ -193 +192 @@ public class PowellOptimizer
+-            ++iter;
++            incrementIterationCount();
+@@ -227 +226 @@ public class PowellOptimizer
+-                    stop = checker.converged(iter, previous, current);
++                    stop = checker.converged(getIterations(), previous, current);
+diff --git a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/SimplexOptimizer.java b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/SimplexOptimizer.java
+index 9ea2324..0dd644e 100644
+--- a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/SimplexOptimizer.java
++++ b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/SimplexOptimizer.java
+@@ -158 +158 @@ public class SimplexOptimizer extends MultivariateOptimizer {
+-            if (iteration > 0) {
++            if (getIterations() > 0) {
+@@ -175 +175 @@ public class SimplexOptimizer extends MultivariateOptimizer {
+-			++iteration;
++            incrementIterationCount();
+diff --git a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/GaussNewtonOptimizer.java b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/GaussNewtonOptimizer.java
+index a2834f2..844ed22 100644
+--- a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/GaussNewtonOptimizer.java
++++ b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/GaussNewtonOptimizer.java
+@@ -106 +105,0 @@ public class GaussNewtonOptimizer extends AbstractLeastSquaresOptimizer {
+-        int iter = 0;
+@@ -108 +107 @@ public class GaussNewtonOptimizer extends AbstractLeastSquaresOptimizer {
+-            ++iter;
++            incrementIterationCount();
+@@ -160 +159 @@ public class GaussNewtonOptimizer extends AbstractLeastSquaresOptimizer {
+-                converged = checker.converged(iter, previous, current);
++                converged = checker.converged(getIterations(), previous, current);
+diff --git a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/LevenbergMarquardtOptimizer.java b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/LevenbergMarquardtOptimizer.java
+index ca2d138..4016131 100644
+--- a/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/LevenbergMarquardtOptimizer.java
++++ b/Math_6/src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/LevenbergMarquardtOptimizer.java
+@@ -322 +321,0 @@ public class LevenbergMarquardtOptimizer
+-        int iter = 0;
+@@ -325 +324,2 @@ public class LevenbergMarquardtOptimizer
+-            ++iter;
++            incrementIterationCount();
++
+@@ -489 +489 @@ public class LevenbergMarquardtOptimizer
+-                        if (checker.converged(iter, previous, current)) {
++                        if (checker.converged(getIterations(), previous, current)) {

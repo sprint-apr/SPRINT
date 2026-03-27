@@ -1,0 +1,7 @@
+diff --git a/Jsoup_77/src/main/java/org/jsoup/parser/XmlTreeBuilder.java b/Jsoup_77/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+index 65d3045..0851833 100644
+--- a/Jsoup_77/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
++++ b/Jsoup_77/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+@@ -117 +117 @@ public class XmlTreeBuilder extends TreeBuilder {
+-        String elName = endTag.name();
++        String elName = endTag.normalName();

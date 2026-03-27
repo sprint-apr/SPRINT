@@ -1,0 +1,8 @@
+diff --git a/Closure_15/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java b/Closure_15/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+index a8e92fc..20196bf 100644
+--- a/Closure_15/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
++++ b/Closure_15/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+@@ -101,0 +102,3 @@ class FlowSensitiveInlineVariables extends AbstractPostOrderCallback
++        if (n.isDelProp()) {
++          return true;
++        }

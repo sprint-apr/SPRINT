@@ -1,0 +1,71 @@
+diff --git a/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java b/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
+index 12af5fb..98b5630 100644
+--- a/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
++++ b/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java
+@@ -951,0 +952,3 @@ public final class ReaderBasedJsonParser
++            if (_parsingContext.inRoot()) {
++                _verifyRootSpace(ch);
++            }
+@@ -1080,0 +1084,3 @@ public final class ReaderBasedJsonParser
++            if (_parsingContext.inRoot()) {
++                _verifyRootSpace(c);
++            }
+@@ -1161,0 +1168,2 @@ public final class ReaderBasedJsonParser
++    private final void _verifyRootSpace(int ch) throws IOException
++    {
+@@ -1162,0 +1171,15 @@ public final class ReaderBasedJsonParser
++        ++_inputPtr;
++        switch (ch) {
++        case ' ':
++        case '\t':
++            return;
++        case '\r':
++            _skipCR();
++            return;
++        case '\n':
++            ++_currInputRow;
++            _currInputRowStart = _inputPtr;
++            return;
++        }
++        _reportMissingRootWS(ch);
++    }
+diff --git a/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java b/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
+index 15faeb8..83ae5b7 100644
+--- a/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
++++ b/JacksonCore_2/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
+@@ -1243,0 +1244,3 @@ public final class UTF8StreamJsonParser
++        if (_parsingContext.inRoot()) {
++            _verifyRootSpace(c);
++        }
+@@ -1279,0 +1283,3 @@ public final class UTF8StreamJsonParser
++        if (_parsingContext.inRoot()) {
++            _verifyRootSpace(_inputBuffer[_inputPtr++] & 0xFF);
++        }
+@@ -1406,0 +1413,3 @@ public final class UTF8StreamJsonParser
++            if (_parsingContext.inRoot()) {
++                _verifyRootSpace(c);
++            }
+@@ -1420,0 +1430,2 @@ public final class UTF8StreamJsonParser
++    private final void _verifyRootSpace(int ch) throws IOException
++    {
+@@ -1421,0 +1433 @@ public final class UTF8StreamJsonParser
++        ++_inputPtr;
+@@ -1422,0 +1435,14 @@ public final class UTF8StreamJsonParser
++        switch (ch) {
++        case ' ':
++        case '\t':
++            return;
++        case '\r':
++            _skipCR();
++            return;
++        case '\n':
++            ++_currInputRow;
++            _currInputRowStart = _inputPtr;
++            return;
++        }
++        _reportMissingRootWS(ch);
++    }
+@@ -2575,3 +2600,0 @@ public final class UTF8StreamJsonParser
+-                if (i < 32) {
+-                    _throwInvalidSpace(i);
+-                }

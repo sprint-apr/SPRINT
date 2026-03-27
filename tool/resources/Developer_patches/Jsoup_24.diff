@@ -1,0 +1,6 @@
+diff --git a/Jsoup_24/src/main/java/org/jsoup/parser/TokeniserState.java b/Jsoup_24/src/main/java/org/jsoup/parser/TokeniserState.java
+index e530264..e3013c7 100644
+--- a/Jsoup_24/src/main/java/org/jsoup/parser/TokeniserState.java
++++ b/Jsoup_24/src/main/java/org/jsoup/parser/TokeniserState.java
+@@ -558 +557,0 @@ enum TokeniserState {
+-                r.advance();

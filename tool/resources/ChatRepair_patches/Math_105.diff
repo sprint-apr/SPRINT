@@ -1,0 +1,1 @@
+return Math.max(0, sumYY - sumXY * sumXY / sumXX);

@@ -1,0 +1,25 @@
+diff --git a/JxPath_3/src/java/org/apache/commons/jxpath/ri/model/beans/NullPropertyPointer.java b/JxPath_3/src/java/org/apache/commons/jxpath/ri/model/beans/NullPropertyPointer.java
+index 8cbd118..b9c02bf 100644
+--- a/JxPath_3/src/java/org/apache/commons/jxpath/ri/model/beans/NullPropertyPointer.java
++++ b/JxPath_3/src/java/org/apache/commons/jxpath/ri/model/beans/NullPropertyPointer.java
+@@ -18,0 +19,2 @@ package org.apache.commons.jxpath.ri.model.beans;
++import org.apache.commons.jxpath.AbstractFactory;
++import org.apache.commons.jxpath.JXPathAbstractFactoryException;
+@@ -108,0 +111,3 @@ public class NullPropertyPointer extends PropertyPointer {
++            if (parent instanceof NullPointer && parent.equals(newParent)) {
++                throw createBadFactoryException(context.getFactory());
++            }
+@@ -137,0 +143,3 @@ public class NullPropertyPointer extends PropertyPointer {
++            if (parent instanceof NullPointer && parent.equals(newParent)) {
++                throw createBadFactoryException(context.getFactory());
++            }
+@@ -224 +232,7 @@ public class NullPropertyPointer extends PropertyPointer {
+-}
++
++    private JXPathAbstractFactoryException createBadFactoryException(AbstractFactory factory) {
++        return new JXPathAbstractFactoryException("Factory " + factory
++                + " reported success creating object for path: " + asPath()
++                + " but object was null.  Terminating to avoid stack recursion.");
++    }
++}
+\ No newline at end of file

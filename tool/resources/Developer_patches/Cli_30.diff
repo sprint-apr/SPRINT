@@ -1,0 +1,36 @@
+diff --git a/Cli_30/src/main/java/org/apache/commons/cli/DefaultParser.java b/Cli_30/src/main/java/org/apache/commons/cli/DefaultParser.java
+index bfea0e4..2f957b1 100644
+--- a/Cli_30/src/main/java/org/apache/commons/cli/DefaultParser.java
++++ b/Cli_30/src/main/java/org/apache/commons/cli/DefaultParser.java
+@@ -150 +150,2 @@ public class DefaultParser implements CommandLineParser
+-            if (!cmd.hasOption(option))
++            Option opt = options.getOption(option);
++            if (opt == null)
+@@ -152 +153,2 @@ public class DefaultParser implements CommandLineParser
+-                Option opt = options.getOption(option);
++                throw new UnrecognizedOptionException("Default option wasn't defined", option);
++            }
+@@ -154,0 +157,2 @@ public class DefaultParser implements CommandLineParser
++            OptionGroup group = options.getOptionGroup(opt);
++            boolean selected = group != null && group.getSelected() != null;
+@@ -155,0 +160,2 @@ public class DefaultParser implements CommandLineParser
++            if (!cmd.hasOption(option) && !selected)
++            {
+diff --git a/Cli_30/src/main/java/org/apache/commons/cli/Parser.java b/Cli_30/src/main/java/org/apache/commons/cli/Parser.java
+index 913922d..ba4b6bc 100644
+--- a/Cli_30/src/main/java/org/apache/commons/cli/Parser.java
++++ b/Cli_30/src/main/java/org/apache/commons/cli/Parser.java
+@@ -263 +263,2 @@ public abstract class Parser implements CommandLineParser
+-            if (!cmd.hasOption(option))
++            Option opt = options.getOption(option);
++            if (opt == null)
+@@ -265 +266,2 @@ public abstract class Parser implements CommandLineParser
+-                Option opt = getOptions().getOption(option);
++                throw new UnrecognizedOptionException("Default option wasn't defined", option);
++            }
+@@ -267,0 +270,2 @@ public abstract class Parser implements CommandLineParser
++            OptionGroup group = options.getOptionGroup(opt);
++            boolean selected = group != null && group.getSelected() != null;
+@@ -268,0 +273,2 @@ public abstract class Parser implements CommandLineParser
++            if (!cmd.hasOption(option) && !selected)
++            {

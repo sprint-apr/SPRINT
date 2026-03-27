@@ -1,0 +1,8 @@
+diff --git a/Closure_66/src/com/google/javascript/jscomp/TypeCheck.java b/Closure_66/src/com/google/javascript/jscomp/TypeCheck.java
+index edb7805..d3def01 100644
+--- a/Closure_66/src/com/google/javascript/jscomp/TypeCheck.java
++++ b/Closure_66/src/com/google/javascript/jscomp/TypeCheck.java
+@@ -515,0 +516 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
++        } else {
+@@ -516,0 +518 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
++          typeable = false;

@@ -1,0 +1,7 @@
+diff --git a/Mockito_34/src/org/mockito/internal/invocation/InvocationMatcher.java b/Mockito_34/src/org/mockito/internal/invocation/InvocationMatcher.java
+index c72b119..f15b9d4 100644
+--- a/Mockito_34/src/org/mockito/internal/invocation/InvocationMatcher.java
++++ b/Mockito_34/src/org/mockito/internal/invocation/InvocationMatcher.java
+@@ -106 +106 @@ public class InvocationMatcher implements PrintableInvocation, PrintingFriendlyI
+-            if (m instanceof CapturesArguments) {
++            if (m instanceof CapturesArguments && i.getArguments().length > k) {

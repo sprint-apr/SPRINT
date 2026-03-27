@@ -1,0 +1,16 @@
+diff --git a/JxPath_14/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java b/JxPath_14/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java
+index f717190..1544183 100644
+--- a/JxPath_14/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java
++++ b/JxPath_14/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java
+@@ -655,0 +656,3 @@ public class CoreFunction extends Operation {
++        if (Double.isNaN(v) || Double.isInfinite(v)) {
++        	return new Double(v);
++        }
+@@ -661,0 +665,3 @@ public class CoreFunction extends Operation {
++        if (Double.isNaN(v) || Double.isInfinite(v)) {
++        	return new Double(v);
++        }
+@@ -667,0 +674,3 @@ public class CoreFunction extends Operation {
++        if (Double.isNaN(v) || Double.isInfinite(v)) {
++        	return new Double(v);
++        }

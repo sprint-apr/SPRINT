@@ -1,0 +1,8 @@
+diff --git a/Lang_45/src/java/org/apache/commons/lang/WordUtils.java b/Lang_45/src/java/org/apache/commons/lang/WordUtils.java
+index 42bd883..91c6615 100644
+--- a/Lang_45/src/java/org/apache/commons/lang/WordUtils.java
++++ b/Lang_45/src/java/org/apache/commons/lang/WordUtils.java
+@@ -615,0 +616,3 @@ public class WordUtils {
++        if (lower > str.length()) {
++            lower = str.length();    
++        }

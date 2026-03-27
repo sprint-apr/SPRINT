@@ -1,0 +1,10 @@
+diff --git a/Math_24/src/main/java/org/apache/commons/math3/optimization/univariate/BrentOptimizer.java b/Math_24/src/main/java/org/apache/commons/math3/optimization/univariate/BrentOptimizer.java
+index b6ce68e..cff5bfd 100644
+--- a/Math_24/src/main/java/org/apache/commons/math3/optimization/univariate/BrentOptimizer.java
++++ b/Math_24/src/main/java/org/apache/commons/math3/optimization/univariate/BrentOptimizer.java
+@@ -230 +230 @@ public class BrentOptimizer extends BaseAbstractUnivariateOptimizer {
+-                        return current;
++                        return best(current, previous, isMinim);
+@@ -267 +267 @@ public class BrentOptimizer extends BaseAbstractUnivariateOptimizer {
+-                return current;
++                return best(current, previous, isMinim);

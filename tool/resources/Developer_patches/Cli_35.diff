@@ -1,0 +1,8 @@
+diff --git a/Cli_35/src/main/java/org/apache/commons/cli/Options.java b/Cli_35/src/main/java/org/apache/commons/cli/Options.java
+index e9a0aa9..798b176 100644
+--- a/Cli_35/src/main/java/org/apache/commons/cli/Options.java
++++ b/Cli_35/src/main/java/org/apache/commons/cli/Options.java
+@@ -239,0 +240,3 @@ public class Options implements Serializable
++        if(longOpts.keySet().contains(opt)) {
++            return Collections.singletonList(opt);
++        }

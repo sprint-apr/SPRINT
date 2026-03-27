@@ -1,0 +1,46 @@
+diff --git a/Chart_22/source/org/jfree/data/KeyedObjects2D.java b/Chart_22/source/org/jfree/data/KeyedObjects2D.java
+index d0e832f..7cc5ad6 100644
+--- a/Chart_22/source/org/jfree/data/KeyedObjects2D.java
++++ b/Chart_22/source/org/jfree/data/KeyedObjects2D.java
+@@ -231 +230,0 @@ public class KeyedObjects2D implements Cloneable, Serializable {
+-        if (row >= 0) {
+@@ -233 +232,3 @@ public class KeyedObjects2D implements Cloneable, Serializable {
+-            return rowData.getObject(columnKey);
++        int index = rowData.getIndex(columnKey);
++        if (index >= 0) {
++            return rowData.getObject(index);
+@@ -317,0 +319 @@ public class KeyedObjects2D implements Cloneable, Serializable {
++        allNull = true;
+@@ -318,0 +321,9 @@ public class KeyedObjects2D implements Cloneable, Serializable {
++        for (int item = 0, itemCount = this.rows.size(); item < itemCount; 
++             item++) {
++            row = (KeyedObjects) this.rows.get(item);
++            int columnIndex = row.getIndex(columnKey);
++            if (columnIndex >= 0 && row.getObject(columnIndex) != null) {
++                allNull = false;
++                break;
++            }
++        }
+@@ -319,0 +331,11 @@ public class KeyedObjects2D implements Cloneable, Serializable {
++        if (allNull) {
++            for (int item = 0, itemCount = this.rows.size(); item < itemCount; 
++                 item++) {
++                row = (KeyedObjects) this.rows.get(item);
++                int columnIndex = row.getIndex(columnKey);
++                if (columnIndex >= 0) {
++                    row.removeValue(columnIndex);
++                }
++            }
++            this.columnKeys.remove(columnKey);
++        }
+@@ -344,0 +367,4 @@ public class KeyedObjects2D implements Cloneable, Serializable {
++        if (index < 0) {
++            throw new UnknownKeyException("Row key (" + rowKey 
++                    + ") not recognised.");
++        }
+@@ -378 +404,4 @@ public class KeyedObjects2D implements Cloneable, Serializable {
+-                rowData.removeValue(columnKey);
++            int i = rowData.getIndex(columnKey);
++            if (i >= 0) {
++                rowData.removeValue(i);
++            }

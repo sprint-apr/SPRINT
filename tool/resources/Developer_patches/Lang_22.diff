@@ -1,0 +1,14 @@
+diff --git a/Lang_22/src/main/java/org/apache/commons/lang3/math/Fraction.java b/Lang_22/src/main/java/org/apache/commons/lang3/math/Fraction.java
+index b36a156..bf15a49 100644
+--- a/Lang_22/src/main/java/org/apache/commons/lang3/math/Fraction.java
++++ b/Lang_22/src/main/java/org/apache/commons/lang3/math/Fraction.java
+@@ -582,0 +583,6 @@ public final class Fraction extends Number implements Comparable<Fraction> {
++        if ((u == 0) || (v == 0)) {
++            if ((u == Integer.MIN_VALUE) || (v == Integer.MIN_VALUE)) {
++                throw new ArithmeticException("overflow: gcd is 2^31");
++            }
++            return Math.abs(u) + Math.abs(v);
++        }
+@@ -584 +590 @@ public final class Fraction extends Number implements Comparable<Fraction> {
+-        if (Math.abs(u) <= 1 || Math.abs(v) <= 1) {
++        if (Math.abs(u) == 1 || Math.abs(v) == 1) {

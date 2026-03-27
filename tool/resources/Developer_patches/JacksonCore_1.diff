@@ -1,0 +1,30 @@
+diff --git a/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/io/NumberInput.java b/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/io/NumberInput.java
+index 01c18d9..eb463b9 100644
+--- a/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/io/NumberInput.java
++++ b/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/io/NumberInput.java
+@@ -294,0 +295 @@ public final class NumberInput
++        try {
+@@ -295,0 +297,3 @@ public final class NumberInput
++        } catch (NumberFormatException e) {
++            throw _badBigDecimal(numStr);
++        }
+@@ -304,0 +309 @@ public final class NumberInput
++        try {
+@@ -305,0 +311,3 @@ public final class NumberInput
++        } catch (NumberFormatException e) {
++            throw _badBigDecimal(new String(buffer, offset, len));
++        }
+@@ -307,0 +316,3 @@ public final class NumberInput
++    private static NumberFormatException _badBigDecimal(String str) {
++        return new NumberFormatException("Value \""+str+"\" can not be represented as BigDecimal");
++    }
+diff --git a/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java b/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+index a05410d..bab80e0 100644
+--- a/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
++++ b/JacksonCore_1/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+@@ -390 +390 @@ public final class TextBuffer
+-        if (_inputStart >= 0) {
++        if ((_inputStart >= 0) && (_inputBuffer != null)) {
+@@ -394 +394 @@ public final class TextBuffer
+-        if (_segmentSize == 0) {
++        if ((_segmentSize == 0) && (_currentSegment != null)) {

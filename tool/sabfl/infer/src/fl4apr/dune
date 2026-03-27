@@ -1,0 +1,16 @@
+; Copyright (c) Facebook, Inc. and its affiliates.
+;
+; This source code is licensed under the MIT license found in the
+; LICENSE file in the root directory of this source tree.
+
+(library
+ (name Fl4apr)
+ (public_name infer.Fl4apr)
+ (flags
+  (:standard -open Core -open IR -open Absint -open IStdlib -open IStd -open
+    ATDGenerated -open IBase -open Iprogram -open Botup -open Data -open
+    TDown -open BasicDomain -open ISynthesizer))
+ (libraries core IStdlib Absint ATDGenerated IBase IR ocamlgraph Iprogram
+   Botup Data TDown BasicDomain ISynthesizer)
+ (preprocess
+  (pps ppx_compare)))

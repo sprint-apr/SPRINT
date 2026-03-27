@@ -1,0 +1,11 @@
+diff --git a/Mockito_12/src/org/mockito/internal/util/reflection/GenericMaster.java b/Mockito_12/src/org/mockito/internal/util/reflection/GenericMaster.java
+index 64bf154..4df9f7a 100644
+--- a/Mockito_12/src/org/mockito/internal/util/reflection/GenericMaster.java
++++ b/Mockito_12/src/org/mockito/internal/util/reflection/GenericMaster.java
+@@ -19,0 +20 @@ public class GenericMaster {
++            if (actual instanceof Class) {
+@@ -20,0 +22 @@ public class GenericMaster {
++            } else if (actual instanceof ParameterizedType) {
+@@ -21,0 +24,2 @@ public class GenericMaster {
++                return (Class) ((ParameterizedType) actual).getRawType();
++            }

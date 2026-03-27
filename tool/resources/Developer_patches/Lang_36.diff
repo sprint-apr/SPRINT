@@ -1,0 +1,16 @@
+diff --git a/Lang_36/src/java/org/apache/commons/lang3/math/NumberUtils.java b/Lang_36/src/java/org/apache/commons/lang3/math/NumberUtils.java
+index d3054f3..0d30b22 100644
+--- a/Lang_36/src/java/org/apache/commons/lang3/math/NumberUtils.java
++++ b/Lang_36/src/java/org/apache/commons/lang3/math/NumberUtils.java
+@@ -491 +491 @@ public class NumberUtils {
+-        if (!Character.isDigit(lastChar)) {
++        if (!Character.isDigit(lastChar) && lastChar != '.') {
+@@ -1387,0 +1388,8 @@ public class NumberUtils {
++            if (chars[i] == '.') {
++                if (hasDecPoint || hasExp) {
++                    // two decimal points or dec in exponent
++                    return false;
++                }
++                // single trailing decimal point after non-exponent is ok
++                return foundDigit;
++            }

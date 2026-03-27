@@ -1,0 +1,13 @@
+diff --git a/Math_83/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java b/Math_83/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+index 0cf01af..b387767 100644
+--- a/Math_83/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
++++ b/Math_83/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+@@ -292 +292 @@ class SimplexTableau implements Serializable {
+-        int start = getNumObjectiveFunctions();
++        int start = ignoreObjectiveRows ? getNumObjectiveFunctions() : 0;
+@@ -341 +341 @@ class SimplexTableau implements Serializable {
+-      Integer negativeVarBasicRow = getBasicRow(getNegativeDecisionVariableOffset());
++      Integer negativeVarBasicRow = getBasicRowForSolution(getNegativeDecisionVariableOffset());
+@@ -345 +345 @@ class SimplexTableau implements Serializable {
+-          Integer basicRow = getBasicRow(getNumObjectiveFunctions() + i);
++          Integer basicRow = getBasicRowForSolution(getNumObjectiveFunctions() + i);

@@ -1,0 +1,9 @@
+diff --git a/JxPath_5/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java b/JxPath_5/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java
+index 6ff8d5f..8ba1c04 100644
+--- a/JxPath_5/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java
++++ b/JxPath_5/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java
+@@ -665,3 +665 @@ public abstract class NodePointer implements Pointer {
+-            throw new JXPathException(
+-                    "Cannot compare pointers that do not belong to the same tree: '"
+-                            + p1 + "' and '" + p2 + "'");
++            return 0;

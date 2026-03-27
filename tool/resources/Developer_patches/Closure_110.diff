@@ -1,0 +1,49 @@
+diff --git a/Closure_110/src/com/google/javascript/jscomp/ScopedAliases.java b/Closure_110/src/com/google/javascript/jscomp/ScopedAliases.java
+index 7e9c8b8..fbd46d3 100644
+--- a/Closure_110/src/com/google/javascript/jscomp/ScopedAliases.java
++++ b/Closure_110/src/com/google/javascript/jscomp/ScopedAliases.java
+@@ -357,0 +358 @@ class ScopedAliases implements HotSwapCompilerPass {
++        boolean isFunctionDecl = NodeUtil.isFunctionDeclaration(parent);
+@@ -366 +367,2 @@ class ScopedAliases implements HotSwapCompilerPass {
+-        } else if (isVar) {
++        } else if (isVar || isFunctionDecl) {
++          boolean isHoisted = NodeUtil.isHoistedFunctionDeclaration(parent);
+@@ -368,2 +370,2 @@ class ScopedAliases implements HotSwapCompilerPass {
+-          Node value = n.hasChildren() ?
+-              v.getInitialValue().detachFromParent() :
++          Node value = v.getInitialValue() != null ?
++              v.getInitialValue() :
+@@ -371 +373 @@ class ScopedAliases implements HotSwapCompilerPass {
+-          Node varNode = parent;
++          Node varNode = null;
+@@ -382,0 +385 @@ class ScopedAliases implements HotSwapCompilerPass {
++          if (isFunctionDecl) {
+@@ -383,0 +387 @@ class ScopedAliases implements HotSwapCompilerPass {
++            Node existingName = v.getNameNode();
+@@ -391,0 +396,2 @@ class ScopedAliases implements HotSwapCompilerPass {
++            Node newName = IR.name("").useSourceInfoFrom(existingName);
++            value.replaceChild(existingName, newName);
+@@ -392,0 +399,4 @@ class ScopedAliases implements HotSwapCompilerPass {
++            varNode = IR.var(existingName).useSourceInfoFrom(existingName);
++            grandparent.replaceChild(parent, varNode);
++          } else {
++            if (value != null) {
+@@ -394,0 +405,4 @@ class ScopedAliases implements HotSwapCompilerPass {
++              value.detachFromParent();
++            }
++            varNode = parent;
++          }
+@@ -407,0 +422,3 @@ class ScopedAliases implements HotSwapCompilerPass {
++            if (isHoisted) {
++              grandparent.addChildToFront(newDecl);
++            } else {
+@@ -408,0 +426 @@ class ScopedAliases implements HotSwapCompilerPass {
++            }
+diff --git a/Closure_110/src/com/google/javascript/rhino/Node.java b/Closure_110/src/com/google/javascript/rhino/Node.java
+index b645632..6a3e9e0 100644
+--- a/Closure_110/src/com/google/javascript/rhino/Node.java
++++ b/Closure_110/src/com/google/javascript/rhino/Node.java
+@@ -553,0 +554,3 @@ public class Node implements Cloneable, Serializable {
++    if (n == null) {
++      throw new RuntimeException("node is not a child");
++    }

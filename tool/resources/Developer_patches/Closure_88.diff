@@ -1,0 +1,12 @@
+diff --git a/Closure_88/src/com/google/javascript/jscomp/DeadAssignmentsElimination.java b/Closure_88/src/com/google/javascript/jscomp/DeadAssignmentsElimination.java
+index ef33e4c..879056f 100644
+--- a/Closure_88/src/com/google/javascript/jscomp/DeadAssignmentsElimination.java
++++ b/Closure_88/src/com/google/javascript/jscomp/DeadAssignmentsElimination.java
+@@ -326,0 +327 @@ class DeadAssignmentsElimination extends AbstractPostOrderCallback implements
++        Preconditions.checkState(n.getParent().getType() == Token.ASSIGN);
+@@ -329,0 +331,5 @@ class DeadAssignmentsElimination extends AbstractPostOrderCallback implements
++        Node rhs = n.getNext();
++        VariableLiveness state = isVariableReadBeforeKill(rhs, variable);
++        if (state == VariableLiveness.READ) {
++          return state;
++        }

@@ -1,0 +1,22 @@
+diff --git a/Compress_20/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java b/Compress_20/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java
+index 934eb0a..664d0e6 100644
+--- a/Compress_20/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java
++++ b/Compress_20/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java
+@@ -331 +331 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
+-        if (mode != 0){
++        if (CpioUtil.fileType(mode) != 0){ // mode is initialised to 0
+@@ -347 +347 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
+-        if (mode == 0 && !name.equals(CPIO_TRAILER)){
++        if (CpioUtil.fileType(mode) == 0 && !name.equals(CPIO_TRAILER)){
+@@ -361 +361 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
+-        if (mode != 0) {
++        if (CpioUtil.fileType(mode) != 0) {
+@@ -373 +373 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
+-        if (mode == 0 && !name.equals(CPIO_TRAILER)){
++        if (CpioUtil.fileType(mode) == 0 && !name.equals(CPIO_TRAILER)){
+@@ -387 +387 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
+-        if (mode != 0){
++        if (CpioUtil.fileType(mode) != 0){
+@@ -399 +399 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
+-        if (mode == 0 && !name.equals(CPIO_TRAILER)){
++        if (CpioUtil.fileType(mode) == 0 && !name.equals(CPIO_TRAILER)){

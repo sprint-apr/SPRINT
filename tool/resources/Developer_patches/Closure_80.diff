@@ -1,0 +1,8 @@
+diff --git a/Closure_80/src/com/google/javascript/jscomp/NodeUtil.java b/Closure_80/src/com/google/javascript/jscomp/NodeUtil.java
+index 08fb954..dfcd3eb 100644
+--- a/Closure_80/src/com/google/javascript/jscomp/NodeUtil.java
++++ b/Closure_80/src/com/google/javascript/jscomp/NodeUtil.java
+@@ -1261,0 +1262 @@ public final class NodeUtil {
++      case Token.DELPROP:
+@@ -2909,0 +2911 @@ public final class NodeUtil {
++      case Token.DELPROP:

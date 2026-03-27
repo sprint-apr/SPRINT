@@ -1,0 +1,27 @@
+diff --git a/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java b/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java
+index 8484caa..43445e2 100644
+--- a/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java
++++ b/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java
+@@ -612 +612 @@ public abstract class BeanDeserializerBase
+-            _externalTypeIdHandler = extTypes.build();
++            _externalTypeIdHandler = extTypes.build(_beanProperties);
+diff --git a/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/impl/ExternalTypeHandler.java b/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/impl/ExternalTypeHandler.java
+index e273c3b..30fb56f 100644
+--- a/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/impl/ExternalTypeHandler.java
++++ b/JacksonDatabind_52/src/main/java/com/fasterxml/jackson/databind/deser/impl/ExternalTypeHandler.java
+@@ -309,0 +310 @@ public class ExternalTypeHandler
++        public ExternalTypeHandler build(BeanPropertyMap otherProps) {
+@@ -310,0 +312,13 @@ public class ExternalTypeHandler
++            final int len = _properties.size();
++            ExtTypedProperty[] extProps = new ExtTypedProperty[len];
++            for (int i = 0; i < len; ++i) {
++                ExtTypedProperty extProp = _properties.get(i);
++                String typePropId = extProp.getTypePropertyName();
++                SettableBeanProperty typeProp = otherProps.find(typePropId);
++                if (typeProp != null) {
++                    extProp.linkTypeProperty(typeProp);
++                }
++                extProps[i] = extProp;
++            }
++            return new ExternalTypeHandler(extProps, _nameToPropertyIndex, null, null);
++        }

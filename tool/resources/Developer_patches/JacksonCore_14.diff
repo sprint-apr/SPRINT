@@ -1,0 +1,13 @@
+diff --git a/JacksonCore_14/src/main/java/com/fasterxml/jackson/core/io/IOContext.java b/JacksonCore_14/src/main/java/com/fasterxml/jackson/core/io/IOContext.java
+index 94797ee..18f50c8 100644
+--- a/JacksonCore_14/src/main/java/com/fasterxml/jackson/core/io/IOContext.java
++++ b/JacksonCore_14/src/main/java/com/fasterxml/jackson/core/io/IOContext.java
+@@ -274 +274 @@ public class IOContext
+-        if ((toRelease != src) && (toRelease.length <= src.length)) { throw wrongBuf(); }
++        if ((toRelease != src) && (toRelease.length < src.length)) { throw wrongBuf(); }
+@@ -279 +279 @@ public class IOContext
+-        if ((toRelease != src) && (toRelease.length <= src.length)) { throw wrongBuf(); }
++        if ((toRelease != src) && (toRelease.length < src.length)) { throw wrongBuf(); }
+@@ -284 +284 @@ public class IOContext
+-return new IllegalArgumentException("Trying to release buffer not owned by the context"); 
++        return new IllegalArgumentException("Trying to release buffer smaller than original");

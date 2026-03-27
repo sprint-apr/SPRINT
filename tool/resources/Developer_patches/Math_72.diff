@@ -1,0 +1,10 @@
+diff --git a/Math_72/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java b/Math_72/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+index e0cb427..7fc090e 100644
+--- a/Math_72/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
++++ b/Math_72/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+@@ -115 +115 @@ public class BrentSolver extends UnivariateRealSolverImpl {
+-            setResult(yMin, 0);
++            setResult(min, 0);
+@@ -127 +127 @@ public class BrentSolver extends UnivariateRealSolverImpl {
+-            setResult(yMax, 0);
++            setResult(max, 0);

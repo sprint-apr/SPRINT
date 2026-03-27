@@ -1,0 +1,6 @@
+diff --git a/JacksonCore_11/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java b/JacksonCore_11/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
+index f19acc7..d9e6c4f 100644
+--- a/JacksonCore_11/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
++++ b/JacksonCore_11/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
+@@ -881,0 +882 @@ public final class ByteQuadsCanonicalizer
++            _verifyNeedForRehash();

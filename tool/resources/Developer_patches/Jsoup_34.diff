@@ -1,0 +1,7 @@
+diff --git a/Jsoup_34/src/main/java/org/jsoup/parser/CharacterReader.java b/Jsoup_34/src/main/java/org/jsoup/parser/CharacterReader.java
+index dc1b114..f8e0eb0 100644
+--- a/Jsoup_34/src/main/java/org/jsoup/parser/CharacterReader.java
++++ b/Jsoup_34/src/main/java/org/jsoup/parser/CharacterReader.java
+@@ -91 +91 @@ class CharacterReader {
+-            if (offset < length) {
++            if (offset < length && last <= length) {

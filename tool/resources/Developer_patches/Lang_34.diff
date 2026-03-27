@@ -1,0 +1,10 @@
+diff --git a/Lang_34/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java b/Lang_34/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java
+index aa1f448..26214ed 100644
+--- a/Lang_34/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java
++++ b/Lang_34/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java
+@@ -148 +148 @@ public abstract class ToStringStyle implements Serializable {
+-        return REGISTRY.get() != null ? REGISTRY.get() : Collections.<Object, Object>emptyMap();
++        return REGISTRY.get();
+@@ -164 +164 @@ public abstract class ToStringStyle implements Serializable {
+-        return m.containsKey(value);
++        return m != null && m.containsKey(value);

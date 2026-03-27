@@ -1,0 +1,22 @@
+diff --git a/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/DeserializationConfig.java b/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/DeserializationConfig.java
+index e01b7dd..58487eb 100644
+--- a/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/DeserializationConfig.java
++++ b/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/DeserializationConfig.java
+@@ -779,0 +780,6 @@ public final class DeserializationConfig
++        if (!isEnabled(MapperFeature.AUTO_DETECT_GETTERS)) {
++            vchecker = vchecker.withGetterVisibility(Visibility.NONE);
++        }
++        if (!isEnabled(MapperFeature.AUTO_DETECT_IS_GETTERS)) {
++            vchecker = vchecker.withIsGetterVisibility(Visibility.NONE);
++        }
+diff --git a/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/SerializationConfig.java b/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/SerializationConfig.java
+index da192ee..bf0c3f0 100644
+--- a/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/SerializationConfig.java
++++ b/JacksonDatabind_48/src/main/java/com/fasterxml/jackson/databind/SerializationConfig.java
+@@ -864,0 +865,6 @@ public final class SerializationConfig
++        if (!isEnabled(MapperFeature.AUTO_DETECT_SETTERS)) {
++            vchecker = vchecker.withSetterVisibility(Visibility.NONE);
++        }
++        if (!isEnabled(MapperFeature.AUTO_DETECT_CREATORS)) {
++            vchecker = vchecker.withCreatorVisibility(Visibility.NONE);
++        }

@@ -1,0 +1,15 @@
+diff --git a/Math_13/src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java b/Math_13/src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java
+index 99d86e9..982e559 100644
+--- a/Math_13/src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java
++++ b/Math_13/src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java
+@@ -561,0 +562,8 @@ public abstract class AbstractLeastSquaresOptimizer
++        if (m instanceof DiagonalMatrix) {
++            final int dim = m.getRowDimension();
++            final RealMatrix sqrtM = new DiagonalMatrix(dim);
++            for (int i = 0; i < dim; i++) {
++               sqrtM.setEntry(i, i, FastMath.sqrt(m.getEntry(i, i)));
++            }
++            return sqrtM;
++        } else {
+@@ -563,0 +572 @@ public abstract class AbstractLeastSquaresOptimizer
++        }

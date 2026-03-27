@@ -1,0 +1,19 @@
+diff --git a/Cli_39/src/main/java/org/apache/commons/cli/TypeHandler.java b/Cli_39/src/main/java/org/apache/commons/cli/TypeHandler.java
+index 93c0b73..68b4f02 100644
+--- a/Cli_39/src/main/java/org/apache/commons/cli/TypeHandler.java
++++ b/Cli_39/src/main/java/org/apache/commons/cli/TypeHandler.java
+@@ -92 +92 @@ public class TypeHandler
+-            return createFile(str);
++            return openFile(str);
+@@ -233,0 +234,11 @@ public class TypeHandler
++    public static FileInputStream openFile(String str) throws ParseException
++    {
++        try
++        {
++            return new FileInputStream(str);
++        }
++        catch (FileNotFoundException e)
++        {
++            throw new ParseException("Unable to find file: " + str);
++        }
++    }

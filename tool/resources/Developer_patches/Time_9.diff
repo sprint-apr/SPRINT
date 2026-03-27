@@ -1,0 +1,23 @@
+diff --git a/Time_9/src/main/java/org/joda/time/DateTimeZone.java b/Time_9/src/main/java/org/joda/time/DateTimeZone.java
+index 3ad5cfe..afa75d7 100644
+--- a/Time_9/src/main/java/org/joda/time/DateTimeZone.java
++++ b/Time_9/src/main/java/org/joda/time/DateTimeZone.java
+@@ -95,0 +96 @@ public abstract class DateTimeZone implements Serializable {
++    private static final int MAX_MILLIS = (86400 * 1000) - 1;
+@@ -256,0 +258,3 @@ public abstract class DateTimeZone implements Serializable {
++        if (hoursOffset < -23 || hoursOffset > 23) {
++            throw new IllegalArgumentException("Hours out of range: " + hoursOffset);
++        }
+@@ -262 +266 @@ public abstract class DateTimeZone implements Serializable {
+-            int hoursInMinutes = FieldUtils.safeMultiply(hoursOffset, 60);
++            int hoursInMinutes = hoursOffset * 60;
+@@ -264 +268 @@ public abstract class DateTimeZone implements Serializable {
+-                minutesOffset = FieldUtils.safeAdd(hoursInMinutes, -minutesOffset);
++                minutesOffset = hoursInMinutes - minutesOffset;
+@@ -266 +270 @@ public abstract class DateTimeZone implements Serializable {
+-                minutesOffset = FieldUtils.safeAdd(hoursInMinutes, minutesOffset);
++                minutesOffset = hoursInMinutes + minutesOffset;
+@@ -281,0 +286,3 @@ public abstract class DateTimeZone implements Serializable {
++        if (millisOffset < -MAX_MILLIS || millisOffset > MAX_MILLIS) {
++            throw new IllegalArgumentException("Millis out of range: " + millisOffset);
++        }

@@ -1,0 +1,18 @@
+diff --git a/Cli_36/src/main/java/org/apache/commons/cli/OptionGroup.java b/Cli_36/src/main/java/org/apache/commons/cli/OptionGroup.java
+index 322053f..dc6d5db 100644
+--- a/Cli_36/src/main/java/org/apache/commons/cli/OptionGroup.java
++++ b/Cli_36/src/main/java/org/apache/commons/cli/OptionGroup.java
+@@ -22 +21,0 @@ import java.util.Collection;
+-import java.util.HashMap;
+@@ -23,0 +23 @@ import java.util.Iterator;
++import java.util.LinkedHashMap;
+@@ -37 +37 @@ public class OptionGroup implements Serializable
+-    private final Map<String, Option> optionMap = new HashMap<String, Option>();
++    private final Map<String, Option> optionMap = new LinkedHashMap<String, Option>();
+diff --git a/Cli_36/src/main/java/org/apache/commons/cli/Options.java b/Cli_36/src/main/java/org/apache/commons/cli/Options.java
+index 721baaf..796fe5c 100644
+--- a/Cli_36/src/main/java/org/apache/commons/cli/Options.java
++++ b/Cli_36/src/main/java/org/apache/commons/cli/Options.java
+@@ -60 +60 @@ public class Options implements Serializable
+-    private final Map<String, OptionGroup> optionGroups = new java.util.HashMap<String, OptionGroup>();
++    private final Map<String, OptionGroup> optionGroups = new LinkedHashMap<String, OptionGroup>();

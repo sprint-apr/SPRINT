@@ -1,0 +1,7 @@
+diff --git a/Lang_57/src/java/org/apache/commons/lang/LocaleUtils.java b/Lang_57/src/java/org/apache/commons/lang/LocaleUtils.java
+index ceb886e..139d9a7 100644
+--- a/Lang_57/src/java/org/apache/commons/lang/LocaleUtils.java
++++ b/Lang_57/src/java/org/apache/commons/lang/LocaleUtils.java
+@@ -223 +223 @@ public class LocaleUtils {
+-        return cAvailableLocaleSet.contains(locale);
++        return availableLocaleList().contains(locale);

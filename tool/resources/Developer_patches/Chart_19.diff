@@ -1,0 +1,12 @@
+diff --git a/Chart_19/source/org/jfree/chart/plot/CategoryPlot.java b/Chart_19/source/org/jfree/chart/plot/CategoryPlot.java
+index cf3f52f..ec31907 100644
+--- a/Chart_19/source/org/jfree/chart/plot/CategoryPlot.java
++++ b/Chart_19/source/org/jfree/chart/plot/CategoryPlot.java
+@@ -697,0 +698,3 @@ public class CategoryPlot extends Plot implements ValueAxisPlot,
++        if (axis == null) {
++            throw new IllegalArgumentException("Null 'axis' argument.");
++        }
+@@ -972,0 +976,3 @@ public class CategoryPlot extends Plot implements ValueAxisPlot,
++        if (axis == null) {
++            throw new IllegalArgumentException("Null 'axis' argument.");
++        }

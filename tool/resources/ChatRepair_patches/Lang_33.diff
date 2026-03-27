@@ -1,0 +1,1 @@
+classes[i] = array[i] != null ? array[i].getClass() : null;

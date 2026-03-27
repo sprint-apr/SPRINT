@@ -1,0 +1,7 @@
+diff --git a/Time_19/src/main/java/org/joda/time/DateTimeZone.java b/Time_19/src/main/java/org/joda/time/DateTimeZone.java
+index 855cad0..ec05941 100644
+--- a/Time_19/src/main/java/org/joda/time/DateTimeZone.java
++++ b/Time_19/src/main/java/org/joda/time/DateTimeZone.java
+@@ -900 +900 @@ public abstract class DateTimeZone implements Serializable {
+-        } else if (offsetLocal > 0) {
++        } else if (offsetLocal >= 0) {

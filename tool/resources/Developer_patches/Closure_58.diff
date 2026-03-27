@@ -1,0 +1,10 @@
+diff --git a/Closure_58/src/com/google/javascript/jscomp/LiveVariablesAnalysis.java b/Closure_58/src/com/google/javascript/jscomp/LiveVariablesAnalysis.java
+index 7999db4..e107faa 100644
+--- a/Closure_58/src/com/google/javascript/jscomp/LiveVariablesAnalysis.java
++++ b/Closure_58/src/com/google/javascript/jscomp/LiveVariablesAnalysis.java
+@@ -205,0 +206 @@ class LiveVariablesAnalysis extends
++          if (NodeUtil.isName(lhs)) {
+@@ -207,0 +209,3 @@ class LiveVariablesAnalysis extends
++          } else {
++            computeGenKill(lhs, gen, kill, conditional);
++          }

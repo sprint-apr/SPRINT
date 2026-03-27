@@ -1,0 +1,14 @@
+diff --git a/Mockito_4/src/org/mockito/exceptions/Reporter.java b/Mockito_4/src/org/mockito/exceptions/Reporter.java
+index 9581a54..d57e33d 100644
+--- a/Mockito_4/src/org/mockito/exceptions/Reporter.java
++++ b/Mockito_4/src/org/mockito/exceptions/Reporter.java
+@@ -424 +424 @@ public class Reporter {
+-                "But found this interaction on mock '" + undesired.getMock() + "':",
++                "But found this interaction on mock '" + safelyGetMockName(undesired.getMock()) + "':",
+@@ -434 +434 @@ public class Reporter {
+-                "But found this interaction on mock '" + undesired.getMock() + "':",
++                "But found this interaction on mock '" + safelyGetMockName(undesired.getMock()) + "':",
+@@ -676,0 +677,3 @@ public class Reporter {
++        if (details.getCause() == null) {
++            return details.getMessage();
++        }

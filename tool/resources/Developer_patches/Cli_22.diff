@@ -1,0 +1,37 @@
+diff --git a/Cli_22/src/java/org/apache/commons/cli/PosixParser.java b/Cli_22/src/java/org/apache/commons/cli/PosixParser.java
+index 47ad0f7..ca8b6c6 100644
+--- a/Cli_22/src/java/org/apache/commons/cli/PosixParser.java
++++ b/Cli_22/src/java/org/apache/commons/cli/PosixParser.java
+@@ -40,0 +41 @@ public class PosixParser extends Parser
++    private Option currentOption;
+@@ -116 +117 @@ public class PosixParser extends Parser
+-                    processNonOptionToken(token);
++                    processNonOptionToken(token, stopAtNonOption);
+@@ -119,0 +121 @@ public class PosixParser extends Parser
++                    currentOption = options.getOption(opt);
+@@ -146,4 +147,0 @@ public class PosixParser extends Parser
+-            else if (stopAtNonOption)
+-            {
+-                processNonOptionToken(token);
+-            }
+@@ -152 +150 @@ public class PosixParser extends Parser
+-                tokens.add(token);
++                processNonOptionToken(token, stopAtNonOption);
+@@ -184 +182 @@ public class PosixParser extends Parser
+-    private void processNonOptionToken(String value)
++    private void processNonOptionToken(String value, boolean stopAtNonOption)
+@@ -185,0 +184,2 @@ public class PosixParser extends Parser
++        if (stopAtNonOption && (currentOption == null || !currentOption.hasArg()))
++        {
+@@ -187,0 +188 @@ public class PosixParser extends Parser
++        }
+@@ -210,0 +212,4 @@ public class PosixParser extends Parser
++        if (options.hasOption(token))
++        {
++            currentOption = options.getOption(token);
++        }
+@@ -243 +247,0 @@ public class PosixParser extends Parser
+-        Option currentOption;
+@@ -262 +266 @@ public class PosixParser extends Parser
+-                processNonOptionToken(token.substring(i));
++                processNonOptionToken(token.substring(i), true);

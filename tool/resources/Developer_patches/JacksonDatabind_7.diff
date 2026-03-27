@@ -1,0 +1,19 @@
+diff --git a/JacksonDatabind_7/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java b/JacksonDatabind_7/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
+index 21a6b28..58d3e08 100644
+--- a/JacksonDatabind_7/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
++++ b/JacksonDatabind_7/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
+@@ -404,0 +405 @@ public class TokenBuffer
++        if (jp.getCurrentTokenId() != JsonToken.FIELD_NAME.id()) {
+@@ -405,0 +407,2 @@ public class TokenBuffer
++            return this;
++        }
+@@ -409,0 +413,9 @@ public class TokenBuffer
++        JsonToken t;
++        writeStartObject();
++        do {
++            copyCurrentStructure(jp);
++        } while ((t = jp.nextToken()) == JsonToken.FIELD_NAME);
++        if (t != JsonToken.END_OBJECT) {
++            throw ctxt.mappingException("Expected END_OBJECT after copying contents of a JsonParser into TokenBuffer, got "+t);
++        }
++        writeEndObject();

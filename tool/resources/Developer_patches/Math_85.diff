@@ -1,0 +1,7 @@
+diff --git a/Math_85/src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java b/Math_85/src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+index bf3e4bf..e6398f6 100644
+--- a/Math_85/src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
++++ b/Math_85/src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+@@ -198 +198 @@ public class UnivariateRealSolverUtils {
+-        if (fa * fb >= 0.0 ) {
++        if (fa * fb > 0.0 ) {

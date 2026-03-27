@@ -1,0 +1,26 @@
+diff --git a/JacksonDatabind_21/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java b/JacksonDatabind_21/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java
+index 624c08d..ca3966a 100644
+--- a/JacksonDatabind_21/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java
++++ b/JacksonDatabind_21/src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java
+@@ -3,0 +4 @@ import java.lang.annotation.Annotation;
++import java.lang.reflect.Field;
+@@ -63,0 +65,3 @@ public class JacksonAnnotationIntrospector
++    @Override
++    public String findEnumValue(Enum<?> value)
++    {
+@@ -66,0 +71 @@ public class JacksonAnnotationIntrospector
++        try {
+@@ -67,0 +73,9 @@ public class JacksonAnnotationIntrospector
++            Field f = value.getClass().getField(value.name());
++            if (f != null) {
++                JsonProperty prop = f.getAnnotation(JsonProperty.class);
++                String n = prop.value();
++                if (n != null && !n.isEmpty()) {
++                    return n;
++                }
++            }
++        } catch (Exception e) {
+@@ -68,0 +83,3 @@ public class JacksonAnnotationIntrospector
++        }
++        return value.name();
++    }

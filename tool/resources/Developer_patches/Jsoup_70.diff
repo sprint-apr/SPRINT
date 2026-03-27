@@ -1,0 +1,13 @@
+diff --git a/Jsoup_70/src/main/java/org/jsoup/nodes/Element.java b/Jsoup_70/src/main/java/org/jsoup/nodes/Element.java
+index faca4c8..ba1470b 100644
+--- a/Jsoup_70/src/main/java/org/jsoup/nodes/Element.java
++++ b/Jsoup_70/src/main/java/org/jsoup/nodes/Element.java
+@@ -1090,0 +1091,2 @@ public class Element extends Node {
++            int i = 0;
++            do {
+@@ -1093,2 +1095,3 @@ public class Element extends Node {
+-                else
+-                    return el.parent() != null && el.parent().tag.preserveWhitespace();
++                el = el.parent();
++                i++;
++            } while (i < 6 && el != null);

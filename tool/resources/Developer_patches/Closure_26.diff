@@ -1,0 +1,12 @@
+diff --git a/Closure_26/src/com/google/javascript/jscomp/ProcessCommonJSModules.java b/Closure_26/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
+index 1744a58..fa01cd9 100644
+--- a/Closure_26/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
++++ b/Closure_26/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
+@@ -127,0 +128 @@ public class ProcessCommonJSModules implements CompilerPass {
++    private Set<String> modulesWithExports = Sets.newHashSet();
+@@ -206,0 +208,3 @@ public class ProcessCommonJSModules implements CompilerPass {
++      if (!modulesWithExports.contains(moduleName)) {
++        return;
++      }
+@@ -227,0 +232 @@ public class ProcessCommonJSModules implements CompilerPass {
++      modulesWithExports.add(moduleName);

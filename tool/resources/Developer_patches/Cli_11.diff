@@ -1,0 +1,7 @@
+diff --git a/Cli_11/src/java/org/apache/commons/cli/HelpFormatter.java b/Cli_11/src/java/org/apache/commons/cli/HelpFormatter.java
+index 183cae3..9a841fd 100644
+--- a/Cli_11/src/java/org/apache/commons/cli/HelpFormatter.java
++++ b/Cli_11/src/java/org/apache/commons/cli/HelpFormatter.java
+@@ -632 +632 @@ public class HelpFormatter {
+-        if (option.hasArg() && (option.getArgName() != null))
++        if (option.hasArg() && option.hasArgName())

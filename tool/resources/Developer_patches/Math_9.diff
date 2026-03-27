@@ -1,0 +1,8 @@
+diff --git a/Math_9/src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java b/Math_9/src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
+index 674c4aa..7c9a28f 100644
+--- a/Math_9/src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
++++ b/Math_9/src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
+@@ -87 +87,2 @@ public class Line implements Embedding<Euclidean3D, Euclidean1D> {
+-        final Line reverted = new Line(zero, zero.subtract(direction));
++        final Line reverted = new Line(this);
++        reverted.direction = reverted.direction.negate();

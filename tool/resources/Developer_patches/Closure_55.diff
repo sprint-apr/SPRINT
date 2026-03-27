@@ -1,0 +1,8 @@
+diff --git a/Closure_55/src/com/google/javascript/jscomp/FunctionRewriter.java b/Closure_55/src/com/google/javascript/jscomp/FunctionRewriter.java
+index dbf0006..9d8ebc3 100644
+--- a/Closure_55/src/com/google/javascript/jscomp/FunctionRewriter.java
++++ b/Closure_55/src/com/google/javascript/jscomp/FunctionRewriter.java
+@@ -117 +117,2 @@ class FunctionRewriter implements CompilerPass {
+-    return NodeUtil.isFunctionExpression(n);
++    return NodeUtil.isFunctionExpression(n)
++        && !NodeUtil.isGetOrSetKey(n.getParent());

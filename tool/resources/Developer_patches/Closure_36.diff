@@ -1,0 +1,8 @@
+diff --git a/Closure_36/src/com/google/javascript/jscomp/InlineVariables.java b/Closure_36/src/com/google/javascript/jscomp/InlineVariables.java
+index 0b4b3de..47b8e8a 100644
+--- a/Closure_36/src/com/google/javascript/jscomp/InlineVariables.java
++++ b/Closure_36/src/com/google/javascript/jscomp/InlineVariables.java
+@@ -574,0 +575,3 @@ class InlineVariables implements CompilerPass {
++          if (convention.getSingletonGetterClassName(callNode) != null) {
++            return false;
++          }

@@ -1,0 +1,7 @@
+diff --git a/Cli_28/src/java/org/apache/commons/cli/Parser.java b/Cli_28/src/java/org/apache/commons/cli/Parser.java
+index 6b39536..c106932 100644
+--- a/Cli_28/src/java/org/apache/commons/cli/Parser.java
++++ b/Cli_28/src/java/org/apache/commons/cli/Parser.java
+@@ -290 +290 @@ public abstract class Parser implements CommandLineParser
+-                    break;
++                    continue;

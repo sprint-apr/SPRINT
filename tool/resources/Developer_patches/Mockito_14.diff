@@ -1,0 +1,19 @@
+diff --git a/Mockito_14/src/org/mockito/internal/MockHandler.java b/Mockito_14/src/org/mockito/internal/MockHandler.java
+index bc18218..b6c1b78 100644
+--- a/Mockito_14/src/org/mockito/internal/MockHandler.java
++++ b/Mockito_14/src/org/mockito/internal/MockHandler.java
+@@ -19,0 +20 @@ import org.mockito.internal.stubbing.VoidMethodStubbableImpl;
++import org.mockito.internal.verification.MockAwareVerificationMode;
+@@ -75,0 +77 @@ public class MockHandler<T> implements MockitoInvocationHandler, MockHandlerInte
++            if (verificationMode instanceof MockAwareVerificationMode && ((MockAwareVerificationMode) verificationMode).getMock() == invocation.getMock()) {
+@@ -78,0 +81 @@ public class MockHandler<T> implements MockitoInvocationHandler, MockHandlerInte
++            }
+diff --git a/Mockito_14/src/org/mockito/internal/MockitoCore.java b/Mockito_14/src/org/mockito/internal/MockitoCore.java
+index fc99ea9..ae0d72b 100755
+--- a/Mockito_14/src/org/mockito/internal/MockitoCore.java
++++ b/Mockito_14/src/org/mockito/internal/MockitoCore.java
+@@ -22,0 +23 @@ import org.mockito.internal.util.MockUtil;
++import org.mockito.internal.verification.MockAwareVerificationMode;
+@@ -73 +74 @@ public class MockitoCore {
+-        mockingProgress.verificationStarted(mode);
++        mockingProgress.verificationStarted(new MockAwareVerificationMode(mock, mode));

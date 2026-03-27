@@ -1,0 +1,14 @@
+diff --git a/Math_22/src/main/java/org/apache/commons/math3/distribution/FDistribution.java b/Math_22/src/main/java/org/apache/commons/math3/distribution/FDistribution.java
+index 8b0993c..e301e2e 100644
+--- a/Math_22/src/main/java/org/apache/commons/math3/distribution/FDistribution.java
++++ b/Math_22/src/main/java/org/apache/commons/math3/distribution/FDistribution.java
+@@ -275 +275 @@ public class FDistribution extends AbstractRealDistribution {
+-        return true;
++        return false;
+diff --git a/Math_22/src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java b/Math_22/src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java
+index 5d32f6e..0d279de 100644
+--- a/Math_22/src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java
++++ b/Math_22/src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java
+@@ -184 +184 @@ public class UniformRealDistribution extends AbstractRealDistribution {
+-        return false;
++        return true;

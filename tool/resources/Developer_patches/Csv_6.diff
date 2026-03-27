@@ -1,0 +1,8 @@
+diff --git a/Csv_6/src/main/java/org/apache/commons/csv/CSVRecord.java b/Csv_6/src/main/java/org/apache/commons/csv/CSVRecord.java
+index 7380d9f..ae7762d 100644
+--- a/Csv_6/src/main/java/org/apache/commons/csv/CSVRecord.java
++++ b/Csv_6/src/main/java/org/apache/commons/csv/CSVRecord.java
+@@ -181,0 +182 @@ public final class CSVRecord implements Serializable, Iterable<String> {
++            if (col < values.length) {
+@@ -182,0 +184 @@ public final class CSVRecord implements Serializable, Iterable<String> {
++            }

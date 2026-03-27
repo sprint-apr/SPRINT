@@ -1,0 +1,8 @@
+diff --git a/Closure_102/src/com/google/javascript/jscomp/Normalize.java b/Closure_102/src/com/google/javascript/jscomp/Normalize.java
+index 4aa4555..1db94e2 100644
+--- a/Closure_102/src/com/google/javascript/jscomp/Normalize.java
++++ b/Closure_102/src/com/google/javascript/jscomp/Normalize.java
+@@ -88,0 +89 @@ class Normalize implements CompilerPass, Callback {
++    removeDuplicateDeclarations(root);
+@@ -94 +94,0 @@ class Normalize implements CompilerPass, Callback {
+-    removeDuplicateDeclarations(root);

@@ -1,0 +1,1 @@
+dictSize |= ((long) (coder.properties[i + 1] & 0xFF) << (8 * i));

@@ -1,0 +1,9 @@
+diff --git a/Jsoup_89/src/main/java/org/jsoup/nodes/Attribute.java b/Jsoup_89/src/main/java/org/jsoup/nodes/Attribute.java
+index 4ff695d..8a51d10 100644
+--- a/Jsoup_89/src/main/java/org/jsoup/nodes/Attribute.java
++++ b/Jsoup_89/src/main/java/org/jsoup/nodes/Attribute.java
+@@ -88 +88 @@ public class Attribute implements Map.Entry<String, String>, Cloneable  {
+-        String oldVal = parent.get(this.key);
++        String oldVal = this.val;
+@@ -89,0 +90 @@ public class Attribute implements Map.Entry<String, String>, Cloneable  {
++            oldVal = parent.get(this.key); // trust the container more

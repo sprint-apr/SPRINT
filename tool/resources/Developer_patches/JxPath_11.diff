@@ -1,0 +1,32 @@
+diff --git a/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/dom/DOMAttributeIterator.java b/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/dom/DOMAttributeIterator.java
+index f4c2ac6..f9785f6 100644
+--- a/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/dom/DOMAttributeIterator.java
++++ b/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/dom/DOMAttributeIterator.java
+@@ -21,0 +22 @@ import java.util.List;
++import org.apache.commons.jxpath.ri.NamespaceResolver;
+@@ -111 +112,3 @@ public class DOMAttributeIterator implements NodeIterator {
+-            testNS = parent.getNamespaceURI(testPrefix);
++            NamespaceResolver nsr = parent.getNamespaceResolver();
++            testNS = nsr == null ? null : nsr.getNamespaceURI(testPrefix);
++            testNS = testNS == null ? parent.getNamespaceURI(testPrefix) : testNS;
+diff --git a/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMAttributeIterator.java b/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMAttributeIterator.java
+index cfa6da3..84c0afd 100644
+--- a/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMAttributeIterator.java
++++ b/JxPath_11/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMAttributeIterator.java
+@@ -22,0 +23 @@ import java.util.List;
++import org.apache.commons.jxpath.ri.NamespaceResolver;
+@@ -51,0 +53,8 @@ public class JDOMAttributeIterator implements NodeIterator {
++                    NamespaceResolver nsr = parent.getNamespaceResolver();
++                    if (nsr != null) {
++                        String uri = nsr.getNamespaceURI(prefix);
++                        if (uri != null) {
++                            ns = Namespace.getNamespace(prefix, uri);
++                        }
++                    }
++                    if (ns == null) {
+@@ -57,0 +67 @@ public class JDOMAttributeIterator implements NodeIterator {
++                    }
+@@ -114 +124 @@ public class JDOMAttributeIterator implements NodeIterator {
+-}
++}
+\ No newline at end of file

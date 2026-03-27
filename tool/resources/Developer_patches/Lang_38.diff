@@ -1,0 +1,6 @@
+diff --git a/Lang_38/src/java/org/apache/commons/lang3/time/FastDateFormat.java b/Lang_38/src/java/org/apache/commons/lang3/time/FastDateFormat.java
+index 6b10a94..d60af96 100644
+--- a/Lang_38/src/java/org/apache/commons/lang3/time/FastDateFormat.java
++++ b/Lang_38/src/java/org/apache/commons/lang3/time/FastDateFormat.java
+@@ -871,0 +872 @@ public class FastDateFormat extends Format {
++            calendar.getTime(); /// LANG-538

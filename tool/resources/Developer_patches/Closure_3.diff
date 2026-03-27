@@ -1,0 +1,17 @@
+diff --git a/Closure_3/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java b/Closure_3/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+index a77221a..c46ee7d 100644
+--- a/Closure_3/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
++++ b/Closure_3/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+@@ -155 +155 @@ class FlowSensitiveInlineVariables extends AbstractPostOrderCallback
+-      if (c.canInline()) {
++      if (c.canInline(t.getScope())) {
+@@ -280 +280 @@ class FlowSensitiveInlineVariables extends AbstractPostOrderCallback
+-    private boolean canInline() {
++    private boolean canInline(final Scope scope) {
+@@ -374,0 +375,6 @@ class FlowSensitiveInlineVariables extends AbstractPostOrderCallback
++                  case Token.NAME:
++                    Var var = scope.getOwnSlot(input.getString());
++                    if (var != null
++                        && var.getParentNode().isCatch()) {
++                      return true;
++                    }

@@ -1,0 +1,17 @@
+diff --git a/Closure_112/src/com/google/javascript/jscomp/TypeInference.java b/Closure_112/src/com/google/javascript/jscomp/TypeInference.java
+index 4c24e2f..4b30d57 100644
+--- a/Closure_112/src/com/google/javascript/jscomp/TypeInference.java
++++ b/Closure_112/src/com/google/javascript/jscomp/TypeInference.java
+@@ -1192,3 +1192,9 @@ class TypeInference
+-    Map<TemplateType, JSType> inferred = 
+-        inferTemplateTypesFromParameters(fnType, n);
+-
++    Map<TemplateType, JSType> inferred = Maps.filterKeys(
++        inferTemplateTypesFromParameters(fnType, n),
++        new Predicate<TemplateType>() {
++
++          @Override
++          public boolean apply(TemplateType key) {
++            return keys.contains(key);
++          }}
++        );

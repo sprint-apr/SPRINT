@@ -1,0 +1,17 @@
+diff --git a/Time_20/src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java b/Time_20/src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java
+index 558a586..ebb4b08 100644
+--- a/Time_20/src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java
++++ b/Time_20/src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java
+@@ -2541,0 +2542 @@ public class DateTimeFormatterBuilder {
++            String best = null;
+@@ -2544,2 +2545,3 @@ public class DateTimeFormatterBuilder {
+-                    bucket.setZone(DateTimeZone.forID(id));
+-                    return position + id.length();
++                	if (best == null || id.length() > best.length()) {
++                		best = id;
++                	}
+@@ -2547,0 +2550,4 @@ public class DateTimeFormatterBuilder {
++            if (best != null) {
++                bucket.setZone(DateTimeZone.forID(best));
++                return position + best.length();
++            }

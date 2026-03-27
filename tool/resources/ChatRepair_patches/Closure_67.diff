@@ -1,0 +1,1 @@
+&& assign.getType() == Token.ASSIGN && assign.getParent().getType() == Token.EXPR_RESULT) {

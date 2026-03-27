@@ -1,0 +1,13 @@
+diff --git a/Lang_7/src/main/java/org/apache/commons/lang3/math/NumberUtils.java b/Lang_7/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+index d49da7f..064f547 100644
+--- a/Lang_7/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
++++ b/Lang_7/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+@@ -452,3 +451,0 @@ public class NumberUtils {
+-        if (str.startsWith("--")) {
+-            return null;
+-        }
+@@ -720,0 +718 @@ public class NumberUtils {
++        if (str.trim().startsWith("--")) {
+@@ -724,0 +723,2 @@ public class NumberUtils {
++            throw new NumberFormatException(str + " is not a valid number.");
++        }

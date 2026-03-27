@@ -1,0 +1,26 @@
+diff --git a/Lang_50/src/java/org/apache/commons/lang/time/FastDateFormat.java b/Lang_50/src/java/org/apache/commons/lang/time/FastDateFormat.java
+index 8a26f28..d1caaa8 100644
+--- a/Lang_50/src/java/org/apache/commons/lang/time/FastDateFormat.java
++++ b/Lang_50/src/java/org/apache/commons/lang/time/FastDateFormat.java
+@@ -285,2 +285,2 @@ public class FastDateFormat extends Format {
+-        if (locale != null) {
+-            key = new Pair(key, locale);
++        if (locale == null) {
++            locale = Locale.getDefault();
+@@ -288,0 +289 @@ public class FastDateFormat extends Format {
++        key = new Pair(key, locale);
+@@ -292,3 +292,0 @@ public class FastDateFormat extends Format {
+-            if (locale == null) {
+-                locale = Locale.getDefault();
+-            }
+@@ -465,2 +463,2 @@ public class FastDateFormat extends Format {
+-        if (locale != null) {
+-            key = new Pair(key, locale);
++        if (locale == null) {
++            locale = Locale.getDefault();
+@@ -467,0 +466 @@ public class FastDateFormat extends Format {
++        key = new Pair(key, locale);
+@@ -471,3 +469,0 @@ public class FastDateFormat extends Format {
+-            if (locale == null) {
+-                locale = Locale.getDefault();
+-            }

@@ -1,0 +1,11 @@
+diff --git a/Cli_19/src/java/org/apache/commons/cli/PosixParser.java b/Cli_19/src/java/org/apache/commons/cli/PosixParser.java
+index 08a9280..fe01ceb 100644
+--- a/Cli_19/src/java/org/apache/commons/cli/PosixParser.java
++++ b/Cli_19/src/java/org/apache/commons/cli/PosixParser.java
+@@ -232 +231,0 @@ public class PosixParser extends Parser {
+-            tokens.add(token);
+@@ -237 +235,0 @@ public class PosixParser extends Parser {
+-            tokens.add(token);
+@@ -238,0 +237,2 @@ public class PosixParser extends Parser {
++
++        tokens.add(token);

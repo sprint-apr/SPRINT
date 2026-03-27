@@ -1,0 +1,38 @@
+diff --git a/Cli_16/src/java/org/apache/commons/cli2/Option.java b/Cli_16/src/java/org/apache/commons/cli2/Option.java
+index 2b53098..0102573 100644
+--- a/Cli_16/src/java/org/apache/commons/cli2/Option.java
++++ b/Cli_16/src/java/org/apache/commons/cli2/Option.java
+@@ -205,0 +206 @@ public interface Option {
++    Option getParent();
+@@ -215,0 +217 @@ public interface Option {
++    void setParent(Option parent);
+diff --git a/Cli_16/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java b/Cli_16/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+index 337eeb6..ec97eab 100644
+--- a/Cli_16/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
++++ b/Cli_16/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+@@ -73,0 +74,5 @@ public class WriteableCommandLineImpl
++        Option parent = option.getParent();
++        while (parent != null && !options.contains(parent)) {
++            options.add(parent);
++            parent = parent.getParent();
++        }
+diff --git a/Cli_16/src/java/org/apache/commons/cli2/option/GroupImpl.java b/Cli_16/src/java/org/apache/commons/cli2/option/GroupImpl.java
+index e3b69f8..38fc6c2 100644
+--- a/Cli_16/src/java/org/apache/commons/cli2/option/GroupImpl.java
++++ b/Cli_16/src/java/org/apache/commons/cli2/option/GroupImpl.java
+@@ -91,0 +92 @@ public class GroupImpl
++            option.setParent(this);
+diff --git a/Cli_16/src/java/org/apache/commons/cli2/option/OptionImpl.java b/Cli_16/src/java/org/apache/commons/cli2/option/OptionImpl.java
+index f75d470..f74313d 100644
+--- a/Cli_16/src/java/org/apache/commons/cli2/option/OptionImpl.java
++++ b/Cli_16/src/java/org/apache/commons/cli2/option/OptionImpl.java
+@@ -35,0 +36 @@ public abstract class OptionImpl implements Option {
++    private Option parent;
+@@ -127,0 +129,3 @@ public abstract class OptionImpl implements Option {
++    public Option getParent() {
++        return parent;
++    }
+@@ -128,0 +133,3 @@ public abstract class OptionImpl implements Option {
++    public void setParent(Option parent) {
++        this.parent = parent;
++    }

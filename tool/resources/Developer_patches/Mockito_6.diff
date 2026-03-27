@@ -1,0 +1,64 @@
+diff --git a/Mockito_6/src/org/mockito/Matchers.java b/Mockito_6/src/org/mockito/Matchers.java
+index 04f40e5..d6893af 100644
+--- a/Mockito_6/src/org/mockito/Matchers.java
++++ b/Mockito_6/src/org/mockito/Matchers.java
+@@ -122 +122 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnFalse();
++        return reportMatcher(new InstanceOf(Boolean.class)).returnFalse();
+@@ -137 +137 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnZero();
++        return reportMatcher(new InstanceOf(Byte.class)).returnZero();
+@@ -152 +152 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnChar();
++        return reportMatcher(new InstanceOf(Character.class)).returnChar();
+@@ -167 +167 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnZero();
++        return reportMatcher(new InstanceOf(Integer.class)).returnZero();
+@@ -182 +182 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnZero();
++        return reportMatcher(new InstanceOf(Long.class)).returnZero();
+@@ -197 +197 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnZero();
++        return reportMatcher(new InstanceOf(Float.class)).returnZero();
+@@ -212 +212 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnZero();
++        return reportMatcher(new InstanceOf(Double.class)).returnZero();
+@@ -227 +227 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnZero();
++        return reportMatcher(new InstanceOf(Short.class)).returnZero();
+@@ -244 +244 @@ public class Matchers {
+-        return (T) reportMatcher(Any.ANY).returnNull();
++        return (T) reportMatcher(new InstanceOf(Object.class)).returnNull();
+@@ -292 +292 @@ public class Matchers {
+-        return (T) reportMatcher(Any.ANY).returnFor(clazz);
++        return (T) reportMatcher(new InstanceOf(clazz)).returnFor(clazz);
+@@ -309 +309 @@ public class Matchers {
+-        return (T) anyObject();
++        return (T) reportMatcher(Any.ANY).returnNull();
+@@ -324 +324 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnString();
++        return reportMatcher(new InstanceOf(String.class)).returnString();
+@@ -339 +339 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnList();
++        return reportMatcher(new InstanceOf(List.class)).returnList();
+@@ -358 +358 @@ public class Matchers {
+-        return (List) reportMatcher(Any.ANY).returnList();
++        return anyList();
+@@ -373 +373 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnSet();
++        return reportMatcher(new InstanceOf(Set.class)).returnSet();
+@@ -392 +392 @@ public class Matchers {
+-        return (Set) reportMatcher(Any.ANY).returnSet();
++        return anySet();
+@@ -407 +407 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnMap();
++        return reportMatcher(new InstanceOf(Map.class)).returnMap();
+@@ -427 +427 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnMap();
++        return anyMap();
+@@ -442 +442 @@ public class Matchers {
+-        return reportMatcher(Any.ANY).returnList();
++        return reportMatcher(new InstanceOf(Collection.class)).returnList();
+@@ -461 +461 @@ public class Matchers {
+-        return (Collection) reportMatcher(Any.ANY).returnList();
++        return anyCollection();

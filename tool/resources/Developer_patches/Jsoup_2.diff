@@ -1,0 +1,6 @@
+diff --git a/Jsoup_2/src/main/java/org/jsoup/parser/Parser.java b/Jsoup_2/src/main/java/org/jsoup/parser/Parser.java
+index da4bdce..e7284d5 100644
+--- a/Jsoup_2/src/main/java/org/jsoup/parser/Parser.java
++++ b/Jsoup_2/src/main/java/org/jsoup/parser/Parser.java
+@@ -147,0 +148 @@ public class Parser {
++            popStackToClose(tag);

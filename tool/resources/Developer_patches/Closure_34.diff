@@ -1,0 +1,19 @@
+diff --git a/Closure_34/src/com/google/javascript/jscomp/CodeGenerator.java b/Closure_34/src/com/google/javascript/jscomp/CodeGenerator.java
+index f28378c..d50320a 100644
+--- a/Closure_34/src/com/google/javascript/jscomp/CodeGenerator.java
++++ b/Closure_34/src/com/google/javascript/jscomp/CodeGenerator.java
+@@ -122,3 +122 @@ class CodeGenerator {
+-        addExpr(first, p, context);
+-        cc.addOp(opstr, true);
+-        addExpr(last, p + 1, rhsContext);
++        unrollBinaryOperator(n, type, opstr, context, rhsContext, p, p + 1);
+@@ -754 +752 @@ class CodeGenerator {
+-      cc.listSeparator();
++      cc.addOp(opStr, true);
+diff --git a/Closure_34/src/com/google/javascript/jscomp/CodePrinter.java b/Closure_34/src/com/google/javascript/jscomp/CodePrinter.java
+index 52dfa9b..31c62d9 100644
+--- a/Closure_34/src/com/google/javascript/jscomp/CodePrinter.java
++++ b/Closure_34/src/com/google/javascript/jscomp/CodePrinter.java
+@@ -334 +334 @@ class CodePrinter {
+-        if (getLastChar() != ' ') {
++        if (getLastChar() != ' ' && op.charAt(0) != ',') {

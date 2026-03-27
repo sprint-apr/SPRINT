@@ -1,0 +1,21 @@
+diff --git a/Math_77/src/main/java/org/apache/commons/math/linear/ArrayRealVector.java b/Math_77/src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
+index 37c4417..22d0a28 100644
+--- a/Math_77/src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
++++ b/Math_77/src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
+@@ -721 +721 @@ public class ArrayRealVector extends AbstractRealVector implements Serializable
+-            max += Math.max(max, Math.abs(a));
++            max = Math.max(max, Math.abs(a));
+diff --git a/Math_77/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java b/Math_77/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+index e025960..eb5be1b 100644
+--- a/Math_77/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
++++ b/Math_77/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+@@ -498,9 +497,0 @@ public class OpenMapRealVector extends AbstractRealVector implements SparseRealV
+-    public double getLInfNorm() {
+-        double max = 0;
+-        Iterator iter = entries.iterator();
+-        while (iter.hasNext()) {
+-            iter.advance();
+-            max += iter.value();
+-        }
+-        return max;
+-    }

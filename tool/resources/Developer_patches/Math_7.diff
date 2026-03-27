@@ -1,0 +1,25 @@
+diff --git a/Math_7/src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java b/Math_7/src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
+index f24f87c..6e0237f 100644
+--- a/Math_7/src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
++++ b/Math_7/src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
+@@ -346,2 +346,4 @@ public abstract class AbstractIntegrator implements FirstOrderIntegrator {
+-                currentEvent.stepAccepted(eventT, eventY);
+-                isLastStep = currentEvent.stop();
++                for (final EventState state : eventsStates) {
++                    state.stepAccepted(eventT, eventY);
++                    isLastStep = isLastStep || state.stop();
++                }
+@@ -357,3 +358,0 @@ public abstract class AbstractIntegrator implements FirstOrderIntegrator {
+-                    for (final EventState remaining : occuringEvents) {
+-                        remaining.stepAccepted(eventT, eventY);
+-                    }
+@@ -363 +362,4 @@ public abstract class AbstractIntegrator implements FirstOrderIntegrator {
+-                boolean needReset = currentEvent.reset(eventT, eventY);
++                boolean needReset = false;
++                for (final EventState state : eventsStates) {
++                    needReset =  needReset || state.reset(eventT, eventY);
++                }
+@@ -370,3 +371,0 @@ public abstract class AbstractIntegrator implements FirstOrderIntegrator {
+-                    for (final EventState remaining : occuringEvents) {
+-                        remaining.stepAccepted(eventT, eventY);
+-                    }

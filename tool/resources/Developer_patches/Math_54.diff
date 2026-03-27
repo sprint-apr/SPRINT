@@ -1,0 +1,14 @@
+diff --git a/Math_54/src/main/java/org/apache/commons/math/dfp/Dfp.java b/Math_54/src/main/java/org/apache/commons/math/dfp/Dfp.java
+index 73f1ea3..54aabc4 100644
+--- a/Math_54/src/main/java/org/apache/commons/math/dfp/Dfp.java
++++ b/Math_54/src/main/java/org/apache/commons/math/dfp/Dfp.java
+@@ -272,0 +273,3 @@ public class Dfp implements FieldElement<Dfp> {
++                if ((bits & 0x8000000000000000L) != 0) {
++                    sign = -1;
++                }
+@@ -2319 +2322,4 @@ public class Dfp implements FieldElement<Dfp> {
+-        if (lessThan(getZero())) {
++        int cmp0 = compare(this, getZero());
++        if (cmp0 == 0) {
++            return sign < 0 ? -0.0 : +0.0;
++        } else if (cmp0 < 0) {

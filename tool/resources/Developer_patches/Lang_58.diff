@@ -1,0 +1,8 @@
+diff --git a/Lang_58/src/java/org/apache/commons/lang/math/NumberUtils.java b/Lang_58/src/java/org/apache/commons/lang/math/NumberUtils.java
+index c0f06a4..eb74e72 100644
+--- a/Lang_58/src/java/org/apache/commons/lang/math/NumberUtils.java
++++ b/Lang_58/src/java/org/apache/commons/lang/math/NumberUtils.java
+@@ -454,2 +454 @@ public class NumberUtils {
+-                        && isDigits(numeric.substring(1))
+-                        && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {
++                        && (numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric))) {

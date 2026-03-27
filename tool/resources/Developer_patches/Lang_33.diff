@@ -1,0 +1,7 @@
+diff --git a/Lang_33/src/main/java/org/apache/commons/lang3/ClassUtils.java b/Lang_33/src/main/java/org/apache/commons/lang3/ClassUtils.java
+index 615e4a9..3998966 100644
+--- a/Lang_33/src/main/java/org/apache/commons/lang3/ClassUtils.java
++++ b/Lang_33/src/main/java/org/apache/commons/lang3/ClassUtils.java
+@@ -910 +910 @@ public class ClassUtils {
+-            classes[i] = array[i].getClass();
++            classes[i] = array[i] == null ? null : array[i].getClass();

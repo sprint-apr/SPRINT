@@ -1,0 +1,1 @@
+throw new ParseException("Cannot create " + clazz.getSimpleName() + " from string value");

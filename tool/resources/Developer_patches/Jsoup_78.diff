@@ -1,0 +1,13 @@
+diff --git a/Jsoup_78/src/main/java/org/jsoup/helper/DataUtil.java b/Jsoup_78/src/main/java/org/jsoup/helper/DataUtil.java
+index 82c17c9..3037d61 100644
+--- a/Jsoup_78/src/main/java/org/jsoup/helper/DataUtil.java
++++ b/Jsoup_78/src/main/java/org/jsoup/helper/DataUtil.java
+@@ -2,0 +3 @@ package org.jsoup.helper;
++import org.jsoup.UncheckedIOException;
+@@ -150,0 +152 @@ public final class DataUtil {
++            try {
+@@ -151,0 +154 @@ public final class DataUtil {
++            } catch (UncheckedIOException e) {
+@@ -152,0 +156,2 @@ public final class DataUtil {
++                throw e.ioException();
++            }

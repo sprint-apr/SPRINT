@@ -1,0 +1,1 @@
+ret = real == rhs.getReal() && imaginary == rhs.getImaginary();

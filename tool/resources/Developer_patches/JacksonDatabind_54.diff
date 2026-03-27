@@ -1,0 +1,10 @@
+diff --git a/JacksonDatabind_54/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java b/JacksonDatabind_54/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
+index 9419871..2486332 100644
+--- a/JacksonDatabind_54/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
++++ b/JacksonDatabind_54/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
+@@ -134 +134 @@ public class PropertyBuilder
+-            if (declaredType.isReferenceType()) {
++            if (actualType.isReferenceType()) {
+@@ -150 +150 @@ public class PropertyBuilder
+-            if (declaredType.isContainerType()
++            if (actualType.isContainerType()

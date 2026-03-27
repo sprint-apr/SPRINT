@@ -1,0 +1,7 @@
+diff --git a/Chart_12/source/org/jfree/chart/plot/MultiplePiePlot.java b/Chart_12/source/org/jfree/chart/plot/MultiplePiePlot.java
+index fedc205..5fe04cb 100644
+--- a/Chart_12/source/org/jfree/chart/plot/MultiplePiePlot.java
++++ b/Chart_12/source/org/jfree/chart/plot/MultiplePiePlot.java
+@@ -145 +145 @@ public class MultiplePiePlot extends Plot implements Cloneable, Serializable {
+-        this.dataset = dataset;
++        setDataset(dataset);

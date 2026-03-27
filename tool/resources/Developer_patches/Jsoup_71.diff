@@ -1,0 +1,37 @@
+diff --git a/Jsoup_71/src/main/java/org/jsoup/select/Evaluator.java b/Jsoup_71/src/main/java/org/jsoup/select/Evaluator.java
+index 87b1d48..735606f 100644
+--- a/Jsoup_71/src/main/java/org/jsoup/select/Evaluator.java
++++ b/Jsoup_71/src/main/java/org/jsoup/select/Evaluator.java
+@@ -8,0 +9,2 @@ import org.jsoup.nodes.Node;
++import org.jsoup.nodes.PseudoTextElement;
++import org.jsoup.nodes.TextNode;
+@@ -753,0 +756 @@ public abstract class Evaluator {
++    public static final class MatchText extends Evaluator {
+@@ -754,0 +758,14 @@ public abstract class Evaluator {
++        @Override
++        public boolean matches(Element root, Element element) {
++            if (element instanceof PseudoTextElement)
++                return true;
++
++            List<TextNode> textNodes = element.textNodes();
++            for (TextNode textNode : textNodes) {
++                PseudoTextElement pel = new PseudoTextElement(
++                    org.jsoup.parser.Tag.valueOf(element.tagName()), element.baseUri(), element.attributes());
++                textNode.replaceWith(pel);
++                pel.appendChild(textNode);
++            }
++            return false;
++        }
+@@ -755,0 +773,5 @@ public abstract class Evaluator {
++        @Override
++        public String toString() {
++            return ":matchText";
++        }
++    }
+diff --git a/Jsoup_71/src/main/java/org/jsoup/select/QueryParser.java b/Jsoup_71/src/main/java/org/jsoup/select/QueryParser.java
+index e00f46e..99e5147 100644
+--- a/Jsoup_71/src/main/java/org/jsoup/select/QueryParser.java
++++ b/Jsoup_71/src/main/java/org/jsoup/select/QueryParser.java
+@@ -202,0 +203,2 @@ public class QueryParser {
++        else if (tq.matchChomp(":matchText"))
++            evals.add(new Evaluator.MatchText());

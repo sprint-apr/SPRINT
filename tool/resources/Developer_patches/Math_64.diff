@@ -1,0 +1,47 @@
+diff --git a/Math_64/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java b/Math_64/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
+index 5091493..b41456e 100644
+--- a/Math_64/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
++++ b/Math_64/src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
+@@ -257,0 +258,2 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++        double[] oldObj  = new double[rows];
++        double[] qtf     = new double[rows];
+@@ -269,0 +272,3 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++            for (int i=0;i<rows;i++) {
++                qtf[i]=residuals[i];
++            }
+@@ -278 +283 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
+-            qTy(residuals);
++            qTy(qtf);
+@@ -316 +321 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
+-                            sum += jacobian[i][pj] * residuals[i];
++                            sum += jacobian[i][pj] * qtf[i];
+@@ -323,0 +329,2 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++            	updateResidualsAndCost();
++            	current = new VectorialPointValuePair(point, objective);
+@@ -343,0 +351,3 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                tmpVec    = objective;
++                objective = oldObj;
++                oldObj    = tmpVec;
+@@ -346 +356 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
+-                determineLMParameter(oldRes, delta, diag, work1, work2, work3);
++                determineLMParameter(qtf, delta, diag, work1, work2, work3);
+@@ -365 +374,0 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
+-                current = new VectorialPointValuePair(point, objective);
+@@ -420,0 +430 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                    current = new VectorialPointValuePair(point, objective);
+@@ -422,0 +433 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                    if (checker != null) {
+@@ -423,0 +435,4 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                    	if (checker.converged(getIterations(), previous, current)) {
++                    		return current;
++                    	}
++                    }
+@@ -433,0 +449,3 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
++                    tmpVec    = objective;
++                    objective = oldObj;
++                    oldObj    = tmpVec;
+@@ -442,4 +459,0 @@ public class LevenbergMarquardtOptimizer extends AbstractLeastSquaresOptimizer {
+-                } else {
+-                    if (checker.converged(getIterations(), previous, current)) {
+-                        return current;
+-                    }

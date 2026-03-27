@@ -1,0 +1,12 @@
+diff --git a/Lang_47/src/java/org/apache/commons/lang/text/StrBuilder.java b/Lang_47/src/java/org/apache/commons/lang/text/StrBuilder.java
+index 13281ce..fd135fd 100644
+--- a/Lang_47/src/java/org/apache/commons/lang/text/StrBuilder.java
++++ b/Lang_47/src/java/org/apache/commons/lang/text/StrBuilder.java
+@@ -1185,0 +1186,3 @@ public class StrBuilder implements Cloneable {
++            if (str == null) {
++                str = "";
++            }
+@@ -1229,0 +1233,3 @@ public class StrBuilder implements Cloneable {
++            if (str == null) {
++                str = "";
++            }

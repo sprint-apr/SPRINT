@@ -1,0 +1,15 @@
+diff --git a/JacksonDatabind_40/src/main/java/com/fasterxml/jackson/databind/deser/std/NumberDeserializers.java b/JacksonDatabind_40/src/main/java/com/fasterxml/jackson/databind/deser/std/NumberDeserializers.java
+index 10954f5..b8ade5b 100644
+--- a/JacksonDatabind_40/src/main/java/com/fasterxml/jackson/databind/deser/std/NumberDeserializers.java
++++ b/JacksonDatabind_40/src/main/java/com/fasterxml/jackson/databind/deser/std/NumberDeserializers.java
+@@ -147,0 +148,2 @@ public class NumberDeserializers
++        @Override
++        public T getEmptyValue(DeserializationContext ctxt) throws JsonMappingException {
+@@ -149,0 +152,7 @@ public class NumberDeserializers
++            if (_primitive && ctxt.isEnabled(DeserializationFeature.FAIL_ON_NULL_FOR_PRIMITIVES)) {
++                throw ctxt.mappingException(
++                        "Can not map Empty String as null into type %s (set DeserializationConfig.DeserializationFeature.FAIL_ON_NULL_FOR_PRIMITIVES to 'false' to allow)",
++                        handledType().toString());
++            }
++            return _nullValue;
++        }

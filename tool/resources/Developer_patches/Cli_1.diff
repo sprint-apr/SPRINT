@@ -1,0 +1,82 @@
+diff --git a/Cli_1/src/java/org/apache/commons/cli/CommandLine.java b/Cli_1/src/java/org/apache/commons/cli/CommandLine.java
+index af1118d..3c82942 100644
+--- a/Cli_1/src/java/org/apache/commons/cli/CommandLine.java
++++ b/Cli_1/src/java/org/apache/commons/cli/CommandLine.java
+@@ -19 +18,0 @@ import java.util.Collection;
+-import java.util.HashMap;
+@@ -23 +22,2 @@ import java.util.List;
+-import java.util.Map;
++import java.util.Set;
++import java.util.HashSet;
+@@ -46,2 +46 @@ public class CommandLine {
+-    private Map options = new HashMap();
+-    private Map names = new HashMap();
++    private Set options = new HashSet();
+@@ -51 +49,0 @@ public class CommandLine {
+-    private Map hashcodeMap = new HashMap();
+@@ -69 +67 @@ public class CommandLine {
+-        return options.containsKey(opt);
++        return options.contains( resolveOption(opt));
+@@ -93 +91,2 @@ public class CommandLine {
+-        if (!options.containsKey(opt))
++        Option option = resolveOption(opt);
++        if (option == null)
+@@ -98 +97 @@ public class CommandLine {
+-        Object type = ((Option) options.get(opt)).getType();
++        Object type = option.getType();
+@@ -149 +148 @@ public class CommandLine {
+-        opt = Util.stripLeadingHyphens(opt);
++        Option key = resolveOption( opt );
+@@ -151,6 +150 @@ public class CommandLine {
+-        String key = opt;
+-        if (names.containsKey(opt))
+-        {
+-            key = (String) names.get(opt);
+-        }
+-        if (options.containsKey(key))
++        if (options.contains(key))
+@@ -158 +152 @@ public class CommandLine {
+-            return ((Option) options.get(key)).getValues();
++            return key.getValues();
+@@ -168,0 +163,14 @@ public class CommandLine {
++    private Option resolveOption( String opt )
++    {
++        opt = Util.stripLeadingHyphens(opt);
++        for ( Iterator it = options.iterator(); it.hasNext(); )
++        {
++            Option option = (Option) it.next();
++            if (opt.equals(option.getOpt()))
++            {
++                return option;
++            }
++            if (opt.equals( option.getLongOpt()))
++            {
++                return option;
++        }
+@@ -169,0 +178,3 @@ public class CommandLine {
++        }
++        return null;
++    }
+@@ -277,11 +288 @@ public class CommandLine {
+-        hashcodeMap.put(new Integer(opt.hashCode()), opt);
+-        String key = opt.getKey();
+-        if (key == null)
+-        {
+-            key = opt.getLongOpt();
+-        }
+-        else
+-        {
+-            names.put(opt.getLongOpt(), key);
+-        }
+-        options.put(key, opt);
++        options.add(opt);
+@@ -298 +299 @@ public class CommandLine {
+-        return hashcodeMap.values().iterator();
++        return options.iterator();
+@@ -308 +309 @@ public class CommandLine {
+-        Collection processed = options.values();
++        Collection processed = options;
+@@ -316 +317 @@ public class CommandLine {
+-}
++}
+\ No newline at end of file

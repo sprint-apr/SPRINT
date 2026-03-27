@@ -1,0 +1,16 @@
+diff --git a/Math_1/src/main/java/org/apache/commons/math3/fraction/BigFraction.java b/Math_1/src/main/java/org/apache/commons/math3/fraction/BigFraction.java
+index ed4108d..4ca33eb 100644
+--- a/Math_1/src/main/java/org/apache/commons/math3/fraction/BigFraction.java
++++ b/Math_1/src/main/java/org/apache/commons/math3/fraction/BigFraction.java
+@@ -305,0 +306,3 @@ public class BigFraction
++                if (epsilon == 0.0 && FastMath.abs(q1) < maxDenominator) {
++                    break;
++                }
+diff --git a/Math_1/src/main/java/org/apache/commons/math3/fraction/Fraction.java b/Math_1/src/main/java/org/apache/commons/math3/fraction/Fraction.java
+index 8065885..002dae9 100644
+--- a/Math_1/src/main/java/org/apache/commons/math3/fraction/Fraction.java
++++ b/Math_1/src/main/java/org/apache/commons/math3/fraction/Fraction.java
+@@ -214,0 +215,3 @@ public class Fraction
++                if (epsilon == 0.0 && FastMath.abs(q1) < maxDenominator) {
++                    break;
++                }

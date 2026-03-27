@@ -1,0 +1,44 @@
+diff --git a/JacksonDatabind_23/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializers.java b/JacksonDatabind_23/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializers.java
+index c11155e..05f7b78 100644
+--- a/JacksonDatabind_23/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializers.java
++++ b/JacksonDatabind_23/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializers.java
+@@ -53,0 +54 @@ public class NumberSerializers
++        protected final static Integer EMPTY_INTEGER = Integer.valueOf(0);
+@@ -119,0 +121 @@ public class NumberSerializers
++        private final static Short EMPTY = (short) 0;
+@@ -123,0 +126,4 @@ public class NumberSerializers
++        @Override
++        public boolean isEmpty(SerializerProvider prov, Short value) {
++            return EMPTY.equals(value);
++        }
+@@ -158,0 +165,4 @@ public class NumberSerializers
++        @Override
++        public boolean isEmpty(SerializerProvider prov, Object value) {
++            return EMPTY_INTEGER.equals(value);
++        }
+@@ -174,0 +185,4 @@ public class NumberSerializers
++        @Override
++        public boolean isEmpty(SerializerProvider prov, Number value) {
++            return value.intValue() == 0;
++        }
+@@ -184,0 +199 @@ public class NumberSerializers
++        private final static Long EMPTY = 0L;
+@@ -189,0 +205,4 @@ public class NumberSerializers
++        @Override
++        public boolean isEmpty(SerializerProvider prov, Object value) {
++            return EMPTY.equals(value);
++        }
+@@ -199,0 +219 @@ public class NumberSerializers
++        private final static Float EMPTY = 0f;
+@@ -204,0 +225,4 @@ public class NumberSerializers
++        @Override
++        public boolean isEmpty(SerializerProvider prov, Object value) {
++            return EMPTY.equals(value);
++        }
+@@ -221,0 +246 @@ public class NumberSerializers
++        private final static Double EMPTY = 0d;
+@@ -226,0 +252,4 @@ public class NumberSerializers
++        @Override
++        public boolean isEmpty(SerializerProvider prov, Object value) {
++            return EMPTY.equals(value);
++        }

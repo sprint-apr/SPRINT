@@ -1,0 +1,14 @@
+diff --git a/Math_44/src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java b/Math_44/src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java
+index 544124f..8f315e3 100644
+--- a/Math_44/src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java
++++ b/Math_44/src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java
+@@ -280 +279,0 @@ public abstract class AbstractIntegrator implements FirstOrderIntegrator {
+-            resetOccurred = false;
+@@ -333,0 +333,3 @@ public abstract class AbstractIntegrator implements FirstOrderIntegrator {
++                    for (final EventState remaining : occuringEvents) {
++                        remaining.stepAccepted(eventT, eventY);
++                    }
+@@ -342,0 +345,3 @@ public abstract class AbstractIntegrator implements FirstOrderIntegrator {
++                    for (final EventState remaining : occuringEvents) {
++                        remaining.stepAccepted(eventT, eventY);
++                    }

@@ -1,0 +1,10 @@
+diff --git a/Closure_8/src/com/google/javascript/jscomp/CollapseVariableDeclarations.java b/Closure_8/src/com/google/javascript/jscomp/CollapseVariableDeclarations.java
+index f2d36f5..e0466ea 100644
+--- a/Closure_8/src/com/google/javascript/jscomp/CollapseVariableDeclarations.java
++++ b/Closure_8/src/com/google/javascript/jscomp/CollapseVariableDeclarations.java
+@@ -203,0 +204 @@ class CollapseVariableDeclarations implements CompilerPass {
++          && !isNamedParameter(var)
+@@ -207,0 +209,3 @@ class CollapseVariableDeclarations implements CompilerPass {
++  private boolean isNamedParameter(Var v) {
++    return v.getParentNode().isParamList();
++  }

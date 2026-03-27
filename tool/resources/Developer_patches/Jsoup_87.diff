@@ -1,0 +1,193 @@
+diff --git a/Jsoup_87/src/main/java/org/jsoup/nodes/Element.java b/Jsoup_87/src/main/java/org/jsoup/nodes/Element.java
+index 9652120..efbfced 100644
+--- a/Jsoup_87/src/main/java/org/jsoup/nodes/Element.java
++++ b/Jsoup_87/src/main/java/org/jsoup/nodes/Element.java
+@@ -139,0 +140,3 @@ public class Element extends Node {
++    public String normalName() {
++        return tag.normalName();
++    }
+diff --git a/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java b/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+index 1bffec7..bea598d 100644
+--- a/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
++++ b/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+@@ -315 +315 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            if (next.nodeName().equals(elName)) {
++            if (next.normalName().equals(elName)) {
+@@ -337 +337 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            if (next.nodeName().equals(elName))
++            if (next.normalName().equals(elName))
+@@ -347 +347 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            if (inSorted(next.nodeName(), elNames))
++            if (inSorted(next.normalName(), elNames))
+@@ -355 +355 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            if (next.nodeName().equals(elName)) {
++            if (next.normalName().equals(elName)) {
+@@ -378 +378 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            if (StringUtil.in(next.nodeName(), nodeNames) || next.nodeName().equals("html"))
++            if (StringUtil.in(next.normalName(), nodeNames) || next.normalName().equals("html"))
+@@ -420 +420 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            String name = node.nodeName();
++            String name = node.normalName();
+@@ -476 +476 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            final String elName = stack.get(pos).nodeName();
++            final String elName = stack.get(pos).normalName();
+@@ -517 +517 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            String elName = el.nodeName();
++            String elName = el.normalName();
+@@ -569,2 +569,2 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-        while ((excludeTag != null && !currentElement().nodeName().equals(excludeTag)) &&
+-                inSorted(currentElement().nodeName(), TagSearchEndTags))
++        while ((excludeTag != null && !currentElement().normalName().equals(excludeTag)) &&
++                inSorted(currentElement().normalName(), TagSearchEndTags))
+@@ -581 +581 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-        String name = el.nodeName();
++        String name = el.normalName();
+@@ -618 +618 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-        return a.nodeName().equals(b.nodeName()) &&
++        return a.normalName().equals(b.normalName()) &&
+@@ -649 +649 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            Element newEl = insertStartTag(entry.nodeName());
++            Element newEl = insertStartTag(entry.normalName()); // todo: avoid fostering here?
+@@ -689 +689 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-            else if (next.nodeName().equals(nodeName))
++            else if (next.normalName().equals(nodeName))
+diff --git a/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java b/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+index b51991f..a5532c7 100644
+--- a/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
++++ b/Jsoup_87/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+@@ -315 +315 @@ enum HtmlTreeBuilderState {
+-                            if (el.nodeName().equals("li")) {
++                            if (el.normalName().equals("li")) {
+@@ -319 +319 @@ enum HtmlTreeBuilderState {
+-                            if (tb.isSpecial(el) && !StringUtil.inSorted(el.nodeName(), Constants.InBodyStartLiBreakers))
++                            if (tb.isSpecial(el) && !StringUtil.inSorted(el.normalName(), Constants.InBodyStartLiBreakers))
+@@ -339 +339 @@ enum HtmlTreeBuilderState {
+-                        if (stack.size() == 1 || (stack.size() > 2 && !stack.get(1).nodeName().equals("body"))) {
++                        if (stack.size() == 1 || (stack.size() > 2 && !stack.get(1).normalName().equals("body"))) {
+@@ -353 +353 @@ enum HtmlTreeBuilderState {
+-                        if (stack.size() == 1 || (stack.size() > 2 && !stack.get(1).nodeName().equals("body"))) {
++                        if (stack.size() == 1 || (stack.size() > 2 && !stack.get(1).normalName().equals("body"))) {
+@@ -372 +372 @@ enum HtmlTreeBuilderState {
+-                        if (StringUtil.inSorted(tb.currentElement().nodeName(), Constants.Headings)) {
++                        if (StringUtil.inSorted(tb.currentElement().normalName(), Constants.Headings)) {
+@@ -398,2 +398,2 @@ enum HtmlTreeBuilderState {
+-                            if (StringUtil.inSorted(el.nodeName(), Constants.DdDt)) {
+-                                tb.processEndTag(el.nodeName());
++                            if (StringUtil.inSorted(el.normalName(), Constants.DdDt)) {
++                                tb.processEndTag(el.normalName());
+@@ -402 +402 @@ enum HtmlTreeBuilderState {
+-                            if (tb.isSpecial(el) && !StringUtil.inSorted(el.nodeName(), Constants.InBodyStartLiBreakers))
++                            if (tb.isSpecial(el) && !StringUtil.inSorted(el.normalName(), Constants.InBodyStartLiBreakers))
+@@ -531 +531 @@ enum HtmlTreeBuilderState {
+-                        if (tb.currentElement().nodeName().equals("option"))
++                        if (tb.currentElement().normalName().equals("option"))
+@@ -538 +538 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals("ruby")) {
++                            if (!tb.currentElement().normalName().equals("ruby")) {
+@@ -574 +574 @@ enum HtmlTreeBuilderState {
+-                            } else if (!tb.inScope(formatEl.nodeName())) {
++                            } else if (!tb.inScope(formatEl.normalName())) {
+@@ -598 +598 @@ enum HtmlTreeBuilderState {
+-                                tb.popStackToClose(formatEl.nodeName());
++                                tb.popStackToClose(formatEl.normalName());
+@@ -633 +633 @@ enum HtmlTreeBuilderState {
+-                            if (StringUtil.inSorted(commonAncestor.nodeName(), Constants.InBodyEndTableFosters)) {
++                            if (StringUtil.inSorted(commonAncestor.normalName(), Constants.InBodyEndTableFosters)) {
+@@ -662 +662 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals(name))
++                            if (!tb.currentElement().normalName().equals(name))
+@@ -675 +675 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals(name))
++                            if (!tb.currentElement().normalName().equals(name))
+@@ -699 +699 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals(name))
++                            if (!tb.currentElement().normalName().equals(name))
+@@ -711 +711 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals(name))
++                            if (!tb.currentElement().normalName().equals(name))
+@@ -721 +721 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals(name))
++                            if (!tb.currentElement().normalName().equals(name))
+@@ -731 +731 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals(name))
++                            if (!tb.currentElement().normalName().equals(name))
+@@ -745 +745 @@ enum HtmlTreeBuilderState {
+-                            if (!tb.currentElement().nodeName().equals(name))
++                            if (!tb.currentElement().normalName().equals(name))
+@@ -768 +768 @@ enum HtmlTreeBuilderState {
+-            String name = tb.settings.normalizeTag(t.asEndTag().name());
++            String name = t.asEndTag().normalName; // case insensitive search - goal is to preserve output case, not for the parse to be case sensitive
+@@ -772 +772 @@ enum HtmlTreeBuilderState {
+-                if (node.nodeName().equals(name)) {
++                if (node.normalName().equals(name)) {
+@@ -774 +774 @@ enum HtmlTreeBuilderState {
+-                    if (!name.equals(tb.currentElement().nodeName()))
++                    if (!name.equals(tb.currentElement().normalName()))
+@@ -887 +887 @@ enum HtmlTreeBuilderState {
+-                if (tb.currentElement().nodeName().equals("html"))
++                if (tb.currentElement().normalName().equals("html"))
+@@ -897 +897 @@ enum HtmlTreeBuilderState {
+-            if (StringUtil.in(tb.currentElement().nodeName(), "table", "tbody", "tfoot", "thead", "tr")) {
++            if (StringUtil.in(tb.currentElement().normalName(), "table", "tbody", "tfoot", "thead", "tr")) {
+@@ -926 +926 @@ enum HtmlTreeBuilderState {
+-                                if (StringUtil.in(tb.currentElement().nodeName(), "table", "tbody", "tfoot", "thead", "tr")) {
++                                if (StringUtil.in(tb.currentElement().normalName(), "table", "tbody", "tfoot", "thead", "tr")) {
+@@ -954 +954 @@ enum HtmlTreeBuilderState {
+-                    if (!tb.currentElement().nodeName().equals("caption"))
++                    if (!tb.currentElement().normalName().equals("caption"))
+@@ -1007 +1007 @@ enum HtmlTreeBuilderState {
+-                        if (tb.currentElement().nodeName().equals("html")) {
++                        if (tb.currentElement().normalName().equals("html")) { // frag case
+@@ -1018 +1018 @@ enum HtmlTreeBuilderState {
+-                    if (tb.currentElement().nodeName().equals("html"))
++                    if (tb.currentElement().normalName().equals("html"))
+@@ -1089 +1089 @@ enum HtmlTreeBuilderState {
+-            tb.processEndTag(tb.currentElement().nodeName());
++            tb.processEndTag(tb.currentElement().normalName()); // tbody, tfoot, thead
+@@ -1173 +1173 @@ enum HtmlTreeBuilderState {
+-                    if (!tb.currentElement().nodeName().equals(name))
++                    if (!tb.currentElement().normalName().equals(name))
+@@ -1240 +1240 @@ enum HtmlTreeBuilderState {
+-                        if (tb.currentElement().nodeName().equals("option"))
++                        if (tb.currentElement().normalName().equals("option"))
+@@ -1244 +1244 @@ enum HtmlTreeBuilderState {
+-                        if (tb.currentElement().nodeName().equals("option"))
++                        if (tb.currentElement().normalName().equals("option"))
+@@ -1246 +1246 @@ enum HtmlTreeBuilderState {
+-                        else if (tb.currentElement().nodeName().equals("optgroup"))
++                        else if (tb.currentElement().normalName().equals("optgroup"))
+@@ -1269 +1269 @@ enum HtmlTreeBuilderState {
+-                            if (tb.currentElement().nodeName().equals("option") && tb.aboveOnStack(tb.currentElement()) != null && tb.aboveOnStack(tb.currentElement()).nodeName().equals("optgroup"))
++                            if (tb.currentElement().normalName().equals("option") && tb.aboveOnStack(tb.currentElement()) != null && tb.aboveOnStack(tb.currentElement()).normalName().equals("optgroup"))
+@@ -1271 +1271 @@ enum HtmlTreeBuilderState {
+-                            if (tb.currentElement().nodeName().equals("optgroup"))
++                            if (tb.currentElement().normalName().equals("optgroup"))
+@@ -1277 +1277 @@ enum HtmlTreeBuilderState {
+-                            if (tb.currentElement().nodeName().equals("option"))
++                            if (tb.currentElement().normalName().equals("option"))
+@@ -1296 +1296 @@ enum HtmlTreeBuilderState {
+-                    if (!tb.currentElement().nodeName().equals("html"))
++                    if (!tb.currentElement().normalName().equals("html"))
+@@ -1383 +1383 @@ enum HtmlTreeBuilderState {
+-                if (tb.currentElement().nodeName().equals("html")) {
++                if (tb.currentElement().normalName().equals("html")) { // frag
+@@ -1388 +1388 @@ enum HtmlTreeBuilderState {
+-                    if (!tb.isFragmentParsing() && !tb.currentElement().nodeName().equals("frameset")) {
++                    if (!tb.isFragmentParsing() && !tb.currentElement().normalName().equals("frameset")) {
+@@ -1393 +1393 @@ enum HtmlTreeBuilderState {
+-                if (!tb.currentElement().nodeName().equals("html")) {
++                if (!tb.currentElement().normalName().equals("html")) {
+diff --git a/Jsoup_87/src/main/java/org/jsoup/parser/Tag.java b/Jsoup_87/src/main/java/org/jsoup/parser/Tag.java
+index 25488df..1808572 100644
+--- a/Jsoup_87/src/main/java/org/jsoup/parser/Tag.java
++++ b/Jsoup_87/src/main/java/org/jsoup/parser/Tag.java
+@@ -3,0 +4 @@ import org.jsoup.helper.Validate;
++import org.jsoup.internal.Normalizer;
+@@ -16,0 +18 @@ public class Tag {
++    private String normalName; // always the lower case version of this tag, regardless of case preservation mode
+@@ -27,0 +30 @@ public class Tag {
++        normalName = Normalizer.lowerCase(tagName);
+@@ -42,0 +46,3 @@ public class Tag {
++    public String normalName() {
++        return normalName;
++    }

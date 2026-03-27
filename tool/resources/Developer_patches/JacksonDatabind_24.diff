@@ -1,0 +1,9 @@
+diff --git a/JacksonDatabind_24/src/main/java/com/fasterxml/jackson/databind/cfg/BaseSettings.java b/JacksonDatabind_24/src/main/java/com/fasterxml/jackson/databind/cfg/BaseSettings.java
+index cd2da61..7291b5d 100644
+--- a/JacksonDatabind_24/src/main/java/com/fasterxml/jackson/databind/cfg/BaseSettings.java
++++ b/JacksonDatabind_24/src/main/java/com/fasterxml/jackson/databind/cfg/BaseSettings.java
+@@ -234 +233,0 @@ public final class BaseSettings
+-        TimeZone tz = (df == null) ? _timeZone : df.getTimeZone();
+@@ -237 +236 @@ public final class BaseSettings
+-                tz, _defaultBase64);
++                _timeZone, _defaultBase64);

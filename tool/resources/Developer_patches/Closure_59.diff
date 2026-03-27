@@ -1,0 +1,8 @@
+diff --git a/Closure_59/src/com/google/javascript/jscomp/Compiler.java b/Closure_59/src/com/google/javascript/jscomp/Compiler.java
+index b3ca246..1d6e494 100644
+--- a/Closure_59/src/com/google/javascript/jscomp/Compiler.java
++++ b/Closure_59/src/com/google/javascript/jscomp/Compiler.java
+@@ -255 +255,2 @@ public class Compiler extends AbstractCompiler {
+-    if (options.checkGlobalThisLevel.isOn()) {
++    if (options.checkGlobalThisLevel.isOn() &&
++        !options.disables(DiagnosticGroups.GLOBAL_THIS)) {

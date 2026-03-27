@@ -1,0 +1,8 @@
+diff --git a/Chart_17/source/org/jfree/data/time/TimeSeries.java b/Chart_17/source/org/jfree/data/time/TimeSeries.java
+index ffd1dff..907fc20 100644
+--- a/Chart_17/source/org/jfree/data/time/TimeSeries.java
++++ b/Chart_17/source/org/jfree/data/time/TimeSeries.java
+@@ -857 +857,2 @@ public class TimeSeries extends Series implements Cloneable, Serializable {
+-        Object clone = createCopy(0, getItemCount() - 1);
++        TimeSeries clone = (TimeSeries) super.clone();
++        clone.data = (List) ObjectUtilities.deepClone(this.data);

@@ -1,0 +1,7 @@
+diff --git a/JacksonDatabind_27/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java b/JacksonDatabind_27/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java
+index fc7961d..23d989e 100644
+--- a/JacksonDatabind_27/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java
++++ b/JacksonDatabind_27/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java
+@@ -794 +794 @@ public class BeanDeserializer
+-                if (ext.handlePropertyValue(p, ctxt, propName, buffer)) {
++                if (ext.handlePropertyValue(p, ctxt, propName, null)) {

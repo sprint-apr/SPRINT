@@ -1,0 +1,11 @@
+diff --git a/Closure_2/src/com/google/javascript/jscomp/TypeCheck.java b/Closure_2/src/com/google/javascript/jscomp/TypeCheck.java
+index a0f95db..96f256d 100644
+--- a/Closure_2/src/com/google/javascript/jscomp/TypeCheck.java
++++ b/Closure_2/src/com/google/javascript/jscomp/TypeCheck.java
+@@ -1571,0 +1572 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
++    if (implicitProto == null) {
+@@ -1573,0 +1575,2 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
++      currentPropertyNames = ImmutableSet.of();
++    } else {
+@@ -1574,0 +1578 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
++    }

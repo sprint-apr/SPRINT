@@ -1,0 +1,17 @@
+diff --git a/Closure_37/src/com/google/javascript/jscomp/NodeTraversal.java b/Closure_37/src/com/google/javascript/jscomp/NodeTraversal.java
+index 8201b41..435b4a8 100644
+--- a/Closure_37/src/com/google/javascript/jscomp/NodeTraversal.java
++++ b/Closure_37/src/com/google/javascript/jscomp/NodeTraversal.java
+@@ -541 +541 @@ public class NodeTraversal {
+-            body.isBlock());
++            body.isBlock(), body);
+diff --git a/Closure_37/src/com/google/javascript/jscomp/parsing/IRFactory.java b/Closure_37/src/com/google/javascript/jscomp/parsing/IRFactory.java
+index 4da4085..26cbc19 100644
+--- a/Closure_37/src/com/google/javascript/jscomp/parsing/IRFactory.java
++++ b/Closure_37/src/com/google/javascript/jscomp/parsing/IRFactory.java
+@@ -666,0 +667 @@ class IRFactory {
++      if (!bodyNode.isBlock()) {
+@@ -669,0 +671,3 @@ class IRFactory {
++        Preconditions.checkState(config.isIdeMode);
++        bodyNode = IR.block();
++      }

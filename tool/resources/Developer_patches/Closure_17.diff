@@ -1,0 +1,12 @@
+diff --git a/Closure_17/src/com/google/javascript/jscomp/TypedScopeCreator.java b/Closure_17/src/com/google/javascript/jscomp/TypedScopeCreator.java
+index efaba2c..8bc7bda 100644
+--- a/Closure_17/src/com/google/javascript/jscomp/TypedScopeCreator.java
++++ b/Closure_17/src/com/google/javascript/jscomp/TypedScopeCreator.java
+@@ -1291 +1291,2 @@ final class TypedScopeCreator implements ScopeCreator {
+-              if (rValue.getJSType() != null && !rValue.getJSType().isUnknownType()) {
++              JSDocInfo rValueInfo = rValue.getJSDocInfo();
++              if (rValueInfo != null && rValueInfo.hasType()) {
+@@ -1292,0 +1294,3 @@ final class TypedScopeCreator implements ScopeCreator {
++                return rValueInfo.getType().evaluate(scope, typeRegistry);
++              } else if (rValue.getJSType() != null
++                  && !rValue.getJSType().isUnknownType()) {

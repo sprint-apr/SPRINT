@@ -1,0 +1,11 @@
+diff --git a/Closure_128/src/com/google/javascript/jscomp/CodeGenerator.java b/Closure_128/src/com/google/javascript/jscomp/CodeGenerator.java
+index 2270c17..1dc33b7 100644
+--- a/Closure_128/src/com/google/javascript/jscomp/CodeGenerator.java
++++ b/Closure_128/src/com/google/javascript/jscomp/CodeGenerator.java
+@@ -784,0 +785,3 @@ class CodeGenerator {
++    if (len == 0) {
++      return false;
++    }
+@@ -791 +794 @@ class CodeGenerator {
+-    return len > 0 && s.charAt(0) != '0';
++    return len == 1 || s.charAt(0) != '0';

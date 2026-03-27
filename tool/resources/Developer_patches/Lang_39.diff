@@ -1,0 +1,8 @@
+diff --git a/Lang_39/src/java/org/apache/commons/lang3/StringUtils.java b/Lang_39/src/java/org/apache/commons/lang3/StringUtils.java
+index 14563aa..f6cabee 100644
+--- a/Lang_39/src/java/org/apache/commons/lang3/StringUtils.java
++++ b/Lang_39/src/java/org/apache/commons/lang3/StringUtils.java
+@@ -3675,0 +3676,3 @@ public class StringUtils {
++            if (searchList[i] == null || replacementList[i] == null) {
++                continue;
++            }

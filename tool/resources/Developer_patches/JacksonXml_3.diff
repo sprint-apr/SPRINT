@@ -1,0 +1,9 @@
+diff --git a/JacksonXml_3/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java b/JacksonXml_3/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
+index 7b163ed..c71cd1d 100644
+--- a/JacksonXml_3/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
++++ b/JacksonXml_3/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.java
+@@ -669 +668,0 @@ public class FromXmlParser
+-            _currText = _xmlTokens.getText();
+@@ -671 +670 @@ public class FromXmlParser
+-            break;
++            return (_currText = _xmlTokens.getText());

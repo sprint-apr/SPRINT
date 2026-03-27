@@ -1,0 +1,12 @@
+diff --git a/JacksonCore_10/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java b/JacksonCore_10/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
+index 976ef6e..7c37ffa 100644
+--- a/JacksonCore_10/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
++++ b/JacksonCore_10/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
+@@ -925 +925,2 @@ public final class ByteQuadsCanonicalizer
+-        if (_spilloverEnd >= hashArea.length) {
++        final int end = (_hashSize << 3);
++        if (_spilloverEnd >= end) {
+@@ -984 +985,2 @@ public final class ByteQuadsCanonicalizer
+-        hash ^= (hash >>> 12);
++        hash ^= (hash << 3); // shuffle back a bit
++        hash += (hash >>> 12); // and bit more

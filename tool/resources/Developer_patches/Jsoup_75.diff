@@ -1,0 +1,8 @@
+diff --git a/Jsoup_75/src/main/java/org/jsoup/nodes/Attributes.java b/Jsoup_75/src/main/java/org/jsoup/nodes/Attributes.java
+index 1f4d812..1f74bf3 100644
+--- a/Jsoup_75/src/main/java/org/jsoup/nodes/Attributes.java
++++ b/Jsoup_75/src/main/java/org/jsoup/nodes/Attributes.java
+@@ -319,2 +319 @@ public class Attributes implements Iterable<Attribute>, Cloneable {
+-            if (!(out.syntax() == Document.OutputSettings.Syntax.html
+-                && (val == null || val.equals(key) && Attribute.isBooleanAttribute(key)))) {
++            if (!Attribute.shouldCollapseAttribute(key, val, out)) {

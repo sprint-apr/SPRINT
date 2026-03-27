@@ -1,0 +1,26 @@
+diff --git a/Chart_25/source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java b/Chart_25/source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java
+index ab65ba3..6ff5e36 100644
+--- a/Chart_25/source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java
++++ b/Chart_25/source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java
+@@ -258,0 +259,3 @@ public class StatisticalBarRenderer extends BarRenderer
++        if (meanValue == null) {
++            return;
++        }
+@@ -315 +318,3 @@ public class StatisticalBarRenderer extends BarRenderer
+-            double valueDelta = dataset.getStdDevValue(row, column).doubleValue();
++        Number n = dataset.getStdDevValue(row, column);
++        if (n != null) {
++            double valueDelta = n.doubleValue();
+@@ -343,0 +349 @@ public class StatisticalBarRenderer extends BarRenderer
++        }
+@@ -402,0 +409,3 @@ public class StatisticalBarRenderer extends BarRenderer
++        if (meanValue == null) {
++            return;
++        }
+@@ -459 +468,3 @@ public class StatisticalBarRenderer extends BarRenderer
+-            double valueDelta = dataset.getStdDevValue(row, column).doubleValue();
++        Number n = dataset.getStdDevValue(row, column);
++        if (n != null) {
++            double valueDelta = n.doubleValue();
+@@ -486,0 +498 @@ public class StatisticalBarRenderer extends BarRenderer
++        }

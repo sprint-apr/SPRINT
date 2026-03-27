@@ -1,0 +1,7 @@
+diff --git a/Math_75/src/main/java/org/apache/commons/math/stat/Frequency.java b/Math_75/src/main/java/org/apache/commons/math/stat/Frequency.java
+index c45d728..68c8bf2 100644
+--- a/Math_75/src/main/java/org/apache/commons/math/stat/Frequency.java
++++ b/Math_75/src/main/java/org/apache/commons/math/stat/Frequency.java
+@@ -303 +303 @@ public class Frequency implements Serializable {
+-        return getCumPct((Comparable<?>) v);
++        return getPct((Comparable<?>) v);

@@ -1,0 +1,33 @@
+diff --git a/Time_6/src/main/java/org/joda/time/chrono/GJChronology.java b/Time_6/src/main/java/org/joda/time/chrono/GJChronology.java
+index b970403..d1556f5 100644
+--- a/Time_6/src/main/java/org/joda/time/chrono/GJChronology.java
++++ b/Time_6/src/main/java/org/joda/time/chrono/GJChronology.java
+@@ -195,0 +196,4 @@ public final class GJChronology extends AssembledChronology {
++            LocalDate cutoverDate = new LocalDate(cutoverInstant.getMillis(), GregorianChronology.getInstance(zone));
++            if (cutoverDate.getYear() <= 0) {
++                throw new IllegalArgumentException("Cutover too early. Must be on or after 0001-01-01.");
++            }
+@@ -978,0 +983,11 @@ public final class GJChronology extends AssembledChronology {
++                        if (iConvertByWeekyear) {
++                            int wyear = iGregorianChronology.weekyear().get(instant);
++                            if (wyear <= 0) {
++                                instant = iGregorianChronology.weekyear().add(instant, -1);
++                            }
++                        } else {
++                            int year = iGregorianChronology.year().get(instant);
++                            if (year <= 0) {
++                                instant = iGregorianChronology.year().add(instant, -1);
++                            }
++                        }
+@@ -1000,0 +1016,11 @@ public final class GJChronology extends AssembledChronology {
++                        if (iConvertByWeekyear) {
++                            int wyear = iGregorianChronology.weekyear().get(instant);
++                            if (wyear <= 0) {
++                                instant = iGregorianChronology.weekyear().add(instant, -1);
++                            }
++                        } else {
++                            int year = iGregorianChronology.year().get(instant);
++                            if (year <= 0) {
++                                instant = iGregorianChronology.year().add(instant, -1);
++                            }
++                        }

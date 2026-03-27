@@ -1,0 +1,6 @@
+diff --git a/Jsoup_26/src/main/java/org/jsoup/safety/Cleaner.java b/Jsoup_26/src/main/java/org/jsoup/safety/Cleaner.java
+index 7d7f316..8110836 100644
+--- a/Jsoup_26/src/main/java/org/jsoup/safety/Cleaner.java
++++ b/Jsoup_26/src/main/java/org/jsoup/safety/Cleaner.java
+@@ -42,0 +43 @@ public class Cleaner {
++        if (dirtyDocument.body() != null) // frameset documents won't have a body. the clean doc will have empty body.

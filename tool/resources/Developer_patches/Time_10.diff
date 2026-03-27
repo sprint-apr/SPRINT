@@ -1,0 +1,9 @@
+diff --git a/Time_10/src/main/java/org/joda/time/base/BaseSingleFieldPeriod.java b/Time_10/src/main/java/org/joda/time/base/BaseSingleFieldPeriod.java
+index 91b2c5c..839d3b8 100644
+--- a/Time_10/src/main/java/org/joda/time/base/BaseSingleFieldPeriod.java
++++ b/Time_10/src/main/java/org/joda/time/base/BaseSingleFieldPeriod.java
+@@ -51,0 +52 @@ public abstract class BaseSingleFieldPeriod
++    private static final long START_1972 = 2L * 365L * 86400L * 1000L;
+@@ -104 +105 @@ public abstract class BaseSingleFieldPeriod
+-        int[] values = chrono.get(zeroInstance, chrono.set(start, 0L), chrono.set(end, 0L));
++        int[] values = chrono.get(zeroInstance, chrono.set(start, START_1972), chrono.set(end, START_1972));

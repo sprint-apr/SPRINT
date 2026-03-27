@@ -1,0 +1,14 @@
+diff --git a/Math_52/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java b/Math_52/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java
+index 20f5b34..ada0a8f 100644
+--- a/Math_52/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java
++++ b/Math_52/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java
+@@ -344 +344,2 @@ public class Rotation implements Serializable {
+-  if (c == 0) {
++  final double inPlaneThreshold = 0.001;
++  if (c <= inPlaneThreshold * k.getNorm() * u3.getNorm()) {
+@@ -353 +354 @@ public class Rotation implements Serializable {
+-    if (c == 0) {
++    if (c <= inPlaneThreshold * k.getNorm() * u2Prime.getNorm()) {
+@@ -359 +360 @@ public class Rotation implements Serializable {
+-      if (c == 0) {
++      if (c <= 0) {

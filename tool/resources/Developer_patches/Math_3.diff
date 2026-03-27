@@ -1,0 +1,9 @@
+diff --git a/Math_3/src/main/java/org/apache/commons/math3/util/MathArrays.java b/Math_3/src/main/java/org/apache/commons/math3/util/MathArrays.java
+index 325fd94..8f83d96 100644
+--- a/Math_3/src/main/java/org/apache/commons/math3/util/MathArrays.java
++++ b/Math_3/src/main/java/org/apache/commons/math3/util/MathArrays.java
+@@ -820,0 +821 @@ public class MathArrays {
++        if (len == 1) {
+@@ -821,0 +823,2 @@ public class MathArrays {
++            return a[0] * b[0];
++        }

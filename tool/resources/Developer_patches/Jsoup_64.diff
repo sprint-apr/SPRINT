@@ -1,0 +1,8 @@
+diff --git a/Jsoup_64/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java b/Jsoup_64/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+index f4b56f7..a9a9583 100644
+--- a/Jsoup_64/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
++++ b/Jsoup_64/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+@@ -1489 +1488,0 @@ enum HtmlTreeBuilderState {
+-        tb.insert(startTag);
+@@ -1492,0 +1492 @@ enum HtmlTreeBuilderState {
++        tb.insert(startTag);

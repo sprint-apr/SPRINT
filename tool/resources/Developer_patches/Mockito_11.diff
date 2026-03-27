@@ -1,0 +1,17 @@
+diff --git a/Mockito_11/src/org/mockito/internal/creation/DelegatingMethod.java b/Mockito_11/src/org/mockito/internal/creation/DelegatingMethod.java
+index 349719b..034694f 100644
+--- a/Mockito_11/src/org/mockito/internal/creation/DelegatingMethod.java
++++ b/Mockito_11/src/org/mockito/internal/creation/DelegatingMethod.java
+@@ -54,0 +55,7 @@ public class DelegatingMethod implements MockitoMethod {
++        if (this == o) {
++            return true;
++        }
++        if (o instanceof DelegatingMethod) {
++            DelegatingMethod that = (DelegatingMethod) o;
++            return method.equals(that.method);
++        } else {
+@@ -55,0 +63 @@ public class DelegatingMethod implements MockitoMethod {
++        }
+@@ -60 +68 @@ public class DelegatingMethod implements MockitoMethod {
+-        return 1;
++        return method.hashCode();

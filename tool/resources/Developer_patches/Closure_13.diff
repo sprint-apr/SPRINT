@@ -1,0 +1,8 @@
+diff --git a/Closure_13/src/com/google/javascript/jscomp/PeepholeOptimizationsPass.java b/Closure_13/src/com/google/javascript/jscomp/PeepholeOptimizationsPass.java
+index b51c088..eeeb6a9 100644
+--- a/Closure_13/src/com/google/javascript/jscomp/PeepholeOptimizationsPass.java
++++ b/Closure_13/src/com/google/javascript/jscomp/PeepholeOptimizationsPass.java
+@@ -126 +125,0 @@ class PeepholeOptimizationsPass
+-        traverse(c);
+@@ -127,0 +127 @@ class PeepholeOptimizationsPass
++        traverse(c);

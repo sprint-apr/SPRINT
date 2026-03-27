@@ -1,0 +1,16 @@
+diff --git a/Csv_13/src/main/java/org/apache/commons/csv/CSVFormat.java b/Csv_13/src/main/java/org/apache/commons/csv/CSVFormat.java
+index 847f30a..8c71f3a 100644
+--- a/Csv_13/src/main/java/org/apache/commons/csv/CSVFormat.java
++++ b/Csv_13/src/main/java/org/apache/commons/csv/CSVFormat.java
+@@ -319 +319 @@ public final class CSVFormat implements Serializable {
+-            .withQuote(null).withRecordSeparator(LF);
++            .withQuote(null).withRecordSeparator(LF).withNullString("\\N");
+diff --git a/Csv_13/src/main/java/org/apache/commons/csv/CSVPrinter.java b/Csv_13/src/main/java/org/apache/commons/csv/CSVPrinter.java
+index ac4234b..0e9a2de 100644
+--- a/Csv_13/src/main/java/org/apache/commons/csv/CSVPrinter.java
++++ b/Csv_13/src/main/java/org/apache/commons/csv/CSVPrinter.java
+@@ -139 +139,3 @@ public final class CSVPrinter implements Flushable, Closeable {
+-        if (format.isQuoteCharacterSet()) {
++        if (object == null) {
++            out.append(value);
++        } else if (format.isQuoteCharacterSet()) {

@@ -1,0 +1,7 @@
+diff --git a/Closure_11/src/com/google/javascript/jscomp/TypeCheck.java b/Closure_11/src/com/google/javascript/jscomp/TypeCheck.java
+index ae8a320..e428dfa 100644
+--- a/Closure_11/src/com/google/javascript/jscomp/TypeCheck.java
++++ b/Closure_11/src/com/google/javascript/jscomp/TypeCheck.java
+@@ -1314,2 +1313,0 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
+-    } else if (n.getJSType() != null && parent.isAssign()) {
+-      return;

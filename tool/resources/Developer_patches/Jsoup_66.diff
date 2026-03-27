@@ -1,0 +1,22 @@
+diff --git a/Jsoup_66/src/main/java/org/jsoup/nodes/Element.java b/Jsoup_66/src/main/java/org/jsoup/nodes/Element.java
+index 461a922..85d335a 100644
+--- a/Jsoup_66/src/main/java/org/jsoup/nodes/Element.java
++++ b/Jsoup_66/src/main/java/org/jsoup/nodes/Element.java
+@@ -89 +89 @@ public class Element extends Node {
+-            childNodes = new NodeList(4);
++            childNodes = new NodeList(this, 4);
+@@ -1402 +1402 @@ public class Element extends Node {
+-        clone.childNodes = new NodeList(childNodes.size());
++        clone.childNodes = new NodeList(clone, childNodes.size());
+@@ -1408,2 +1408,4 @@ public class Element extends Node {
+-    private final class NodeList extends ChangeNotifyingArrayList<Node> {
+-        NodeList(int initialCapacity) {
++    private static final class NodeList extends ChangeNotifyingArrayList<Node> {
++        private final Element owner;
++
++        NodeList(Element owner, int initialCapacity) {
+@@ -1410,0 +1413 @@ public class Element extends Node {
++            this.owner = owner;
+@@ -1414 +1417 @@ public class Element extends Node {
+-            nodelistChanged();
++            owner.nodelistChanged();

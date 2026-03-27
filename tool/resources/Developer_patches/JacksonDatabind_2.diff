@@ -1,0 +1,30 @@
+diff --git a/JacksonDatabind_2/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java b/JacksonDatabind_2/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
+index ff8b1c4..caea328 100644
+--- a/JacksonDatabind_2/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
++++ b/JacksonDatabind_2/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
+@@ -782,0 +783,6 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++        if (value == null) {
++            writeNull();
++            return;
++        }
++        Class<?> raw = value.getClass();
++        if (raw == byte[].class) {
+@@ -783,0 +790,2 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++            return;
++        } else if (_objectCodec == null) {
+@@ -787,0 +796,4 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++            _append(JsonToken.VALUE_EMBEDDED_OBJECT, value);
++        } else {
++            _objectCodec.writeValue(this, value);
++        }
+@@ -792,0 +805,4 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++        if (node == null) {
++            writeNull();
++            return;
++        }
+@@ -793,0 +810 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++        if (_objectCodec == null) {
+@@ -795,0 +813,3 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++        } else {
++            _objectCodec.writeTree(this, node);
++        }

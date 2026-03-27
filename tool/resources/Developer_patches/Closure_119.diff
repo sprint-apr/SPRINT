@@ -1,0 +1,6 @@
+diff --git a/Closure_119/src/com/google/javascript/jscomp/GlobalNamespace.java b/Closure_119/src/com/google/javascript/jscomp/GlobalNamespace.java
+index 639318d..0e9c4d3 100644
+--- a/Closure_119/src/com/google/javascript/jscomp/GlobalNamespace.java
++++ b/Closure_119/src/com/google/javascript/jscomp/GlobalNamespace.java
+@@ -365,0 +366 @@ class GlobalNamespace
++              case Token.CATCH:

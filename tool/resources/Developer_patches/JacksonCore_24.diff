@@ -1,0 +1,40 @@
+diff --git a/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserBase.java b/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserBase.java
+index 1e52b9e..981e796 100644
+--- a/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserBase.java
++++ b/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserBase.java
+@@ -869,3 +869,5 @@ public abstract class ParserBase extends ParserMinimalBase
+-        final String numDesc = _longIntegerDesc(rawNum);
+-        _reportError("Numeric value (%s) out of range of %s", numDesc,
+-                (expType == NR_LONG) ? "long" : "int");
++        if (expType == NR_INT) {
++            reportOverflowInt(rawNum);
++        } else {
++            reportOverflowLong(rawNum);
++        }
+@@ -887 +889 @@ public abstract class ParserBase extends ParserMinimalBase
+-                _reportError("Numeric value ("+getText()+") out of range of int");
++                reportOverflowInt(getText(), currentToken());
+diff --git a/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java b/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java
+index c83ade9..fe9a047 100644
+--- a/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java
++++ b/JacksonCore_24/src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java
+@@ -565,2 +565 @@ public abstract class ParserMinimalBase extends JsonParser
+-        _reportError(String.format("Numeric value (%s) out of range of int (%d - %s)",
+-                _longIntegerDesc(numDesc), Integer.MIN_VALUE, Integer.MAX_VALUE));
++        reportOverflowInt(numDesc, JsonToken.VALUE_NUMBER_INT);
+@@ -569,0 +569,5 @@ public abstract class ParserMinimalBase extends JsonParser
++    protected void reportOverflowInt(String numDesc, JsonToken inputType) throws IOException {
++        _reportInputCoercion(String.format("Numeric value (%s) out of range of int (%d - %s)",
++                _longIntegerDesc(numDesc), Integer.MIN_VALUE, Integer.MAX_VALUE),
++                inputType, Integer.TYPE);
++    }
+@@ -582,2 +586 @@ public abstract class ParserMinimalBase extends JsonParser
+-        _reportError(String.format("Numeric value (%s) out of range of long (%d - %s)",
+-                _longIntegerDesc(numDesc), Long.MIN_VALUE, Long.MAX_VALUE));
++        reportOverflowLong(numDesc, JsonToken.VALUE_NUMBER_INT);
+@@ -586,0 +590,5 @@ public abstract class ParserMinimalBase extends JsonParser
++    protected void reportOverflowLong(String numDesc, JsonToken inputType) throws IOException {
++        _reportInputCoercion(String.format("Numeric value (%s) out of range of long (%d - %s)",
++                _longIntegerDesc(numDesc), Long.MIN_VALUE, Long.MAX_VALUE),
++                inputType, Long.TYPE);
++    }

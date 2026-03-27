@@ -1,0 +1,14 @@
+diff --git a/Cli_37/src/main/java/org/apache/commons/cli/DefaultParser.java b/Cli_37/src/main/java/org/apache/commons/cli/DefaultParser.java
+index 6aeaebe..f34173e 100644
+--- a/Cli_37/src/main/java/org/apache/commons/cli/DefaultParser.java
++++ b/Cli_37/src/main/java/org/apache/commons/cli/DefaultParser.java
+@@ -302 +302,4 @@ public class DefaultParser implements CommandLineParser
+-        return token.startsWith("-") && token.length() >= 2 && options.hasShortOption(token.substring(1, 2));
++        if (!token.startsWith("-") || token.length() == 1)
++        {
++            return false;
++        }
+@@ -304,0 +308,3 @@ public class DefaultParser implements CommandLineParser
++        int pos = token.indexOf("=");
++        String optName = pos == -1 ? token.substring(1) : token.substring(1, pos);
++        return options.hasShortOption(optName);

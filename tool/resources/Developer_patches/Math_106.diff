@@ -1,0 +1,16 @@
+diff --git a/Math_106/src/java/org/apache/commons/math/fraction/ProperFractionFormat.java b/Math_106/src/java/org/apache/commons/math/fraction/ProperFractionFormat.java
+index df2713d..a98b665 100644
+--- a/Math_106/src/java/org/apache/commons/math/fraction/ProperFractionFormat.java
++++ b/Math_106/src/java/org/apache/commons/math/fraction/ProperFractionFormat.java
+@@ -164,0 +165 @@ public class ProperFractionFormat extends FractionFormat {
++        if (num.intValue() < 0) {
+@@ -165,0 +167,3 @@ public class ProperFractionFormat extends FractionFormat {
++            pos.setIndex(initialIndex);
++            return null;
++        }
+@@ -199,0 +204 @@ public class ProperFractionFormat extends FractionFormat {
++        if (den.intValue() < 0) {
+@@ -200,0 +206,3 @@ public class ProperFractionFormat extends FractionFormat {
++            pos.setIndex(initialIndex);
++            return null;
++        }

@@ -1,0 +1,15 @@
+diff --git a/Lang_10/src/main/java/org/apache/commons/lang3/time/FastDateParser.java b/Lang_10/src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+index a01159b..8df302f 100644
+--- a/Lang_10/src/main/java/org/apache/commons/lang3/time/FastDateParser.java
++++ b/Lang_10/src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+@@ -304 +303,0 @@ public class FastDateParser implements DateParser, Serializable {
+-        boolean wasWhite= false;
+@@ -307,8 +305,0 @@ public class FastDateParser implements DateParser, Serializable {
+-            if(Character.isWhitespace(c)) {
+-                if(!wasWhite) {
+-                    wasWhite= true;
+-                    regex.append("\\s*+");
+-                }
+-                continue;
+-            }
+-            wasWhite= false;

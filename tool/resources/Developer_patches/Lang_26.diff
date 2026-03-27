@@ -1,0 +1,7 @@
+diff --git a/Lang_26/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java b/Lang_26/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
+index e30da2a..95925fc 100644
+--- a/Lang_26/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
++++ b/Lang_26/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
+@@ -820 +820 @@ public class FastDateFormat extends Format {
+-        Calendar c = new GregorianCalendar(mTimeZone);
++        Calendar c = new GregorianCalendar(mTimeZone, mLocale);

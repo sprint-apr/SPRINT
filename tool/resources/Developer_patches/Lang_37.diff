@@ -1,0 +1,15 @@
+diff --git a/Lang_37/src/java/org/apache/commons/lang3/ArrayUtils.java b/Lang_37/src/java/org/apache/commons/lang3/ArrayUtils.java
+index 889497e..b9413e8 100644
+--- a/Lang_37/src/java/org/apache/commons/lang3/ArrayUtils.java
++++ b/Lang_37/src/java/org/apache/commons/lang3/ArrayUtils.java
+@@ -2961,0 +2962 @@ public class ArrayUtils {
++        try {
+@@ -2962,0 +2964 @@ public class ArrayUtils {
++        } catch (ArrayStoreException ase) {
+@@ -2963,0 +2966,6 @@ public class ArrayUtils {
++            final Class<?> type2 = array2.getClass().getComponentType();
++            if (!type1.isAssignableFrom(type2)){
++                throw new IllegalArgumentException("Cannot store "+type2.getName()+" in an array of "+type1.getName());
++            }
++            throw ase; // No, so rethrow original
++        }

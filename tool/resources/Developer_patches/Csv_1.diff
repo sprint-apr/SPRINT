@@ -1,0 +1,7 @@
+diff --git a/Csv_1/src/main/java/org/apache/commons/csv/ExtendedBufferedReader.java b/Csv_1/src/main/java/org/apache/commons/csv/ExtendedBufferedReader.java
+index 563ece1..219fe68 100644
+--- a/Csv_1/src/main/java/org/apache/commons/csv/ExtendedBufferedReader.java
++++ b/Csv_1/src/main/java/org/apache/commons/csv/ExtendedBufferedReader.java
+@@ -58 +58 @@ class ExtendedBufferedReader extends BufferedReader {
+-        if (current == '\n') {
++        if (current == '\r' || (current == '\n' && lastChar != '\r')) {

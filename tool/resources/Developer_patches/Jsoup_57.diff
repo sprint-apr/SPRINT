@@ -1,0 +1,7 @@
+diff --git a/Jsoup_57/src/main/java/org/jsoup/nodes/Attributes.java b/Jsoup_57/src/main/java/org/jsoup/nodes/Attributes.java
+index 49ff25d..8fdb654 100644
+--- a/Jsoup_57/src/main/java/org/jsoup/nodes/Attributes.java
++++ b/Jsoup_57/src/main/java/org/jsoup/nodes/Attributes.java
+@@ -125 +125 @@ public class Attributes implements Iterable<Attribute>, Cloneable {
+-                attributes.remove(attrKey);
++                it.remove();

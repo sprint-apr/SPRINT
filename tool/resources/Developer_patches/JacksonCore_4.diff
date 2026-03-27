@@ -1,0 +1,11 @@
+diff --git a/JacksonCore_4/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java b/JacksonCore_4/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+index f97a083..a677376 100644
+--- a/JacksonCore_4/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
++++ b/JacksonCore_4/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+@@ -584,0 +585 @@ public final class TextBuffer
++        int newLen = len + (len >> 1);
+@@ -586 +587,3 @@ public final class TextBuffer
+-        int newLen = (len == MAX_SEGMENT_LEN) ? (MAX_SEGMENT_LEN+1) : Math.min(MAX_SEGMENT_LEN, len + (len >> 1));
++        if (newLen > MAX_SEGMENT_LEN) {
++            newLen = len + (len >> 2);
++        }

@@ -1,0 +1,85 @@
+diff --git a/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BasicSerializerFactory.java b/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BasicSerializerFactory.java
+index 732f631..302a385 100644
+--- a/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BasicSerializerFactory.java
++++ b/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BasicSerializerFactory.java
+@@ -580 +580 @@ public abstract class BasicSerializerFactory
+-                return buildMapSerializer(config, (MapType) mlt, beanDesc, staticTyping,
++                return buildMapSerializer(prov, (MapType) mlt, beanDesc, staticTyping,
+@@ -584,0 +585 @@ public abstract class BasicSerializerFactory
++            MapLikeType mlType = (MapLikeType) type;
+@@ -586 +586,0 @@ public abstract class BasicSerializerFactory
+-                MapLikeType mlType = (MapLikeType) type;
+@@ -588,0 +589,7 @@ public abstract class BasicSerializerFactory
++                if (ser != null) {
++                    break;
++                }
++            }
++            if (ser == null) { // (2) Annotations-based ones:
++                ser = findSerializerByAnnotations(prov, type, beanDesc);
++            }
+@@ -594,2 +600,0 @@ public abstract class BasicSerializerFactory
+-                    }
+-                    return ser;
+@@ -598 +603 @@ public abstract class BasicSerializerFactory
+-            return null;
++            return ser;
+@@ -603 +608 @@ public abstract class BasicSerializerFactory
+-                return buildCollectionSerializer(config,  (CollectionType) clt, beanDesc, staticTyping,
++                return buildCollectionSerializer(prov,  (CollectionType) clt, beanDesc, staticTyping,
+@@ -611,0 +617,7 @@ public abstract class BasicSerializerFactory
++                if (ser != null) {
++                    break;
++                }
++            }
++            if (ser == null) { // (2) Annotations-based ones:
++                ser = findSerializerByAnnotations(prov, type, beanDesc);
++            }
+@@ -616 +627,0 @@ public abstract class BasicSerializerFactory
+-                        }
+@@ -618 +628,0 @@ public abstract class BasicSerializerFactory
+-                    return ser;
+@@ -621 +631 @@ public abstract class BasicSerializerFactory
+-            return null;
++            return ser;
+@@ -624 +634 @@ public abstract class BasicSerializerFactory
+-            return buildArraySerializer(config, (ArrayType) type, beanDesc, staticTyping,
++            return buildArraySerializer(prov, (ArrayType) type, beanDesc, staticTyping,
+@@ -636 +646 @@ public abstract class BasicSerializerFactory
+-    protected JsonSerializer<?> buildCollectionSerializer(SerializationConfig config,
++    protected JsonSerializer<?> buildCollectionSerializer(SerializerProvider prov,
+@@ -640,0 +651 @@ public abstract class BasicSerializerFactory
++        SerializationConfig config = prov.getConfig();
+@@ -654,0 +666,2 @@ public abstract class BasicSerializerFactory
++            ser = findSerializerByAnnotations(prov, type, beanDesc); // (2) Annotations
++            if (ser == null) {
+@@ -690,0 +704 @@ public abstract class BasicSerializerFactory
++                    }
+@@ -737 +751 @@ public abstract class BasicSerializerFactory
+-    protected JsonSerializer<?> buildMapSerializer(SerializationConfig config,
++    protected JsonSerializer<?> buildMapSerializer(SerializerProvider prov,
+@@ -742,0 +757 @@ public abstract class BasicSerializerFactory
++        final SerializationConfig config = prov.getConfig();
+@@ -755,0 +771,2 @@ public abstract class BasicSerializerFactory
++            ser = findSerializerByAnnotations(prov, type, beanDesc); // (2) Annotations
++            if (ser == null) {
+@@ -783,0 +801 @@ public abstract class BasicSerializerFactory
++        }
+@@ -831 +849 @@ public abstract class BasicSerializerFactory
+-    protected JsonSerializer<?> buildArraySerializer(SerializationConfig config,
++    protected JsonSerializer<?> buildArraySerializer(SerializerProvider prov,
+@@ -840,0 +859 @@ public abstract class BasicSerializerFactory
++        SerializationConfig config = prov.getConfig();
+diff --git a/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java b/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
+index 992b364..063b0ff 100644
+--- a/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
++++ b/JacksonDatabind_22/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
+@@ -174,4 +174 @@ public class BeanSerializerFactory
+-        JsonSerializer<?> ser = findSerializerByAnnotations(prov, type, beanDesc);
+-        if (ser != null) {
+-            return ser;
+-        }
++        JsonSerializer<?> ser = null;
+@@ -211,0 +209,3 @@ public class BeanSerializerFactory
++            if (ser == null) {
++                ser = findSerializerByAnnotations(prov, type, beanDesc);
++            }

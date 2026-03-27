@@ -1,0 +1,121 @@
+diff --git a/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeBindings.java b/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeBindings.java
+index 3666aba..6752f20 100644
+--- a/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeBindings.java
++++ b/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeBindings.java
+@@ -301,0 +302 @@ name, i, t.getRawClass()));
++    public Object asKey(Class<?> rawBase) {
+@@ -303,0 +305,2 @@ name, i, t.getRawClass()));
++        return new AsKey(rawBase, _types, _hashCode);
++    }
+@@ -427,0 +431,10 @@ name, i, t.getRawClass()));
++    final static class AsKey {
++        private final Class<?> _raw;
++        private final JavaType[] _params;
++        private final int _hash;
++
++        public AsKey(Class<?> raw, JavaType[] params, int hash) {
++            _raw = raw ;
++            _params = params;
++            _hash = hash;
++        }
+@@ -428,0 +442,25 @@ name, i, t.getRawClass()));
++        @Override
++        public int hashCode() { return _hash; }
++
++        @Override
++        public boolean equals(Object o) {
++            if (o == this) return true;
++            if (o == null) return false;
++            if (o.getClass() != getClass()) return false;
++            AsKey other = (AsKey) o;
++
++            if ((_hash == other._hash) && (_raw == other._raw)) {
++                final JavaType[] otherParams = other._params;
++                final int len = _params.length;
++
++                if (len == otherParams.length) {
++                    for (int i = 0; i < len; ++i) {
++                        if (!_params[i].equals(otherParams[i])) {
++                            return false;
++                        }
++                    }
++                    return true;
++                }
++            }
++            return false;
++        }
+@@ -429,0 +468,5 @@ name, i, t.getRawClass()));
++        @Override
++        public String toString() {
++            return _raw.getName()+"<>";
++        }
++    }
+diff --git a/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java b/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+index c3fc79f..a27097e 100644
+--- a/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
++++ b/JacksonDatabind_53/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+@@ -117 +117 @@ public final class TypeFactory
+-    protected final LRUMap<Class<?>, JavaType> _typeCache = new LRUMap<Class<?>, JavaType>(16, 100);
++    protected final LRUMap<Object,JavaType> _typeCache = new LRUMap<Object,JavaType>(16, 100);
+@@ -384,0 +385 @@ public final class TypeFactory
++            TypeBindings tb = _bindingsForSubtype(baseType, typeParamCount, subclass);
+@@ -386 +387 @@ public final class TypeFactory
+-                newType = baseType.refine(subclass, TypeBindings.emptyBindings(), null, new JavaType[] { baseType });
++                newType = baseType.refine(subclass, tb, null, new JavaType[] { baseType });
+@@ -388 +389 @@ public final class TypeFactory
+-                newType = baseType.refine(subclass, TypeBindings.emptyBindings(), baseType, NO_TYPES);
++                newType = baseType.refine(subclass, tb, baseType, NO_TYPES);
+@@ -392,11 +393 @@ public final class TypeFactory
+-                TypeBindings tb = null;
+-                if (baseType.containedTypeCount() == typeParamCount) {
+-                    if (typeParamCount == 1) {
+-                        tb = TypeBindings.create(subclass, baseType.containedType(0));
+-                    } else if (typeParamCount == 2) {
+-                        tb = TypeBindings.create(subclass, baseType.containedType(0),
+-                                baseType.containedType(1));
+-                    }
+-                }
+-                newType = _fromClass(null, subclass,
+-                        (tb == null) ? TypeBindings.emptyBindings() : tb);
++                newType = _fromClass(null, subclass, tb);
+@@ -455,0 +447,2 @@ public final class TypeFactory
++    private TypeBindings _bindingsForSubtype(JavaType baseType, int typeParamCount, Class<?> subclass)
++    {
+@@ -457,0 +451,15 @@ public final class TypeFactory
++        int baseCount = baseType.containedTypeCount();
++        if (baseCount == typeParamCount) {
++            if (typeParamCount == 1) {
++                return TypeBindings.create(subclass, baseType.containedType(0));
++            }
++            if (typeParamCount == 2) {
++                return TypeBindings.create(subclass, baseType.containedType(0),
++                        baseType.containedType(1));
++            }
++            List<JavaType> types = new ArrayList<JavaType>(baseCount);
++            for (int i = 0; i < baseCount; ++i) {
++                types.add(baseType.containedType(i));
++            }
++            return TypeBindings.create(subclass, types);
++        }
+@@ -458,0 +467,2 @@ public final class TypeFactory
++        return TypeBindings.emptyBindings();
++    }
+@@ -1160,3 +1170,8 @@ public final class TypeFactory
+-        boolean cachable = (bindings == null) || bindings.isEmpty();
+-        if (cachable) {
+-            result = _typeCache.get(rawType);
++        final Object key;
++        if ((bindings == null) || bindings.isEmpty()) {
++            key = rawType;
++            result = _typeCache.get(key); // ok, cache object is synced
++        } else {
++            key = bindings.asKey(rawType);
++        }
++        result = _typeCache.get(key); // ok, cache object is synced
+@@ -1165 +1179,0 @@ public final class TypeFactory
+-            }
+@@ -1225,3 +1239 @@ public final class TypeFactory
+-        if (cachable) {
+-            _typeCache.putIfAbsent(rawType, result);
+-        }
++        _typeCache.putIfAbsent(key, result); // cache object syncs

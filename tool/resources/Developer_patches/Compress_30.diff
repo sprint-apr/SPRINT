@@ -1,0 +1,8 @@
+diff --git a/Compress_30/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java b/Compress_30/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java
+index e0e3b1e..b32b1f9 100644
+--- a/Compress_30/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java
++++ b/Compress_30/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java
+@@ -167,0 +168,3 @@ public class BZip2CompressorInputStream extends CompressorInputStream implements
++        if (len == 0) {
++            return 0;
++        }

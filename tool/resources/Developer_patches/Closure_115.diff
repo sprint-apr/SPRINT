@@ -1,0 +1,17 @@
+diff --git a/Closure_115/src/com/google/javascript/jscomp/FunctionInjector.java b/Closure_115/src/com/google/javascript/jscomp/FunctionInjector.java
+index 73d6a4b..5b38600 100644
+--- a/Closure_115/src/com/google/javascript/jscomp/FunctionInjector.java
++++ b/Closure_115/src/com/google/javascript/jscomp/FunctionInjector.java
+@@ -697,8 +696,0 @@ class FunctionInjector {
+-    boolean hasSideEffects = false;
+-    if (block.hasChildren()) {
+-      Preconditions.checkState(block.hasOneChild());
+-      Node stmt = block.getFirstChild();
+-      if (stmt.isReturn()) {
+-        hasSideEffects = NodeUtil.mayHaveSideEffects(stmt.getFirstChild(), compiler);
+-      }
+-    }
+@@ -730,3 +721,0 @@ class FunctionInjector {
+-          if (hasSideEffects && NodeUtil.canBeSideEffected(cArg)) {
+-            return CanInlineResult.NO;
+-          }

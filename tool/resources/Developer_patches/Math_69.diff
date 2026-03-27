@@ -1,0 +1,7 @@
+diff --git a/Math_69/src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java b/Math_69/src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java
+index 83b4c41..dc83314 100644
+--- a/Math_69/src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java
++++ b/Math_69/src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java
+@@ -171 +171 @@ public class PearsonsCorrelation {
+-                    out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
++                    out[i][j] = 2 * tDistribution.cumulativeProbability(-t);

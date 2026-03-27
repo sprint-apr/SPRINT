@@ -1,0 +1,16 @@
+diff --git a/JacksonDatabind_47/src/main/java/com/fasterxml/jackson/databind/AnnotationIntrospector.java b/JacksonDatabind_47/src/main/java/com/fasterxml/jackson/databind/AnnotationIntrospector.java
+index dab3227..3966997 100644
+--- a/JacksonDatabind_47/src/main/java/com/fasterxml/jackson/databind/AnnotationIntrospector.java
++++ b/JacksonDatabind_47/src/main/java/com/fasterxml/jackson/databind/AnnotationIntrospector.java
+@@ -815,0 +816 @@ public abstract class AnnotationIntrospector
++                Class<?> currRaw = type.getRawClass();
+@@ -818,0 +820 @@ public abstract class AnnotationIntrospector
++                    if (serClass.isAssignableFrom(currRaw)) { // common case
+@@ -819,0 +822,7 @@ public abstract class AnnotationIntrospector
++                    } else if (currRaw.isAssignableFrom(serClass)) { // specialization, ok as well
++                        type = tf.constructSpecializedType(type, serClass);
++                    } else {
++                        throw new JsonMappingException(null,
++                                String.format("Can not refine serialization type %s into %s; types not related",
++                                        type, serClass.getName()));
++                    }

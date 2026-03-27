@@ -1,0 +1,21 @@
+diff --git a/Codec_1/src/java/org/apache/commons/codec/language/Caverphone.java b/Codec_1/src/java/org/apache/commons/codec/language/Caverphone.java
+index 0712295..ea43985 100644
+--- a/Codec_1/src/java/org/apache/commons/codec/language/Caverphone.java
++++ b/Codec_1/src/java/org/apache/commons/codec/language/Caverphone.java
+@@ -59 +59 @@ public class Caverphone implements StringEncoder {
+-        txt = txt.toLowerCase();
++        txt = txt.toLowerCase(java.util.Locale.ENGLISH);
+diff --git a/Codec_1/src/java/org/apache/commons/codec/language/Metaphone.java b/Codec_1/src/java/org/apache/commons/codec/language/Metaphone.java
+index 88fea67..a90e0ae 100644
+--- a/Codec_1/src/java/org/apache/commons/codec/language/Metaphone.java
++++ b/Codec_1/src/java/org/apache/commons/codec/language/Metaphone.java
+@@ -88 +88 @@ public class Metaphone implements StringEncoder {
+-            return txt.toUpperCase() ;
++            return txt.toUpperCase(java.util.Locale.ENGLISH) ;
+diff --git a/Codec_1/src/java/org/apache/commons/codec/language/SoundexUtils.java b/Codec_1/src/java/org/apache/commons/codec/language/SoundexUtils.java
+index 1c6b983..2b04c08 100644
+--- a/Codec_1/src/java/org/apache/commons/codec/language/SoundexUtils.java
++++ b/Codec_1/src/java/org/apache/commons/codec/language/SoundexUtils.java
+@@ -53 +53 @@ final class SoundexUtils {
+-            return str.toUpperCase();
++            return str.toUpperCase(java.util.Locale.ENGLISH);

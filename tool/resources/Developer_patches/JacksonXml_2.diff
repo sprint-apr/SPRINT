@@ -1,0 +1,40 @@
+diff --git a/JacksonXml_2/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.java b/JacksonXml_2/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.java
+index fe37ee9..5e03896 100644
+--- a/JacksonXml_2/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.java
++++ b/JacksonXml_2/src/main/java/com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.java
+@@ -61,0 +62 @@ public class XmlTokenStream
++    protected boolean _mixedText;
+@@ -323,0 +325 @@ public class XmlTokenStream
++            final boolean startElementNext = _xmlReader.getEventType() == XMLStreamReader.START_ELEMENT;
+@@ -325 +327,3 @@ public class XmlTokenStream
+-            if (_xmlReader.getEventType() == XMLStreamReader.START_ELEMENT) {
++            if (startElementNext) {
++                if (text == null || _allWs(text)) {
++                    _mixedText = false;
+@@ -326,0 +331,4 @@ public class XmlTokenStream
++                }
++                _mixedText = true;
++                _textValue = text;
++                return (_currentState = XML_TEXT);
+@@ -329,0 +338 @@ public class XmlTokenStream
++                _mixedText = false;
+@@ -332,0 +342 @@ public class XmlTokenStream
++            _mixedText = false;
+@@ -339,0 +350,4 @@ public class XmlTokenStream
++            if (_mixedText){
++                _mixedText = false;
++                return _initStartElement();
++            }
+@@ -505,0 +520,12 @@ public class XmlTokenStream
++    protected boolean _allWs(String str)
++    {
++        final int len = (str == null) ? 0 : str.length();
++        if (len > 0) {
++            for (int i = 0; i < len; ++i) {
++                if (str.charAt(i) > ' ') {
++                    return false;
++                }
++            }
++        }
++        return true;
++    }

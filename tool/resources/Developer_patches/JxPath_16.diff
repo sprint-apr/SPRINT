@@ -1,0 +1,15 @@
+diff --git a/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java b/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
+index fcc1f18..55c2b98 100644
+--- a/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
++++ b/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
+@@ -147,2 +147 @@ public class DOMNodePointer extends NodePointer {
+-                    return nodeType == Node.ELEMENT_NODE
+-                            || nodeType == Node.DOCUMENT_NODE;
++                    return true;
+diff --git a/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java b/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java
+index 601db7c..4ff42c7 100644
+--- a/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java
++++ b/JxPath_16/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java
+@@ -391 +391 @@ public class JDOMNodePointer extends NodePointer {
+-                    return (node instanceof Element) || (node instanceof Document);
++                    return true;

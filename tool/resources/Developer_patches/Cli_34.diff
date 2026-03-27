@@ -1,0 +1,14 @@
+diff --git a/Cli_34/src/main/java/org/apache/commons/cli/Option.java b/Cli_34/src/main/java/org/apache/commons/cli/Option.java
+index 11a3685..66c7ef9 100644
+--- a/Cli_34/src/main/java/org/apache/commons/cli/Option.java
++++ b/Cli_34/src/main/java/org/apache/commons/cli/Option.java
+@@ -72 +72 @@ public class Option implements Cloneable, Serializable
+-    private Class type;
++    private Class type = String.class;
+diff --git a/Cli_34/src/main/java/org/apache/commons/cli/OptionBuilder.java b/Cli_34/src/main/java/org/apache/commons/cli/OptionBuilder.java
+index f9eb13a..6fd1b43 100644
+--- a/Cli_34/src/main/java/org/apache/commons/cli/OptionBuilder.java
++++ b/Cli_34/src/main/java/org/apache/commons/cli/OptionBuilder.java
+@@ -84 +84 @@ public final class OptionBuilder
+-        type = null;
++        type = String.class;

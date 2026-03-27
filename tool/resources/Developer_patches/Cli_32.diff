@@ -1,0 +1,11 @@
+diff --git a/Cli_32/src/main/java/org/apache/commons/cli/HelpFormatter.java b/Cli_32/src/main/java/org/apache/commons/cli/HelpFormatter.java
+index 6b74e4e..7d8a901 100644
+--- a/Cli_32/src/main/java/org/apache/commons/cli/HelpFormatter.java
++++ b/Cli_32/src/main/java/org/apache/commons/cli/HelpFormatter.java
+@@ -937,5 +937 @@ public class HelpFormatter
+-        while ((pos <= text.length()) && ((c = text.charAt(pos)) != ' ')
+-               && (c != '\n') && (c != '\r'))
+-        {
+-            ++pos;
+-        }        
++        

@@ -1,0 +1,6 @@
+diff --git a/Mockito_7/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java b/Mockito_7/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
+index 2d6c07b..80bd908 100644
+--- a/Mockito_7/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
++++ b/Mockito_7/src/org/mockito/internal/util/reflection/GenericMetadataSupport.java
+@@ -378,0 +379 @@ public abstract class GenericMetadataSupport {
++            registerTypeParametersOn(new TypeVariable[] { typeVariable });

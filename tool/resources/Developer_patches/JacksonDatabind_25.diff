@@ -1,0 +1,28 @@
+diff --git a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java
+index a0cbf16..8a737aa 100644
+--- a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java
++++ b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java
+@@ -1757 +1757 @@ public abstract class BasicDeserializerFactory
+-                type = (T) type.narrowBy(subclass);
++                type = (T) ctxt.getTypeFactory().constructSpecializedType(type, subclass);
+diff --git a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/DeserializerCache.java b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/DeserializerCache.java
+index d79c8c8..c6f12c1 100644
+--- a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/DeserializerCache.java
++++ b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/deser/DeserializerCache.java
+@@ -477 +477 @@ public final class DeserializerCache
+-                type = type.narrowBy(subclass);
++                type = ctxt.getTypeFactory().constructSpecializedType(type, subclass);
+diff --git a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java
+index b991c7a..ef865d1 100644
+--- a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java
++++ b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java
+@@ -177 +177 @@ public abstract class TypeDeserializerBase
+-                    type = _baseType.narrowBy(type.getRawClass());
++                    type = ctxt.getTypeFactory().constructSpecializedType(_baseType, type.getRawClass());
+diff --git a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/module/SimpleAbstractTypeResolver.java b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/module/SimpleAbstractTypeResolver.java
+index 82de4d2..ff70711 100644
+--- a/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/module/SimpleAbstractTypeResolver.java
++++ b/JacksonDatabind_25/src/main/java/com/fasterxml/jackson/databind/module/SimpleAbstractTypeResolver.java
+@@ -80 +80 @@ public class SimpleAbstractTypeResolver
+-        return type.narrowBy(dst);
++        return config.getTypeFactory().constructSpecializedType(type, dst);

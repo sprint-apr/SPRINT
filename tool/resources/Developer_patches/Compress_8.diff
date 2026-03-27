@@ -1,0 +1,54 @@
+diff --git a/Compress_8/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/Compress_8/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index 31ef536..27b2a00 100644
+--- a/Compress_8/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/Compress_8/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -53 +52,0 @@ public class TarUtils {
+-        boolean stillPadding = true;
+@@ -56,0 +56,5 @@ public class TarUtils {
++        if (length < 2){
++            throw new IllegalArgumentException("Length "+length+" must be at least 2");
++        }
++
++        boolean allNUL = true;
+@@ -58,2 +62,2 @@ public class TarUtils {
+-            final byte currentByte = buffer[i];
+-            if (currentByte == 0) {
++            if (buffer[i] != 0){
++                allNUL = false;
+@@ -61,0 +66,4 @@ public class TarUtils {
++        }
++        if (allNUL) {
++            return 0L;
++        }
+@@ -64,5 +72,4 @@ public class TarUtils {
+-            if (currentByte == (byte) ' ' || currentByte == '0') {
+-                if (stillPadding) {
+-                   continue;
+-            }
+-                if (currentByte == (byte) ' ') {
++        while (start < end){
++            if (buffer[start] == ' '){
++                start++;
++            } else {
+@@ -70 +76,0 @@ public class TarUtils {
+-                }
+@@ -71,0 +78 @@ public class TarUtils {
++        }
+@@ -73,0 +81,8 @@ public class TarUtils {
++        byte trailer;
++        trailer = buffer[end-1];
++        if (trailer == 0 || trailer == ' '){
++            end--;
++        } else {
++            throw new IllegalArgumentException(
++                    exceptionMessage(buffer, offset, length, end-1, trailer));
++        }
+@@ -74,0 +90,4 @@ public class TarUtils {
++        trailer = buffer[end-1];
++        if (trailer == 0 || trailer == ' '){
++            end--;
++        }
+@@ -76 +95,2 @@ public class TarUtils {
+-            stillPadding = false;
++        for ( ;start < end; start++) {
++            final byte currentByte = buffer[start];

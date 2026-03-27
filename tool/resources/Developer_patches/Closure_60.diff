@@ -1,0 +1,12 @@
+diff --git a/Closure_60/src/com/google/javascript/jscomp/NodeUtil.java b/Closure_60/src/com/google/javascript/jscomp/NodeUtil.java
+index 7f20c2e..43a296f 100644
+--- a/Closure_60/src/com/google/javascript/jscomp/NodeUtil.java
++++ b/Closure_60/src/com/google/javascript/jscomp/NodeUtil.java
+@@ -107,0 +108,2 @@ public final class NodeUtil {
++      case Token.VOID:
++        return TernaryValue.FALSE;
+@@ -135,0 +138 @@ public final class NodeUtil {
++        if (!mayHaveSideEffects(n.getFirstChild())) {
+@@ -136,0 +140,2 @@ public final class NodeUtil {
++        }
++        break;

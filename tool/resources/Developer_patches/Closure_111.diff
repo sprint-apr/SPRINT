@@ -1,0 +1,8 @@
+diff --git a/Closure_111/src/com/google/javascript/jscomp/type/ClosureReverseAbstractInterpreter.java b/Closure_111/src/com/google/javascript/jscomp/type/ClosureReverseAbstractInterpreter.java
+index 1706e34..e3c599d 100644
+--- a/Closure_111/src/com/google/javascript/jscomp/type/ClosureReverseAbstractInterpreter.java
++++ b/Closure_111/src/com/google/javascript/jscomp/type/ClosureReverseAbstractInterpreter.java
+@@ -54 +54,2 @@ public class ClosureReverseAbstractInterpreter
+-          return topType;
++          return topType.isAllType() ?
++              getNativeType(ARRAY_TYPE) : topType;

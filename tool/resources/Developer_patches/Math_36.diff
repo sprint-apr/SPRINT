@@ -1,0 +1,20 @@
+diff --git a/Math_36/src/main/java/org/apache/commons/math/fraction/BigFraction.java b/Math_36/src/main/java/org/apache/commons/math/fraction/BigFraction.java
+index 6181ec3..a6672e4 100644
+--- a/Math_36/src/main/java/org/apache/commons/math/fraction/BigFraction.java
++++ b/Math_36/src/main/java/org/apache/commons/math/fraction/BigFraction.java
+@@ -685,0 +686 @@ public class BigFraction
++        if (Double.isNaN(result)) {
+@@ -687,0 +689,5 @@ public class BigFraction
++            int shift = Math.max(numerator.bitLength(),
++                                 denominator.bitLength()) - Double.MAX_EXPONENT;
++            result = numerator.shiftRight(shift).doubleValue() /
++                denominator.shiftRight(shift).doubleValue();
++        }
+@@ -732,0 +739 @@ public class BigFraction
++        if (Double.isNaN(result)) {
+@@ -734,0 +742,5 @@ public class BigFraction
++            int shift = Math.max(numerator.bitLength(),
++                                 denominator.bitLength()) - Float.MAX_EXPONENT;
++            result = numerator.shiftRight(shift).floatValue() /
++                denominator.shiftRight(shift).floatValue();
++        }

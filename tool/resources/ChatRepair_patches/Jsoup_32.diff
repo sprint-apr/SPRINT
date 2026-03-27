@@ -1,0 +1,1 @@
+clone.classNames = new LinkedHashSet<String>(classNames != null ? classNames : Collections.<String>emptySet());

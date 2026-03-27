@@ -1,0 +1,16 @@
+diff --git a/Closure_6/src/com/google/javascript/jscomp/TypeValidator.java b/Closure_6/src/com/google/javascript/jscomp/TypeValidator.java
+index 8cdb02a..12ce5b3 100644
+--- a/Closure_6/src/com/google/javascript/jscomp/TypeValidator.java
++++ b/Closure_6/src/com/google/javascript/jscomp/TypeValidator.java
+@@ -366,3 +365,0 @@ class TypeValidator {
+-      if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) {
+-        registerMismatch(rightType, leftType, null);
+-      } else {
+@@ -385 +381,0 @@ class TypeValidator {
+-      }
+@@ -405,3 +400,0 @@ class TypeValidator {
+-      if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) {
+-        registerMismatch(rightType, leftType, null);
+-      } else {
+@@ -409 +401,0 @@ class TypeValidator {
+-      }

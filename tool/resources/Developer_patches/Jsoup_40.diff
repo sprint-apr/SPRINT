@@ -1,0 +1,6 @@
+diff --git a/Jsoup_40/src/main/java/org/jsoup/nodes/DocumentType.java b/Jsoup_40/src/main/java/org/jsoup/nodes/DocumentType.java
+index 4b4a5e9..fc1ca23 100644
+--- a/Jsoup_40/src/main/java/org/jsoup/nodes/DocumentType.java
++++ b/Jsoup_40/src/main/java/org/jsoup/nodes/DocumentType.java
+@@ -22 +21,0 @@ public class DocumentType extends Node {
+-        Validate.notEmpty(name);

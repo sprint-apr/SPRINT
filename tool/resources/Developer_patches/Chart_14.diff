@@ -1,0 +1,24 @@
+diff --git a/Chart_14/source/org/jfree/chart/plot/CategoryPlot.java b/Chart_14/source/org/jfree/chart/plot/CategoryPlot.java
+index dc7d06b..5d831f7 100644
+--- a/Chart_14/source/org/jfree/chart/plot/CategoryPlot.java
++++ b/Chart_14/source/org/jfree/chart/plot/CategoryPlot.java
+@@ -2165,0 +2166,3 @@ public class CategoryPlot extends Plot implements ValueAxisPlot,
++        if (markers == null) {
++            return false;
++        }
+@@ -2447,0 +2451,3 @@ public class CategoryPlot extends Plot implements ValueAxisPlot,
++        if (markers == null) {
++            return false;
++        }
+diff --git a/Chart_14/source/org/jfree/chart/plot/XYPlot.java b/Chart_14/source/org/jfree/chart/plot/XYPlot.java
+index 50cf416..243f94b 100644
+--- a/Chart_14/source/org/jfree/chart/plot/XYPlot.java
++++ b/Chart_14/source/org/jfree/chart/plot/XYPlot.java
+@@ -2292,0 +2293,3 @@ public class XYPlot extends Plot implements ValueAxisPlot, Zoomable,
++        if (markers == null) {
++            return false;
++        }
+@@ -2528,0 +2532,3 @@ public class XYPlot extends Plot implements ValueAxisPlot, Zoomable,
++        if (markers == null) {
++            return false;
++        }

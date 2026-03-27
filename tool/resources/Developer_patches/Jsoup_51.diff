@@ -1,0 +1,7 @@
+diff --git a/Jsoup_51/src/main/java/org/jsoup/parser/CharacterReader.java b/Jsoup_51/src/main/java/org/jsoup/parser/CharacterReader.java
+index 6b0b9fb..a34311a 100644
+--- a/Jsoup_51/src/main/java/org/jsoup/parser/CharacterReader.java
++++ b/Jsoup_51/src/main/java/org/jsoup/parser/CharacterReader.java
+@@ -300 +300 @@ final class CharacterReader {
+-        return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z');
++        return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || Character.isLetter(c);

@@ -1,0 +1,12 @@
+diff --git a/Lang_18/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java b/Lang_18/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
+index e043323..51da48e 100644
+--- a/Lang_18/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
++++ b/Lang_18/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
+@@ -495,3 +495 @@ public class FastDateFormat extends Format {
+-                if (tokenLen >= 4) {
+-                    rule = selectNumberRule(Calendar.YEAR, tokenLen);
+-                } else {
++                if (tokenLen == 2) {
+@@ -498,0 +497,2 @@ public class FastDateFormat extends Format {
++                } else {
++                    rule = selectNumberRule(Calendar.YEAR, tokenLen < 4 ? 4 : tokenLen);

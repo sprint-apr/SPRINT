@@ -1,0 +1,11 @@
+diff --git a/Closure_12/src/com/google/javascript/jscomp/MaybeReachingVariableUse.java b/Closure_12/src/com/google/javascript/jscomp/MaybeReachingVariableUse.java
+index add5c66..8361ac9 100644
+--- a/Closure_12/src/com/google/javascript/jscomp/MaybeReachingVariableUse.java
++++ b/Closure_12/src/com/google/javascript/jscomp/MaybeReachingVariableUse.java
+@@ -159,0 +160,6 @@ class MaybeReachingVariableUse extends
++    List<DiGraphEdge<Node, Branch>> branchEdges = getCfg().getOutEdges(cfgNode);
++    for (DiGraphEdge<Node, Branch> edge : branchEdges) {
++      if (edge.getValue() == Branch.ON_EX) {
++        return true;
++      }
++    }

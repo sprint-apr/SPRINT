@@ -1,0 +1,7 @@
+diff --git a/JacksonDatabind_57/src/main/java/com/fasterxml/jackson/databind/ObjectReader.java b/JacksonDatabind_57/src/main/java/com/fasterxml/jackson/databind/ObjectReader.java
+index 10fddc4..2279c1f 100644
+--- a/JacksonDatabind_57/src/main/java/com/fasterxml/jackson/databind/ObjectReader.java
++++ b/JacksonDatabind_57/src/main/java/com/fasterxml/jackson/databind/ObjectReader.java
+@@ -1441 +1441 @@ public class ObjectReader
+-        return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src), 
++        return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src, offset, length),

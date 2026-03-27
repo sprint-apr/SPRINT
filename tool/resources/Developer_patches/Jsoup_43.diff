@@ -1,0 +1,7 @@
+diff --git a/Jsoup_43/src/main/java/org/jsoup/nodes/Element.java b/Jsoup_43/src/main/java/org/jsoup/nodes/Element.java
+index f1ae8dd..1575fd0 100644
+--- a/Jsoup_43/src/main/java/org/jsoup/nodes/Element.java
++++ b/Jsoup_43/src/main/java/org/jsoup/nodes/Element.java
+@@ -574 +574 @@ public class Element extends Node {
+-            if (element.equals(search))
++            if (element == search)

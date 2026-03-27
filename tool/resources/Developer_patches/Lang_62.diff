@@ -1,0 +1,16 @@
+diff --git a/Lang_62/src/java/org/apache/commons/lang/Entities.java b/Lang_62/src/java/org/apache/commons/lang/Entities.java
+index 9570068..a45e004 100644
+--- a/Lang_62/src/java/org/apache/commons/lang/Entities.java
++++ b/Lang_62/src/java/org/apache/commons/lang/Entities.java
+@@ -849,0 +850,3 @@ class Entities {
++                            if (entityValue > 0xFFFF) {
++                                entityValue = -1;
++                            }
+@@ -919,0 +923 @@ class Entities {
++                                        break;
+@@ -924,0 +929,3 @@ class Entities {
++                                if (entityValue > 0xFFFF) {
++                                    entityValue = -1;
++                                }
+@@ -925,0 +933 @@ class Entities {
++                                entityValue = -1;

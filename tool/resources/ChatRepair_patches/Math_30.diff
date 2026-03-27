@@ -1,0 +1,1 @@
+final double n1n2prod = (double) n1 * n2;

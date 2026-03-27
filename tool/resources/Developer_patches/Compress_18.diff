@@ -1,0 +1,9 @@
+diff --git a/Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java b/Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+index 4c57133..5a7e4a3 100644
+--- a/Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ b/Compress_18/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -456,0 +457 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++        while (name.endsWith("/")) {
+@@ -458,0 +460,2 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++            name = name.substring(0, name.length() - 1);
++        }

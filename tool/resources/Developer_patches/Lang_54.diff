@@ -1,0 +1,8 @@
+diff --git a/Lang_54/src/java/org/apache/commons/lang/LocaleUtils.java b/Lang_54/src/java/org/apache/commons/lang/LocaleUtils.java
+index 139d9a7..9607953 100644
+--- a/Lang_54/src/java/org/apache/commons/lang/LocaleUtils.java
++++ b/Lang_54/src/java/org/apache/commons/lang/LocaleUtils.java
+@@ -113,0 +114,3 @@ public class LocaleUtils {
++            if (ch3 == '_') {
++                return new Locale(str.substring(0, 2), "", str.substring(4));
++            }

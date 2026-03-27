@@ -1,0 +1,10 @@
+diff --git a/JacksonDatabind_3/src/main/java/com/fasterxml/jackson/databind/deser/std/StringArrayDeserializer.java b/JacksonDatabind_3/src/main/java/com/fasterxml/jackson/databind/deser/std/StringArrayDeserializer.java
+index fdfeecb..5475ba5 100644
+--- a/JacksonDatabind_3/src/main/java/com/fasterxml/jackson/databind/deser/std/StringArrayDeserializer.java
++++ b/JacksonDatabind_3/src/main/java/com/fasterxml/jackson/databind/deser/std/StringArrayDeserializer.java
+@@ -66 +66 @@ public final class StringArrayDeserializer
+-                value = _elementDeserializer.getNullValue();
++                value = null; // since we have established that '_elementDeserializer == null' earlier
+@@ -95 +95 @@ public final class StringArrayDeserializer
+-            String value = (t == JsonToken.VALUE_NULL) ? null : deser.deserialize(jp, ctxt);
++            String value = (t == JsonToken.VALUE_NULL) ? deser.getNullValue() : deser.deserialize(jp, ctxt);

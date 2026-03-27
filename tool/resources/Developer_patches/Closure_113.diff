@@ -1,0 +1,7 @@
+diff --git a/Closure_113/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java b/Closure_113/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java
+index 70bf1b0..85cee7c 100644
+--- a/Closure_113/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java
++++ b/Closure_113/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java
+@@ -329 +329 @@ class ProcessClosurePrimitives extends AbstractPostOrderCallback
+-      if (provided != null) {
++      if (provided != null || requiresLevel.isOn()) {

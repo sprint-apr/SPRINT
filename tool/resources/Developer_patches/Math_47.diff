@@ -1,0 +1,16 @@
+diff --git a/Math_47/src/main/java/org/apache/commons/math/complex/Complex.java b/Math_47/src/main/java/org/apache/commons/math/complex/Complex.java
+index bebfead..137765c 100644
+--- a/Math_47/src/main/java/org/apache/commons/math/complex/Complex.java
++++ b/Math_47/src/main/java/org/apache/commons/math/complex/Complex.java
+@@ -81,0 +82 @@ public class Complex implements FieldElement<Complex>, Serializable  {
++    private final transient boolean isZero;
+@@ -104,0 +106 @@ public class Complex implements FieldElement<Complex>, Serializable  {
++        isZero = real == 0 && imaginary == 0;
+@@ -256,2 +258,2 @@ public class Complex implements FieldElement<Complex>, Serializable  {
+-        if (divisor.getReal() == 0.0 && divisor.getImaginary() == 0.0) {
+-            return NaN;
++        if (divisor.isZero) {
++            return isZero ? NaN : INF;
+@@ -293 +295 @@ public class Complex implements FieldElement<Complex>, Serializable  {
+-            return NaN;
++            return isZero ? NaN : INF;

@@ -1,0 +1,7 @@
+diff --git a/Compress_19/src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java b/Compress_19/src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java
+index 134871b..fbcec48 100644
+--- a/Compress_19/src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java
++++ b/Compress_19/src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java
+@@ -259 +259 @@ public class Zip64ExtendedInformationExtraField implements ZipExtraField {
+-            if (rawCentralDirectoryData.length != expectedLength) {
++            if (rawCentralDirectoryData.length < expectedLength) {

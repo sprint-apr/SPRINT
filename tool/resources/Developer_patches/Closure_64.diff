@@ -1,0 +1,16 @@
+diff --git a/Closure_64/src/com/google/javascript/jscomp/Compiler.java b/Closure_64/src/com/google/javascript/jscomp/Compiler.java
+index 71f76d8..45d88ba 100644
+--- a/Closure_64/src/com/google/javascript/jscomp/Compiler.java
++++ b/Closure_64/src/com/google/javascript/jscomp/Compiler.java
+@@ -1432 +1432 @@ public class Compiler extends AbstractCompiler {
+-        String code = toSource(root, sourceMap);
++        String code = toSource(root, sourceMap, inputSeqNum == 0);
+@@ -1461 +1461 @@ public class Compiler extends AbstractCompiler {
+-    return toSource(n, null);
++    return toSource(n, null, true);
+@@ -1467 +1467 @@ public class Compiler extends AbstractCompiler {
+-  private String toSource(Node n, SourceMap sourceMap) {
++  private String toSource(Node n, SourceMap sourceMap, boolean firstOutput) {
+@@ -1473 +1473 @@ public class Compiler extends AbstractCompiler {
+-    builder.setTagAsStrict(
++    builder.setTagAsStrict(firstOutput &&

@@ -1,0 +1,7 @@
+diff --git a/JacksonDatabind_46/src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java b/JacksonDatabind_46/src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java
+index b724510..6083faf 100644
+--- a/JacksonDatabind_46/src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java
++++ b/JacksonDatabind_46/src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java
+@@ -156 +156 @@ public class ReferenceType extends SimpleType
+-        sb.append(';');
++        sb.append(">;");

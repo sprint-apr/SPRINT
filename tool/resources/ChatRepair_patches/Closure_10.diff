@@ -1,0 +1,1 @@
+return mayBeStringHelper(n) || allResultsMatch(n, MAY_BE_STRING_PREDICATE);

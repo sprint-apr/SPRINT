@@ -1,0 +1,55 @@
+diff --git a/Compress_2/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java b/Compress_2/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java
+index acfe327..76e2866 100644
+--- a/Compress_2/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java
++++ b/Compress_2/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java
+@@ -41,0 +42 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++    private ArArchiveEntry currentEntry = null;
+@@ -45,0 +47 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++    private long entryOffset = -1;
+@@ -59,0 +62,5 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++        if (currentEntry != null) {
++            final long entryEnd = entryOffset + currentEntry.getLength();
++            while (offset < entryEnd) {
++                int x = read();
++                if (x == -1) {
+@@ -61,0 +69,5 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++                    return null;
++                }
++            }
++            currentEntry = null;
++        }
+@@ -76,0 +89,2 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++        if (offset % 2 != 0) {
++            if (read() < 0) {
+@@ -77,0 +92,3 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++                return null;
++            }
++        }
+@@ -83,3 +99,0 @@ public class ArArchiveInputStream extends ArchiveInputStream {
+-        if (offset % 2 != 0) {
+-            read();
+-        }
+@@ -114 +128,2 @@ public class ArArchiveInputStream extends ArchiveInputStream {
+-        return new ArArchiveEntry(new String(name).trim(),
++        entryOffset = offset;
++        currentEntry = new ArArchiveEntry(new String(name).trim(),
+@@ -116,0 +132 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++        return currentEntry;
+@@ -128,0 +145 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++        currentEntry = null;
+@@ -132,3 +149,3 @@ public class ArArchiveInputStream extends ArchiveInputStream {
+-        final int ret = input.read();
+-        offset += (ret > 0 ? 1 : 0);
+-        return ret;
++        byte[] single = new byte[1];
++        int num = read(single, 0, 1);
++        return num == -1 ? -1 : single[0] & 0xff;
+@@ -142,0 +160,8 @@ public class ArArchiveInputStream extends ArchiveInputStream {
++        if (currentEntry != null) {
++            final long entryEnd = entryOffset + currentEntry.getLength();
++            if (len > 0 && entryEnd > offset) {
++                toRead = (int) Math.min(len, entryEnd - offset);
++            } else {
++                return -1;
++            }
++        }

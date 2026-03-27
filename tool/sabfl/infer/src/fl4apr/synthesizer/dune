@@ -1,0 +1,16 @@
+; Copyright (c) Facebook, Inc. and its affiliates.
+;
+; This source code is licensed under the MIT license found in the
+; LICENSE file in the root directory of this source tree.
+
+(library
+ (name ISynthesizer)
+ (public_name infer.Fl4apr.ISynthesizer)
+ (flags
+  (:standard -open Core -open IR -open Absint -open IStdlib -open IStd -open
+    ATDGenerated -open IBase -open Iprogram -open Data -open BasicDomain
+    -open Botup))
+ (libraries core comby IStdlib Absint ATDGenerated IBase IR ocamlgraph
+   Iprogram Data BasicDomain Botup)
+ (preprocess
+  (pps ppx_compare ppx_deriving_yojson)))

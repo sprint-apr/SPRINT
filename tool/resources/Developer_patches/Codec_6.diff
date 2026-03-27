@@ -1,0 +1,13 @@
+diff --git a/Codec_6/src/java/org/apache/commons/codec/binary/Base64InputStream.java b/Codec_6/src/java/org/apache/commons/codec/binary/Base64InputStream.java
+index 583a584..479638b 100644
+--- a/Codec_6/src/java/org/apache/commons/codec/binary/Base64InputStream.java
++++ b/Codec_6/src/java/org/apache/commons/codec/binary/Base64InputStream.java
+@@ -147,0 +148 @@ public class Base64InputStream extends FilterInputStream {
++            int readLen = 0;
+@@ -163,0 +165 @@ public class Base64InputStream extends FilterInputStream {
++            while (readLen == 0) {
+@@ -178 +180,3 @@ public class Base64InputStream extends FilterInputStream {
+-            return base64.readResults(b, offset, len);
++                readLen = base64.readResults(b, offset, len);
++            }
++            return readLen;

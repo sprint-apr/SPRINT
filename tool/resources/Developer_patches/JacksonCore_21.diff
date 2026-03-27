@@ -1,0 +1,8 @@
+diff --git a/JacksonCore_21/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java b/JacksonCore_21/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
+index e6558fd..5274f33 100644
+--- a/JacksonCore_21/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
++++ b/JacksonCore_21/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
+@@ -237,0 +238 @@ public class FilteringParserDelegate extends JsonParserDelegate
++            if (!_includePath) {
+@@ -247,0 +249 @@ public class FilteringParserDelegate extends JsonParserDelegate
++                }

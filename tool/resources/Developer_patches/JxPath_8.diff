@@ -1,0 +1,12 @@
+diff --git a/JxPath_8/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java b/JxPath_8/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
+index c6e0041..3711fb9 100644
+--- a/JxPath_8/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
++++ b/JxPath_8/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
+@@ -75,0 +76,3 @@ public abstract class CoreOperationRelationalExpression extends CoreOperation {
++        if (Double.isNaN(ld)) {
++            return false;
++        }
+@@ -76,0 +80,3 @@ public abstract class CoreOperationRelationalExpression extends CoreOperation {
++        if (Double.isNaN(rd)) {
++            return false;
++        }

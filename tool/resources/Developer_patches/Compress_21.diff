@@ -1,0 +1,11 @@
+diff --git a/Compress_21/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java b/Compress_21/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java
+index 05912b9..317d778 100644
+--- a/Compress_21/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java
++++ b/Compress_21/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java
+@@ -639,2 +639 @@ public class SevenZOutputFile {
+-            --shift;
+-            if (shift == 0) {
++            if (--shift < 0) {
+@@ -646 +645 @@ public class SevenZOutputFile {
+-        if (length > 0 && shift > 0) {
++        if (shift != 7) {

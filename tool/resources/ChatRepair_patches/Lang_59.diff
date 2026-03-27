@@ -1,0 +1,1 @@
+str.getChars(0, Math.min(strLen, width), buffer, size);

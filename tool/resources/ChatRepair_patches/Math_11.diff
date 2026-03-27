@@ -1,0 +1,1 @@
+return FastMath.pow(FastMath.sqrt(2 * FastMath.PI), -dim) *

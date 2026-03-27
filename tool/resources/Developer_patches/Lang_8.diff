@@ -1,0 +1,10 @@
+diff --git a/Lang_8/src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java b/Lang_8/src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java
+index 5c0edda..c952309 100644
+--- a/Lang_8/src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java
++++ b/Lang_8/src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java
+@@ -1098 +1097,0 @@ public class FastDatePrinter implements DatePrinter, Serializable {
+-        private final TimeZone zone;
+@@ -1112 +1110,0 @@ public class FastDatePrinter implements DatePrinter, Serializable {
+-            zone = timeZone;
+@@ -1133,0 +1132 @@ public class FastDatePrinter implements DatePrinter, Serializable {
++            TimeZone zone = calendar.getTimeZone();

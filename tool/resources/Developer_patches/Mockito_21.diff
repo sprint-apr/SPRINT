@@ -1,0 +1,33 @@
+diff --git a/Mockito_21/src/org/mockito/internal/creation/instance/ConstructorInstantiator.java b/Mockito_21/src/org/mockito/internal/creation/instance/ConstructorInstantiator.java
+index 0cc8226..9f0201a 100644
+--- a/Mockito_21/src/org/mockito/internal/creation/instance/ConstructorInstantiator.java
++++ b/Mockito_21/src/org/mockito/internal/creation/instance/ConstructorInstantiator.java
+@@ -17 +17 @@ public class ConstructorInstantiator implements Instantiator {
+-        return withOuterClass(cls);
++        return withParams(cls, outerClassInstance);
+@@ -20 +20 @@ public class ConstructorInstantiator implements Instantiator {
+-    private <T> T withOuterClass(Class<T> cls) {
++    private static <T> T withParams(Class<T> cls, Object... params) {
+@@ -24,2 +24,6 @@ public class ConstructorInstantiator implements Instantiator {
+-            Constructor<T> c = cls.getDeclaredConstructor(outerClassInstance.getClass());
+-            return c.newInstance(outerClassInstance);
++            for (Constructor<?> constructor : cls.getDeclaredConstructors()) {
++                Class<?>[] types = constructor.getParameterTypes();
++                if (paramsMatch(types, params)) {
++                    return (T) constructor.newInstance(params);
++                }
++            }
+@@ -28,0 +33 @@ public class ConstructorInstantiator implements Instantiator {
++        throw paramsException(cls, null);
+@@ -35,0 +41,11 @@ public class ConstructorInstantiator implements Instantiator {
++    private static boolean paramsMatch(Class<?>[] types, Object[] params) {
++        if (params.length != types.length) {
++            return false;
++        }
++        for (int i = 0; i < params.length; i++) {
++            if (!types[i].isInstance(params[i])) {
++                return false;
++            }
++        }
++        return true;
++    }

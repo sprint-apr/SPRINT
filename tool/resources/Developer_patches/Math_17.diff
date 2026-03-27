@@ -1,0 +1,10 @@
+diff --git a/Math_17/src/main/java/org/apache/commons/math3/dfp/Dfp.java b/Math_17/src/main/java/org/apache/commons/math3/dfp/Dfp.java
+index 0f78330..3a91982 100644
+--- a/Math_17/src/main/java/org/apache/commons/math3/dfp/Dfp.java
++++ b/Math_17/src/main/java/org/apache/commons/math3/dfp/Dfp.java
+@@ -1602,0 +1603 @@ public class Dfp implements FieldElement<Dfp> {
++        if (x >= 0 && x < RADIX) {
+@@ -1603,0 +1605,3 @@ public class Dfp implements FieldElement<Dfp> {
++        } else {
++            return multiply(newInstance(x));
++        }

@@ -1,0 +1,1 @@
+out[i][j] = tDistribution.cumulativeProbability(-Math.abs(t)) + (1 - tDistribution.cumulativeProbability(Math.abs(t))) ;

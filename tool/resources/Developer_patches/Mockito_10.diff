@@ -1,0 +1,26 @@
+diff --git a/Mockito_10/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java b/Mockito_10/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java
+index e2ded55..3bb7636 100644
+--- a/Mockito_10/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java
++++ b/Mockito_10/src/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java
+@@ -16,0 +17 @@ import org.mockito.invocation.InvocationOnMock;
++import org.mockito.mock.MockCreationSettings;
+@@ -71 +72 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
+-                newDeepStubMock(returnTypeGenericMetadata),
++                newDeepStubMock(returnTypeGenericMetadata, invocation.getMock()),
+@@ -87 +88,2 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
+-    private Object newDeepStubMock(GenericMetadataSupport returnTypeGenericMetadata) {
++    private Object newDeepStubMock(GenericMetadataSupport returnTypeGenericMetadata, Object parentMock) {
++        MockCreationSettings parentMockSettings = new MockUtil().getMockSettings(parentMock);
+@@ -90 +92 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
+-                withSettingsUsing(returnTypeGenericMetadata)
++                withSettingsUsing(returnTypeGenericMetadata, parentMockSettings)
+@@ -94 +96 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
+-    private MockSettings withSettingsUsing(GenericMetadataSupport returnTypeGenericMetadata) {
++    private MockSettings withSettingsUsing(GenericMetadataSupport returnTypeGenericMetadata, MockCreationSettings parentMockSettings) {
+@@ -99 +101 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
+-        return mockSettings.serializable()
++        return propagateSerializationSettings(mockSettings, parentMockSettings)
+@@ -102,0 +105,3 @@ public class ReturnsDeepStubs implements Answer<Object>, Serializable {
++    private MockSettings propagateSerializationSettings(MockSettings mockSettings, MockCreationSettings parentMockSettings) {
++        return mockSettings.serializable(parentMockSettings.getSerializableMode());
++    }

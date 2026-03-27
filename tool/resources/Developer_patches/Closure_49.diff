@@ -1,0 +1,34 @@
+diff --git a/Closure_49/src/com/google/javascript/jscomp/MakeDeclaredNamesUnique.java b/Closure_49/src/com/google/javascript/jscomp/MakeDeclaredNamesUnique.java
+index 627271f..0fcb778 100644
+--- a/Closure_49/src/com/google/javascript/jscomp/MakeDeclaredNamesUnique.java
++++ b/Closure_49/src/com/google/javascript/jscomp/MakeDeclaredNamesUnique.java
+@@ -91,8 +90,0 @@ class MakeDeclaredNamesUnique
+-    if (declarationRoot.getType() == Token.FUNCTION) {
+-      for (Node c = declarationRoot.getFirstChild().getNext().getFirstChild(); c != null; c = c.getNext()) {
+-        String name = c.getString();
+-        renamer.addDeclaredName(name);
+-      }
+-      Node functionBody = declarationRoot.getLastChild();
+-      findDeclaredNames(functionBody, null, renamer);
+-    }  else 
+@@ -129,0 +122,3 @@ class MakeDeclaredNamesUnique
++          nameStack.push(renamer);
++        }
++        break;
+@@ -130,0 +126,2 @@ class MakeDeclaredNamesUnique
++      case Token.LP: {
++          Renamer renamer = nameStack.peek().forChildScope();
+@@ -132,0 +130,4 @@ class MakeDeclaredNamesUnique
++          for (Node c = n.getFirstChild(); c != null; c = c.getNext()) {
++            String name = c.getString();
++            renamer.addDeclaredName(name);
++          }
+@@ -134,0 +136,2 @@ class MakeDeclaredNamesUnique
++          Node functionBody = n.getNext();
++          findDeclaredNames(functionBody, null, renamer);
+@@ -172,0 +176 @@ class MakeDeclaredNamesUnique
++        nameStack.pop();
+@@ -176,0 +181 @@ class MakeDeclaredNamesUnique
++      case Token.LP:
+@@ -179,0 +185 @@ class MakeDeclaredNamesUnique
++        break;

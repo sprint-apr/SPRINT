@@ -1,0 +1,10 @@
+diff --git a/Closure_83/src/com/google/javascript/jscomp/CommandLineRunner.java b/Closure_83/src/com/google/javascript/jscomp/CommandLineRunner.java
+index f146b0e..4c3b258 100644
+--- a/Closure_83/src/com/google/javascript/jscomp/CommandLineRunner.java
++++ b/Closure_83/src/com/google/javascript/jscomp/CommandLineRunner.java
+@@ -334 +334,4 @@ public class CommandLineRunner extends
+-        String param = params.getParameter(0);
++        String param = null;
++        try {
++          param = params.getParameter(0);
++        } catch (CmdLineException e) {}

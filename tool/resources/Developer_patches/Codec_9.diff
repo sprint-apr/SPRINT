@@ -1,0 +1,7 @@
+diff --git a/Codec_9/src/java/org/apache/commons/codec/binary/Base64.java b/Codec_9/src/java/org/apache/commons/codec/binary/Base64.java
+index 2cd0163..e81b7e9 100644
+--- a/Codec_9/src/java/org/apache/commons/codec/binary/Base64.java
++++ b/Codec_9/src/java/org/apache/commons/codec/binary/Base64.java
+@@ -827 +827 @@ public class Base64 implements BinaryEncoder, BinaryDecoder {
+-        long len = getEncodeLength(binaryData, MIME_CHUNK_SIZE, CHUNK_SEPARATOR);
++        long len = getEncodeLength(binaryData, isChunked ? MIME_CHUNK_SIZE : 0, CHUNK_SEPARATOR);

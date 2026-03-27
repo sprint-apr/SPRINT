@@ -1,0 +1,16 @@
+diff --git a/Math_49/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java b/Math_49/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+index 5db4884..13ebfd2 100644
+--- a/Math_49/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
++++ b/Math_49/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+@@ -345 +345 @@ public class OpenMapRealVector extends AbstractRealVector
+-        Iterator iter = res.entries.iterator();
++        Iterator iter = entries.iterator();
+@@ -358 +358 @@ public class OpenMapRealVector extends AbstractRealVector
+-        Iterator iter = res.entries.iterator();
++        Iterator iter = entries.iterator();
+@@ -370 +370 @@ public class OpenMapRealVector extends AbstractRealVector
+-        Iterator iter = res.entries.iterator();
++        Iterator iter = entries.iterator();
+@@ -383 +383 @@ public class OpenMapRealVector extends AbstractRealVector
+-        Iterator iter = res.entries.iterator();
++        Iterator iter = entries.iterator();

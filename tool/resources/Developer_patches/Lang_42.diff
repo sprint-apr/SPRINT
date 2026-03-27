@@ -1,0 +1,15 @@
+diff --git a/Lang_42/src/java/org/apache/commons/lang/Entities.java b/Lang_42/src/java/org/apache/commons/lang/Entities.java
+index 900e1a8..0d8f7f4 100644
+--- a/Lang_42/src/java/org/apache/commons/lang/Entities.java
++++ b/Lang_42/src/java/org/apache/commons/lang/Entities.java
+@@ -828 +828 @@ class Entities {
+-            char c = str.charAt(i);
++            int c = Character.codePointAt(str, i); 
+@@ -831 +831,6 @@ class Entities {
+-                if (c > 0x7F) {
++                if (c >= 0x010000 && i < len - 1) {
++                    writer.write("&#");
++                    writer.write(Integer.toString(c, 10));
++                    writer.write(';');
++                    i++;
++                } else if (c > 0x7F) { 

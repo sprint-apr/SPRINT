@@ -1,0 +1,13 @@
+diff --git a/JacksonDatabind_43/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java b/JacksonDatabind_43/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java
+index dc0b05f..4847c3c 100644
+--- a/JacksonDatabind_43/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java
++++ b/JacksonDatabind_43/src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java
+@@ -6,0 +7 @@ import com.fasterxml.jackson.core.JsonParser;
++import com.fasterxml.jackson.core.JsonToken;
+@@ -78 +78,0 @@ public final class ObjectIdValueProperty
+-        Object id = _valueDeserializer.deserialize(p, ctxt);
+@@ -85 +85 @@ public final class ObjectIdValueProperty
+-        if (id == null) {
++        if (p.hasToken(JsonToken.VALUE_NULL)) {
+@@ -87,0 +88 @@ public final class ObjectIdValueProperty
++        Object id = _valueDeserializer.deserialize(p, ctxt);

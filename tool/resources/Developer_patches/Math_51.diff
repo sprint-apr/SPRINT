@@ -1,0 +1,16 @@
+diff --git a/Math_51/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java b/Math_51/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+index e258c68..b3a23a1 100644
+--- a/Math_51/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
++++ b/Math_51/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+@@ -184,0 +185,4 @@ public abstract class BaseSecantSolver
++                case REGULA_FALSI:
++                    if (x == x1) {
++                        final double delta = FastMath.max(rtol * FastMath.abs(x1),
++                                                          atol);
+@@ -186,0 +191,4 @@ public abstract class BaseSecantSolver
++                        x0 = 0.5 * (x0 + x1 - delta);
++                        f0 = computeObjectiveValue(x0);
++                    }
++                    break;
+@@ -188,0 +197 @@ public abstract class BaseSecantSolver
++                    throw new MathInternalError();

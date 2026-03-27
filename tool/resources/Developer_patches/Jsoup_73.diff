@@ -1,0 +1,21 @@
+diff --git a/Jsoup_73/src/main/java/org/jsoup/helper/W3CDom.java b/Jsoup_73/src/main/java/org/jsoup/helper/W3CDom.java
+index f58a925..81ac932 100644
+--- a/Jsoup_73/src/main/java/org/jsoup/helper/W3CDom.java
++++ b/Jsoup_73/src/main/java/org/jsoup/helper/W3CDom.java
+@@ -21,0 +22 @@ import java.util.HashMap;
++import java.util.Stack;
+@@ -73 +74 @@ public class W3CDom {
+-        private final HashMap<String, String> namespaces = new HashMap<>();
++        private final Stack<HashMap<String, String>> namespacesStack = new Stack<>(); // stack of namespaces, prefix => urn
+@@ -77,0 +79 @@ public class W3CDom {
++            this.namespacesStack.push(new HashMap<String, String>());
+@@ -80,0 +83 @@ public class W3CDom {
++            namespacesStack.push(new HashMap<>(namespacesStack.peek())); // inherit from above on the stack
+@@ -85 +88 @@ public class W3CDom {
+-                String namespace = namespaces.get(prefix);
++                String namespace = namespacesStack.peek().get(prefix);
+@@ -115,0 +119 @@ public class W3CDom {
++            namespacesStack.pop();
+@@ -144 +148 @@ public class W3CDom {
+-                namespaces.put(prefix, attr.getValue());
++                namespacesStack.peek().put(prefix, attr.getValue());

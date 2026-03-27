@@ -1,0 +1,1 @@
+if (!isLenient() && (Double.isNaN(value) || Double.isInfinite(value))) {

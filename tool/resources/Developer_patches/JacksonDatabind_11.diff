@@ -1,0 +1,10 @@
+diff --git a/JacksonDatabind_11/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java b/JacksonDatabind_11/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+index a8bd240..e0eb639 100644
+--- a/JacksonDatabind_11/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
++++ b/JacksonDatabind_11/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+@@ -895 +895 @@ public final class TypeFactory
+-            return _unknownType();
++            context = new TypeBindings(this, (Class<?>) null);
+@@ -902 +902 @@ public final class TypeFactory
+-            JavaType actualType = context.findType(name);
++            JavaType actualType = context.findType(name, false);

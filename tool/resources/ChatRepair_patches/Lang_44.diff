@@ -1,0 +1,3 @@
+if (val.length() == 1 && !Character.isDigit(val.charAt(0))) {
+    throw new NumberFormatException(val + " is not a valid number.");
+}

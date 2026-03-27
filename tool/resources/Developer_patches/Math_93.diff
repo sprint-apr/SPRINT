@@ -1,0 +1,19 @@
+diff --git a/Math_93/src/java/org/apache/commons/math/util/MathUtils.java b/Math_93/src/java/org/apache/commons/math/util/MathUtils.java
+index 7d8aa4d..1389d5a 100644
+--- a/Math_93/src/java/org/apache/commons/math/util/MathUtils.java
++++ b/Math_93/src/java/org/apache/commons/math/util/MathUtils.java
+@@ -345,2 +345,4 @@ public final class MathUtils {
+-        long result = Math.round(factorialDouble(n));
+-        if (result == Long.MAX_VALUE) {
++        if (n < 0) {
++            throw new IllegalArgumentException("must have n >= 0 for n!");
++        }
++        if (n > 20) {
+@@ -376,0 +379,3 @@ public final class MathUtils {
++        if (n < 21) {
++            return factorial(n);
++        }
+@@ -396,0 +402,3 @@ public final class MathUtils {
++        if (n < 21) {
++            return Math.log(factorial(n));
++        }

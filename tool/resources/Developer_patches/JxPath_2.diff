@@ -1,0 +1,20 @@
+diff --git a/JxPath_2/src/java/org/apache/commons/jxpath/ri/compiler/Expression.java b/JxPath_2/src/java/org/apache/commons/jxpath/ri/compiler/Expression.java
+index 5f7dcd0..355c8e3 100644
+--- a/JxPath_2/src/java/org/apache/commons/jxpath/ri/compiler/Expression.java
++++ b/JxPath_2/src/java/org/apache/commons/jxpath/ri/compiler/Expression.java
+@@ -18,0 +19 @@ package org.apache.commons.jxpath.ri.compiler;
++import org.apache.commons.jxpath.NodeSet;
+@@ -76,0 +78,3 @@ public abstract class Expression {
++        if (result instanceof NodeSet) {
++            return new ValueIterator(((NodeSet) result).getPointers().iterator());
++        }
+@@ -87,0 +92,5 @@ public abstract class Expression {
++        if (result instanceof NodeSet) {
++            return new PointerIterator(((NodeSet) result).getPointers().iterator(),
++                    new QName(null, "value"),
++                    context.getRootContext().getCurrentNodePointer().getLocale());
++        }
+@@ -145 +154 @@ public abstract class Expression {
+-}
++}
+\ No newline at end of file

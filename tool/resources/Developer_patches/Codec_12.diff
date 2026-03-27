@@ -1,0 +1,38 @@
+diff --git a/Codec_12/src/main/java/org/apache/commons/codec/binary/BaseNCodecInputStream.java b/Codec_12/src/main/java/org/apache/commons/codec/binary/BaseNCodecInputStream.java
+index 02cb18a..d1eb77b 100644
+--- a/Codec_12/src/main/java/org/apache/commons/codec/binary/BaseNCodecInputStream.java
++++ b/Codec_12/src/main/java/org/apache/commons/codec/binary/BaseNCodecInputStream.java
+@@ -141,0 +142,5 @@ public class BaseNCodecInputStream extends FilterInputStream {
++    @Override
++    public long skip(long n) throws IOException {
++        if (n < 0) {
++            throw new IllegalArgumentException("Negative skip length");
++        }
+@@ -143,0 +149,15 @@ public class BaseNCodecInputStream extends FilterInputStream {
++        final byte[] b = new byte[512];
++        final int max = (int) Math.min(n, Integer.MAX_VALUE);
++        int total = 0;
++
++        while (total < max) {
++            int len = max - total;
++            if (len > b.length) {
++                len = b.length;
++            }
++            len = read(b, 0, len);
++            if (len == EOF) {
++                break;
++            }
++            total += len;
++        }
+@@ -144,0 +165,2 @@ public class BaseNCodecInputStream extends FilterInputStream {
++        return total;
++    }
+@@ -151,0 +174 @@ public class BaseNCodecInputStream extends FilterInputStream {
++    public int available() throws IOException {
+@@ -157,0 +181,6 @@ public class BaseNCodecInputStream extends FilterInputStream {
++        if (baseNCodec.eof) {
++            return 0;
++        } else {
++            return 1;
++        }
++    }

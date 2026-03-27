@@ -1,0 +1,1 @@
+result = (lvalInt & 0xffffffffL) >>> rvalInt;

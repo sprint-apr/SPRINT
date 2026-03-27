@@ -1,0 +1,7 @@
+diff --git a/Chart_13/source/org/jfree/chart/block/BorderArrangement.java b/Chart_13/source/org/jfree/chart/block/BorderArrangement.java
+index 730aeb3..b3ae54b 100644
+--- a/Chart_13/source/org/jfree/chart/block/BorderArrangement.java
++++ b/Chart_13/source/org/jfree/chart/block/BorderArrangement.java
+@@ -455 +455 @@ public class BorderArrangement implements Arrangement, Serializable {
+-                    new Range(0.0, constraint.getWidth() - w[2]),
++                    new Range(0.0, Math.max(constraint.getWidth() - w[2], 0.0)),

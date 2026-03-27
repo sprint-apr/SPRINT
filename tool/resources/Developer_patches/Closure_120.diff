@@ -1,0 +1,8 @@
+diff --git a/Closure_120/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java b/Closure_120/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java
+index cdacc5f..0af61d0 100644
+--- a/Closure_120/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java
++++ b/Closure_120/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java
+@@ -430,0 +431,3 @@ class ReferenceCollectingCallback implements ScopedCallback,
++          if (ref.getSymbol().getScope() != ref.scope) {
++            return false;
++          }

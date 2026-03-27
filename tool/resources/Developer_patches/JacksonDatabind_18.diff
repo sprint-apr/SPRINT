@@ -1,0 +1,113 @@
+diff --git a/JacksonDatabind_18/src/main/java/com/fasterxml/jackson/databind/MappingIterator.java b/JacksonDatabind_18/src/main/java/com/fasterxml/jackson/databind/MappingIterator.java
+index b4ce3e9..c0e79c8 100644
+--- a/JacksonDatabind_18/src/main/java/com/fasterxml/jackson/databind/MappingIterator.java
++++ b/JacksonDatabind_18/src/main/java/com/fasterxml/jackson/databind/MappingIterator.java
+@@ -27,0 +28 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++    protected final static int STATE_CLOSED = 0;
+@@ -31,0 +33 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++    protected final static int STATE_NEED_RESYNC = 1;
+@@ -36,0 +39 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++    protected final static int STATE_MAY_HAVE_VALUE = 2;
+@@ -41,0 +45 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++    protected final static int STATE_HAS_VALUE = 3;
+@@ -69 +73 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-    protected JsonParser _parser;
++    protected final JsonParser _parser;
+@@ -74,0 +79 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++    protected final JsonStreamContext _seqContext;
+@@ -98 +103 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-    protected boolean _hasNextChecked;
++    protected int _state;
+@@ -138 +143,6 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-        if (managedParser && (p != null) && p.isExpectedStartArrayToken()) {
++        if (p == null) { // can this occur?
++            _seqContext = null;
++            _state = STATE_CLOSED;
++        } else {
++            JsonStreamContext sctxt = p.getParsingContext();
++            if (managedParser && p.isExpectedStartArrayToken()) {
+@@ -140,0 +151 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++            } else {
+@@ -143,0 +155,7 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++                JsonToken t = p.getCurrentToken();
++                if ((t == JsonToken.START_OBJECT) || (t == JsonToken.START_ARRAY)) {
++                    sctxt = sctxt.getParent();
++                }
++            }
++            _seqContext = sctxt;
++            _state = STATE_MAY_HAVE_VALUE;
+@@ -188,0 +207,2 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++        if (_state != STATE_CLOSED) {
++            _state = STATE_CLOSED;
+@@ -191,0 +212 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++        }
+@@ -210 +231,2 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-        if (_parser == null) {
++        switch (_state) {
++        case STATE_CLOSED:
+@@ -211,0 +234,2 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++        case STATE_NEED_RESYNC:
++            _resync();
+@@ -213,2 +237 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-        }
+-        if (!_hasNextChecked) {
++        case STATE_MAY_HAVE_VALUE:
+@@ -216 +238,0 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-            _hasNextChecked = true;
+@@ -221,4 +243,3 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-                    JsonParser jp = _parser;
+-                    _parser = null;
+-                    if (_closeParser) {
+-                        jp.close();
++                    _state = STATE_CLOSED;
++                    if (_closeParser && (_parser != null)) {
++                        _parser.close();
+@@ -228,0 +250,3 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++            _state = STATE_HAS_VALUE;
++            return true;
++        case STATE_HAS_VALUE:
+@@ -236 +260,5 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-        if (!_hasNextChecked) {
++        switch (_state) {
++        case STATE_CLOSED:
++            return _throwNoSuchElement();
++        case STATE_NEED_RESYNC: // fall-through, will do re-sync
++        case STATE_MAY_HAVE_VALUE:
+@@ -239,0 +268,3 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++            break;
++        case STATE_HAS_VALUE:
++            break;
+@@ -241,4 +271,0 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
+-        if (_parser == null) {
+-            return _throwNoSuchElement();
+-        }
+-        _hasNextChecked = false;
+@@ -245,0 +273 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++        int nextState = STATE_NEED_RESYNC;
+@@ -253,0 +282 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++            nextState = STATE_MAY_HAVE_VALUE;
+@@ -255,0 +285 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++            _state = nextState;
+@@ -351,0 +382,3 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++    protected void _resync() throws IOException
++    {
++        final JsonParser p = _parser;
+@@ -352,0 +386,3 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++        if (p.getParsingContext() == _seqContext) {
++            return;
++        }
+@@ -353,0 +390,14 @@ public class MappingIterator<T> implements Iterator<T>, Closeable
++        while (true) {
++            JsonToken t = p.nextToken();
++            if ((t == JsonToken.END_ARRAY) || (t == JsonToken.END_OBJECT)) {
++                if (p.getParsingContext() == _seqContext) {
++                    p.clearCurrentToken();
++                    return;
++                }
++            } else if ((t == JsonToken.START_ARRAY) || (t == JsonToken.START_OBJECT)) {
++                p.skipChildren();
++            } else if (t == null) {
++                return;
++            }
++        }
++    }

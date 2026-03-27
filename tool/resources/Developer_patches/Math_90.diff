@@ -1,0 +1,9 @@
+diff --git a/Math_90/src/java/org/apache/commons/math/stat/Frequency.java b/Math_90/src/java/org/apache/commons/math/stat/Frequency.java
+index 75914d7..237c2f6 100644
+--- a/Math_90/src/java/org/apache/commons/math/stat/Frequency.java
++++ b/Math_90/src/java/org/apache/commons/math/stat/Frequency.java
+@@ -109,0 +110,2 @@ public class Frequency implements Serializable {
++        addValue((Comparable<?>) v);
++    }
+@@ -120,0 +123 @@ public class Frequency implements Serializable {
++    public void addValue(Comparable<?>v){

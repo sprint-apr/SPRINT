@@ -1,0 +1,10 @@
+diff --git a/Jsoup_67/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java b/Jsoup_67/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+index b07e47f..011a704 100644
+--- a/Jsoup_67/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
++++ b/Jsoup_67/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+@@ -41,0 +42 @@ public class HtmlTreeBuilder extends TreeBuilder {
++    public static final int MaxScopeSearchDepth = 100; // prevents the parser bogging down in exceptionally broken pages
+@@ -467,0 +469,3 @@ public class HtmlTreeBuilder extends TreeBuilder {
++        if (depth > MaxScopeSearchDepth) {
++            depth = MaxScopeSearchDepth;
++        }

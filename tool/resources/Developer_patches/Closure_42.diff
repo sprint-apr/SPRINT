@@ -1,0 +1,13 @@
+diff --git a/Closure_42/src/com/google/javascript/jscomp/parsing/IRFactory.java b/Closure_42/src/com/google/javascript/jscomp/parsing/IRFactory.java
+index 1a95aa2..c6b70c5 100644
+--- a/Closure_42/src/com/google/javascript/jscomp/parsing/IRFactory.java
++++ b/Closure_42/src/com/google/javascript/jscomp/parsing/IRFactory.java
+@@ -567,0 +568,5 @@ class IRFactory {
++      if (loopNode.isForEach()) {
++        errorReporter.error(
++            "unsupported language extension: for each",
++            sourceName,
++            loopNode.getLineno(), "", 0);
+@@ -569,0 +575,2 @@ class IRFactory {
++        return newNode(Token.EXPR_RESULT, Node.newNumber(0));
++      }

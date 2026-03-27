@@ -1,0 +1,30 @@
+diff --git a/Lang_46/src/java/org/apache/commons/lang/StringEscapeUtils.java b/Lang_46/src/java/org/apache/commons/lang/StringEscapeUtils.java
+index 7b22e21..d4f98ec 100644
+--- a/Lang_46/src/java/org/apache/commons/lang/StringEscapeUtils.java
++++ b/Lang_46/src/java/org/apache/commons/lang/StringEscapeUtils.java
+@@ -86 +86 @@ public class StringEscapeUtils {
+-        return escapeJavaStyleString(str, false);
++        return escapeJavaStyleString(str, false, false);
+@@ -102 +102 @@ public class StringEscapeUtils {
+-        escapeJavaStyleString(out, str, false);
++        escapeJavaStyleString(out, str, false, false);
+@@ -127 +127 @@ public class StringEscapeUtils {
+-        return escapeJavaStyleString(str, true);
++        return escapeJavaStyleString(str, true, true);
+@@ -143 +143 @@ public class StringEscapeUtils {
+-        escapeJavaStyleString(out, str, true);
++        escapeJavaStyleString(out, str, true, true);
+@@ -154 +154 @@ public class StringEscapeUtils {
+-    private static String escapeJavaStyleString(String str, boolean escapeSingleQuotes) {
++    private static String escapeJavaStyleString(String str, boolean escapeSingleQuotes, boolean escapeForwardSlash) {
+@@ -160 +160 @@ public class StringEscapeUtils {
+-            escapeJavaStyleString(writer, str, escapeSingleQuotes);
++            escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeForwardSlash);
+@@ -178 +178,2 @@ public class StringEscapeUtils {
+-    private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException {
++    private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote,
++            boolean escapeForwardSlash) throws IOException {
+@@ -243,0 +245 @@ public class StringEscapeUtils {
++                        if (escapeForwardSlash) {
+@@ -244,0 +247 @@ public class StringEscapeUtils {
++                        }

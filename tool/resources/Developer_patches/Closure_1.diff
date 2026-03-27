@@ -1,0 +1,8 @@
+diff --git a/Closure_1/src/com/google/javascript/jscomp/RemoveUnusedVars.java b/Closure_1/src/com/google/javascript/jscomp/RemoveUnusedVars.java
+index dfad51b..4c84735 100644
+--- a/Closure_1/src/com/google/javascript/jscomp/RemoveUnusedVars.java
++++ b/Closure_1/src/com/google/javascript/jscomp/RemoveUnusedVars.java
+@@ -378,0 +379,3 @@ class RemoveUnusedVars
++    if (!removeGlobals) {
++      return;
++    }

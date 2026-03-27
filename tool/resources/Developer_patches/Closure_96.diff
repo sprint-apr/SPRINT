@@ -1,0 +1,12 @@
+diff --git a/Closure_96/src/com/google/javascript/jscomp/TypeCheck.java b/Closure_96/src/com/google/javascript/jscomp/TypeCheck.java
+index 8077e0d..b05fbc4 100644
+--- a/Closure_96/src/com/google/javascript/jscomp/TypeCheck.java
++++ b/Closure_96/src/com/google/javascript/jscomp/TypeCheck.java
+@@ -1409 +1409,2 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
+-           parameters.hasNext()) {
++           (parameters.hasNext() ||
++            parameter != null && parameter.isVarArgs())) {
+@@ -1411,0 +1413 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
++      if (parameters.hasNext()) {
+@@ -1412,0 +1415 @@ public class TypeCheck implements NodeTraversal.Callback, CompilerPass {
++      }

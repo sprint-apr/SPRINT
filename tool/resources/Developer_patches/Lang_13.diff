@@ -1,0 +1,27 @@
+diff --git a/Lang_13/src/main/java/org/apache/commons/lang3/SerializationUtils.java b/Lang_13/src/main/java/org/apache/commons/lang3/SerializationUtils.java
+index 1ee636c..7c89b61 100644
+--- a/Lang_13/src/main/java/org/apache/commons/lang3/SerializationUtils.java
++++ b/Lang_13/src/main/java/org/apache/commons/lang3/SerializationUtils.java
+@@ -238,0 +239,2 @@ public class SerializationUtils {
++        private static final Map<String, Class<?>> primitiveTypes = 
++                new HashMap<String, Class<?>>();
+@@ -251,0 +254,9 @@ public class SerializationUtils {
++            primitiveTypes.put("byte", byte.class);
++            primitiveTypes.put("short", short.class);
++            primitiveTypes.put("int", int.class);
++            primitiveTypes.put("long", long.class);
++            primitiveTypes.put("float", float.class);
++            primitiveTypes.put("double", double.class);
++            primitiveTypes.put("boolean", boolean.class);
++            primitiveTypes.put("char", char.class);
++            primitiveTypes.put("void", void.class);
+@@ -267,0 +279 @@ public class SerializationUtils {
++                try {
+@@ -268,0 +281,7 @@ public class SerializationUtils {
++                } catch (ClassNotFoundException cnfe) {
++                    Class<?> cls = primitiveTypes.get(name);
++                    if (cls != null)
++                        return cls;
++                    else
++                        throw cnfe;
++                }

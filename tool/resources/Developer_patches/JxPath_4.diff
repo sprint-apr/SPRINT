@@ -1,0 +1,89 @@
+diff --git a/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java b/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
+index 5236867..1ad9324 100644
+--- a/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
++++ b/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java
+@@ -296,2 +296 @@ public class DOMNodePointer extends NodePointer {
+-    protected String getLanguage() {
+-        Node n = node;
++    protected static String findEnclosingAttribute(Node n, String attrName) {
+@@ -301 +300 @@ public class DOMNodePointer extends NodePointer {
+-                String attr = e.getAttribute("xml:lang");
++                String attr = e.getAttribute(attrName);
+@@ -310,0 +310,3 @@ public class DOMNodePointer extends NodePointer {
++    protected String getLanguage() {
++        return findEnclosingAttribute(node, "xml:lang");
++    }
+@@ -631,0 +634,4 @@ public class DOMNodePointer extends NodePointer {
++        if (node.getNodeType() == Node.COMMENT_NODE) {
++            String text = ((Comment) node).getData();
++            return text == null ? "" : text.trim();
++        }
+@@ -638,2 +644 @@ public class DOMNodePointer extends NodePointer {
+-            String text = ((Comment) node).getData();
+-            return text == null ? "" : text.trim();
++            return "";
+@@ -640,0 +646 @@ public class DOMNodePointer extends NodePointer {
++        boolean trim = !"preserve".equals(findEnclosingAttribute(node, "xml:space"));
+@@ -643 +649 @@ public class DOMNodePointer extends NodePointer {
+-            return text == null ? "" : text.trim();
++            return text == null ? "" : trim ? text.trim() : text;
+@@ -647 +653 @@ public class DOMNodePointer extends NodePointer {
+-            return text == null ? "" : text.trim();
++            return text == null ? "" : trim ? text.trim() : text;
+@@ -653,4 +658,0 @@ public class DOMNodePointer extends NodePointer {
+-            if (child.getNodeType() == Node.TEXT_NODE) {
+-                buf.append(child.getNodeValue());
+-            }
+-            else {
+@@ -658 +659,0 @@ public class DOMNodePointer extends NodePointer {
+-            }
+@@ -660 +661 @@ public class DOMNodePointer extends NodePointer {
+-        return buf.toString().trim();
++        return buf.toString();
+diff --git a/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java b/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java
+index 975dbc4..a26f118 100644
+--- a/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java
++++ b/JxPath_4/src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java
+@@ -240 +240,8 @@ public class JDOMNodePointer extends NodePointer {
+-            return ((Element) node).getTextTrim();
++            StringBuffer buf = new StringBuffer();
++            for (NodeIterator children = childIterator(null, false, null); children.setPosition(children.getPosition() + 1);) {
++                NodePointer ptr = children.getNodePointer();
++                if (ptr.getImmediateNode() instanceof Element || ptr.getImmediateNode() instanceof Text) {
++                    buf.append(ptr.getValue());
++                }
++            }
++            return buf.toString();
+@@ -248,0 +256 @@ public class JDOMNodePointer extends NodePointer {
++        String result = null;
+@@ -250,4 +258 @@ public class JDOMNodePointer extends NodePointer {
+-            return ((Text) node).getTextTrim();
+-        }
+-        if (node instanceof CDATA) {
+-            return ((CDATA) node).getTextTrim();
++            result = ((Text) node).getText();
+@@ -256,5 +261 @@ public class JDOMNodePointer extends NodePointer {
+-            String text = ((ProcessingInstruction) node).getData();
+-            if (text != null) {
+-                text = text.trim();
+-            }
+-            return text;
++            result = ((ProcessingInstruction) node).getData();
+@@ -262 +263,2 @@ public class JDOMNodePointer extends NodePointer {
+-        return null;
++        boolean trim = !"preserve".equals(findEnclosingAttribute(node, "space", Namespace.XML_NAMESPACE));
++        return result != null && trim ? result.trim() : result;
+@@ -436 +438,4 @@ public class JDOMNodePointer extends NodePointer {
+-        Object n = node;
++        return findEnclosingAttribute(node, "lang", Namespace.XML_NAMESPACE);
++    }
++
++    protected static String findEnclosingAttribute(Object n, String attrName, Namespace ns) {
+@@ -440,2 +445 @@ public class JDOMNodePointer extends NodePointer {
+-                String attr =
+-                    e.getAttributeValue("lang", Namespace.XML_NAMESPACE);
++                String attr = e.getAttributeValue(attrName, ns);
+@@ -756 +760 @@ public class JDOMNodePointer extends NodePointer {
+-}
++}
+\ No newline at end of file

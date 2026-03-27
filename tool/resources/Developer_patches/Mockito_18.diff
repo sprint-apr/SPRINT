@@ -1,0 +1,7 @@
+diff --git a/Mockito_18/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java b/Mockito_18/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java
+index 06697e5..11304af 100644
+--- a/Mockito_18/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java
++++ b/Mockito_18/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java
+@@ -86,0 +87,2 @@ public class ReturnsEmptyValues implements Answer<Object>, Serializable {
++        } else if (type == Iterable.class) {
++            return new ArrayList<Object>(0);

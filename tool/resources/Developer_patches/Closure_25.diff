@@ -1,0 +1,14 @@
+diff --git a/Closure_25/src/com/google/javascript/jscomp/TypeInference.java b/Closure_25/src/com/google/javascript/jscomp/TypeInference.java
+index 7e218d8..74728ee 100644
+--- a/Closure_25/src/com/google/javascript/jscomp/TypeInference.java
++++ b/Closure_25/src/com/google/javascript/jscomp/TypeInference.java
+@@ -1035,0 +1036 @@ class TypeInference
++    scope = traverseChildren(n, scope);
+@@ -1038 +1038,0 @@ class TypeInference
+-    scope = traverse(constructor, scope);
+@@ -1054,0 +1055 @@ class TypeInference
++          backwardsInferenceFromCallSite(n, ct);
+@@ -1059,3 +1059,0 @@ class TypeInference
+-    for (Node arg = constructor.getNext(); arg != null; arg = arg.getNext()) {
+-      scope = traverse(arg, scope);
+-    }

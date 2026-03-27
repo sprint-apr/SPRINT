@@ -1,0 +1,20 @@
+diff --git a/Codec_8/src/java/org/apache/commons/codec/binary/Base64.java b/Codec_8/src/java/org/apache/commons/codec/binary/Base64.java
+index 76f14f5..2521c27 100644
+--- a/Codec_8/src/java/org/apache/commons/codec/binary/Base64.java
++++ b/Codec_8/src/java/org/apache/commons/codec/binary/Base64.java
+@@ -419,7 +418,0 @@ public class Base64 implements BinaryEncoder, BinaryDecoder {
+-    void setInitialBuffer(byte[] out, int outPos, int outAvail) {
+-        if (out != null && out.length == outAvail) {
+-            buffer = out;
+-            pos = outPos;
+-            readPos = outPos;
+-        }
+-    }
+diff --git a/Codec_8/src/java/org/apache/commons/codec/binary/Base64InputStream.java b/Codec_8/src/java/org/apache/commons/codec/binary/Base64InputStream.java
+index a706702..ad006f2 100644
+--- a/Codec_8/src/java/org/apache/commons/codec/binary/Base64InputStream.java
++++ b/Codec_8/src/java/org/apache/commons/codec/binary/Base64InputStream.java
+@@ -169,3 +168,0 @@ public class Base64InputStream extends FilterInputStream {
+-                    if (c > 0 && b.length == len) {
+-                        base64.setInitialBuffer(b, offset, len);
+-                    }

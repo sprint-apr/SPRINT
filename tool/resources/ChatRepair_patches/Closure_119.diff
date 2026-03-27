@@ -1,0 +1,1 @@
+case Token.CATCH: // Add support for catch statements

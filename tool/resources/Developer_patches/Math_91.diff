@@ -1,0 +1,9 @@
+diff --git a/Math_91/src/java/org/apache/commons/math/fraction/Fraction.java b/Math_91/src/java/org/apache/commons/math/fraction/Fraction.java
+index 0706f8c..d6d2f18 100644
+--- a/Math_91/src/java/org/apache/commons/math/fraction/Fraction.java
++++ b/Math_91/src/java/org/apache/commons/math/fraction/Fraction.java
+@@ -259,2 +259,2 @@ public class Fraction extends Number implements Comparable<Fraction> {
+-        double nOd = doubleValue();
+-        double dOn = object.doubleValue();
++        long nOd = ((long) numerator) * object.denominator;
++        long dOn = ((long) denominator) * object.numerator;

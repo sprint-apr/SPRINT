@@ -1,0 +1,9 @@
+diff --git a/Jsoup_85/src/main/java/org/jsoup/nodes/Attribute.java b/Jsoup_85/src/main/java/org/jsoup/nodes/Attribute.java
+index 612fdeb..e321b6a 100644
+--- a/Jsoup_85/src/main/java/org/jsoup/nodes/Attribute.java
++++ b/Jsoup_85/src/main/java/org/jsoup/nodes/Attribute.java
+@@ -44 +44 @@ public class Attribute implements Map.Entry<String, String>, Cloneable  {
+-        this.key = key.trim();
++        key = key.trim();
+@@ -45,0 +46 @@ public class Attribute implements Map.Entry<String, String>, Cloneable  {
++        this.key = key;

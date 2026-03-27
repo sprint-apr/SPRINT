@@ -1,0 +1,24 @@
+diff --git a/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java b/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+index 6ada343..041dcbd 100644
+--- a/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
++++ b/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+@@ -360 +360 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-        clearStackToContext("tbody", "tfoot", "thead");
++        clearStackToContext("tbody", "tfoot", "thead", "template");
+@@ -364 +364 @@ public class HtmlTreeBuilder extends TreeBuilder {
+-        clearStackToContext("tr");
++        clearStackToContext("tr", "template");
+diff --git a/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java b/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+index aaf6041..c4924e4 100644
+--- a/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
++++ b/Jsoup_65/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+@@ -1036 +1036,3 @@ enum HtmlTreeBuilderState {
+-                    if (name.equals("tr")) {
++                    if (name.equals("template")) {
++                        tb.insert(startTag);
++                    } else if (name.equals("tr")) {
+@@ -1096 +1098,3 @@ enum HtmlTreeBuilderState {
+-                if (StringUtil.in(name, "th", "td")) {
++                if (name.equals("template")) {
++                    tb.insert(startTag);
++                } else if (StringUtil.in(name, "th", "td")) {

@@ -1,0 +1,7 @@
+diff --git a/Codec_7/src/java/org/apache/commons/codec/binary/Base64.java b/Codec_7/src/java/org/apache/commons/codec/binary/Base64.java
+index 19a6959..a5c44ab 100644
+--- a/Codec_7/src/java/org/apache/commons/codec/binary/Base64.java
++++ b/Codec_7/src/java/org/apache/commons/codec/binary/Base64.java
+@@ -670 +670 @@ public class Base64 implements BinaryEncoder, BinaryDecoder {
+-        return StringUtils.newStringUtf8(encodeBase64(binaryData, true));
++        return StringUtils.newStringUtf8(encodeBase64(binaryData, false));

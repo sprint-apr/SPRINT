@@ -1,0 +1,10 @@
+diff --git a/Mockito_36/src/org/mockito/internal/invocation/Invocation.java b/Mockito_36/src/org/mockito/internal/invocation/Invocation.java
+index 94d4612..5e9b795 100644
+--- a/Mockito_36/src/org/mockito/internal/invocation/Invocation.java
++++ b/Mockito_36/src/org/mockito/internal/invocation/Invocation.java
+@@ -10,0 +11 @@ import org.mockito.exceptions.PrintableInvocation;
++import org.mockito.exceptions.Reporter;
+@@ -201,0 +203,3 @@ public class Invocation implements PrintableInvocation, InvocationOnMock, Printi
++        if (this.getMethod().getDeclaringClass().isInterface()) {
++            new Reporter().cannotCallRealMethodOnInterface();
++        }

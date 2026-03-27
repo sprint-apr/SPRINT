@@ -1,0 +1,8 @@
+diff --git a/Lang_44/src/java/org/apache/commons/lang/NumberUtils.java b/Lang_44/src/java/org/apache/commons/lang/NumberUtils.java
+index 18a05ef..c5ca8cd 100644
+--- a/Lang_44/src/java/org/apache/commons/lang/NumberUtils.java
++++ b/Lang_44/src/java/org/apache/commons/lang/NumberUtils.java
+@@ -144,0 +145,3 @@ public final class NumberUtils {
++        if (val.length() == 1 && !Character.isDigit(val.charAt(0))) {
++            throw new NumberFormatException(val + " is not a valid number.");
++        }

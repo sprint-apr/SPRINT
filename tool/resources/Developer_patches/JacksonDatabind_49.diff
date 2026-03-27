@@ -1,0 +1,8 @@
+diff --git a/JacksonDatabind_49/src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java b/JacksonDatabind_49/src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java
+index af141e1..d842694 100644
+--- a/JacksonDatabind_49/src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java
++++ b/JacksonDatabind_49/src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java
+@@ -49,0 +50 @@ public final class WritableObjectId
++        if (id == null) {
+@@ -50,0 +52 @@ public final class WritableObjectId
++        }

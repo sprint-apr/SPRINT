@@ -1,0 +1,11 @@
+diff --git a/Math_95/src/java/org/apache/commons/math/distribution/FDistributionImpl.java b/Math_95/src/java/org/apache/commons/math/distribution/FDistributionImpl.java
+index e19e97a..59aeb07 100644
+--- a/Math_95/src/java/org/apache/commons/math/distribution/FDistributionImpl.java
++++ b/Math_95/src/java/org/apache/commons/math/distribution/FDistributionImpl.java
+@@ -144 +144 @@ public class FDistributionImpl
+-        double ret;
++        double ret = 1.0;
+@@ -145,0 +146 @@ public class FDistributionImpl
++        if (d > 2.0) {
+@@ -147,0 +149 @@ public class FDistributionImpl
++        }

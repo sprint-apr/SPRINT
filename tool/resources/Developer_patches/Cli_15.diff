@@ -1,0 +1,27 @@
+diff --git a/Cli_15/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java b/Cli_15/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+index 3ca952d..319f8c2 100644
+--- a/Cli_15/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
++++ b/Cli_15/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+@@ -117,2 +117,2 @@ public class WriteableCommandLineImpl
+-        if ((valueList == null) || valueList.isEmpty()) {
+-            valueList = defaultValues;
++        if (defaultValues == null || defaultValues.isEmpty()) {
++            defaultValues = (List) this.defaultValues.get(option);
+@@ -122,3 +122,4 @@ public class WriteableCommandLineImpl
+-        if ((valueList == null) || valueList.isEmpty()) {
+-            valueList = (List) this.defaultValues.get(option);
+-        }
++        if (defaultValues != null && !defaultValues.isEmpty()) {
++            if (valueList == null || valueList.isEmpty()) {
++                valueList = defaultValues;
++            } else {
+@@ -126,0 +128 @@ public class WriteableCommandLineImpl
++                if (defaultValues.size() > valueList.size()) {
+@@ -127,0 +130,7 @@ public class WriteableCommandLineImpl
++                    valueList = new ArrayList(valueList);
++                    for (int i=valueList.size(); i<defaultValues.size(); i++) {
++                        valueList.add(defaultValues.get(i));
++                    }
++                }
++            }
++        }

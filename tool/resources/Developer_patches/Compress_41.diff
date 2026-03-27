@@ -1,0 +1,9 @@
+diff --git a/Compress_41/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java b/Compress_41/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+index 5d4c0a8..51b1930 100644
+--- a/Compress_41/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
++++ b/Compress_41/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+@@ -246,0 +247 @@ public class ZipArchiveInputStream extends ArchiveInputStream {
++            return null;
+@@ -249 +250 @@ public class ZipArchiveInputStream extends ArchiveInputStream {
+-            return null;
++            throw new ZipException(String.format("Unexpected record signature: 0X%X", sig.getValue()));

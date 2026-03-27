@@ -1,0 +1,18 @@
+diff --git a/Math_78/src/main/java/org/apache/commons/math/ode/events/EventState.java b/Math_78/src/main/java/org/apache/commons/math/ode/events/EventState.java
+index 5006065..ff09646 100644
+--- a/Math_78/src/main/java/org/apache/commons/math/ode/events/EventState.java
++++ b/Math_78/src/main/java/org/apache/commons/math/ode/events/EventState.java
+@@ -190,0 +191 @@ public class EventState {
++                    if (ga * gb > 0) {
+@@ -197,0 +199,7 @@ public class EventState {
++                        final double epsilon = (forward ? 0.25 : -0.25) * convergence;
++                        for (int k = 0; (k < 4) && (ga * gb > 0); ++k) {
++                            ta += epsilon;
++                            interpolator.setInterpolatedTime(ta);
++                            ga = handler.g(ta, interpolator.getInterpolatedState());
++                        }
++                        if (ga * gb > 0) {
+@@ -198,0 +207,3 @@ public class EventState {
++                            throw MathRuntimeException.createInternalError(null);
++                        }
++                    }

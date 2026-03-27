@@ -1,0 +1,6 @@
+diff --git a/Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java b/Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java
+index 3949f22..5770289 100644
+--- a/Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java
++++ b/Jsoup_93/src/main/java/org/jsoup/nodes/FormElement.java
+@@ -88,0 +89 @@ public class FormElement extends Element {
++            if (type.equalsIgnoreCase("button")) continue; // browsers don't submit these

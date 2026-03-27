@@ -1,0 +1,10 @@
+diff --git a/Chart_7/source/org/jfree/data/time/TimePeriodValues.java b/Chart_7/source/org/jfree/data/time/TimePeriodValues.java
+index 0a3e7a1..589c7ca 100644
+--- a/Chart_7/source/org/jfree/data/time/TimePeriodValues.java
++++ b/Chart_7/source/org/jfree/data/time/TimePeriodValues.java
+@@ -300 +300 @@ public class TimePeriodValues extends Series implements Serializable {
+-            long s = getDataItem(this.minMiddleIndex).getPeriod().getStart()
++            long s = getDataItem(this.maxMiddleIndex).getPeriod().getStart()
+@@ -302 +302 @@ public class TimePeriodValues extends Series implements Serializable {
+-            long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd()
++            long e = getDataItem(this.maxMiddleIndex).getPeriod().getEnd()

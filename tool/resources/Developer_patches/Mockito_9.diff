@@ -1,0 +1,12 @@
+diff --git a/Mockito_9/src/org/mockito/internal/stubbing/answers/CallsRealMethods.java b/Mockito_9/src/org/mockito/internal/stubbing/answers/CallsRealMethods.java
+index 747655e..8fb0cae 100644
+--- a/Mockito_9/src/org/mockito/internal/stubbing/answers/CallsRealMethods.java
++++ b/Mockito_9/src/org/mockito/internal/stubbing/answers/CallsRealMethods.java
+@@ -7,0 +8 @@ import java.io.Serializable;
++import java.lang.reflect.Modifier;
+@@ -8,0 +10 @@ import java.io.Serializable;
++import org.mockito.internal.stubbing.defaultanswers.GloballyConfiguredAnswer;
+@@ -35,0 +38,3 @@ public class CallsRealMethods implements Answer<Object>, Serializable {
++    	if (Modifier.isAbstract(invocation.getMethod().getModifiers())) {
++    		return new GloballyConfiguredAnswer().answer(invocation);
++    	}

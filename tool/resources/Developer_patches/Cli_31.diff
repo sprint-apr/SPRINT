@@ -1,0 +1,24 @@
+diff --git a/Cli_31/src/main/java/org/apache/commons/cli/HelpFormatter.java b/Cli_31/src/main/java/org/apache/commons/cli/HelpFormatter.java
+index 1debaf6..6d73237 100644
+--- a/Cli_31/src/main/java/org/apache/commons/cli/HelpFormatter.java
++++ b/Cli_31/src/main/java/org/apache/commons/cli/HelpFormatter.java
+@@ -653 +653 @@ public class HelpFormatter
+-        if (option.hasArg() && option.hasArgName())
++        if (option.hasArg() && (option.getArgName() == null || option.getArgName().length() != 0))
+@@ -656 +656 @@ public class HelpFormatter
+-            buff.append("<").append(option.getArgName()).append(">");
++            buff.append("<").append(option.getArgName() != null ? option.getArgName() : getArgName()).append(">");
+diff --git a/Cli_31/src/main/java/org/apache/commons/cli/Option.java b/Cli_31/src/main/java/org/apache/commons/cli/Option.java
+index 921c7ab..ce12780 100644
+--- a/Cli_31/src/main/java/org/apache/commons/cli/Option.java
++++ b/Cli_31/src/main/java/org/apache/commons/cli/Option.java
+@@ -57 +57 @@ public class Option implements Cloneable, Serializable
+-    private String argName = "arg";
++    private String argName;
+diff --git a/Cli_31/src/main/java/org/apache/commons/cli/OptionBuilder.java b/Cli_31/src/main/java/org/apache/commons/cli/OptionBuilder.java
+index 33a24a6..a22d829 100644
+--- a/Cli_31/src/main/java/org/apache/commons/cli/OptionBuilder.java
++++ b/Cli_31/src/main/java/org/apache/commons/cli/OptionBuilder.java
+@@ -80 +80 @@ public final class OptionBuilder
+-        argName = "arg";
++        argName = null;

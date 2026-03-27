@@ -1,0 +1,7 @@
+diff --git a/Chart_1/source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java b/Chart_1/source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
+index 226b25a..4a54655 100644
+--- a/Chart_1/source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
++++ b/Chart_1/source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
+@@ -1797 +1797 @@ public abstract class AbstractCategoryItemRenderer extends AbstractRenderer
+-        if (dataset != null) {
++        if (dataset == null) {

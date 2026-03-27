@@ -1,0 +1,8 @@
+diff --git a/Compress_36/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java b/Compress_36/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java
+index 3e2113d..1056840 100644
+--- a/Compress_36/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java
++++ b/Compress_36/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java
+@@ -901,0 +902,3 @@ public class SevenZFile implements Closeable {
++        if (archive.files[currentEntryIndex].getSize() == 0) {
++            return new ByteArrayInputStream(new byte[0]);
++        }

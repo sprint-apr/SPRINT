@@ -1,0 +1,10 @@
+# build things
+*.m4
+config.status
+configure
+Makefile
+Makefile.autoconf
+dune-workspace
+infer/annotations
+
+m4

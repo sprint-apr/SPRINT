@@ -1,0 +1,22 @@
+diff --git a/Lang_17/src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java b/Lang_17/src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
+index 4cb581d..4d010ea 100644
+--- a/Lang_17/src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
++++ b/Lang_17/src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
+@@ -83 +83 @@ public abstract class CharSequenceTranslator {
+-        int len = Character.codePointCount(input, 0, input.length());
++        int len = input.length();
+@@ -88,0 +89,2 @@ public abstract class CharSequenceTranslator {
++                pos+= c.length;
++                continue;
+@@ -90 +91,0 @@ public abstract class CharSequenceTranslator {
+-            else {
+@@ -94 +94,0 @@ public abstract class CharSequenceTranslator {
+-                    if (pos < len - 2) {
+@@ -96,5 +95,0 @@ public abstract class CharSequenceTranslator {
+-                    } else {
+-                        pos++;
+-                    }
+-                }
+-                pos--;
+@@ -102 +96,0 @@ public abstract class CharSequenceTranslator {
+-            pos++;

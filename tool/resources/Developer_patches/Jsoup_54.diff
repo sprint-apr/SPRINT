@@ -1,0 +1,6 @@
+diff --git a/Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java b/Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java
+index 20aeeda..497e3ea 100644
+--- a/Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java
++++ b/Jsoup_54/src/main/java/org/jsoup/helper/W3CDom.java
+@@ -125,0 +126 @@ public class W3CDom {
++                if (key.matches("[a-zA-Z_:]{1}[-a-zA-Z0-9_:.]*"))

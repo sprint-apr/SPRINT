@@ -1,0 +1,1 @@
+(options.closurePass || !options.dependencyOptions.needsManagement()) &&

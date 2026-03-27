@@ -1,0 +1,8 @@
+diff --git a/Closure_124/src/com/google/javascript/jscomp/ExploitAssigns.java b/Closure_124/src/com/google/javascript/jscomp/ExploitAssigns.java
+index 0f03e35..1639f2c 100644
+--- a/Closure_124/src/com/google/javascript/jscomp/ExploitAssigns.java
++++ b/Closure_124/src/com/google/javascript/jscomp/ExploitAssigns.java
+@@ -212,0 +213 @@ class ExploitAssigns extends AbstractPeepholeOptimization {
++    while (node.isGetProp()) {
+@@ -213,0 +215 @@ class ExploitAssigns extends AbstractPeepholeOptimization {
++    }

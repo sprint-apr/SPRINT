@@ -1,0 +1,6 @@
+diff --git a/Closure_107/src/com/google/javascript/jscomp/CommandLineRunner.java b/Closure_107/src/com/google/javascript/jscomp/CommandLineRunner.java
+index 93b3547..3aae2e7 100644
+--- a/Closure_107/src/com/google/javascript/jscomp/CommandLineRunner.java
++++ b/Closure_107/src/com/google/javascript/jscomp/CommandLineRunner.java
+@@ -861,0 +862 @@ public class CommandLineRunner extends
++      options.setWarningLevel(JsMessageVisitor.MSG_CONVENTIONS, CheckLevel.OFF);

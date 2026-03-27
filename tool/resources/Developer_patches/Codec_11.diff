@@ -1,0 +1,85 @@
+diff --git a/Codec_11/src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java b/Codec_11/src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java
+index 13291cd..ed09fec 100644
+--- a/Codec_11/src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java
++++ b/Codec_11/src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java
+@@ -69,0 +70 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++    private static final byte CR = 13;
+@@ -70,0 +72 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++    private static final byte LF = 10;
+@@ -72,0 +75 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++    private static final int SAFE_LENGTH = 73;
+@@ -114 +117 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
+-    private static final void encodeQuotedPrintable(int b, ByteArrayOutputStream buffer) {
++    private static final int encodeQuotedPrintable(int b, ByteArrayOutputStream buffer) {
+@@ -119,0 +123 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++        return 3;
+@@ -131,0 +136,7 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++    private static int getUnsignedOctet(final int index, final byte[] bytes) {
++        int b = bytes[index];
++        if (b < 0) {
++            b = 256 + b;
++        }
++        return b;
++    }
+@@ -143,0 +155,9 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++    private static int encodeByte(final int b, final boolean encode,
++                                  final ByteArrayOutputStream buffer) {
++        if (encode) {
++            return encodeQuotedPrintable(b, buffer);
++        } else {
++            buffer.write(b);
++            return 1;
++        }
++    }
+@@ -151,0 +172,3 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++    private static boolean isWhitespace(final int b) {
++        return b == SPACE || b == TAB;
++    }
+@@ -174,0 +198 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++        int pos = 1;
+@@ -176,0 +201,3 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++        for (int i = 0; i < bytes.length - 3; i++) {
++            int b = getUnsignedOctet(i, bytes);
++            if (pos < SAFE_LENGTH) {
+@@ -178,7 +205 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
+-        for (byte c : bytes) {
+-            int b = c;
+-            if (b < 0) {
+-                b = 256 + b;
+-            }
+-            if (printable.get(b)) {
+-                buffer.write(b);
++                pos += encodeByte(b, !printable.get(b), buffer);
+@@ -186,0 +208 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++                encodeByte(b, !printable.get(b) || isWhitespace(b), buffer);
+@@ -189 +211,4 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
+-                encodeQuotedPrintable(b, buffer);
++                buffer.write(ESCAPE_CHAR);
++                buffer.write(CR);
++                buffer.write(LF);
++                pos = 1;
+@@ -194,0 +220,3 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++        int b = getUnsignedOctet(bytes.length - 3, bytes);
++        boolean encode = !printable.get(b) || (isWhitespace(b) && pos > SAFE_LENGTH - 5);
++        pos += encodeByte(b, encode, buffer);
+@@ -198,0 +227,7 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++        if (pos > SAFE_LENGTH - 2) {
++            buffer.write(ESCAPE_CHAR);
++            buffer.write(CR);
++            buffer.write(LF);
++        }
++        for (int i = bytes.length - 2; i < bytes.length; i++) {
++            b = getUnsignedOctet(i, bytes);
+@@ -199,0 +235,3 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
++            encode = !printable.get(b) || (i > bytes.length - 2 && isWhitespace(b));
++            encodeByte(b, encode, buffer);
++        }
+@@ -229 +267,4 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
+-                    int u = Utils.digit16(bytes[++i]);
++                    if (bytes[++i] == CR) {
++                        continue;
++                    }
++                    int u = Utils.digit16(bytes[i]);
+@@ -235 +276 @@ public class QuotedPrintableCodec implements BinaryEncoder, BinaryDecoder, Strin
+-            } else {
++            } else if (b != CR && b != LF) {

@@ -1,0 +1,10 @@
+diff --git a/Math_26/src/main/java/org/apache/commons/math3/fraction/Fraction.java b/Math_26/src/main/java/org/apache/commons/math3/fraction/Fraction.java
+index f81ff0a..08d3b95 100644
+--- a/Math_26/src/main/java/org/apache/commons/math3/fraction/Fraction.java
++++ b/Math_26/src/main/java/org/apache/commons/math3/fraction/Fraction.java
+@@ -181 +181 @@ public class Fraction
+-        if (a0 > overflow) {
++        if (FastMath.abs(a0) > overflow) {
+@@ -209 +209 @@ public class Fraction
+-            if ((p2 > overflow) || (q2 > overflow)) {
++            if ((FastMath.abs(p2) > overflow) || (FastMath.abs(q2) > overflow)) {

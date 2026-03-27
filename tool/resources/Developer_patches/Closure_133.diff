@@ -1,0 +1,6 @@
+diff --git a/Closure_133/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java b/Closure_133/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+index 6e3294b..ce94573 100644
+--- a/Closure_133/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
++++ b/Closure_133/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+@@ -2400,0 +2401 @@ public final class JsDocInfoParser {
++    unreadToken = NO_UNREAD_TOKEN;

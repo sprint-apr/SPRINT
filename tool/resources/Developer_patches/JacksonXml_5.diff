@@ -1,0 +1,7 @@
+diff --git a/JacksonXml_5/src/main/java/com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.java b/JacksonXml_5/src/main/java/com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.java
+index b139d09..a50e1a8 100644
+--- a/JacksonXml_5/src/main/java/com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.java
++++ b/JacksonXml_5/src/main/java/com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.java
+@@ -59 +59 @@ public class XmlSerializerProvider extends DefaultSerializerProvider
+-        _rootNameLookup = src._rootNameLookup;
++        _rootNameLookup = new XmlRootNameLookup();

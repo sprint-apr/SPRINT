@@ -1,0 +1,8 @@
+diff --git a/Closure_19/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java b/Closure_19/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
+index 0345c85..752e04f 100644
+--- a/Closure_19/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
++++ b/Closure_19/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
+@@ -171,0 +172 @@ public abstract class ChainableReverseAbstractInterpreter
++      case Token.THIS:
+@@ -172,0 +174 @@ public abstract class ChainableReverseAbstractInterpreter
++        break;

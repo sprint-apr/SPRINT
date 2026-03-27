@@ -1,0 +1,7 @@
+diff --git a/Math_2/src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java b/Math_2/src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java
+index 2769127..81e180c 100644
+--- a/Math_2/src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java
++++ b/Math_2/src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java
+@@ -268 +268 @@ public class HypergeometricDistribution extends AbstractIntegerDistribution {
+-        return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
++        return getSampleSize() * (getNumberOfSuccesses() / (double) getPopulationSize());

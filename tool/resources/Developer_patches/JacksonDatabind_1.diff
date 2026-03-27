@@ -1,0 +1,6 @@
+diff --git a/JacksonDatabind_1/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java b/JacksonDatabind_1/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java
+index 45db172..32ce099 100644
+--- a/JacksonDatabind_1/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java
++++ b/JacksonDatabind_1/src/main/java/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java
+@@ -591,0 +592 @@ public class BeanPropertyWriter
++            return;

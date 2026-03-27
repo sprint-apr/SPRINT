@@ -1,0 +1,19 @@
+diff --git a/Time_2/src/main/java/org/joda/time/Partial.java b/Time_2/src/main/java/org/joda/time/Partial.java
+index b9ec964..3b84fdc 100644
+--- a/Time_2/src/main/java/org/joda/time/Partial.java
++++ b/Time_2/src/main/java/org/joda/time/Partial.java
+@@ -218 +218 @@ public final class Partial
+-                if (compare < 0 || (compare != 0 && loopUnitField.isSupported() == false)) {
++                if (compare < 0) {
+@@ -448,0 +449,3 @@ public final class Partial
++                            if (fieldType.getRangeDurationType() == null) {
++                                break;
++                            }
+diff --git a/Time_2/src/main/java/org/joda/time/field/UnsupportedDurationField.java b/Time_2/src/main/java/org/joda/time/field/UnsupportedDurationField.java
+index bf44e01..7e0ce57 100644
+--- a/Time_2/src/main/java/org/joda/time/field/UnsupportedDurationField.java
++++ b/Time_2/src/main/java/org/joda/time/field/UnsupportedDurationField.java
+@@ -226,0 +227,3 @@ public final class UnsupportedDurationField extends DurationField implements Ser
++        if (durationField.isSupported()) {
++            return 1;
++        }

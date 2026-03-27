@@ -1,0 +1,7 @@
+diff --git a/Lang_16/src/main/java/org/apache/commons/lang3/math/NumberUtils.java b/Lang_16/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+index 882358f..5b7891a 100644
+--- a/Lang_16/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
++++ b/Lang_16/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+@@ -458 +458 @@ public class NumberUtils {
+-        if (str.startsWith("0x") || str.startsWith("-0x")) {
++        if (str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") || str.startsWith("-0X")) {

@@ -1,0 +1,12 @@
+diff --git a/Closure_51/src/com/google/javascript/jscomp/CodeConsumer.java b/Closure_51/src/com/google/javascript/jscomp/CodeConsumer.java
+index 146d2f8..3a66750 100644
+--- a/Closure_51/src/com/google/javascript/jscomp/CodeConsumer.java
++++ b/Closure_51/src/com/google/javascript/jscomp/CodeConsumer.java
+@@ -241 +241 @@ abstract class CodeConsumer {
+-    if ((long) x == x) {
++    if ((long) x == x && !isNegativeZero(x)) {
+@@ -258,0 +259 @@ abstract class CodeConsumer {
++  }
+@@ -259,0 +261,2 @@ abstract class CodeConsumer {
++  static boolean isNegativeZero(double x) {
++    return x == 0.0 && Math.copySign(1, x) == -1.0;

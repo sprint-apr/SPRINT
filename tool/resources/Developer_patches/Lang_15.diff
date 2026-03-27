@@ -1,0 +1,14 @@
+diff --git a/Lang_15/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java b/Lang_15/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java
+index 415cefa..8db8abf 100644
+--- a/Lang_15/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java
++++ b/Lang_15/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java
+@@ -219,3 +219,3 @@ public class TypeUtils {
+-        for (Map.Entry<TypeVariable<?>, Type> entry : toTypeVarAssigns.entrySet()) {
+-            Type toTypeArg = entry.getValue();
+-            Type fromTypeArg = fromTypeVarAssigns.get(entry.getKey());
++        for (TypeVariable<?> var : toTypeVarAssigns.keySet()) {
++            Type toTypeArg = unrollVariableAssignments(var, toTypeVarAssigns);
++            Type fromTypeArg = unrollVariableAssignments(var, fromTypeVarAssigns);
+@@ -675 +675 @@ public class TypeUtils {
+-        if (cls.getTypeParameters().length > 0 || toClass.equals(cls)) {
++        if (toClass.equals(cls)) {

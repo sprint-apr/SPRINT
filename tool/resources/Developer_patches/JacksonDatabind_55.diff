@@ -1,0 +1,38 @@
+diff --git a/JacksonDatabind_55/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java b/JacksonDatabind_55/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java
+index 7f55a3f..7afcc55 100644
+--- a/JacksonDatabind_55/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java
++++ b/JacksonDatabind_55/src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java
+@@ -9,0 +10 @@ import com.fasterxml.jackson.databind.ser.impl.PropertySerializerMap;
++import com.fasterxml.jackson.databind.util.EnumValues;
+@@ -82 +83,2 @@ public class StdKeySerializers
+-                return new Default(Default.TYPE_ENUM, rawKeyType);
++                return EnumKeySerializer.construct(rawKeyType,
++                        EnumValues.constructFromName(config, (Class<Enum<?>>) rawKeyType));
+@@ -214,0 +217,3 @@ public class StdKeySerializers
++    public static class EnumKeySerializer extends StdSerializer<Object>
++    {
++        protected final EnumValues _values;
+@@ -215,0 +221,4 @@ public class StdKeySerializers
++        protected EnumKeySerializer(Class<?> enumType, EnumValues values) {
++            super(enumType, false);
++            _values = values;
++        }
+@@ -216,0 +226,5 @@ public class StdKeySerializers
++        public static EnumKeySerializer construct(Class<?> enumType,
++                EnumValues enumValues)
++        {
++            return new EnumKeySerializer(enumType, enumValues);
++        }
+@@ -217,0 +232,12 @@ public class StdKeySerializers
++        @Override
++        public void serialize(Object value, JsonGenerator g, SerializerProvider serializers)
++                throws IOException
++        {
++            if (serializers.isEnabled(SerializationFeature.WRITE_ENUMS_USING_TO_STRING)) {
++                g.writeFieldName(value.toString());
++                return;
++            }
++            Enum<?> en = (Enum<?>) value;
++            g.writeFieldName(_values.serializedValueFor(en));
++        }
++    }

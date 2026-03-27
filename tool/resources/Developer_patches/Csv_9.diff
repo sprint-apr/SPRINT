@@ -1,0 +1,8 @@
+diff --git a/Csv_9/src/main/java/org/apache/commons/csv/CSVRecord.java b/Csv_9/src/main/java/org/apache/commons/csv/CSVRecord.java
+index 3abb468..e814b70 100644
+--- a/Csv_9/src/main/java/org/apache/commons/csv/CSVRecord.java
++++ b/Csv_9/src/main/java/org/apache/commons/csv/CSVRecord.java
+@@ -179,0 +180,3 @@ public final class CSVRecord implements Serializable, Iterable<String> {
++        if (mapping == null) {
++            return map;
++        }

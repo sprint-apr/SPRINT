@@ -1,0 +1,13 @@
+diff --git a/Closure_108/src/com/google/javascript/jscomp/ScopedAliases.java b/Closure_108/src/com/google/javascript/jscomp/ScopedAliases.java
+index 1e22c9e..b2a1690 100644
+--- a/Closure_108/src/com/google/javascript/jscomp/ScopedAliases.java
++++ b/Closure_108/src/com/google/javascript/jscomp/ScopedAliases.java
+@@ -258,0 +259 @@ class ScopedAliases implements HotSwapCompilerPass {
++    private final Set<Node> injectedDecls = Sets.newHashSet();
+@@ -315,0 +317 @@ class ScopedAliases implements HotSwapCompilerPass {
++        injectedDecls.clear();
+@@ -431,0 +434 @@ class ScopedAliases implements HotSwapCompilerPass {
++            injectedDecls.add(newDecl.getFirstChild());
+@@ -581 +584 @@ class ScopedAliases implements HotSwapCompilerPass {
+-        if (info != null) {
++        if (info != null && !injectedDecls.contains(n)) {

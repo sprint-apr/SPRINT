@@ -1,0 +1,10 @@
+diff --git a/Jsoup_69/src/main/java/org/jsoup/nodes/FormElement.java b/Jsoup_69/src/main/java/org/jsoup/nodes/FormElement.java
+index e498975..f5c59d3 100644
+--- a/Jsoup_69/src/main/java/org/jsoup/nodes/FormElement.java
++++ b/Jsoup_69/src/main/java/org/jsoup/nodes/FormElement.java
+@@ -48,0 +49,5 @@ public class FormElement extends Element {
++    @Override
++    protected void removeChild(Node out) {
++        super.removeChild(out);
++        elements.remove(out);
++    }

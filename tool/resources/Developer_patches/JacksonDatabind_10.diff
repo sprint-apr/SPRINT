@@ -1,0 +1,39 @@
+diff --git a/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/AnyGetterWriter.java b/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/AnyGetterWriter.java
+index 2cd7bb7..9fe4077 100644
+--- a/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/AnyGetterWriter.java
++++ b/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/AnyGetterWriter.java
+@@ -23,0 +24 @@ public class AnyGetterWriter
++    protected JsonSerializer<Object> _serializer;
+@@ -29 +30 @@ public class AnyGetterWriter
+-            AnnotatedMember accessor, MapSerializer serializer)
++            AnnotatedMember accessor, JsonSerializer<?> serializer)
+@@ -32,0 +34,2 @@ public class AnyGetterWriter
++        _serializer = (JsonSerializer<Object>) serializer;
++        if (serializer instanceof MapSerializer) {
+@@ -33,0 +37 @@ public class AnyGetterWriter
++        }
+@@ -51,0 +56 @@ public class AnyGetterWriter
++        _serializer.serialize(value, gen, provider);
+@@ -74,0 +80 @@ public class AnyGetterWriter
++        _serializer.serialize(value, gen, provider);
+@@ -82 +88,7 @@ public class AnyGetterWriter
+-        _mapSerializer = (MapSerializer) provider.handlePrimaryContextualization(_mapSerializer, _property);
++        if (_serializer instanceof ContextualSerializer) {
++            JsonSerializer<?> ser = provider.handlePrimaryContextualization(_serializer, _property);
++            _serializer = (JsonSerializer<Object>) ser;
++            if (ser instanceof MapSerializer) {
++                _mapSerializer = (MapSerializer) ser;
++            }
++        }
+diff --git a/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java b/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
+index 25e7e3f..ec540cc 100644
+--- a/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
++++ b/JacksonDatabind_10/src/main/java/com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java
+@@ -395 +395,2 @@ public class BeanSerializerFactory
+-            MapSerializer anySer = MapSerializer.construct(null, type, staticTyping, typeSer, null, null, null);
++            JsonSerializer<?> anySer = findSerializerFromAnnotation(prov, anyGetter);
++            if (anySer == null) {
+@@ -396,0 +398,3 @@ public class BeanSerializerFactory
++                anySer = MapSerializer.construct(/* ignored props*/ null, type, staticTyping,
++                        typeSer, null, null, /*filterId*/ null);
++            }

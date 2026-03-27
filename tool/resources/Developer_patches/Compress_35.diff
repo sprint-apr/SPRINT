@@ -1,0 +1,13 @@
+diff --git a/Compress_35/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/Compress_35/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index d60c4de..204debf 100644
+--- a/Compress_35/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/Compress_35/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -594 +594 @@ public class TarUtils {
+-        long storedSum = 0;
++        long storedSum = parseOctal(header, CHKSUM_OFFSET, CHKSUMLEN);
+@@ -602,5 +601,0 @@ public class TarUtils {
+-                if ('0' <= b && b <= '7' && digits++ < 6) {
+-                    storedSum = storedSum * 8 + b - '0';
+-                } else if (digits > 0) {
+-                    digits = 6;
+-                }

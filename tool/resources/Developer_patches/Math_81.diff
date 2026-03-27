@@ -1,0 +1,14 @@
+diff --git a/Math_81/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java b/Math_81/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+index 2d0d72f..3fc328d 100644
+--- a/Math_81/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
++++ b/Math_81/src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+@@ -602,0 +603 @@ public class EigenDecompositionImpl implements EigenDecomposition {
++        upperSpectra = Math.max(upperSpectra, upper);
+@@ -905,2 +906,2 @@ public class EigenDecompositionImpl implements EigenDecomposition {
+-                    for (int i = 4 * i0; i < 4 * n0 - 11; i += 4) {
+-                        if ((work[i + 3] <= TOLERANCE_2 * work[i]) &&
++                    for (int i = 4 * i0; i < 4 * n0 - 16; i += 4) {
++                        if ((work[i + 3] <= TOLERANCE_2 * work[i]) ||
+@@ -1543 +1544 @@ public class EigenDecompositionImpl implements EigenDecomposition {
+-                if (end - start > 2) {
++                if (end - start > 3) {

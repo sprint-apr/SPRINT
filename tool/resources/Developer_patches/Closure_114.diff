@@ -1,0 +1,7 @@
+diff --git a/Closure_114/src/com/google/javascript/jscomp/NameAnalyzer.java b/Closure_114/src/com/google/javascript/jscomp/NameAnalyzer.java
+index 0fc5ae8..a7b95b0 100644
+--- a/Closure_114/src/com/google/javascript/jscomp/NameAnalyzer.java
++++ b/Closure_114/src/com/google/javascript/jscomp/NameAnalyzer.java
+@@ -578 +578 @@ final class NameAnalyzer implements CompilerPass {
+-        } else {
++        } else if (!(parent.isCall() && parent.getFirstChild() == n)) {

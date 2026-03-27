@@ -1,0 +1,17 @@
+diff --git a/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java b/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
+index 0840ac1..e03be9e 100644
+--- a/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
++++ b/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
+@@ -299,0 +300,4 @@ public abstract class EmbeddedRungeKuttaIntegrator
++                  interpolator.storeTime(stepStart);
++                  System.arraycopy(y, 0, yTmp, 0, y0.length);
++                  hNew     = 0;
++                  stepSize = 0;
+diff --git a/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java b/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java
+index 255b1f4..b61b0b1 100644
+--- a/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java
++++ b/Math_71/src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java
+@@ -179,0 +180,3 @@ public abstract class RungeKuttaIntegrator extends AbstractIntegrator {
++                interpolator.storeTime(stepStart);
++                System.arraycopy(y, 0, yTmp, 0, y0.length);
++                stepSize = 0;

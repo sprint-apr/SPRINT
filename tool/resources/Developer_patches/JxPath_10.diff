@@ -1,0 +1,7 @@
+diff --git a/JxPath_10/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java b/JxPath_10/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
+index b968cd5..a09afa8 100644
+--- a/JxPath_10/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
++++ b/JxPath_10/src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java
+@@ -42 +42 @@ public abstract class CoreOperationRelationalExpression extends CoreOperation {
+-        return compute(args[0].computeValue(context), args[1].computeValue(context)) 
++        return compute(args[0].compute(context), args[1].compute(context))

@@ -1,0 +1,26 @@
+diff --git a/JacksonDatabind_8/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java b/JacksonDatabind_8/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java
+index 39514f6..1a99abc 100644
+--- a/JacksonDatabind_8/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java
++++ b/JacksonDatabind_8/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java
+@@ -282,0 +283 @@ public class CreatorCollector
++            boolean verify;
+@@ -289,0 +291,2 @@ public class CreatorCollector
++                verify = true;
++            } else {
+@@ -290,0 +294 @@ public class CreatorCollector
++                verify = !explicit;
+@@ -294 +298 @@ public class CreatorCollector
+-            if (oldOne.getClass() == newOne.getClass()) {
++            if (verify && (oldOne.getClass() == newOne.getClass())) {
+@@ -295,0 +300,2 @@ public class CreatorCollector
++                Class<?> oldType = oldOne.getRawParameterType(0);
++                Class<?> newType = newOne.getRawParameterType(0);
+@@ -296,0 +303 @@ public class CreatorCollector
++                if (oldType == newType) {
+@@ -298,0 +306 @@ public class CreatorCollector
++                }
+@@ -299,0 +308 @@ public class CreatorCollector
++                if (newType.isAssignableFrom(oldType)) {
+@@ -300,0 +310,2 @@ public class CreatorCollector
++                    return;
++                }

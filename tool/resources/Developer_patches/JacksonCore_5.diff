@@ -1,0 +1,7 @@
+diff --git a/JacksonCore_5/src/main/java/com/fasterxml/jackson/core/JsonPointer.java b/JacksonCore_5/src/main/java/com/fasterxml/jackson/core/JsonPointer.java
+index d353b39..a802239 100644
+--- a/JacksonCore_5/src/main/java/com/fasterxml/jackson/core/JsonPointer.java
++++ b/JacksonCore_5/src/main/java/com/fasterxml/jackson/core/JsonPointer.java
+@@ -193 +193 @@ public class JsonPointer
+-            char c = str.charAt(i++);
++            char c = str.charAt(i);

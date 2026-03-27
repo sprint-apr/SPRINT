@@ -1,0 +1,65 @@
+diff --git a/Mockito_19/src/org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java b/Mockito_19/src/org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java
+index 67126af..c17f961 100644
+--- a/Mockito_19/src/org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java
++++ b/Mockito_19/src/org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java
+@@ -114 +114 @@ public class PropertyAndSetterInjection extends MockInjectionStrategy {
+-            Object injected = mockCandidateFilter.filterCandidate(mocks, field, instance).thenInject();
++            Object injected = mockCandidateFilter.filterCandidate(mocks, field, orderedInstanceFields, instance).thenInject();
+diff --git a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter.java b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter.java
+index 7bd7073..aebf6f7 100644
+--- a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter.java
++++ b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter.java
+@@ -12,0 +13 @@ import java.util.Collection;
++import java.util.List;
+@@ -23 +24 @@ public class FinalMockCandidateFilter implements MockCandidateFilter {
+-    public OngoingInjecter filterCandidate(final Collection<Object> mocks, final Field field, final Object fieldInstance) {
++    public OngoingInjecter filterCandidate(final Collection<Object> mocks, final Field field, List<Field> fields, final Object fieldInstance) {
+diff --git a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/MockCandidateFilter.java b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/MockCandidateFilter.java
+index 7a2c087..81a168b 100644
+--- a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/MockCandidateFilter.java
++++ b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/MockCandidateFilter.java
+@@ -8,0 +9 @@ import java.util.Collection;
++import java.util.List;
+@@ -15 +16 @@ public interface MockCandidateFilter {
+-            Object fieldInstance
++            List<Field> fields, Object instance
+diff --git a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java
+index b95f31a..abc5d67 100644
+--- a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java
++++ b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java
+@@ -23 +23 @@ public class NameBasedCandidateFilter implements MockCandidateFilter {
+-			Field field, Object fieldInstance) {
++			Field field, List<Field> fields, Object fieldInstance) {
+@@ -31 +31 @@ public class NameBasedCandidateFilter implements MockCandidateFilter {
+-			return next.filterCandidate(mockNameMatches, field,
++			return next.filterCandidate(mockNameMatches, field, fields,
+@@ -41,0 +42,16 @@ public class NameBasedCandidateFilter implements MockCandidateFilter {
++		} else if (mocks.size() == 1) {
++			String mockName = mockUtil.getMockName(mocks.iterator().next())
++					.toString();
++
++			for (Field otherField : fields) {
++				if (!otherField.equals(field)
++						&& otherField.getType().equals(field.getType())
++						&& otherField.getName().equals(mockName)) {
++
++					return new OngoingInjecter() {
++						public Object thenInject() {
++							return null;
++						}
++					};
++				}
++			}
+@@ -43 +59 @@ public class NameBasedCandidateFilter implements MockCandidateFilter {
+-		return next.filterCandidate(mocks, field, fieldInstance);
++		return next.filterCandidate(mocks, field, fields, fieldInstance);
+diff --git a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter.java b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter.java
+index dd79991..ce7a349 100644
+--- a/Mockito_19/src/org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter.java
++++ b/Mockito_19/src/org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter.java
+@@ -20 +20 @@ public class TypeBasedCandidateFilter implements MockCandidateFilter {
+-    public OngoingInjecter filterCandidate(Collection<Object> mocks, Field field, Object fieldInstance) {
++    public OngoingInjecter filterCandidate(Collection<Object> mocks, Field field, List<Field> fields, Object fieldInstance) {
+@@ -28 +28 @@ public class TypeBasedCandidateFilter implements MockCandidateFilter {
+-        return next.filterCandidate(mockTypeMatches, field, fieldInstance);
++        return next.filterCandidate(mockTypeMatches, field, fields, fieldInstance);

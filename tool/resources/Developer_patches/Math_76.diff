@@ -1,0 +1,38 @@
+diff --git a/Math_76/src/main/java/org/apache/commons/math/linear/SingularValueDecompositionImpl.java b/Math_76/src/main/java/org/apache/commons/math/linear/SingularValueDecompositionImpl.java
+index 1436881..e418c08 100644
+--- a/Math_76/src/main/java/org/apache/commons/math/linear/SingularValueDecompositionImpl.java
++++ b/Math_76/src/main/java/org/apache/commons/math/linear/SingularValueDecompositionImpl.java
+@@ -162 +162 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                    eigenDecomposition.getV().getSubMatrix(0, p - 1, 0, p - 1);
++                    eigenDecomposition.getV().getSubMatrix(0, n - 1, 0, p - 1);
+@@ -166 +166 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                for (int i = 0; i < p - 1; ++i) {
++                for (int i = 0; i < p; ++i) {
+@@ -170,0 +171 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
++                    if (i < n - 1) {
+@@ -176 +177 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                }
++                    } else {
+@@ -178 +179 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                            wData[p - 1][j] = ei1[j] * mainBidiagonal[p - 1] / singularValues[j];
++                            wi[j] = mi * ei0[j] / singularValues[j];
+@@ -179,0 +181,2 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
++                    }
++                }
+@@ -248 +251 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                    eigenDecomposition.getV().getSubMatrix(0, p - 1, 0, p - 1);
++                    eigenDecomposition.getV().getSubMatrix(0, m - 1, 0, p - 1);
+@@ -252 +255 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                for (int i = 0; i < p - 1; ++i) {
++                for (int i = 0; i < p; ++i) {
+@@ -255,0 +259 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
++                    if (i < m - 1) {
+@@ -261 +265 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                }
++                    } else {
+@@ -263 +267 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
+-                            wData[p - 1][j] = ei1[j] * mainBidiagonal[p - 1] / singularValues[j];
++                            wi[j] = mi * ei0[j] / singularValues[j];
+@@ -264,0 +269,2 @@ public class SingularValueDecompositionImpl implements SingularValueDecompositio
++                    }
++                }

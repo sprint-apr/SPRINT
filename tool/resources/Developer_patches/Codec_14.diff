@@ -1,0 +1,664 @@
+diff --git a/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Lang.java b/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Lang.java
+index e9c2e72..a7ebba6 100644
+--- a/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Lang.java
++++ b/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Lang.java
+@@ -98 +98 @@ public class Lang {
+-    private static final String LANGUAGE_RULES_RN = "org/apache/commons/codec/language/bm/lang.txt";
++    private static final String LANGUAGE_RULES_RN = "org/apache/commons/codec/language/bm/%s_lang.txt";
+@@ -102 +102 @@ public class Lang {
+-            Langs.put(s, loadFromResource(LANGUAGE_RULES_RN, Languages.getInstance(s)));
++            Langs.put(s, loadFromResource(String.format(LANGUAGE_RULES_RN, s.getName()), Languages.getInstance(s)));
+diff --git a/Codec_14/src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java b/Codec_14/src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java
+index 97cedb2..44a3f03 100644
+--- a/Codec_14/src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java
++++ b/Codec_14/src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java
+@@ -31 +31 @@ import java.util.Set;
+-import java.util.TreeSet;
++import java.util.TreeMap;
+@@ -338 +338,2 @@ public class PhoneticEngine {
+-        final Set<Rule.Phoneme> phonemes = new TreeSet<Rule.Phoneme>(Rule.Phoneme.COMPARATOR);
++        final Map<Rule.Phoneme, Rule.Phoneme> phonemes =
++            new TreeMap<Rule.Phoneme, Rule.Phoneme>(Rule.Phoneme.COMPARATOR);
+@@ -361 +362,9 @@ public class PhoneticEngine {
+-            phonemes.addAll(subBuilder.getPhonemes());
++            for (final Rule.Phoneme newPhoneme : subBuilder.getPhonemes()) {
++                if (phonemes.containsKey(newPhoneme)) {
++                    final Rule.Phoneme oldPhoneme = phonemes.remove(newPhoneme);
++                    final Rule.Phoneme mergedPhoneme = oldPhoneme.mergeWithLanguage(newPhoneme.getLanguages());
++                    phonemes.put(mergedPhoneme, mergedPhoneme);
++                } else {
++                    phonemes.put(newPhoneme, newPhoneme);
++                }
++            }
+@@ -364 +373 @@ public class PhoneticEngine {
+-        return new PhonemeBuilder(phonemes);
++        return new PhonemeBuilder(phonemes.keySet());
+diff --git a/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Rule.java b/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Rule.java
+index f96ff7c..659d2df 100644
+--- a/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Rule.java
++++ b/Codec_14/src/main/java/org/apache/commons/codec/language/bm/Rule.java
+@@ -157,0 +158,3 @@ public class Rule {
++        public Phoneme mergeWithLanguage(final LanguageSet lang) {
++          return new Phoneme(this.phonemeText.toString(), this.languages.merge(lang));
++        }
+diff --git a/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/ash_lang.txt b/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/ash_lang.txt
+index e69de29..59b802f 100644
+--- a/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/ash_lang.txt
++++ b/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/ash_lang.txt
+@@ -0,0 +1,206 @@
++/*
++ * Licensed to the Apache Software Foundation (ASF) under one or more
++ * contributor license agreements.  See the NOTICE file distributed with
++ * this work for additional information regarding copyright ownership.
++ * The ASF licenses this file to You under the Apache License, Version 2.0
++ * (the "License"); you may not use this file except in compliance with
++ * the License.  You may obtain a copy of the License at
++ *
++ *      http://www.apache.org/licenses/LICENSE-2.0
++ *
++ * Unless required by applicable law or agreed to in writing, software
++ * distributed under the License is distributed on an "AS IS" BASIS,
++ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
++ * See the License for the specific language governing permissions and
++ * limitations under the License.
++ */
++
++// ASHKENAZIC
++
++// 1. following are rules to accept the language
++// 1.1 Special letter combinations
++zh polish+russian+german+english true
++eau french true
++[aoeiuÃ¤Ã¶Ã¼]h german true
++^vogel german, true
++vogel$ german true
++witz german true
++tz$ german+russian+english true
++^tz russian+english true
++gÃ¼e spanish true
++gÃ¼i spanish true
++ghe romanian true
++ghi romanian true
++vici$ romanian true
++schi$ romanian true
++chsch german true
++tsch german true
++ssch german true
++sch$ german+russian true
++^sch german+russian true
++^rz polish true
++rz$ polish+german true
++[^aoeiuÃ¤Ã¶Ã¼]rz polish true
++rz[^aoeiuÃ¤Ã¶Ã¼] polish true
++cki$ polish true
++ska$ polish true
++cka$ polish true
++ue german+russian true
++ae german+russian+english true
++oe german+french+russian+english true
++th$ german true
++^th german true
++th[^aoeiu] german true
++mann german true
++cz polish true
++cy polish true
++niew polish true
++stein german true
++heim$ german true
++heimer$ german true
++ii$ russian true
++iy$ russian true
++yy$ russian true
++yi$ russian true
++yj$ russian true
++ij$ russian true
++gaus$ russian true
++gauz$ russian true
++gauz$ russian true
++goltz$ russian true
++gol'tz$ russian true 
++golts$ russian true 
++gol'ts$ russian true 
++^goltz russian true
++^gol'tz russian true 
++^golts russian true 
++^gol'ts russian true 
++gendler$ russian true 
++gejmer$ russian true 
++gejm$ russian true 
++geimer$ russian true 
++geim$ russian true 
++geymer russian true 
++geym$ russian true 
++gof$ russian true 
++thal german true
++zweig german true
++ck$ german+english true
++c$ polish+romanian+hungarian true
++sz polish+hungarian true
++gue spanish+french true
++gui spanish+french true
++guy french true
++cs$ hungarian true
++^cs hungarian true
++dzs hungarian true
++zs$ hungarian true
++^zs hungarian true
++^wl polish true
++^wr polish+english+german true
++
++gy$ hungarian true
++gy[aeou] hungarian true
++gy hungarian+russian true
++ly hungarian+russian+polish true
++ny hungarian+russian+polish true
++ty hungarian+russian+polish true 
++
++// 1.2 special characters    
++Ã¢ romanian+french true
++Ä romanian true
++Ã  french true
++Ã¤ german true
++Ã¡ hungarian+spanish true
++Ä polish true
++Ä polish true
++Ã§ french true
++Ä polish true
++Ã© french+hungarian+spanish true
++Ã¨ french true
++Ãª french true
++Ã­ hungarian+spanish true
++Ã® romanian+french true
++Å polish true
++Å polish true
++Ã± spanish true
++Ã³ polish+hungarian+spanish true
++Ã¶ german+hungarian true
++Ãµ hungarian true
++Å romanian true
++Å polish true
++Å£ romanian true
++Ã¼ german+hungarian true
++Ã¹ french true
++Å± hungarian true
++Ãº hungarian+spanish true
++Åº polish true
++Å¼ polish true
++    
++Ã german true
++
++// Every Cyrillic word has at least one Cyrillic vowel (Ð°ÑÐµÐ¾Ð¸ÑÑÑÑÑ) 
++Ð° cyrillic true 
++Ñ cyrillic true 
++Ð¾ cyrillic true 
++Ðµ cyrillic true 
++Ð¸ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++    
++// Hebrew 
++× hebrew true
++× hebrew true
++× ebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++×  hebrew true
++×¡ hebrew true
++×¢ hebrew true
++×¤ hebrew true
++×¦ hebrew true 
++×§ hebrew true
++×¨ hebrew true
++×© hebrew true
++×ª hebrew true
++    
++    
++// 2. following are rules to reject the language
++// Every Latin character word has at least one Latin vowel  
++a cyrillic+hebrew false 
++o cyrillic+hebrew false 
++e cyrillic+hebrew false 
++i cyrillic+hebrew false 
++y cyrillic+hebrew+romanian false 
++u cyrillic+hebrew false 
++  
++v[^aoeiuÃ¤Ã¼Ã¶] german false // in german "v" can be found before a vowel only
++y[^aoeiu] german false  // in german "y" usually appears only in the last position; sometimes before a vowel
++c[^aohk] german false
++dzi german+english+french false
++ou german false
++aj german+english+french false
++ej german+english+french false
++oj german+english+french false
++uj german+english+french false
++k romanian false
++v polish false
++ky polish false
++eu russian+polish false
++w french+romanian+spanish+hungarian+russian false
++kie french+spanish false
++gie french+romanian+spanish false
++q hungarian+polish+russian+romanian false
++sch hungarian+polish+french+spanish false
++^h russian false
+diff --git a/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/gen_lang.txt b/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/gen_lang.txt
+index e69de29..7c66dc1 100644
+--- a/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/gen_lang.txt
++++ b/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/gen_lang.txt
+@@ -0,0 +1,295 @@
++/*
++ * Licensed to the Apache Software Foundation (ASF) under one or more
++ * contributor license agreements.  See the NOTICE file distributed with
++ * this work for additional information regarding copyright ownership.
++ * The ASF licenses this file to You under the Apache License, Version 2.0
++ * (the "License"); you may not use this file except in compliance with
++ * the License.  You may obtain a copy of the License at
++ *
++ *      http://www.apache.org/licenses/LICENSE-2.0
++ *
++ * Unless required by applicable law or agreed to in writing, software
++ * distributed under the License is distributed on an "AS IS" BASIS,
++ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
++ * See the License for the specific language governing permissions and
++ * limitations under the License.
++ */
++
++// GENERIC
++
++// 1. following are rules to accept the language
++// 1.1 Special letter combinations
++^oâ english true
++^o' english true
++^mc english true
++^fitz english true
++ceau french+romanian true
++eau romanian true
++eau$ french true // mp: I've added this
++eaux$ french true // mp: I've added this
++ault$ french true
++oult$ french true
++eux$ french true
++eix$ french true
++glou$ greeklatin true
++uu dutch true
++tx spanish true
++witz german true
++tz$ german+russian+english true
++^tz russian+english true
++poulos$ greeklatin true
++pulos$ greeklatin true
++iou greeklatin true
++sj$ dutch true
++^sj dutch true
++gÃ¼e spanish true
++gÃ¼i spanish true
++ghe romanian+greeklatin true
++ghi romanian+greeklatin true
++escu$ romanian true
++esco$ romanian true
++vici$ romanian true
++schi$ romanian true
++ii$ russian true
++iy$ russian true
++yy$ russian true
++yi$ russian true
++^rz polish true
++rz$ polish+german true
++[bcdfgklmnpstwz]rz polish true
++rz[bcdfghklmnpstw] polish true
++cki$ polish true
++ska$ polish true
++cka$ polish true
++ae german+russian+english true
++oe german+french+russian+english+dutch true
++th$ german+english true
++^th german+english+greeklatin true
++mann german true
++cz polish true
++cy polish+greeklatin true
++niew polish true
++etti$ italian true
++eti$ italian true
++ati$ italian true
++ato$ italian true
++[aoei]no$ italian true
++[aoei]ni$ italian true
++esi$ italian true
++oli$ italian true
++field$ english true
++stein german true
++heim$ german true
++heimer$ german true
++thal german true
++zweig german true
++[aeou]h german true
++Ã¤h german true
++Ã¶h german true
++Ã¼h german true
++[ln]h[ao]$ portuguese true
++[ln]h[aou] portuguese+french+german+dutch+czech+spanish+turkish true
++chsch german true
++tsch german true
++sch$ german+russian true
++^sch german+russian true
++ck$ german+english true
++c$ polish+romanian+hungarian+czech+turkish true
++sz polish+hungarian true
++cs$ hungarian true
++^cs hungarian true
++dzs hungarian true
++zs$ hungarian true
++^zs hungarian true
++^wl polish true
++^wr polish+english+german+dutch true
++
++gy$ hungarian true
++gy[aeou] hungarian true
++gy hungarian+russian+french+greeklatin true
++guy french true
++gu[ei] spanish+french+portuguese true
++gu[ao] spanish+portuguese true
++gi[aou] italian+greeklatin true
++        
++ly hungarian+russian+polish+greeklatin true
++ny hungarian+russian+polish+spanish+greeklatin true
++ty hungarian+russian+polish+greeklatin true 
++
++// 1.2 special characters    
++Ä polish true
++Ã§ french+spanish+portuguese+turkish true
++Ä czech true
++Ä czech true
++Ä turkish true
++Å polish true
++Å polish true
++Ã± spanish true
++Å czech true
++Å czech true
++Å polish true
++Å romanian+turkish true
++Å¡ czech true
++Å£ romanian true
++Å¥ czech true
++Åº polish true
++Å¼ polish true
++        
++Ã german true
++
++Ã¤ german true
++Ã¡ hungarian+spanish+portuguese+czech+greeklatin true
++Ã¢ romanian+french+portuguese true
++Ä romanian true
++Ä polish true
++Ã  portuguese true
++Ã£ portuguese true
++Ä polish true
++Ã© french+hungarian+czech+greeklatin true
++Ã¨ french+spanish+italian true
++Ãª french true
++Ä czech true
++Ãª french+portuguese true
++Ã­ hungarian+spanish+portuguese+czech+greeklatin true
++Ã® romanian+french true
++Ä± turkish true
++Ã³ polish+hungarian+spanish+italian+portuguese+czech+greeklatin true
++Ã¶ german+hungarian+turkish true
++Ã´ french+portuguese true
++Ãµ portuguese+hungarian true
++Ã² italian+spanish true
++Å± hungarian true
++Ãº hungarian+spanish+portuguese+czech+greeklatin true
++Ã¼ german+hungarian+spanish+portuguese+turkish true
++Ã¹ french true
++Å¯ czech true
++Ã½ czech+greeklatin true
++   
++// Every Cyrillic word has at least one Cyrillic vowel (Ð°ÑÐµÐ¾Ð¸ÑÑÑÑÑ) 
++Ð° cyrillic true 
++Ñ cyrillic true 
++Ð¾ cyrillic true 
++Ðµ cyrillic true 
++Ð¸ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++Ñ cyrillic true 
++ 
++// Every Greek word has at least one Greek vowel
++Î± greek true 
++Îµ greek true 
++Î· greek true 
++Î¹ greek true 
++Î¿ greek true 
++Ï greek true 
++Ï greek true 
++
++// Arabic (only initial)
++Ø§ arabic true // alif (isol + init)   
++Ø¨ arabic true // ba' 
++Øª arabic true // ta' 
++Ø« arabic true // tha'
++Ø¬ arabic true // jim
++Ø­ arabic true // h.a' 
++Ø®' arabic true // kha' 
++Ø¯ arabic true // dal (isol + init)
++Ø° arabic true // dhal (isol + init)
++Ø± arabic true // ra' (isol + init)
++Ø² arabic true // za' (isol + init)
++Ø³ arabic true // sin 
++Ø´ arabic true // shin 
++Øµ arabic true // s.ad 
++Ø¶ arabic true // d.ad 
++Ø· arabic true // t.a' 
++Ø¸ arabic true // z.a' 
++Ø¹ arabic true // 'ayn
++Øº arabic true // ghayn 
++Ù arabic true // fa' 
++Ù arabic true // qaf 
++Ù arabic true // kaf  
++Ù arabic true // lam 
++Ù arabic true // mim 
++Ù arabic true // nun 
++Ù arabic true // ha' 
++Ù arabic true // waw (isol + init)
++Ù arabic true // ya' 
++    
++Ø¢ arabic true // alif madda  
++Ø¥ arabic true // alif + diacritic  
++Ø£ arabic true // alif + hamza
++Ø¤ arabic true //  waw + hamza
++Ø¦ arabic true //  ya' + hamza
++ÙØ§ arabic true // ligature l+a
++                
++// Hebrew 
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++×  hebrew true
++×¡ hebrew true
++×¢ hebrew true
++×¤ hebrew true
++×¦ hebrew true 
++×§ hebrew true
++×¨ hebrew true
++×© hebrew true
++×ª hebrew true
++      
++// 2. following are rules to reject the language
++   
++// Every Latin character word has at least one Latin vowel  
++a cyrillic+hebrew+greek+arabic false 
++o cyrillic+hebrew+greek+arabic false 
++e cyrillic+hebrew+greek+arabic false 
++i cyrillic+hebrew+greek+arabic false 
++y cyrillic+hebrew+greek+arabic+romanian+dutch false 
++u cyrillic+hebrew+greek+arabic false 
++  
++j italian false
++j[^aoeiuy] french+spanish+portuguese+greeklatin false 
++g czech false
++k romanian+spanish+portuguese+french+italian false
++q hungarian+polish+russian+romanian+czech+dutch+turkish+greeklatin false
++v polish false
++w french+romanian+spanish+hungarian+russian+czech+turkish+greeklatin false
++x czech+hungarian+dutch+turkish false // polish excluded from the list
++    
++dj spanish+turkish false
++v[^aoeiu] german false // in german, "v" can be found before a vowel only
++y[^aoeiu] german false  // in german, "y" usually appears only in the last position; sometimes before a vowel
++c[^aohk] german false
++dzi german+english+french+turkish false
++ou german false
++a[eiou] turkish false // no diphthongs in Turkish
++Ã¶[eaiou] turkish false 
++Ã¼[eaiou] turkish false 
++e[aiou] turkish false 
++i[aeou] turkish false 
++o[aieu] turkish false 
++u[aieo] turkish false 
++aj german+english+french+dutch false
++ej german+english+french+dutch false
++oj german+english+french+dutch false
++uj german+english+french+dutch false
++eu russian+polish false
++ky polish false
++kie french+spanish+greeklatin false
++gie portuguese+romanian+spanish+greeklatin false
++ch[aou] italian false
++ch turkish false
++son$ german false
++sc[ei] french false
++sch hungarian+polish+french+spanish false
++^h russian false
+diff --git a/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/sep_lang.txt b/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/sep_lang.txt
+index e69de29..bd61f46 100644
+--- a/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/sep_lang.txt
++++ b/Codec_14/src/main/resources/org/apache/commons/codec/language/bm/sep_lang.txt
+@@ -0,0 +1,105 @@
++/*
++ * Licensed to the Apache Software Foundation (ASF) under one or more
++ * contributor license agreements.  See the NOTICE file distributed with
++ * this work for additional information regarding copyright ownership.
++ * The ASF licenses this file to You under the Apache License, Version 2.0
++ * (the "License"); you may not use this file except in compliance with
++ * the License.  You may obtain a copy of the License at
++ *
++ *      http://www.apache.org/licenses/LICENSE-2.0
++ *
++ * Unless required by applicable law or agreed to in writing, software
++ * distributed under the License is distributed on an "AS IS" BASIS,
++ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
++ * See the License for the specific language governing permissions and
++ * limitations under the License.
++ */
++
++// SEPHARDIC
++
++// 1. following are rules to accept the language
++// 1.1 Special letter combinations
++eau french true
++ou french true
++gni italian+french true
++tx spanish true
++tj spanish true
++gy french true
++guy french true
++
++sh spanish+portuguese true // English, but no sign for /sh/ in these languages
++
++lh portuguese true
++nh portuguese true
++ny spanish true
++
++gue spanish+french true
++gui spanish+french true
++gia italian true
++gie italian true
++gio italian true
++giu italian true
++            
++// 1.2 special characters    
++Ã± spanish true
++Ã¢ portuguese+french true
++Ã¡ portuguese+spanish true
++Ã  portuguese true
++Ã£ portuguese true
++Ãª french+portuguese true
++Ã­ portuguese+spanish true
++Ã® french true
++Ã´ french+portuguese true
++Ãµ portuguese true
++Ã² italian+spanish true
++Ãº portuguese+spanish true
++Ã¹ french true
++Ã¼ portuguese+spanish true
++      
++// Hebrew 
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++× hebrew true
++×  hebrew true
++×¡ hebrew true
++×¢ hebrew true
++×¤ hebrew true
++×¦ hebrew true 
++×§ hebrew true
++×¨ hebrew true
++×© hebrew true
++×ª hebrew true
++        
++// 2. following are rules to reject the language
++    
++// Every Latin character word has at least one Latin vowel  
++a hebrew false 
++o hebrew false 
++e hebrew false 
++i hebrew false 
++y hebrew false 
++u hebrew false 
++      
++kh spanish false
++gua italian false
++guo italian false
++Ã§ italian false
++cha italian false
++cho italian false
++chu italian false
++j italian false
++dj spanish false
++sce french false
++sci french false
++Ã³ french false
++Ã¨ portuguese false

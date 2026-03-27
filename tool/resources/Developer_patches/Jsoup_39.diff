@@ -1,0 +1,6 @@
+diff --git a/Jsoup_39/src/main/java/org/jsoup/helper/DataUtil.java b/Jsoup_39/src/main/java/org/jsoup/helper/DataUtil.java
+index d43bfe4..44f85be 100644
+--- a/Jsoup_39/src/main/java/org/jsoup/helper/DataUtil.java
++++ b/Jsoup_39/src/main/java/org/jsoup/helper/DataUtil.java
+@@ -118,0 +119 @@ public class DataUtil {
++            doc = null;

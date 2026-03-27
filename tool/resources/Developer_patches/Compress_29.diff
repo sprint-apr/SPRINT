@@ -1,0 +1,64 @@
+diff --git a/Compress_29/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java b/Compress_29/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+index 6bd8f03..c73e665 100644
+--- a/Compress_29/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
++++ b/Compress_29/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+@@ -296,0 +297,3 @@ public class ArchiveStreamFactory {
++            if (entryEncoding != null) {
++                return new JarArchiveOutputStream(out, entryEncoding);
++            } else {
+@@ -297,0 +301 @@ public class ArchiveStreamFactory {
++            }
+@@ -359,0 +364,3 @@ public class ArchiveStreamFactory {
++                if (entryEncoding != null) {
++                    return new ArjArchiveInputStream(in, entryEncoding);
++                } else {
+@@ -360,0 +368 @@ public class ArchiveStreamFactory {
++                }
+diff --git a/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java b/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java
+index 1ad5f10..915b56e 100644
+--- a/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java
++++ b/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java
+@@ -96,0 +97 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
++    final String encoding;
+@@ -154,0 +156 @@ public class CpioArchiveInputStream extends ArchiveInputStream implements
++        this.encoding = encoding;
+diff --git a/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java b/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java
+index d2d1282..fc829ff 100644
+--- a/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java
++++ b/Compress_29/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java
+@@ -97,0 +98 @@ public class CpioArchiveOutputStream extends ArchiveOutputStream implements
++    final String encoding;
+@@ -161,0 +163 @@ public class CpioArchiveOutputStream extends ArchiveOutputStream implements
++        this.encoding = encoding;
+diff --git a/Compress_29/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java b/Compress_29/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java
+index 84c7839..09431a4 100644
+--- a/Compress_29/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java
++++ b/Compress_29/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java
+@@ -79,0 +80 @@ public class DumpArchiveInputStream extends ArchiveInputStream {
++    final String encoding;
+@@ -103,0 +105 @@ public class DumpArchiveInputStream extends ArchiveInputStream {
++        this.encoding = encoding;
+diff --git a/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java b/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+index b3cd0d6..c557007 100644
+--- a/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
++++ b/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+@@ -78,0 +79 @@ public class TarArchiveInputStream extends ArchiveInputStream {
++    final String encoding;
+@@ -141,0 +143 @@ public class TarArchiveInputStream extends ArchiveInputStream {
++        this.encoding = encoding;
+diff --git a/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java b/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+index 96ec740..43525c8 100644
+--- a/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ b/Compress_29/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -89,0 +90 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++    final String encoding;
+@@ -154,0 +156 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++        this.encoding = encoding;
+diff --git a/Compress_29/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java b/Compress_29/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+index 711c149..7a69141 100644
+--- a/Compress_29/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
++++ b/Compress_29/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+@@ -64,0 +65 @@ public class ZipArchiveInputStream extends ArchiveInputStream {
++    final String encoding;
+@@ -183,0 +185 @@ public class ZipArchiveInputStream extends ArchiveInputStream {
++        this.encoding = encoding;

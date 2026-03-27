@@ -1,0 +1,27 @@
+diff --git a/Cli_33/src/main/java/org/apache/commons/cli/HelpFormatter.java b/Cli_33/src/main/java/org/apache/commons/cli/HelpFormatter.java
+index 3322f76..4329a8b 100644
+--- a/Cli_33/src/main/java/org/apache/commons/cli/HelpFormatter.java
++++ b/Cli_33/src/main/java/org/apache/commons/cli/HelpFormatter.java
+@@ -730 +730 @@ public class HelpFormatter
+-        renderWrappedText(sb, width, nextLineTabStop, text);
++        renderWrappedTextBlock(sb, width, nextLineTabStop, text);
+@@ -899,0 +900,14 @@ public class HelpFormatter
++    private StringBuffer renderWrappedTextBlock(StringBuffer sb, int width, int nextLineTabStop, String text) {
++        try {
++            BufferedReader in = new BufferedReader(new StringReader(text));
++            String line;
++            boolean firstLine = true;
++            while ((line = in.readLine()) != null) {
++                if (!firstLine) {
++                    sb.append(getNewLine());
++                } else {
++                    firstLine = false;
++                }
++                renderWrappedText(sb, width, nextLineTabStop, line);
++            }
++        } catch (IOException e) {
+@@ -900,0 +915 @@ public class HelpFormatter
++        }
+@@ -901,0 +917,2 @@ public class HelpFormatter
++        return sb;
++    }

@@ -1,0 +1,7 @@
+diff --git a/Time_4/src/main/java/org/joda/time/Partial.java b/Time_4/src/main/java/org/joda/time/Partial.java
+index 0d4edf4..8e8e603 100644
+--- a/Time_4/src/main/java/org/joda/time/Partial.java
++++ b/Time_4/src/main/java/org/joda/time/Partial.java
+@@ -464 +464 @@ public final class Partial
+-            Partial newPartial = new Partial(iChronology, newTypes, newValues);
++            Partial newPartial = new Partial(newTypes, newValues, iChronology);

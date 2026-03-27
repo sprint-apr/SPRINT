@@ -1,0 +1,7 @@
+diff --git a/JacksonDatabind_34/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java b/JacksonDatabind_34/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java
+index 5624624..13118a0 100644
+--- a/JacksonDatabind_34/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java
++++ b/JacksonDatabind_34/src/main/java/com/fasterxml/jackson/databind/ser/std/NumberSerializer.java
+@@ -81 +81 @@ public class NumberSerializer
+-                visitFloatFormat(visitor, typeHint, JsonParser.NumberType.BIG_INTEGER);
++                visitFloatFormat(visitor, typeHint, JsonParser.NumberType.BIG_DECIMAL);

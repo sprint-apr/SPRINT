@@ -1,0 +1,8 @@
+diff --git a/JacksonCore_3/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java b/JacksonCore_3/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
+index f89e661..fba33c2 100644
+--- a/JacksonCore_3/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
++++ b/JacksonCore_3/src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java
+@@ -124,0 +125 @@ public class UTF8StreamJsonParser
++        _currInputRowStart = start;
+@@ -125,0 +127 @@ public class UTF8StreamJsonParser
++        _currInputProcessed = -start;

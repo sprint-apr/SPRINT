@@ -1,0 +1,7 @@
+diff --git a/Cli_8/src/java/org/apache/commons/cli/HelpFormatter.java b/Cli_8/src/java/org/apache/commons/cli/HelpFormatter.java
+index 639b9d5..40873f5 100644
+--- a/Cli_8/src/java/org/apache/commons/cli/HelpFormatter.java
++++ b/Cli_8/src/java/org/apache/commons/cli/HelpFormatter.java
+@@ -812 +812 @@ public class HelpFormatter {
+-            pos = findWrapPos(text, width, nextLineTabStop);
++            pos = findWrapPos(text, width, 0);

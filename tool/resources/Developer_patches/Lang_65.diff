@@ -1,0 +1,42 @@
+diff --git a/Lang_65/src/java/org/apache/commons/lang/time/DateUtils.java b/Lang_65/src/java/org/apache/commons/lang/time/DateUtils.java
+index 531e73f..79c13f0 100644
+--- a/Lang_65/src/java/org/apache/commons/lang/time/DateUtils.java
++++ b/Lang_65/src/java/org/apache/commons/lang/time/DateUtils.java
+@@ -623,0 +624,3 @@ public class DateUtils {
++        if (field == Calendar.MILLISECOND) {
++            return;
++        }
+@@ -630,0 +634,3 @@ public class DateUtils {
++        Date date = val.getTime();
++        long time = date.getTime();
++        boolean done = false;
+@@ -632,0 +639,7 @@ public class DateUtils {
++        int millisecs = val.get(Calendar.MILLISECOND);
++        if (!round || millisecs < 500) {
++            time = time - millisecs;
++            if (field == Calendar.SECOND) {
++                done = true;
++            }
++        }
+@@ -634,0 +648,7 @@ public class DateUtils {
++        int seconds = val.get(Calendar.SECOND);
++        if (!done && (!round || seconds < 30)) {
++            time = time - (seconds * 1000L);
++            if (field == Calendar.MINUTE) {
++                done = true;
++            }
++        }
+@@ -636,0 +657,4 @@ public class DateUtils {
++        int minutes = val.get(Calendar.MINUTE);
++        if (!done && (!round || minutes < 30)) {
++            time = time - (minutes * 60000L);
++        }
+@@ -638,0 +663,4 @@ public class DateUtils {
++        if (date.getTime() != time) {
++            date.setTime(time);
++            val.setTime(date);
++        }
+@@ -708,0 +737 @@ public class DateUtils {
++            if (offset != 0) {
+@@ -709,0 +739 @@ public class DateUtils {
++            }

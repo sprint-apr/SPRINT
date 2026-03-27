@@ -1,0 +1,15 @@
+diff --git a/Cli_29/src/java/org/apache/commons/cli/Util.java b/Cli_29/src/java/org/apache/commons/cli/Util.java
+index 40f66f1..bceee25 100644
+--- a/Cli_29/src/java/org/apache/commons/cli/Util.java
++++ b/Cli_29/src/java/org/apache/commons/cli/Util.java
+@@ -65,4 +64,0 @@ class Util
+-        if (str.startsWith("\""))
+-        {
+-            str = str.substring(1, str.length());
+-        }
+@@ -70 +66 @@ class Util
+-        if (str.endsWith("\""))
++        if (length > 1 && str.startsWith("\"") && str.endsWith("\"") && str.substring(1, length - 1).indexOf('"') == -1)
+@@ -72 +68 @@ class Util
+-            str = str.substring(0, length - 1);
++            str = str.substring(1, length - 1);

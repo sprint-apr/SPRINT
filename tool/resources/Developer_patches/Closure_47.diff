@@ -1,0 +1,22 @@
+diff --git a/Closure_47/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java b/Closure_47/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java
+index d67dc10..5ee9108 100644
+--- a/Closure_47/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java
++++ b/Closure_47/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java
+@@ -489,2 +489,2 @@ public class SourceMapConsumerV3 implements SourceMapConsumer,
+-        .setLineNumber(entry.getSourceLine())
+-        .setColumnPosition(entry.getSourceColumn());
++        .setLineNumber(entry.getSourceLine() + 1)
++        .setColumnPosition(entry.getSourceColumn() + 1);
+diff --git a/Closure_47/src/com/google/javascript/jscomp/SourceMap.java b/Closure_47/src/com/google/javascript/jscomp/SourceMap.java
+index 835dfa4..7192408 100644
+--- a/Closure_47/src/com/google/javascript/jscomp/SourceMap.java
++++ b/Closure_47/src/com/google/javascript/jscomp/SourceMap.java
+@@ -137,0 +138,5 @@ public class SourceMap {
++    int lineBaseOffset = 1;
++    if (generator instanceof SourceMapGeneratorV1
++        || generator instanceof SourceMapGeneratorV2) {
++      lineBaseOffset = 0;
++    }
+@@ -141 +146 @@ public class SourceMap {
+-        new FilePosition(node.getLineno(), node.getCharno()),
++        new FilePosition(node.getLineno() - lineBaseOffset, node.getCharno()),

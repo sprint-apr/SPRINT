@@ -1,0 +1,86 @@
+diff --git a/JacksonDatabind_31/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java b/JacksonDatabind_31/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
+index b7cec0b..fcf0c3b 100644
+--- a/JacksonDatabind_31/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
++++ b/JacksonDatabind_31/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java
+@@ -672 +672 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-            _append(JsonToken.VALUE_STRING, text);
++            _appendValue(JsonToken.VALUE_STRING, text);
+@@ -686 +686 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-            _append(JsonToken.VALUE_STRING, text);
++            _appendValue(JsonToken.VALUE_STRING, text);
+@@ -731 +731 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_EMBEDDED_OBJECT, new RawValue(text));
++        _appendValue(JsonToken.VALUE_EMBEDDED_OBJECT, new RawValue(text));
+@@ -739 +739 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_EMBEDDED_OBJECT, new RawValue(text));
++        _appendValue(JsonToken.VALUE_EMBEDDED_OBJECT, new RawValue(text));
+@@ -744 +744 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_EMBEDDED_OBJECT, new String(text, offset, len));
++        _appendValue(JsonToken.VALUE_EMBEDDED_OBJECT, new String(text, offset, len));
+@@ -755 +755 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_NUMBER_INT, Short.valueOf(i));
++        _appendValue(JsonToken.VALUE_NUMBER_INT, Short.valueOf(i));
+@@ -760 +760 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_NUMBER_INT, Integer.valueOf(i));
++        _appendValue(JsonToken.VALUE_NUMBER_INT, Integer.valueOf(i));
+@@ -765 +765 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_NUMBER_INT, Long.valueOf(l));
++        _appendValue(JsonToken.VALUE_NUMBER_INT, Long.valueOf(l));
+@@ -770 +770 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_NUMBER_FLOAT, Double.valueOf(d));
++        _appendValue(JsonToken.VALUE_NUMBER_FLOAT, Double.valueOf(d));
+@@ -775 +775 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_NUMBER_FLOAT, Float.valueOf(f));
++        _appendValue(JsonToken.VALUE_NUMBER_FLOAT, Float.valueOf(f));
+@@ -783 +783 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-            _append(JsonToken.VALUE_NUMBER_FLOAT, dec);
++            _appendValue(JsonToken.VALUE_NUMBER_FLOAT, dec);
+@@ -792 +792 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-            _append(JsonToken.VALUE_NUMBER_INT, v);
++            _appendValue(JsonToken.VALUE_NUMBER_INT, v);
+@@ -801 +801 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_NUMBER_FLOAT, encodedValue);
++        _appendValue(JsonToken.VALUE_NUMBER_FLOAT, encodedValue);
+@@ -806 +806 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(state ? JsonToken.VALUE_TRUE : JsonToken.VALUE_FALSE);
++        _appendValue(state ? JsonToken.VALUE_TRUE : JsonToken.VALUE_FALSE);
+@@ -811 +811 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-        _append(JsonToken.VALUE_NULL);
++        _appendValue(JsonToken.VALUE_NULL);
+@@ -829 +829 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-            _append(JsonToken.VALUE_EMBEDDED_OBJECT, value);
++            _appendValue(JsonToken.VALUE_EMBEDDED_OBJECT, value);
+@@ -837 +837 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-            _append(JsonToken.VALUE_EMBEDDED_OBJECT, value);
++            _appendValue(JsonToken.VALUE_EMBEDDED_OBJECT, value);
+@@ -853 +853 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
+-            _append(JsonToken.VALUE_EMBEDDED_OBJECT, node);
++            _appendValue(JsonToken.VALUE_EMBEDDED_OBJECT, node);
+@@ -1090,0 +1091,13 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++    protected final void _appendValue(JsonToken type)
++    {
++        _writeContext.writeValue();
++        Segment next = _hasNativeId
++                ? _last.append(_appendAt, type, _objectId, _typeId)
++                : _last.append(_appendAt, type);
++        if (next == null) {
++            ++_appendAt;
++        } else {
++            _last = next;
++            _appendAt = 1; // since we added first at 0
++        }
++    }
+@@ -1097,0 +1111,13 @@ sb.append("NativeObjectIds=").append(_hasNativeObjectIds).append(",");
++    protected final void _appendValue(JsonToken type, Object value)
++    {
++        _writeContext.writeValue();
++        Segment next = _hasNativeId
++                ? _last.append(_appendAt, type, value, _objectId, _typeId)
++                : _last.append(_appendAt, type, value);
++        if (next == null) {
++            ++_appendAt;
++        } else {
++            _last = next;
++            _appendAt = 1;
++        }
++    }

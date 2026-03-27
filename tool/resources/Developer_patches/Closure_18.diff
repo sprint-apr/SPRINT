@@ -1,0 +1,7 @@
+diff --git a/Closure_18/src/com/google/javascript/jscomp/Compiler.java b/Closure_18/src/com/google/javascript/jscomp/Compiler.java
+index 8898f77..3756b99 100644
+--- a/Closure_18/src/com/google/javascript/jscomp/Compiler.java
++++ b/Closure_18/src/com/google/javascript/jscomp/Compiler.java
+@@ -1288 +1288 @@ public class Compiler extends AbstractCompiler {
+-      if (options.dependencyOptions.needsManagement() && options.closurePass) {
++      if (options.dependencyOptions.needsManagement()) {

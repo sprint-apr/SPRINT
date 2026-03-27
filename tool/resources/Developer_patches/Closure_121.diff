@@ -1,0 +1,10 @@
+diff --git a/Closure_121/src/com/google/javascript/jscomp/InlineVariables.java b/Closure_121/src/com/google/javascript/jscomp/InlineVariables.java
+index 376abd4..5c9df61 100644
+--- a/Closure_121/src/com/google/javascript/jscomp/InlineVariables.java
++++ b/Closure_121/src/com/google/javascript/jscomp/InlineVariables.java
+@@ -304 +304 @@ class InlineVariables implements CompilerPass {
+-          referenceInfo.isAssignedOnceInLifetime()) {
++          referenceInfo.isAssignedOnceInLifetime() &&
+@@ -307,0 +308,2 @@ class InlineVariables implements CompilerPass {
++          (isInlineableDeclaredConstant(v, referenceInfo) ||
++           referenceInfo.isOnlyAssignmentSameScopeAsDeclaration())) {

@@ -1,0 +1,7 @@
+diff --git a/Math_33/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java b/Math_33/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java
+index 9a6993a..327b2ae 100644
+--- a/Math_33/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java
++++ b/Math_33/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java
+@@ -338 +338 @@ class SimplexTableau implements Serializable {
+-            if (Precision.compareTo(entry, 0d, maxUlps) > 0) {
++            if (Precision.compareTo(entry, 0d, epsilon) > 0) {

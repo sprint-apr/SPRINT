@@ -1,0 +1,10 @@
+diff --git a/Math_79/src/main/java/org/apache/commons/math/util/MathUtils.java b/Math_79/src/main/java/org/apache/commons/math/util/MathUtils.java
+index 46368dc..ad77a56 100644
+--- a/Math_79/src/main/java/org/apache/commons/math/util/MathUtils.java
++++ b/Math_79/src/main/java/org/apache/commons/math/util/MathUtils.java
+@@ -1624 +1624 @@ public final class MathUtils {
+-      int sum = 0;
++      double sum = 0;
+@@ -1626 +1626 @@ public final class MathUtils {
+-          final int dp = p1[i] - p2[i];
++          final double dp = p1[i] - p2[i];

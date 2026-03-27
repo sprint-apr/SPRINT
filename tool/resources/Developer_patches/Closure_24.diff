@@ -1,0 +1,15 @@
+diff --git a/Closure_24/src/com/google/javascript/jscomp/ScopedAliases.java b/Closure_24/src/com/google/javascript/jscomp/ScopedAliases.java
+index 30d29d0..c248002 100644
+--- a/Closure_24/src/com/google/javascript/jscomp/ScopedAliases.java
++++ b/Closure_24/src/com/google/javascript/jscomp/ScopedAliases.java
+@@ -278,2 +278,2 @@ class ScopedAliases implements HotSwapCompilerPass {
+-        if (parent.isVar()) {
+-          if (n.hasChildren() && n.getFirstChild().isQualifiedName()) {
++        if (parent.isVar() &&
++            n.hasChildren() && n.getFirstChild().isQualifiedName()) {
+@@ -286,0 +287 @@ class ScopedAliases implements HotSwapCompilerPass {
++        } else if (v.isBleedingFunction()) {
+@@ -288,0 +290 @@ class ScopedAliases implements HotSwapCompilerPass {
++        } else if (parent.getType() == Token.LP) {
+@@ -295 +296,0 @@ class ScopedAliases implements HotSwapCompilerPass {
+-        }

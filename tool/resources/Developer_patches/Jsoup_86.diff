@@ -1,0 +1,7 @@
+diff --git a/Jsoup_86/src/main/java/org/jsoup/nodes/Comment.java b/Jsoup_86/src/main/java/org/jsoup/nodes/Comment.java
+index d0669fe..d983385 100644
+--- a/Jsoup_86/src/main/java/org/jsoup/nodes/Comment.java
++++ b/Jsoup_86/src/main/java/org/jsoup/nodes/Comment.java
+@@ -78 +78 @@ public class Comment extends LeafNode {
+-        if (doc.childNodeSize() > 0) {
++        if (doc.children().size() > 0) {

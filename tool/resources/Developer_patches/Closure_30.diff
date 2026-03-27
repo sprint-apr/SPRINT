@@ -1,0 +1,26 @@
+diff --git a/Closure_30/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java b/Closure_30/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+index d53a8f8..3f39c07 100644
+--- a/Closure_30/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
++++ b/Closure_30/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+@@ -157 +157 @@ class FlowSensitiveInlineVariables extends AbstractPostOrderCallback
+-    (new NodeTraversal(compiler, this)).traverse(root);
++    (new NodeTraversal(compiler, this)).traverseRoots(externs, root);
+diff --git a/Closure_30/src/com/google/javascript/jscomp/MustBeReachingVariableDef.java b/Closure_30/src/com/google/javascript/jscomp/MustBeReachingVariableDef.java
+index 1487af3..589f673 100644
+--- a/Closure_30/src/com/google/javascript/jscomp/MustBeReachingVariableDef.java
++++ b/Closure_30/src/com/google/javascript/jscomp/MustBeReachingVariableDef.java
+@@ -70,0 +71 @@ final class MustBeReachingVariableDef extends
++    private boolean unknownDependencies = false;
+@@ -396 +397 @@ final class MustBeReachingVariableDef extends
+-        if (n.isName() && jsScope.isDeclared(n.getString(), true)) {
++        if (n.isName()) {
+@@ -397,0 +399,3 @@ final class MustBeReachingVariableDef extends
++          if (dep == null) {
++            def.unknownDependencies = true;
++          } else {
+@@ -398,0 +403 @@ final class MustBeReachingVariableDef extends
++          }
+@@ -429,0 +435,3 @@ final class MustBeReachingVariableDef extends
++    if (def.unknownDependencies) {
++      return true;
++    }

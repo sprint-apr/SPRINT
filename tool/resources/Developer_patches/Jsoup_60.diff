@@ -1,0 +1,18 @@
+diff --git a/Jsoup_60/src/main/java/org/jsoup/parser/TokenQueue.java b/Jsoup_60/src/main/java/org/jsoup/parser/TokenQueue.java
+index fc22b04..ffcb4a4 100644
+--- a/Jsoup_60/src/main/java/org/jsoup/parser/TokenQueue.java
++++ b/Jsoup_60/src/main/java/org/jsoup/parser/TokenQueue.java
+@@ -288,0 +289,3 @@ public class TokenQueue {
++        if (depth > 0) {// ran out of queue before seeing enough )
++            Validate.fail("Did not find balanced maker at " + out);
++        }
+diff --git a/Jsoup_60/src/main/java/org/jsoup/select/QueryParser.java b/Jsoup_60/src/main/java/org/jsoup/select/QueryParser.java
+index 923cfe9..d3a2041 100644
+--- a/Jsoup_60/src/main/java/org/jsoup/select/QueryParser.java
++++ b/Jsoup_60/src/main/java/org/jsoup/select/QueryParser.java
+@@ -37,0 +38 @@ public class QueryParser {
++        try {
+@@ -39,0 +41,3 @@ public class QueryParser {
++        } catch (IllegalArgumentException e) {
++            throw new Selector.SelectorParseException(e.getMessage());
++        }

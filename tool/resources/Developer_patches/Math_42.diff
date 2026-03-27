@@ -1,0 +1,10 @@
+diff --git a/Math_42/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java b/Math_42/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+index 02c22b5..d96c916 100644
+--- a/Math_42/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
++++ b/Math_42/src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+@@ -409,0 +410 @@ class SimplexTableau implements Serializable {
++          if (basicRow != null && basicRow == 0) {
+@@ -413 +414,2 @@ class SimplexTableau implements Serializable {
+-          if (basicRows.contains(basicRow)) {
++              coefficients[i] = 0;
++          } else if (basicRows.contains(basicRow)) {

@@ -1,0 +1,19 @@
+diff --git a/Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java b/Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
+index 22130bf..772aaf0 100644
+--- a/Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
++++ b/Csv_8/src/main/java/org/apache/commons/csv/CSVFormat.java
+@@ -315,0 +316,6 @@ public final class CSVFormat implements Serializable {
++        	Set<String> dupCheck = new HashSet<String>();
++        	for(String hdr : header) {
++        		if (!dupCheck.add(hdr)) {
++        			throw new IllegalArgumentException("The header contains a duplicate entry: '" + hdr + "' in " + Arrays.toString(header));
++        		}
++        	}
+@@ -665,7 +670,0 @@ public final class CSVFormat implements Serializable {
+-        if (header != null) {
+-            final Set<String> set = new HashSet<String>(header.length);
+-            set.addAll(Arrays.asList(header));
+-            if (set.size() != header.length) {
+-                throw new IllegalStateException("The header contains duplicate names: " + Arrays.toString(header));
+-            }
+-        }

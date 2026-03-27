@@ -1,0 +1,7 @@
+diff --git a/Math_82/src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java b/Math_82/src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+index 8309d7b..60a1b3a 100644
+--- a/Math_82/src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
++++ b/Math_82/src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+@@ -82 +82 @@ public class SimplexSolver extends AbstractLinearOptimizer {
+-            if (MathUtils.compareTo(entry, 0, epsilon) >= 0) {
++            if (MathUtils.compareTo(entry, 0, epsilon) > 0) {

@@ -1,0 +1,8 @@
+diff --git a/Lang_55/src/java/org/apache/commons/lang/time/StopWatch.java b/Lang_55/src/java/org/apache/commons/lang/time/StopWatch.java
+index 8f39421..0f0786a 100644
+--- a/Lang_55/src/java/org/apache/commons/lang/time/StopWatch.java
++++ b/Lang_55/src/java/org/apache/commons/lang/time/StopWatch.java
+@@ -117,0 +118 @@ public class StopWatch {
++        if(this.runningState == STATE_RUNNING) {
+@@ -118,0 +120 @@ public class StopWatch {
++        }

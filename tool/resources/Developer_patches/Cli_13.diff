@@ -1,0 +1,28 @@
+diff --git a/Cli_13/src/java/org/apache/commons/cli2/WriteableCommandLine.java b/Cli_13/src/java/org/apache/commons/cli2/WriteableCommandLine.java
+index 96ab589..a70c8d6 100644
+--- a/Cli_13/src/java/org/apache/commons/cli2/WriteableCommandLine.java
++++ b/Cli_13/src/java/org/apache/commons/cli2/WriteableCommandLine.java
+@@ -46,0 +47 @@ public interface WriteableCommandLine extends CommandLine {
++    List getUndefaultedValues(final Option option);
+diff --git a/Cli_13/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java b/Cli_13/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+index b4e3a39..97a5d11 100644
+--- a/Cli_13/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
++++ b/Cli_13/src/java/org/apache/commons/cli2/commandline/WriteableCommandLineImpl.java
+@@ -131,0 +132 @@ public class WriteableCommandLineImpl
++    public List getUndefaultedValues(Option option) {
+@@ -132,0 +134 @@ public class WriteableCommandLineImpl
++      List valueList = (List) values.get(option);
+@@ -134,0 +137,6 @@ public class WriteableCommandLineImpl
++      if (valueList == null) {
++        valueList = Collections.EMPTY_LIST;
++      }
++
++      return valueList;
++    }
+diff --git a/Cli_13/src/java/org/apache/commons/cli2/option/ArgumentImpl.java b/Cli_13/src/java/org/apache/commons/cli2/option/ArgumentImpl.java
+index 0b05ad7..f776f7e 100644
+--- a/Cli_13/src/java/org/apache/commons/cli2/option/ArgumentImpl.java
++++ b/Cli_13/src/java/org/apache/commons/cli2/option/ArgumentImpl.java
+@@ -144 +144 @@ public class ArgumentImpl
+-        int argumentCount = 0;
++        int argumentCount = commandLine.getUndefaultedValues(option).size();

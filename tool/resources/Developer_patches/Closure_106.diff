@@ -1,0 +1,17 @@
+diff --git a/Closure_106/src/com/google/javascript/jscomp/GlobalNamespace.java b/Closure_106/src/com/google/javascript/jscomp/GlobalNamespace.java
+index d7e85df..47ea27a 100644
+--- a/Closure_106/src/com/google/javascript/jscomp/GlobalNamespace.java
++++ b/Closure_106/src/com/google/javascript/jscomp/GlobalNamespace.java
+@@ -906,0 +907,4 @@ class GlobalNamespace {
++      Preconditions.checkNotNull(declaration);
++      if (declaration.getTwin() != null) {
++        return false;
++      }
+diff --git a/Closure_106/src/com/google/javascript/rhino/JSDocInfoBuilder.java b/Closure_106/src/com/google/javascript/rhino/JSDocInfoBuilder.java
+index 1311638..bdfc2e8 100644
+--- a/Closure_106/src/com/google/javascript/rhino/JSDocInfoBuilder.java
++++ b/Closure_106/src/com/google/javascript/rhino/JSDocInfoBuilder.java
+@@ -189 +188,0 @@ final public class JSDocInfoBuilder {
+-    if (parseDocumentation) {
+@@ -191 +189,0 @@ final public class JSDocInfoBuilder {
+-    }

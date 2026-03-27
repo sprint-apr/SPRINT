@@ -1,0 +1,14 @@
+diff --git a/Cli_18/src/java/org/apache/commons/cli/PosixParser.java b/Cli_18/src/java/org/apache/commons/cli/PosixParser.java
+index 8f03474..08a9280 100644
+--- a/Cli_18/src/java/org/apache/commons/cli/PosixParser.java
++++ b/Cli_18/src/java/org/apache/commons/cli/PosixParser.java
+@@ -128 +128 @@ public class PosixParser extends Parser {
+-                processSingleHyphen(token);
++                tokens.add(token);
+@@ -213,4 +212,0 @@ public class PosixParser extends Parser {
+-    private void processSingleHyphen(String hyphen)
+-    {
+-        tokens.add(hyphen);
+-    }
+@@ -240,0 +237 @@ public class PosixParser extends Parser {
++            tokens.add(token);

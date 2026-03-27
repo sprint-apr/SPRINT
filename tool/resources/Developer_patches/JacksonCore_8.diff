@@ -1,0 +1,7 @@
+diff --git a/JacksonCore_8/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java b/JacksonCore_8/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+index e6f1cbc..c67f325 100644
+--- a/JacksonCore_8/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
++++ b/JacksonCore_8/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+@@ -307 +307 @@ public final class TextBuffer
+-        if (!_hasSegments)  return _currentSegment;
++        if (!_hasSegments && _currentSegment != null)  return _currentSegment;

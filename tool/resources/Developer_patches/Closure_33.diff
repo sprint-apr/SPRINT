@@ -1,0 +1,8 @@
+diff --git a/Closure_33/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java b/Closure_33/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java
+index b6e3fc7..81a7d89 100644
+--- a/Closure_33/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java
++++ b/Closure_33/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java
+@@ -556,0 +557,3 @@ class PrototypeObjectType extends ObjectType {
++    if (hasReferenceName()) {
++      return;
++    }

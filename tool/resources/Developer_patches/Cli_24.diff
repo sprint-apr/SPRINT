@@ -1,0 +1,8 @@
+diff --git a/Cli_24/src/java/org/apache/commons/cli/HelpFormatter.java b/Cli_24/src/java/org/apache/commons/cli/HelpFormatter.java
+index 9993a07..028ff5c 100644
+--- a/Cli_24/src/java/org/apache/commons/cli/HelpFormatter.java
++++ b/Cli_24/src/java/org/apache/commons/cli/HelpFormatter.java
+@@ -825,2 +825 @@ public class HelpFormatter
+-            throw new IllegalStateException("Total width is less than the width of the argument and indent " + 
+-                                            "- no room for the description");
++            nextLineTabStop = width - 1;

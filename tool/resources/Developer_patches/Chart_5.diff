@@ -1,0 +1,12 @@
+diff --git a/Chart_5/source/org/jfree/data/xy/XYSeries.java b/Chart_5/source/org/jfree/data/xy/XYSeries.java
+index 0b37e6e..b26e11e 100644
+--- a/Chart_5/source/org/jfree/data/xy/XYSeries.java
++++ b/Chart_5/source/org/jfree/data/xy/XYSeries.java
+@@ -543,0 +544,4 @@ public class XYSeries extends Series implements Cloneable, Serializable {
++        if (this.allowDuplicateXValues) {
++            add(x, y);
++            return null;
++        }
+@@ -548 +552 @@ public class XYSeries extends Series implements Cloneable, Serializable {
+-        if (index >= 0 && !this.allowDuplicateXValues) {
++        if (index >= 0) {

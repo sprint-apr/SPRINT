@@ -1,0 +1,1 @@
+if (hasDiskStart && rawCentralDirectoryData.length <= expectedLength + WORD) {

@@ -1,0 +1,7 @@
+diff --git a/Math_57/src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java b/Math_57/src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java
+index b73ac9d..e09bbc3 100644
+--- a/Math_57/src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java
++++ b/Math_57/src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java
+@@ -175 +175 @@ public class KMeansPlusPlusClusterer<T extends Clusterable<T>> {
+-            int sum = 0;
++            double sum = 0;

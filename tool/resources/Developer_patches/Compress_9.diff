@@ -1,0 +1,17 @@
+diff --git a/Compress_9/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java b/Compress_9/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+index 15beec8..53d4450 100644
+--- a/Compress_9/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ b/Compress_9/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -107,0 +108,5 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++    @Deprecated
++    @Override
++    public int getCount() {
++        return (int) getBytesWritten();
++    }
+@@ -108,0 +114,4 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
++    @Override
++    public long getBytesWritten() {
++        return ((CountingOutputStream) out).getBytesWritten();
++    }
+@@ -330 +338,0 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
+-        count(numToWrite);

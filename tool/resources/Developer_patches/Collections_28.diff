@@ -1,0 +1,15 @@
+diff --git a/Collections_28/src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java b/Collections_28/src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java
+index 41f8535..bd11f75 100644
+--- a/Collections_28/src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java
++++ b/Collections_28/src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java
+@@ -2261,0 +2262,10 @@ abstract class AbstractPatriciaTrie<K, V> extends AbstractBitwiseTrie<K, V> {
++        @Override
++        public void clear() {
++            Iterator<Map.Entry<K, V>> it = AbstractPatriciaTrie.this.entrySet().iterator();
++            Set<K> currentKeys = keySet();
++            while (it.hasNext()) {
++                if (currentKeys.contains(it.next().getKey())) {
++                    it.remove();
++                }
++            }
++        }

@@ -1,0 +1,12 @@
+diff --git a/Chart_16/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java b/Chart_16/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java
+index 2efdfcb..bde3922 100644
+--- a/Chart_16/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java
++++ b/Chart_16/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java
+@@ -207,2 +207,2 @@ public class DefaultIntervalCategoryDataset extends AbstractSeriesDataset
+-                this.seriesKeys = null;
+-                this.categoryKeys = null;
++                this.seriesKeys = new Comparable[0];
++                this.categoryKeys = new Comparable[0];
+@@ -338 +338 @@ public class DefaultIntervalCategoryDataset extends AbstractSeriesDataset
+-        if (categoryKeys.length != this.startData[0].length) {
++        if (categoryKeys.length != getCategoryCount()) {

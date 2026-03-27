@@ -1,0 +1,16 @@
+diff --git a/JacksonDatabind_39/src/main/java/com/fasterxml/jackson/databind/deser/std/NullifyingDeserializer.java b/JacksonDatabind_39/src/main/java/com/fasterxml/jackson/databind/deser/std/NullifyingDeserializer.java
+index 5bc789f..0453595 100644
+--- a/JacksonDatabind_39/src/main/java/com/fasterxml/jackson/databind/deser/std/NullifyingDeserializer.java
++++ b/JacksonDatabind_39/src/main/java/com/fasterxml/jackson/databind/deser/std/NullifyingDeserializer.java
+@@ -34,0 +35,9 @@ public class NullifyingDeserializer
++        if (p.hasToken(JsonToken.FIELD_NAME)) {
++            while (true) {
++                JsonToken t = p.nextToken();
++                if ((t == null) || (t == JsonToken.END_OBJECT)) {
++                    break;
++                }
++                p.skipChildren();
++            }
++        } else {
+@@ -35,0 +45 @@ public class NullifyingDeserializer
++        }

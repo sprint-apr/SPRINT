@@ -1,0 +1,53 @@
+(* -*- tuareg -*- *)
+(*
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ *)
+(* use strings so that it looks like OCaml even before substituting, e.g. to use ocamlformat *)
+
+let is_yes = String.equal "yes"
+
+let is_empty = String.equal ""
+
+let clang = is_yes "no"
+
+let java = is_yes "yes"
+
+let facebook = is_yes "no"
+
+let extra_cflags = if is_empty "" then [] else [""]
+(* -*- tuareg -*- *)
+(*
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ *)
+(* NOTE: prepend dune.common to this file! *)
+
+let al =
+  Printf.sprintf
+    {|(ocamllex types_lexer ctl_lexer)
+
+(menhir (modules types_parser ctl_parser))
+
+(library
+ (name ASTLanguage)
+ (public_name infer.ASTLanguage)
+ (modules %s)
+ (flags
+  (:standard
+     -open Core -open IStdlib -open IStd -open OpenSource -open ATDGenerated
+     -open IBase -open IR -open Absint -open ClangFrontend))
+ (libraries core IStdlib ATDGenerated IBase IR Absint ClangFrontend)
+ (preprocess (pps ppx_compare))
+)
+
+(documentation (package infer) (mld_files ASTLanguage))|}
+    (if clang then ":standard" else "")
+
+
+;;
+Jbuild_plugin.V1.send al

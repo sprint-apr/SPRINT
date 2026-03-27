@@ -1,0 +1,57 @@
+diff --git a/JacksonDatabind_50/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java b/JacksonDatabind_50/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java
+index 21bd128..8360b51 100644
+--- a/JacksonDatabind_50/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java
++++ b/JacksonDatabind_50/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java
+@@ -8,0 +9 @@ import com.fasterxml.jackson.databind.deser.impl.*;
++import com.fasterxml.jackson.databind.deser.impl.ReadableObjectId.Referring;
+@@ -386,0 +388 @@ public class BeanDeserializer
++        List<BeanReferring> referrings = null;
+@@ -428,0 +431 @@ public class BeanDeserializer
++                try {
+@@ -429,0 +433 @@ public class BeanDeserializer
++                } catch (UnresolvedForwardReference reference) {
+@@ -432,0 +437,6 @@ public class BeanDeserializer
++                    BeanReferring referring = handleUnresolvedReference(p, prop, buffer, reference);
++                    if (referrings == null) {
++                        referrings = new ArrayList<BeanReferring>();
++                    }
++                    referrings.add(referring);
++                }
+@@ -464,0 +475,5 @@ public class BeanDeserializer
++        if (referrings != null) {
++            for (BeanReferring referring : referrings) {
++               referring.setBean(bean);
++            }
++        }
+@@ -478,0 +494,10 @@ public class BeanDeserializer
++    private BeanReferring handleUnresolvedReference(JsonParser p,
++            SettableBeanProperty prop, PropertyValueBuffer buffer,
++            UnresolvedForwardReference reference)
++        throws JsonMappingException
++    {
++        BeanReferring referring = new BeanReferring(reference, prop.getType().getRawClass(),
++                buffer, prop);
++        reference.getRoid().appendReferring(referring);
++        return referring;
++    }
+@@ -932,0 +958,3 @@ public class BeanDeserializer
++    static class BeanReferring extends Referring {
++        private final SettableBeanProperty _prop;
++        private Object _bean;
+@@ -933,0 +962,3 @@ public class BeanDeserializer
++        public void setBean(Object bean) {
++            _bean = bean;
++        }
+@@ -934,0 +966,6 @@ public class BeanDeserializer
++        BeanReferring(UnresolvedForwardReference ref,
++                Class<?> valueType, PropertyValueBuffer buffer, SettableBeanProperty prop)
++        {
++            super(ref, valueType);
++            _prop = prop;
++        }
+@@ -935,0 +973,5 @@ public class BeanDeserializer
++        @Override
++        public void handleResolvedForwardReference(Object id, Object value) throws IOException {
++            _prop.set(_bean, value);
++        }
++    }

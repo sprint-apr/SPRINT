@@ -1,0 +1,13 @@
+diff --git a/Time_13/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java b/Time_13/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+index 6c8e9c6..29b0872 100644
+--- a/Time_13/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
++++ b/Time_13/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+@@ -1098 +1098 @@ public class PeriodFormatterBuilder {
+-                sum = Math.max(sum, 4);
++                sum = (valueLong < 0 ? Math.max(sum, 5) : Math.max(sum, 4));
+@@ -1132,0 +1133 @@ public class PeriodFormatterBuilder {
++            int bufLen = buf.length();
+@@ -1141,0 +1143,3 @@ public class PeriodFormatterBuilder {
++                    if (valueLong < 0 && valueLong > -DateTimeConstants.MILLIS_PER_SECOND) {
++                        buf.insert(bufLen, '-');
++                    }

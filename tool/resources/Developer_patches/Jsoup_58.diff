@@ -1,0 +1,36 @@
+diff --git a/Jsoup_58/src/main/java/org/jsoup/Jsoup.java b/Jsoup_58/src/main/java/org/jsoup/Jsoup.java
+index d25c186..84a5e34 100644
+--- a/Jsoup_58/src/main/java/org/jsoup/Jsoup.java
++++ b/Jsoup_58/src/main/java/org/jsoup/Jsoup.java
+@@ -250 +250 @@ public class Jsoup {
+-        return new Cleaner(whitelist).isValid(parseBodyFragment(bodyHtml, ""));
++        return new Cleaner(whitelist).isValidBodyHtml(bodyHtml);
+diff --git a/Jsoup_58/src/main/java/org/jsoup/parser/Parser.java b/Jsoup_58/src/main/java/org/jsoup/parser/Parser.java
+index 197219b..0751c22 100644
+--- a/Jsoup_58/src/main/java/org/jsoup/parser/Parser.java
++++ b/Jsoup_58/src/main/java/org/jsoup/parser/Parser.java
+@@ -128,0 +129,4 @@ public class Parser {
++    public static List<Node> parseFragment(String fragmentHtml, Element context, String baseUri, ParseErrorList errorList) {
++        HtmlTreeBuilder treeBuilder = new HtmlTreeBuilder();
++        return treeBuilder.parseFragment(fragmentHtml, context, baseUri, errorList, treeBuilder.defaultSettings());
++    }
+diff --git a/Jsoup_58/src/main/java/org/jsoup/safety/Cleaner.java b/Jsoup_58/src/main/java/org/jsoup/safety/Cleaner.java
+index 7e0eb28..1223bbe 100644
+--- a/Jsoup_58/src/main/java/org/jsoup/safety/Cleaner.java
++++ b/Jsoup_58/src/main/java/org/jsoup/safety/Cleaner.java
+@@ -16,0 +17 @@ import org.jsoup.select.NodeVisitor;
++import java.util.List;
+@@ -78 +79,2 @@ public class Cleaner {
+-        return numDiscarded == 0;
++        return numDiscarded == 0
++            && dirtyDocument.head().childNodes().size() == 0; // because we only look at the body, but we start from a shell, make sure there's nothing in the head
+@@ -80,0 +83,9 @@ public class Cleaner {
++    public boolean isValidBodyHtml(String bodyHtml) {
++        Document clean = Document.createShell("");
++        Document dirty = Document.createShell("");
++        ParseErrorList errorList = ParseErrorList.tracking(1);
++        List<Node> nodes = Parser.parseFragment(bodyHtml, dirty.body(), "", errorList);
++        dirty.body().insertChildren(0, nodes);
++        int numDiscarded = copySafeNodes(dirty.body(), clean.body());
++        return numDiscarded == 0 && errorList.size() == 0;
++    }

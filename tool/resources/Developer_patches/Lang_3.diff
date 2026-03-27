@@ -1,0 +1,12 @@
+diff --git a/Lang_3/src/main/java/org/apache/commons/lang3/math/NumberUtils.java b/Lang_3/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+index c584021..1e6ccdc 100644
+--- a/Lang_3/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
++++ b/Lang_3/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+@@ -592,0 +593 @@ public class NumberUtils {
++            if(numDecimals <= 7){// If number has 7 or fewer digits past the decimal point then make it a float
+@@ -596,0 +598 @@ public class NumberUtils {
++            }
+@@ -600,0 +603 @@ public class NumberUtils {
++            if(numDecimals <= 16){// If number has between 8 and 16 digits past the decimal point then make it a double
+@@ -604,0 +608 @@ public class NumberUtils {
++            }

@@ -1,0 +1,7 @@
+diff --git a/Math_11/src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java b/Math_11/src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java
+index 1570681..fd18c28 100644
+--- a/Math_11/src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java
++++ b/Math_11/src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java
+@@ -183 +183 @@ public class MultivariateNormalDistribution
+-        return FastMath.pow(2 * FastMath.PI, -dim / 2) *
++        return FastMath.pow(2 * FastMath.PI, -0.5 * dim) *

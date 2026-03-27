@@ -1,0 +1,19 @@
+diff --git a/Collections_25/src/main/java/org/apache/commons/collections4/IteratorUtils.java b/Collections_25/src/main/java/org/apache/commons/collections4/IteratorUtils.java
+index 40f9989..b3b1be0 100644
+--- a/Collections_25/src/main/java/org/apache/commons/collections4/IteratorUtils.java
++++ b/Collections_25/src/main/java/org/apache/commons/collections4/IteratorUtils.java
+@@ -605 +605,3 @@ public class IteratorUtils {
+-        return new CollatingIterator<E>(comparator, iterator1, iterator2);
++        @SuppressWarnings("unchecked")
++        final Comparator<E> comp = comparator == null ? ComparatorUtils.NATURAL_COMPARATOR : comparator;
++        return new CollatingIterator<E>(comp, iterator1, iterator2);
+@@ -626 +628,3 @@ public class IteratorUtils {
+-        return new CollatingIterator<E>(comparator, iterators);
++        @SuppressWarnings("unchecked")
++        final Comparator<E> comp = comparator == null ? ComparatorUtils.NATURAL_COMPARATOR : comparator;
++        return new CollatingIterator<E>(comp, iterators);
+@@ -648 +652,3 @@ public class IteratorUtils {
+-        return new CollatingIterator<E>(comparator, iterators);
++        @SuppressWarnings("unchecked")
++        final Comparator<E> comp = comparator == null ? ComparatorUtils.NATURAL_COMPARATOR : comparator;
++        return new CollatingIterator<E>(comp, iterators);

@@ -1,0 +1,12 @@
+diff --git a/Jsoup_74/src/main/java/org/jsoup/helper/StringUtil.java b/Jsoup_74/src/main/java/org/jsoup/helper/StringUtil.java
+index 439a7d6..9d2e744 100644
+--- a/Jsoup_74/src/main/java/org/jsoup/helper/StringUtil.java
++++ b/Jsoup_74/src/main/java/org/jsoup/helper/StringUtil.java
+@@ -130,0 +131,2 @@ public final class StringUtil {
++    public static boolean isInvisibleChar(int c) {
++        return Character.getType(c) == 16 && (c == 8203 || c == 8204 || c == 8205 || c == 173);
+@@ -131,0 +134 @@ public final class StringUtil {
++    }
+@@ -165 +168 @@ public final class StringUtil {
+-            else {
++            else if (!isInvisibleChar(c)) {

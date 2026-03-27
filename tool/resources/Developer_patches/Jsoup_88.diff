@@ -1,0 +1,7 @@
+diff --git a/Jsoup_88/src/main/java/org/jsoup/nodes/Attribute.java b/Jsoup_88/src/main/java/org/jsoup/nodes/Attribute.java
+index e321b6a..6fab394 100644
+--- a/Jsoup_88/src/main/java/org/jsoup/nodes/Attribute.java
++++ b/Jsoup_88/src/main/java/org/jsoup/nodes/Attribute.java
+@@ -80 +80 @@ public class Attribute implements Map.Entry<String, String>, Cloneable  {
+-        return val;
++        return Attributes.checkNotNull(val);

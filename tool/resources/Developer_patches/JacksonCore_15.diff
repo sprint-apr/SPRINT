@@ -1,0 +1,16 @@
+diff --git a/JacksonCore_15/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java b/JacksonCore_15/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
+index e2de6f8..bf68cd7 100644
+--- a/JacksonCore_15/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
++++ b/JacksonCore_15/src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java
+@@ -226,0 +227 @@ public class FilteringParserDelegate extends JsonParserDelegate
++    	if(!_allowMultipleMatches && _currToken != null && _exposedContext == null){
+@@ -227,0 +229,3 @@ public class FilteringParserDelegate extends JsonParserDelegate
++    		if((_currToken.isStructEnd()  && _headContext.isStartHandled()) ){
++    			return (_currToken = null);
++    		}
+@@ -229,0 +234,5 @@ public class FilteringParserDelegate extends JsonParserDelegate
++    		else if(_currToken.isScalarValue() && !_headContext.isStartHandled() && !_includePath 
++    				&& _itemFilter == TokenFilter.INCLUDE_ALL) {
++    			return (_currToken = null);
++    		}
++    	}
