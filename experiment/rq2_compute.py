@@ -1,10 +1,10 @@
 """
-rq2_compute.py: Reads ap.json files and saves budget sweep raw data to CSV.
+rq2_compute.py: ap.json 읽어 budget sweep raw data를 CSV로 저장.
   rq2/curve_data.csv    : budget, base_count, pruned_count
-  rq2/bug_details.csv   : per-bug details (at budget=100)
-  rq2/summary.csv       : aggregate statistics (at budget=100)
+  rq2/bug_details.csv   : 버그별 상세 (budget=100 기준)
+  rq2/summary.csv       : 집계 통계 (budget=100 기준)
 
-Run rq2_plot.py separately to regenerate plots from the saved CSVs.
+생성 후 rq2_plot.py 로 그래프만 따로 그릴 수 있음.
 """
 import json
 import csv
@@ -13,8 +13,8 @@ from pathlib import Path
 SESSIONS   = ["gpt-4.1_0311"]
 NFL_DIR    = Path("rawdata/gpt-4.1_0311/NFL")
 RESULT_DIR = Path("rq2")
-BUDGET_EVAL = 100          # budget for summary/bug_details
-BUDGET_MAX  = 1000         # max budget for curve sweep
+BUDGET_EVAL = 100          # summary/bug_details 기준 budget
+BUDGET_MAX  = 1000         # curve sweep 범위
 
 RESULT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -31,9 +31,11 @@ def check_correct_exists(ap_id: int, bug: str) -> bool:
     return False
 
 
-def compute_bug_positions(ap_data, max_budget, bug):
+def compute_bug_positions(ap_data, max_budget, bug, line_level_only=False):
+    candidates = [ap for ap in ap_data if not line_level_only or ap.get("is_line_level", False)]
+
     num_base, base_pos, is_base = 0, -1, False
-    for ap in ap_data:
+    for ap in candidates:
         num_base += 1
         if ap["pfl"] and check_correct_exists(ap["ap_id"], bug):
             base_pos = num_base
@@ -43,7 +45,7 @@ def compute_bug_positions(ap_data, max_budget, bug):
             break
 
     num_pruned, pruned_pos, is_pruned = 0, -1, False
-    for ap in ap_data:
+    for ap in candidates:
         if not ap["remains_after_prunning"]:
             continue
         num_pruned += 1
@@ -55,19 +57,19 @@ def compute_bug_positions(ap_data, max_budget, bug):
             break
 
     return {
-        "base_pos":       base_pos,
-        "base_found":     int(is_base),
-        "pruned_pos":     pruned_pos,
-        "pruned_found":   int(is_pruned),
-        "base_requests":  min(num_base,   max_budget),
-        "pruned_requests":min(num_pruned, max_budget),
+        "base_pos":        base_pos,
+        "base_found":      int(is_base),
+        "pruned_pos":      pruned_pos,
+        "pruned_found":    int(is_pruned),
+        "base_requests":   min(num_base,   max_budget),
+        "pruned_requests": min(num_pruned, max_budget),
     }
 
 
 def main():
     d4j1_bugs = {l.strip() for l in open("d4j1.lst") if l.strip()}
 
-    # Load all ap.json files
+    # ap.json 전체 로드
     all_bug_data = {}
     for bug_dir in sorted(NFL_DIR.iterdir()):
         ap_path = bug_dir / "ap.json"
@@ -80,16 +82,19 @@ def main():
     curve_path = RESULT_DIR / "curve_data.csv"
     with open(curve_path, "w", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["budget", "base_count", "pruned_count"])
+        writer.writerow(["budget", "base_count", "pruned_count", "base_line_count", "pruned_line_count"])
         for b in range(1, BUDGET_MAX + 1):
-            bc = pc = 0
+            bc = pc = blc = plc = 0
             for bug, ap_data in all_bug_data.items():
-                s = compute_bug_positions(ap_data, b, bug)
-                bc += s["base_found"]
-                pc += s["pruned_found"]
-            writer.writerow([b, bc, pc])
+                s  = compute_bug_positions(ap_data, b, bug, line_level_only=False)
+                sl = compute_bug_positions(ap_data, b, bug, line_level_only=True)
+                bc  += s["base_found"]
+                pc  += s["pruned_found"]
+                blc += sl["base_found"]
+                plc += sl["pruned_found"]
+            writer.writerow([b, bc, pc, blc, plc])
             if b % 100 == 0:
-                print(f"  budget={b}: base={bc}, pruned={pc}")
+                print(f"  budget={b}: base={bc}, pruned={pc}, base_line={blc}, pruned_line={plc}")
     print(f"✅ Saved curve data: {curve_path}")
 
     # ── 2. bug_details.csv & summary.csv (budget=BUDGET_EVAL) ─────────

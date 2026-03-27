@@ -4,6 +4,8 @@ import csv
 
 sessions = ["gpt-4.1-nano_0310", "gpt-4.1_0311"]
 
+BUDGET = 500  # max AP queries per bug (None = unlimited)
+
 input_tokens = {
     "gpt-4.1-nano_0310": 1015.43,
     "gpt-4.1_0311":      1017.11,
@@ -22,7 +24,7 @@ def is_correct(label_file: Path) -> bool:
 
 
 def load_labels() -> dict:
-    """Load bugs where label_output.txt == 'correct' as {bug_id: True}."""
+    """label_output.txt == 'correct' 인 버그 {bug_id: True} 로드."""
     labels = {}
     for session in sessions:
         pfl_dir = Path("patches") / session / "PFL"
@@ -45,14 +47,13 @@ labels = load_labels()
 
 
 def has_correct_patch(ap_dir: Path) -> bool:
-    """Return True if ap_dir contains a correct label."""
+    """ap_dir 안에 correct label이 있으면 True."""
     label = ap_dir / "label_output.txt"
     return label.exists() and is_correct(label)
 
 
-def compute_bug_stats(ap_list: list, pfl_bug_dir: Path) -> dict:
-    """Return request counts and correct patch status for baseline/pruned.
-    Counts until the first correct patch is found in SBFL ranking order."""
+def compute_bug_stats(ap_list: list, pfl_bug_dir: Path, budget=None) -> dict:
+    """Count requests and correctness up to budget APs (None = unlimited)."""
     num_base, is_patched_base = 0, False
     for ap in ap_list:
         num_base += 1
@@ -60,6 +61,8 @@ def compute_bug_stats(ap_list: list, pfl_bug_dir: Path) -> dict:
             if has_correct_patch(pfl_bug_dir / str(ap["ap_id"])):
                 is_patched_base = True
                 break
+        if budget and num_base >= budget:
+            break
 
     num_pruned, is_patched_pruned = 0, False
     for ap in ap_list:
@@ -70,6 +73,8 @@ def compute_bug_stats(ap_list: list, pfl_bug_dir: Path) -> dict:
             if has_correct_patch(pfl_bug_dir / str(ap["ap_id"])):
                 is_patched_pruned = True
                 break
+        if budget and num_pruned >= budget:
+            break
 
     return {
         "num_requests_base": num_base,
@@ -80,7 +85,7 @@ def compute_bug_stats(ap_list: list, pfl_bug_dir: Path) -> dict:
 
 
 def process_level(session: str, level: str, bug_results: list, summary_writer):
-    """Aggregate results and write summary row. level: 'template' | 'line'"""
+    """집계 및 summary row 작성. level: 'template' | 'line'"""
     results_baseline = [{"bug": b, "num_requests": s["num_requests_base"], "is_patched": s["is_patched_base"]} for b, s in bug_results]
     results_pruned   = [{"bug": b, "num_requests": s["num_requests_pruned"], "is_patched": s["is_patched_pruned"]} for b, s in bug_results]
 
@@ -129,7 +134,7 @@ def process_session(session: str, summary_writer, detail_writer):
     print(f"\nProcessing session: {session}")
     NFL_dir = Path("rawdata") / session / "NFL"
 
-    template_results = []  # list of (bug, stats)
+    template_results = []  # (bug, stats)
     line_results     = []
 
     for bug_dir in sorted(NFL_dir.iterdir()):
@@ -144,10 +149,10 @@ def process_session(session: str, summary_writer, detail_writer):
 
         has_line_level_field = ap_data and "is_line_level" in ap_data[0]
 
-        # template = all APs, line = subset of template where is_line_level==True
+        # template = 전체 AP, line = template의 서브셋 (is_line_level==True)
         line_aps = [ap for ap in ap_data if ap.get("is_line_level", False)]
 
-        t_stats = compute_bug_stats(ap_data, pfl_bug_dir)
+        t_stats = compute_bug_stats(ap_data, pfl_bug_dir, budget=BUDGET)
         template_results.append((bug, t_stats))
 
         detail_writer.writerow({
@@ -163,7 +168,7 @@ def process_session(session: str, summary_writer, detail_writer):
         })
 
         if has_line_level_field:
-            l_stats = compute_bug_stats(line_aps, pfl_bug_dir)
+            l_stats = compute_bug_stats(line_aps, pfl_bug_dir, budget=BUDGET)
             line_results.append((bug, l_stats))
             detail_writer.writerow({
                 "bug": bug,
@@ -258,13 +263,13 @@ def main():
         for session in sessions:
             process_session(session, summary_writer, detail_writer)
 
-    # Append aggregate rows (SUM/MAX/AVG/MIN) to bug_details.csv
+    # Append aggregate rows to bug_details.csv
     numeric_cols = ["total_aps", "baseline_requests", "baseline_correct",
                     "pruned_requests", "pruned_correct", "request_reduction"]
     with open(detail_path, newline="") as df:
         detail_rows = list(csv.DictReader(df))
 
-    # Group by (session, level) for aggregates
+    # Group by (session, level) for meaningful aggregates
     from collections import defaultdict
     groups = defaultdict(list)
     for r in detail_rows:
